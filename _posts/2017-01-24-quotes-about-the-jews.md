@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quotes About The Jews"
-date: 2017-1-24
+date: 2017-01-24
 ---
 
 Winston S. Churchill:
