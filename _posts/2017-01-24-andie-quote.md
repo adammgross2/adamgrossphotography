@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "Quote from Andie"
+title: "Food For Thought"
 date: 2017-01-24
 ---
-
-"your mind must arrive at your destination before your life can."
+"Your mind must arrive at your destination before your life can."
