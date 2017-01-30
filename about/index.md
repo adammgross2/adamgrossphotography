@@ -22,5 +22,3 @@ I have a very wide range of interests. My undergraduate majors are Computer Scie
 So throughout this website you will find content covering any subset of these areas. There is no "main" page or main focus of this website, other than to provide interesting content for those who are interested. I will be continually adding new content as I come across it in my own life. I welcome all comments, questions, and contributions, so [email me](mailto:adam.gross.email@gmail.com) any time!
 
 Thanks, Adam
-
-</div>
