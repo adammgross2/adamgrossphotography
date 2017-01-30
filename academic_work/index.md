@@ -68,5 +68,3 @@ There are two categories to this page: my academic readings, and my academic wri
 *   [Intra-Jewish Racism in Israel](https://drive.google.com/file/d/0B56u1slA8DzQelk1Mkh4YUI3LWM/view?usp=sharing)
 *   [Edward Said's Orientalism and its Criticism](https://drive.google.com/file/d/0B56u1slA8DzQSFdHMjdYdFRCczA/view?usp=sharing)
 *   [An Anthology of all of the above ^](https://drive.google.com/file/d/0B56u1slA8DzQSmI0OGR5NnRyMzQ/view?usp=sharing)
-
-Contact GitHub API Training Shop Blog About © 2017 GitHub, Inc. Terms Privacy Security Status Help
