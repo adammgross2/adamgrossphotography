@@ -1,5 +1,3 @@
-<div class="about">
-
 # About Me
 
 Hey! Thanks for visiting my website! This website is intended to be a landing page for all things Adam Gross. If you like me or are like me, there will definitely be something of interest to you here. This site features both static information and new information feeds, ranging from my favorite books and favorite albums to my academic work, to a blog-style feed of thoughts I have throughout my day.
