@@ -12,3 +12,4 @@ Here is a list of all articles I come across regarding tech, sports or business,
 * [How the Circle Line rogue train was caught with data](https://blog.data.gov.sg/how-we-caught-the-circle-line-rogue-train-with-data-79405c86ab6a#.kp8fxe9gx)
 * [The Woman Who Sees Time As A Hula Hoop](https://www.theatlantic.com/science/archive/2016/11/the-woman-who-sees-the-year-as-a-hula-hoop/508985/?utm_source=fbb)
 * [Upping the Ante: Top Poker Pros Face Off vs. Artificial Intelligence](http://www.cmu.edu/news/stories/archives/2017/january/poker-pros-vs-AI.html)
+* [On the Ethics of Mechanical Turk Recruitment](http://scholar.harvard.edu/files/williamson/files/on_the_ethics_of_mechanical_turk_recruitment_0.pdf)
