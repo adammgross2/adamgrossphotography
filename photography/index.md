@@ -7,7 +7,7 @@ Interesting, inspirational, of me, of friends, funny, relevant, provocative, imp
 
 <center>![](https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2014/06/holstee_7things.jpg?zoom=2.5&w=500&ssl=1)
         ![](https://pbs.twimg.com/media/C3Gr48MXUAAW4BI.jpg)
-        ![](https://goo.gl/photos/c31SS7nXDsutDQc29)
+        ![](/pictures/a.png)
         ![]()
         ![]()
         ![]()
