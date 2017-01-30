@@ -3,7 +3,9 @@ layout: default
 title: Reading List
 ---
 Here is a list of all of the books I have read in my life that I have enjoyed. This includes fiction an non-fiction. Since my interests are diverse, this list will be diverse. I will also include a section at the end for books that I have yet to read, but intend to read in my life. There is a separate section of this website called [academic work](/academic_work) that contains the content I have read for my Middle Eastern History studies.
+
 ## Have Read
+
 * [Guns, Germs, and Steel by Jared Diamond](https://en.wikipedia.org/wiki/Guns,_Germs,_and_Steel)
 * [The Alchemist by Paulo Coelho](https://en.wikipedia.org/wiki/The_Alchemist_(novel))
 * [Hamlet by Shakespeare](https://en.wikipedia.org/wiki/Hamlet)
@@ -36,6 +38,7 @@ Here is a list of all of the books I have read in my life that I have enjoyed. T
 * [Into the Wild by Jon Krakauer](https://en.wikipedia.org/wiki/Into_the_Wild_(book))
 * [Maus by Art Spiegelman](https://en.wikipedia.org/wiki/Maus)
 * [To Build a Fire by Jack London](https://en.wikipedia.org/wiki/To_Build_a_Fire)
+
 ## To Read
 * []()
 * []()
