@@ -5,4 +5,4 @@ title: Photo feed
 PIctures that are:
 Interesting, inspirational, of me, of friends, funny, relevant, provocative, impactful, etc.
 
-<center>![](https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2014/06/holstee_7things.jpg?zoom=2.5&w=500&ssl=1)</center>
+<center>![aaaa](https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2014/06/holstee_7things.jpg?zoom=2.5&w=500&ssl=1)</center>
