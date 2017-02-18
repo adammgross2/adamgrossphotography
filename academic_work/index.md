@@ -3,7 +3,7 @@ layout: default
 title: My Academic Work
 ---
 
-There are two categories to this page: my academic readings, and my academic writings. Most of the writings are History papers focusing on the Middle East, Jewish History, and most specifically the Mediterranean basin. The readings are categorized by subject area, with the specificity of area ranging from very specific to very broad. Given my majors in Computer Science, Math, and History, the readings will be mostly from these disciplines.
+There are two categories to this page: my academic readings, and my academic writings. Most of the writings are History papers focusing on the Middle East, Jewish History, and most specifically the Mediterranean basin.
 
 ### Reading
 
