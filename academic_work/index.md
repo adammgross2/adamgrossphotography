@@ -68,3 +68,6 @@ There are two categories to this page: my academic readings, and my academic wri
 *   [Intra-Jewish Racism in Israel](https://drive.google.com/file/d/0B56u1slA8DzQelk1Mkh4YUI3LWM/view?usp=sharing)
 *   [Edward Said's Orientalism and its Criticism](https://drive.google.com/file/d/0B56u1slA8DzQSFdHMjdYdFRCczA/view?usp=sharing)
 *   [An Anthology of all of the above ^](https://drive.google.com/file/d/0B56u1slA8DzQSmI0OGR5NnRyMzQ/view?usp=sharing)
+*   [Response to Arthur Koestler's The Thirteenth Tribe, on the Jews of Eastern Europe's Origins](https://drive.google.com/file/d/0B56u1slA8DzQb3BBLS1BSTQ0eEk/view?usp=sharing)
+*   [On Sidney Chriqui's "As Time Goes By: A Life's Journey from Casablanca](https://drive.google.com/file/d/0B56u1slA8DzQc2pGY1VYTUJLQXc/view?usp=sharing)
+*   [Pre-Colonial Jewish Comercial Networks in the Mediterranean](https://drive.google.com/file/d/0B56u1slA8DzQOWRYUUl5RlZFY2s/view?usp=sharing)
