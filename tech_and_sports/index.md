@@ -14,3 +14,4 @@ Here is a list of all articles I come across regarding tech, sports or business,
 * [Upping the Ante: Top Poker Pros Face Off vs. Artificial Intelligence](http://www.cmu.edu/news/stories/archives/2017/january/poker-pros-vs-AI.html)
 * [On the Ethics of Mechanical Turk Recruitment](http://scholar.harvard.edu/files/williamson/files/on_the_ethics_of_mechanical_turk_recruitment_0.pdf)
 * [Google Brain Image Super-Resolution](http://www.theverge.com/2017/2/7/14532206/google-brain-research-neural-networks-zoom-and-enhance-pixelated-images)
+* [Duet: Artificial Music Accompaniment](https://aiexperiments.withgoogle.com/ai-duet/view/)
