@@ -7,7 +7,7 @@ date: 2017-02-19
 and helpful discussion about how to think in more dimensions than what we are used to (2 or 3). This comes from a math perspective and is clearly helpful
 for mathmeticians but can really apply to everything. Here is a joke that motivates the conversation, but there is much more content in the link:
 
-#An engineer, a physicist, and a mathematician are discussing how to visualise four dimensions:
+<h3>An engineer, a physicist, and a mathematician are discussing how to visualise four dimensions:</h3>
 
 _Engineer_: I never really get it.
 
