@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ways to Think in 3+ Dimensions -- Advice for Higher-dimensional Thinking"
-date: 02-19-2017
+date: 2017-02-19
 ---
 [This discussion on mathoverflow](http://mathoverflow.net/questions/25983/intuitive-crutches-for-higher-dimensional-thinking) is an interesting 
 and helpful discussion about how to think in more dimensions than what we are used to (2 or 3). This comes from a math perspective and is clearly helpful
