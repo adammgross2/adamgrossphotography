@@ -11,3 +11,4 @@ And here are links to some highlights in my news intake. An important note here 
 *   [AntitodeZine.com: Trump Knows You Better Than You Know Yourself](https://antidotezine.com/2017/01/22/trump-knows-you/)
 *   [Scott Adams' Blog: The Persuasion Filter and Immigration](http://blog.dilbert.com/post/156532225711/the-persuasion-filter-and-immigration)
 *   [The Conversation: Where is Rural America and What Does it Look Like?](https://theconversation.com/where-is-rural-america-and-what-does-it-look-like-72045)
+*   [Aeon.co: Not Owning a Cellphone Gives You Time to Ruminate and Rest](https://aeon.co/ideas/not-owning-a-cellphone-gives-you-time-to-ruminate-and-to-rest)
