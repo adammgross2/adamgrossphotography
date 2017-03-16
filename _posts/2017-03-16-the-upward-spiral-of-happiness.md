@@ -9,4 +9,4 @@ Focus and planning help with decision making. Decision making further reduces an
 Enjoyment gives you more to be grateful for, which keeps that loop of the upward spiral going.
 Enjoyment also makes it more likely you'll exercise and be social, which, in turn, will make you happier."
 - UCLA neuroscience researcher Alex Korb
-*found in [this article](http://theweek.com/articles/601157/neuroscience-reveals-4-rituals-that-make-happy) from The Week*
+quoted in [this article](http://theweek.com/articles/601157/neuroscience-reveals-4-rituals-that-make-happy) from The Week
