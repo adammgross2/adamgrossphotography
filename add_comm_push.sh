@@ -1,3 +1,3 @@
-git add "$1"
+git add "."
 git commit -m "Automated commit message."
 git push
