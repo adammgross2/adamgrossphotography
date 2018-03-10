@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Adam Gross
+title: Adam Gross's Personal Website
 ---
 <meta property="og:image" content="https://lh3.googleusercontent.com/4ACILfckSFi_5ySFzSckV49SWuCc3dAY_kifsvBg0OMOeSvkD8xnduRBrovoPafLaNJHFA-YlvfJtbA0G4gQUIj4iYXctSqH_yN41BA2c-cUrLsBeyWs_ZYTJrx0ZvjLki403X7ZgSo=w2400" />
 
