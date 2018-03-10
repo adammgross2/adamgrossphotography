@@ -22,13 +22,16 @@ title: Photography
 ![](https://lh3.googleusercontent.com/tqcYQOogCChBvpw5CpwNRBL88FGzkTLApgxzCIWhVC4O_RIdFK-D_6kzaNYFSa8y37PZgCpDV-wK5xo1nAFYW1T3e-ApnRWlrLwowVtfbG-xpuY-_UlxhWTZJ9NeOH14dlfBU422Sa4=w2400){:height="800px" width="1200px" .center-image}
 
 ### Seville, Spain
-![]('https://lh3.googleusercontent.com/RJ-I8bUYEO-hpEfPLXiFxLxKs88km-AeiQWogNPDaqyyYZFlBLc5iKGssaXeVtVKBgKorW9zjyftXwv6iHLF9h1OHl_zzlPkMgzj62VvH89asWlu_Vm-KEyptqZDSL1zDmJdXDC-NqQ=w2400'){:height="800px" width="1200px" .center-image}
+![](https://lh3.googleusercontent.com/RJ-I8bUYEO-hpEfPLXiFxLxKs88km-AeiQWogNPDaqyyYZFlBLc5iKGssaXeVtVKBgKorW9zjyftXwv6iHLF9h1OHl_zzlPkMgzj62VvH89asWlu_Vm-KEyptqZDSL1zDmJdXDC-NqQ=w2400){:height="800px" width="1200px" .center-image}
 
 ### San Francisco, California
-![]('https://lh3.googleusercontent.com/Ub3xxhAI3Nd3vNxGqlk8wGZ4W35qRYOTjD0PZXpjF5vkStPimbCYDN9tQtzxll9m9LqMcCpurYGKnFUO_dQtJeqIfVzWGqwm3LxmwrHY8RLkbaH5mucMvGAAlYg-UTNtu6j2Q5KffQo=w2400'){:height="800px" width="1200px" .center-image}
+![](https://lh3.googleusercontent.com/Ub3xxhAI3Nd3vNxGqlk8wGZ4W35qRYOTjD0PZXpjF5vkStPimbCYDN9tQtzxll9m9LqMcCpurYGKnFUO_dQtJeqIfVzWGqwm3LxmwrHY8RLkbaH5mucMvGAAlYg-UTNtu6j2Q5KffQo=w2400){:height="800px" width="1200px" .center-image}
 
 ### Hong Kong, China
-![]('https://lh3.googleusercontent.com/MmsIfOJhDNYJhFcNhPL_162W6HdZT89mZjR1viyEOy4BtNm5QAYqV7lJHzHpWigaJOJ7Ro27m4cjiuDYvhMi99nuiPaHV7kEeGVsxRiaatsRQyjs731pPaji1wo0skQW_Zm_ngcBX8M=w2400'){:height="800px" width="1200px" .center-image}
+![](https://lh3.googleusercontent.com/MmsIfOJhDNYJhFcNhPL_162W6HdZT89mZjR1viyEOy4BtNm5QAYqV7lJHzHpWigaJOJ7Ro27m4cjiuDYvhMi99nuiPaHV7kEeGVsxRiaatsRQyjs731pPaji1wo0skQW_Zm_ngcBX8M=w2400){:height="800px" width="1200px" .center-image}
 
 ### Copenhagen, Denmark
-![]('https://lh3.googleusercontent.com/MmsIfOJhDNYJhFcNhPL_162W6HdZT89mZjR1viyEOy4BtNm5QAYqV7lJHzHpWigaJOJ7Ro27m4cjiuDYvhMi99nuiPaHV7kEeGVsxRiaatsRQyjs731pPaji1wo0skQW_Zm_ngcBX8M=w2400'){:height="800px" width="1200px" .center-image}
+![](https://lh3.googleusercontent.com/MmsIfOJhDNYJhFcNhPL_162W6HdZT89mZjR1viyEOy4BtNm5QAYqV7lJHzHpWigaJOJ7Ro27m4cjiuDYvhMi99nuiPaHV7kEeGVsxRiaatsRQyjs731pPaji1wo0skQW_Zm_ngcBX8M=w2400){:height="800px" width="1200px" .center-image}
+
+### Prague, Czech Republic
+![](https://lh3.googleusercontent.com/xERXWZNIfR6TdI-zH9HkORKxPSOHBVqxXFLQuMfQPSdtTrTmxrZqhCOgy6ifLPhBwneC23Bt-Pdl7wP8D5q9JCo1e7ZuT3EZY0uoSecZHA78Et1F3IuR3GCxh3eia4SPXfBDJhDqXik=w2400){:height="800px" width="1200px" .center-image}
