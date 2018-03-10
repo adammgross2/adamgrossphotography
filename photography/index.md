@@ -31,7 +31,10 @@ title: Photography
 ![](https://lh3.googleusercontent.com/MmsIfOJhDNYJhFcNhPL_162W6HdZT89mZjR1viyEOy4BtNm5QAYqV7lJHzHpWigaJOJ7Ro27m4cjiuDYvhMi99nuiPaHV7kEeGVsxRiaatsRQyjs731pPaji1wo0skQW_Zm_ngcBX8M=w2400){:height="800px" width="1200px" .center-image}
 
 ### Copenhagen, Denmark
-![](https://lh3.googleusercontent.com/MmsIfOJhDNYJhFcNhPL_162W6HdZT89mZjR1viyEOy4BtNm5QAYqV7lJHzHpWigaJOJ7Ro27m4cjiuDYvhMi99nuiPaHV7kEeGVsxRiaatsRQyjs731pPaji1wo0skQW_Zm_ngcBX8M=w2400){:height="800px" width="1200px" .center-image}
+![](https://lh3.googleusercontent.com/oydQ3WpRxYM0lX-F_lAwIs2Y0_Y85LMnePwMfSiP8EoZgBhajtLdjSAlBLinSLLvhf6zoxCMXlpucA31Yhcj4HsCTRhwv51PolvaV-nbyaC42kwyLBeS9Al7Rj3kEVmxw9veeoAHGi4=w2400){:height="800px" width="1200px" .center-image}
 
 ### Prague, Czech Republic
 ![](https://lh3.googleusercontent.com/xERXWZNIfR6TdI-zH9HkORKxPSOHBVqxXFLQuMfQPSdtTrTmxrZqhCOgy6ifLPhBwneC23Bt-Pdl7wP8D5q9JCo1e7ZuT3EZY0uoSecZHA78Et1F3IuR3GCxh3eia4SPXfBDJhDqXik=w2400){:height="800px" width="1200px" .center-image}
+
+### Santorini, Greece
+![](https://lh3.googleusercontent.com/l_VCUWUvkYNWAynZKH-kcqZ2qlx8Ba4RnaXxR1lSqz9E9CbTi-ZqVTCG1bWVt9h-6e_sHg-5HvihuWKeRxwkQy9fa9Z547byd38XjhzVM7bMm7fL7v6kh3oeNmYB-B2_IYXKATPSD60=w2400){:height="800px" width="1200px" .center-image}
