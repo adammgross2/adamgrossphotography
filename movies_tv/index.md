@@ -2,7 +2,7 @@
 layout: default
 title: Movie/TV List
 ---
-***My favorite movies and TV shows:***
+My favorite movies and TV shows:
 
 ## Movies
 * [Pulp Fiction](http://www.imdb.com/title/tt0110912/?ref_=nv_sr_1)
