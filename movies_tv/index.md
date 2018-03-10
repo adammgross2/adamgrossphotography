@@ -2,47 +2,59 @@
 layout: default
 title: Movie/TV List
 ---
-Here is a list of all of the movies and TV shows in my life that I have enjoyed.
+***My favorite movies and TV shows:***
 
 ## Movies
-* Pulp Fiction
-* The Dark Knight
-* The Two Towers
-* Memento
-* Pans Labyrinth 
-* Life of Pi
-* The Sixth Sense
-* Shawshank redemption
-* Argo
-* Zero Dark Thirty
-* True romance
-* Fight club
-* Donnie Darko
-* The Prestige
-* Inglorious Basterds
-* Ex Machina
-* Casablanca
-* Reservoir Dogs
-* True Romance
-* The Hateful Eight
-* Django Unchained
-* Oldboy
-* 12 Angry Men
-* Lawrence of Arabia
-* Mongol: The Rise of Genghis Khan
-* Caddyshack
-* Hot Rod
-
+* [Pulp Fiction](http://www.imdb.com/title/tt0110912/?ref_=nv_sr_1)
+* [Spirited Away](http://www.imdb.com/title/tt0245429/?ref_=fn_al_tt_1)
+* [The Dark Knight](http://www.imdb.com/title/tt0468569/?ref_=nv_sr_1)
+* [Casablanca](http://www.imdb.com/title/tt0034583/?ref_=fn_al_tt_1)
+* [Inglorious Basterds](http://www.imdb.com/title/tt0361748/?ref_=fn_al_tt_1)
+* [Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan](http://www.imdb.com/title/tt0443453/?ref_=nv_sr_1)
+* The Lord of the Rings Trilogy, but especially [The Lord of the Rings: The Two Towers](http://www.imdb.com/title/tt0167261/?ref_=nv_sr_3)
+* [Memento](http://www.imdb.com/title/tt0209144/?ref_=fn_al_tt_1)
+* [Pan's Labyrinth](http://www.imdb.com/title/tt0457430/?ref_=nv_sr_1)
+* [Life of Pi](http://www.imdb.com/title/tt0454876/?ref_=nv_sr_1)
+* [The Sixth Sense](http://www.imdb.com/title/tt0167404/?ref_=fn_al_tt_1)
+* [The Shawshank Redemption](http://www.imdb.com/title/tt0111161/?ref_=fn_al_tt_1)
+* [Argo](http://www.imdb.com/title/tt1024648/?ref_=fn_al_tt_1)
+* [Zero Dark Thirty](http://www.imdb.com/title/tt1790885/?ref_=fn_al_tt_1)
+* [True Romance](http://www.imdb.com/title/tt0108399/?ref_=nv_sr_1)
+* [Fight Club](http://www.imdb.com/title/tt0137523/?ref_=fn_al_tt_1)
+* [Donnie Darko](http://www.imdb.com/title/tt0246578/?ref_=fn_al_tt_1)
+* [The Prestige](http://www.imdb.com/title/tt0482571/?ref_=nv_sr_1)
+* [Ex Machina](http://www.imdb.com/title/tt0470752/?ref_=fn_al_tt_1)
+* [Reservoir Dogs](http://www.imdb.com/title/tt0105236/?ref_=nv_sr_1)
+* [The Hateful Eight](http://www.imdb.com/title/tt3460252/?ref_=fn_al_tt_1)
+* [Django Unchained](http://www.imdb.com/title/tt1853728/?ref_=nv_sr_1)
+* [Oldboy](http://www.imdb.com/title/tt0364569/?ref_=fn_al_tt_1)
+* [12 Angry Men](http://www.imdb.com/title/tt0050083/?ref_=fn_al_tt_1)
+* [Lawrence of Arabia](http://www.imdb.com/title/tt0056172/?ref_=fn_al_tt_1)
+* [Mongol: The Rise of Genghis Khan](http://www.imdb.com/title/tt0416044/?ref_=fn_al_tt_1)
+* [Caddyshack](http://www.imdb.com/title/tt0080487/?ref_=fn_al_tt_1)
+* [Hot Rod](http://www.imdb.com/title/tt0787475/?ref_=fn_al_tt_1)
+* Kill Bill [Vol. 1](http://www.imdb.com/title/tt0266697/?ref_=nv_sr_1) and [Vol. 2](http://www.imdb.com/title/tt0378194/?ref_=nv_sr_8)
+* [The Shining](http://www.imdb.com/title/tt0081505/?ref_=nv_sr_1)
+* [Eyes Wide Shut](http://www.imdb.com/title/tt0120663/?ref_=nv_sr_1)
+* [A Clockwork Orange](http://www.imdb.com/title/tt0066921/?ref_=nv_sr_1)
+* [Kingdom of Heaven](http://www.imdb.com/title/tt0320661/?ref_=nv_sr_1)
+* [Howl's Moving Castle](http://www.imdb.com/title/tt0347149/?ref_=nv_sr_1)
+* [Princess Mononoke](http://www.imdb.com/title/tt0119698/?ref_=nv_sr_1)
+* [Waltz with Bashir](http://www.imdb.com/title/tt1185616/?ref_=nv_sr_1)
+* [The Disaster Artist](http://www.imdb.com/title/tt3521126/?ref_=nv_sr_1)
+* [Pineapple Express](http://www.imdb.com/title/tt0910936/?ref_=nv_sr_1)
+* [Step Brothers](http://www.imdb.com/title/tt0838283/?ref_=nv_sr_1)
+* [Brüno](http://www.imdb.com/title/tt0889583/?ref_=nv_sr_2)
+* [The Dictator](http://www.imdb.com/title/tt1645170/?ref_=nv_sr_1)
+* [Munich](http://www.imdb.com/title/tt0408306/?ref_=nv_sr_1)
 
 ## TV
-* South Park
-* The Eric Andre Show
-* Curb Your Enthusiasm
-* Seinfeld
-* Black Mirror
-* Planet Earth
-* Top Gear/Grand Tour
-* Entourage
-
-## To Watch
-
+* [South Park](http://www.imdb.com/title/tt0121955/?ref_=fn_al_tt_1)
+* [The Eric Andre Show](http://www.imdb.com/title/tt2244495/?ref_=fn_al_tt_1)
+* [Curb Your Enthusiasm](http://www.imdb.com/title/tt0264235/?ref_=fn_al_tt_1)
+* [Seinfeld](http://www.imdb.com/title/tt0098904/?ref_=fn_al_tt_1)
+* [Black Mirror](http://www.imdb.com/title/tt2085059/?ref_=nv_sr_1)
+* [Planet Earth](http://www.imdb.com/title/tt0795176/?ref_=fn_al_tt_1)
+* [Top Gear](http://www.imdb.com/title/tt1628033/?ref_=nv_sr_1)/[The Grand Tour](http://www.imdb.com/title/tt5712554/?ref_=nv_sr_1)
+* [Entourage](http://www.imdb.com/title/tt0387199/?ref_=fn_al_tt_1)
+* [Trailer Park Boys](http://www.imdb.com/title/tt0290988/?ref_=nv_sr_1)
