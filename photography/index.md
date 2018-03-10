@@ -38,3 +38,9 @@ title: Photography
 
 ### Santorini, Greece
 ![](https://lh3.googleusercontent.com/l_VCUWUvkYNWAynZKH-kcqZ2qlx8Ba4RnaXxR1lSqz9E9CbTi-ZqVTCG1bWVt9h-6e_sHg-5HvihuWKeRxwkQy9fa9Z547byd38XjhzVM7bMm7fL7v6kh3oeNmYB-B2_IYXKATPSD60=w2400){:height="800px" width="1200px" .center-image}
+
+### Tangier, Morocco
+![](https://lh3.googleusercontent.com/Egx9asESg6Q-55mAg_CgpoAouw7qjCZFIqgUjESZpdLOuLisS_N095pT3XDx3_Q0OvsmdcxzJDUVAM4L1Xhl7vuBIUFUuCXNk6-d6QsIV3-HGdteJasXcKHt9zmJEp5m4da1r4jHmRc=w2400){:height="800px" width="1200px" .center-image}
+
+### Kyoto, Japan
+![](https://lh3.googleusercontent.com/Q1xyomg9PD90HYBIgR2m48c0qb_bEs2yLvJPdfUuvS0Y16MExQEAUrz8HTeIS1U0vPJQL1ch0Oq73P2GjLpt8czlJJ06MSdsDdfUnqeC-uEVO48wVBPU3LkhGnp47w8QzNm1FmTgM8w=w2400){:height="800px" width="1200px" .center-image}
