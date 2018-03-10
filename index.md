@@ -2,6 +2,8 @@
 layout: default
 title: Adam Gross
 ---
+<meta property="og:image" content="https://lh3.googleusercontent.com/4ACILfckSFi_5ySFzSckV49SWuCc3dAY_kifsvBg0OMOeSvkD8xnduRBrovoPafLaNJHFA-YlvfJtbA0G4gQUIj4iYXctSqH_yN41BA2c-cUrLsBeyWs_ZYTJrx0ZvjLki403X7ZgSo=w2400" />
+
 # Adam Gross
 Hey! Thanks for visiting my website. This website is intended to be a social-media-platform-independent digital social profile to share my personal interests and hobbies. If you like me or are like me, there will definitely be something of interest to you here.
 
