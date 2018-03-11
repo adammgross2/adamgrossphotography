@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Academic Work
+title: Adam's Academic Work
 ---
 
 There are two categories to this page: my academic readings, and my academic writings. Most of the writings are History papers focusing on the Middle East, Jewish History, and most specifically the Mediterranean basin.

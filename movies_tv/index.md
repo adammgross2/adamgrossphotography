@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Movie/TV List
+title: Adam's Movie/TV List
 ---
 My favorite movies and TV shows:
 

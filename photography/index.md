@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Photography
+title: Adam's Photography
 ---
 Here are the pictures I have taken that I am the most proud of.
 ### Canyonlands National Park, Utah

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reading List
+title: Adam's Reading List
 ---
 Here is a list of all of the books I have read in my life that I have enjoyed. This includes fiction an non-fiction, and it is roughly ordered by the recency of reading. I will also include a section at the end for books that I have yet to read, but intend to read in my life. There is a separate section of this website called [academic work](/academic_work) that contains the content I have read for my Middle Eastern History studies.
 
