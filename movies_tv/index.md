@@ -47,6 +47,7 @@ My favorite movies and TV shows:
 * [Brüno](http://www.imdb.com/title/tt0889583/?ref_=nv_sr_2)
 * [The Dictator](http://www.imdb.com/title/tt1645170/?ref_=nv_sr_1)
 * [Munich](http://www.imdb.com/title/tt0408306/?ref_=nv_sr_1)
+* [Team America World Police](http://www.imdb.com/title/tt0372588/)
 
 ## TV
 * [South Park](http://www.imdb.com/title/tt0121955/?ref_=fn_al_tt_1)
