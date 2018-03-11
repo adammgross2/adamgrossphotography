@@ -17,7 +17,7 @@ There are two categories to this page: my academic readings, and my academic wri
 *   [W. Montgomery Watt’s multitude of works on Islam and Muhammad](https://www.amazon.com/W.-Montgomery-Watt/e/B001IQUPKK)
 *   [The Life of Muhammad](https://www.amazon.com/Life-Muhammad-I-Ishaq/dp/0196360331/ref=sr_1_1?ie=UTF8&qid=1485722533&sr=8-1&keywords=ibn+ishaq+the+life+of+muhammad) by Ibn Ishaq
 *   [Compilation of works on the Constitution of Medina](http://www.oxfordbibliographies.com/view/document/obo-9780195390155/obo-9780195390155-0209.xml) arr. Michael Lecker
-*   [](http://www.urirubin.com/downloads/articles/constitution”> The “Constitution of Medina” Some Notes)by Uri Rubin
+*   ["The Constitution of Medina", Some Notes](http://www.urirubin.com/downloads/articles/constitution”> The “Constitution of Medina” Some Notes)by Uri Rubin
 *   [The Constitution of Medina: A Sociolegal Interpretation of Muhammad’s Acts of Foundation of the “Umma”](https://www.jstor.org/stable/40389306?seq=1#page_scan_tab_contents) by Said Amir Arjomand
 *   [Muhammad and the Rise of Islam: The Creation of Group Identity](https://www.amazon.com/Muhammad-Rise-Islam-Creation-Identity/dp/1887841288) by Subhash C. Inamidar
 *   [”How Islam Saved the Jews”](http://www.globalresearch.ca/islam-saved- jewry-a- historical-truth/5441235) by David Wasserstein
