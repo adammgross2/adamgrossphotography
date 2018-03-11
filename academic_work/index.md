@@ -51,7 +51,7 @@ There are two categories to this page: my academic readings, and my academic wri
 *   [Debating Orientalism](https://www.amazon.com/Debating-Orientalism-Anna-Bernard/dp/0230303528) by Anna Bernard, David Attwell, ed Z. Elmarsafy
 
 ### Writing
-
+* [Moroccan Jewry, European Connections and Identity Flux: 1492-1912](https://drive.google.com/open?id=1ylV_uCK1oL0VhMv-vXs_oryzeSHdHoXf)
 *   [The Origin of the Septuagint](https://drive.google.com/file/d/0B56u1slA8DzQUXNTN3ZXMkd0Znc/view?usp=sharing)
 *   [Were Philo and His Family Typical Alexandrians?](https://drive.google.com/file/d/0B56u1slA8DzQYTdJcEVtVnFYSEE/view?usp=sharing)
 *   [POWER, POLITICS, AND PHILOSOPHY: Comparing the Religious Programs of Constantine I and Julian the Apostate](https://drive.google.com/file/d/0B56u1slA8DzQMWZ6N0Eza0Y5Nm8/view?usp=sharing)
