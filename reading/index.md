@@ -6,6 +6,8 @@ Here is a list of books that I have enjoyed. This includes fiction an non-fictio
 
 ## Have Read
 
+* [Guns, Germs, and Steel by Jared Diamond](https://www.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/0393354326/ref=sr_1_1?s=books&ie=UTF8&qid=1520700857&sr=1-1&keywords=Guns%2C+Germs%2C+and+Steel+by+Jared+Diamond)
+* [Skin in the Game by Nassim Taleb](https://www.amazon.com/Skin-Game-Hidden-Asymmetries-Daily/dp/042528462X/ref=sr_1_2?s=books&ie=UTF8&qid=1520700866&sr=1-2&keywords=Skin+in+the+Game+by+Nassim+Taleb)
 * [Black Swan by Nassim Taleb](https://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X/ref=sr_1_1?ie=UTF8&qid=1520699619&sr=8-1&keywords=black+swan+taleb)
 * [Nudge by Richard Thaler and Cass Sunstein](https://www.amazon.com/Nudge-Improving-Decisions-Health-Happiness/dp/014311526X/ref=sr_1_4?s=books&ie=UTF8&qid=1520699629&sr=1-4&keywords=nudge+improving+decisions+about+health+wealth+and+happiness)
 * [Zero to One by Peter Thiel](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296/ref=sr_1_4?s=books&ie=UTF8&qid=1520699637&sr=1-4&keywords=zero+to+one)
@@ -37,8 +39,7 @@ Here is a list of books that I have enjoyed. This includes fiction an non-fictio
 * [To Build a Fire by Jack London](https://en.wikipedia.org/wiki/To_Build_a_Fire)
 
 ## To Read
-* [Guns, Germs, and Steel by Jared Diamond](https://www.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/0393354326/ref=sr_1_1?s=books&ie=UTF8&qid=1520700857&sr=1-1&keywords=Guns%2C+Germs%2C+and+Steel+by+Jared+Diamond)
-* [Skin in the Game by Nassim Taleb](https://www.amazon.com/Skin-Game-Hidden-Asymmetries-Daily/dp/042528462X/ref=sr_1_2?s=books&ie=UTF8&qid=1520700866&sr=1-2&keywords=Skin+in+the+Game+by+Nassim+Taleb)
+
 * [The Fractal Geometry of Nature by Benoit Mandelbrodt](https://www.amazon.com/Fractal-Geometry-Nature-Benoit-Mandelbrot/dp/0716711869/ref=sr_1_sc_1?s=books&ie=UTF8&qid=1520700875&sr=1-1-spell&keywords=The+Fractal+Geometry+of+Nature+by+Benoit+Mandelbrodt)
 * [The Examined Life by Robert Nozick](https://www.amazon.com/Examined-Life-Philosophical-Meditations/dp/0671725017/ref=sr_1_1?s=books&ie=UTF8&qid=1520700887&sr=1-1&keywords=The+Examined+Life+by+Robert+Nozick)
 * [The World Until Yesterday by Jared Diamond](https://www.amazon.com/World-Until-Yesterday-Traditional-Societies/dp/0143124404/ref=sr_1_1?s=books&ie=UTF8&qid=1520700898&sr=1-1&keywords=The+World+Until+Yesterday+by+Jared+Diamond)
