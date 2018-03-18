@@ -62,7 +62,7 @@ There are two categories to this page: my academic readings, and my academic wri
 *   [How Important Was Ideology to the Crusades?](https://drive.google.com/file/d/0B56u1slA8DzQRk9mZmNBclF2anM/view?usp=sharing)
 *   [Why Should We Look at the Jews in the Crusades?](https://drive.google.com/file/d/0B56u1slA8DzQR0swZGpPZWg2Vms/view?usp=sharing)
 *   [The Significance of Moses Maimonides in the History of the Jews of Egypt](https://drive.google.com/file/d/0B56u1slA8DzQWVpUM01KdFJkS0k/view?usp=sharing)
-*   [A Qualificatiion of Jewish-Muslim Coexistence](https://drive.google.com/file/d/0B56u1slA8DzQZTJXejNRSTd4MlE/view?usp=sharing)
+*   [A Qualification of Jewish-Muslim Coexistence](https://drive.google.com/file/d/0B56u1slA8DzQZTJXejNRSTd4MlE/view?usp=sharing)
 *   [Dealing With Zionism From Morocco to Iraq in the 1930s](https://drive.google.com/file/d/0B56u1slA8DzQUUNIOXk0WUU1b1U/view?usp=sharing)
 *   [Egyptian Nationality and the Jews in the 20th Century](https://drive.google.com/file/d/0B56u1slA8DzQNG1JdnNkQ2VPNWM/view?usp=sharing)
 *   [Intra-Jewish Racism in Israel](https://drive.google.com/file/d/0B56u1slA8DzQelk1Mkh4YUI3LWM/view?usp=sharing)
