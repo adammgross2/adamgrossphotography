@@ -4,8 +4,11 @@ title: Adam's Reading List
 ---
 Here is a list of books that I have enjoyed. This includes fiction an non-fiction, and it is roughly ordered by the recency of reading. I will also include a section at the end for books that I have yet to read, but intend to read in my life. There is a separate section of this website called [academic work](/academic_work) that contains the content I have read for my Middle Eastern History studies.
 
-## Have Read
+## In Progress
 
+* [Guns, Germs, and Steel by Jared Diamond](https://www.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/0393354326/ref=sr_1_1?s=books&ie=UTF8&qid=1520700857&sr=1-1&keywords=Guns%2C+Germs%2C+and+Steel+by+Jared+Diamond)
+* [Meditations, by Marcus Aurelius](https://www.amazon.com/Meditations-Thrift-Editions-Marcus-Aurelius/dp/048629823X/ref=sr_1_1?ie=UTF8&qid=1520733977&sr=8-1&keywords=marcus+aurelius)
+## Have Read
 
 * [Skin in the Game by Nassim Taleb](https://www.amazon.com/Skin-Game-Hidden-Asymmetries-Daily/dp/042528462X/ref=sr_1_2?s=books&ie=UTF8&qid=1520700866&sr=1-2&keywords=Skin+in+the+Game+by+Nassim+Taleb)
 * [Black Swan by Nassim Taleb](https://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X/ref=sr_1_1?ie=UTF8&qid=1520699619&sr=8-1&keywords=black+swan+taleb)
@@ -38,9 +41,6 @@ Here is a list of books that I have enjoyed. This includes fiction an non-fictio
 * [Maus by Art Spiegelman](https://en.wikipedia.org/wiki/Maus)
 * [To Build a Fire by Jack London](https://en.wikipedia.org/wiki/To_Build_a_Fire)
 
-## In Progress
-* [Guns, Germs, and Steel by Jared Diamond](https://www.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/0393354326/ref=sr_1_1?s=books&ie=UTF8&qid=1520700857&sr=1-1&keywords=Guns%2C+Germs%2C+and+Steel+by+Jared+Diamond)
-* [Meditations, by Marcus Aurelius](https://www.amazon.com/Meditations-Thrift-Editions-Marcus-Aurelius/dp/048629823X/ref=sr_1_1?ie=UTF8&qid=1520733977&sr=8-1&keywords=marcus+aurelius)
 
 ## To Read
 
