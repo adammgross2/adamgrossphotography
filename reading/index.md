@@ -6,7 +6,7 @@ Here is a list of books that I have enjoyed. This includes fiction an non-fictio
 
 ## In Progress
 
-* [Meditations, by Marcus Aurelius](https://www.amazon.com/Meditations-Thrift-Editions-Marcus-Aurelius/dp/048629823X/ref=sr_1_1?ie=UTF8&qid=1520733977&sr=8-1&keywords=marcus+aurelius)
+* [Meditations by Marcus Aurelius](https://www.amazon.com/Meditations-Thrift-Editions-Marcus-Aurelius/dp/048629823X/ref=sr_1_1?ie=UTF8&qid=1520733977&sr=8-1&keywords=marcus+aurelius)
 * [Orientalism by Edward Said](https://www.amazon.com/Orientalism-Edward-W-Said/dp/039474067X/ref=sr_1_1?ie=UTF8&qid=1522190320&sr=8-1&keywords=orientalism+edward+said)
 
 ## Have Read
