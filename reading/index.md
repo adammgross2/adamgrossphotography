@@ -6,11 +6,15 @@ Here is a list of books that I have enjoyed. This includes fiction an non-fictio
 
 ## In Progress
 
-* [Straw Dogs by John Gray](https://www.amazon.com/Straw-Dogs-Thoughts-Humans-Animals/dp/0374270937/ref=sr_1_1?ie=UTF8&qid=1522442341&sr=8-1&keywords=straw+dogs+john+gray)
-* [Orientalism by Edward Said](https://www.amazon.com/Orientalism-Edward-W-Said/dp/039474067X/ref=sr_1_1?ie=UTF8&qid=1522190320&sr=8-1&keywords=orientalism+edward+said)
+
+* [Fooled by Randomness by Nassim Taleb](https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219/ref=sr_1_1?s=books&ie=UTF8&qid=1520700943&sr=1-1&keywords=Fooled+by+Randomness+by+Nassim+Taleb)
+* [The Middle East by Bernard Lewis](https://www.amazon.com/Middle-East-Brief-History-Years/dp/0684832801/ref=sr_1_1?ie=UTF8&qid=1522987352&sr=8-1&keywords=the+middle+east+bernard+lewis)
+
 
 ## Have Read
 
+* * [Orientalism by Edward Said](https://www.amazon.com/Orientalism-Edward-W-Said/dp/039474067X/ref=sr_1_1?ie=UTF8&qid=1522190320&sr=8-1&keywords=orientalism+edward+said)
+* [The Seventh Sense by Joshua Cooper Ramo](https://www.amazon.com/Seventh-Sense-Fortune-Survival-Networks/dp/0316285072/ref=sr_1_1?ie=UTF8&qid=1522987259&sr=8-1&keywords=the+seventh+sense)
 * [Meditations by Marcus Aurelius](https://www.amazon.com/Meditations-Thrift-Editions-Marcus-Aurelius/dp/048629823X/ref=sr_1_1?ie=UTF8&qid=1520733977&sr=8-1&keywords=marcus+aurelius)
 * [Guns, Germs, and Steel by Jared Diamond](https://www.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/0393354326/ref=sr_1_1?s=books&ie=UTF8&qid=1520700857&sr=1-1&keywords=Guns%2C+Germs%2C+and+Steel+by+Jared+Diamond)
 * [Skin in the Game by Nassim Taleb](https://www.amazon.com/Skin-Game-Hidden-Asymmetries-Daily/dp/042528462X/ref=sr_1_2?s=books&ie=UTF8&qid=1520700866&sr=1-2&keywords=Skin+in+the+Game+by+Nassim+Taleb)
@@ -47,13 +51,13 @@ Here is a list of books that I have enjoyed. This includes fiction an non-fictio
 
 ## To Read
 
+* [Straw Dogs by John Gray](https://www.amazon.com/Straw-Dogs-Thoughts-Humans-Animals/dp/0374270937/ref=sr_1_1?ie=UTF8&qid=1522442341&sr=8-1&keywords=straw+dogs+john+gray)
 * [The Fractal Geometry of Nature by Benoit Mandelbrodt](https://www.amazon.com/Fractal-Geometry-Nature-Benoit-Mandelbrot/dp/0716711869/ref=sr_1_sc_1?s=books&ie=UTF8&qid=1520700875&sr=1-1-spell&keywords=The+Fractal+Geometry+of+Nature+by+Benoit+Mandelbrodt)
 * [The Examined Life by Robert Nozick](https://www.amazon.com/Examined-Life-Philosophical-Meditations/dp/0671725017/ref=sr_1_1?s=books&ie=UTF8&qid=1520700887&sr=1-1&keywords=The+Examined+Life+by+Robert+Nozick)
 * [The World Until Yesterday by Jared Diamond](https://www.amazon.com/World-Until-Yesterday-Traditional-Societies/dp/0143124404/ref=sr_1_1?s=books&ie=UTF8&qid=1520700898&sr=1-1&keywords=The+World+Until+Yesterday+by+Jared+Diamond)
 * [The Folly of Fools by Robert Trivers](https://www.amazon.com/Folly-Fools-Logic-Deceit-Self-Deception/dp/0465085970/ref=sr_1_1?s=books&ie=UTF8&qid=1520700910&sr=1-1&keywords=The+Folly+of+Fools+by+Robert+Trivers)
 * [The Third Chimpanzee by Jared Diamond](https://www.amazon.com/Third-Chimpanzee-Evolution-Future-Animal/dp/0060845503/ref=sr_1_1?s=books&ie=UTF8&qid=1520700920&sr=1-1&keywords=The+Third+Chimpanzee+by+Jared+Diamond)
 * [The (Mis)Behavior of Markets by Benoit Mandelbrodt](https://www.amazon.com/Misbehavior-Markets-Fractal-Financial-Turbulence/dp/0465043577/ref=sr_1_sc_1?s=books&ie=UTF8&qid=1520700930&sr=1-1-spell&keywords=The+%28Mis%29Behavior+of+Markets+by+Benoit+Mandelbrodt)
-* [Fooled by Randomness by Nassim Taleb](https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219/ref=sr_1_1?s=books&ie=UTF8&qid=1520700943&sr=1-1&keywords=Fooled+by+Randomness+by+Nassim+Taleb)
 * [Thinking Fast and Slow by Daniel Kahneman](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/ref=sr_1_1?s=books&ie=UTF8&qid=1520700953&sr=1-1&keywords=Thinking+Fast+and+Slow+by+Daniel+Kahneman)
 * [The Open Society and its Enemies by Karl Popper](https://www.amazon.com/Open-Society-Its-Enemies/dp/0691158134/ref=sr_1_1?s=books&ie=UTF8&qid=1520700962&sr=1-1&keywords=The+Open+Society+and+its+Enemies+by+Karl+Popper)
 * [1491: New Revelations of the Americas Before Columbus by Charles Mann](https://www.amazon.com/1491-Revelations-Americas-Before-Columbus/dp/1400032059/ref=sr_1_1?s=books&ie=UTF8&qid=1520700975&sr=1-1&keywords=1491%3A+The+Americas+Before+Columbus+by+Charles+Mann)
