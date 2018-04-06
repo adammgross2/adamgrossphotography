@@ -13,7 +13,7 @@ Here is a list of books that I have enjoyed. This includes fiction an non-fictio
 
 ## Have Read
 
-* * [Orientalism by Edward Said](https://www.amazon.com/Orientalism-Edward-W-Said/dp/039474067X/ref=sr_1_1?ie=UTF8&qid=1522190320&sr=8-1&keywords=orientalism+edward+said)
+* [Orientalism by Edward Said](https://www.amazon.com/Orientalism-Edward-W-Said/dp/039474067X/ref=sr_1_1?ie=UTF8&qid=1522190320&sr=8-1&keywords=orientalism+edward+said)
 * [The Seventh Sense by Joshua Cooper Ramo](https://www.amazon.com/Seventh-Sense-Fortune-Survival-Networks/dp/0316285072/ref=sr_1_1?ie=UTF8&qid=1522987259&sr=8-1&keywords=the+seventh+sense)
 * [Meditations by Marcus Aurelius](https://www.amazon.com/Meditations-Thrift-Editions-Marcus-Aurelius/dp/048629823X/ref=sr_1_1?ie=UTF8&qid=1520733977&sr=8-1&keywords=marcus+aurelius)
 * [Guns, Germs, and Steel by Jared Diamond](https://www.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/0393354326/ref=sr_1_1?s=books&ie=UTF8&qid=1520700857&sr=1-1&keywords=Guns%2C+Germs%2C+and+Steel+by+Jared+Diamond)
