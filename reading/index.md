@@ -7,12 +7,14 @@ Here is a list of books that I have enjoyed. This includes fiction an non-fictio
 ## In Progress
 
 
-* [Fooled by Randomness by Nassim Taleb](https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219/ref=sr_1_1?s=books&ie=UTF8&qid=1520700943&sr=1-1&keywords=Fooled+by+Randomness+by+Nassim+Taleb)
+
 * [The Middle East by Bernard Lewis](https://www.amazon.com/Middle-East-Brief-History-Years/dp/0684832801/ref=sr_1_1?ie=UTF8&qid=1522987352&sr=8-1&keywords=the+middle+east+bernard+lewis)
+* [A Perfect Mess: The Hidden Benefits of Disorder](https://www.amazon.com/Perfect-Mess-Benefits-Cluttered-Fly/dp/0316114758/ref=sr_1_3?ie=UTF8&qid=1524759905&sr=8-3&keywords=a+perfect+mess)
 
 
 ## Have Read
 
+* [Fooled by Randomness by Nassim Taleb](https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219/ref=sr_1_1?s=books&ie=UTF8&qid=1520700943&sr=1-1&keywords=Fooled+by+Randomness+by+Nassim+Taleb)
 * [Orientalism by Edward Said](https://www.amazon.com/Orientalism-Edward-W-Said/dp/039474067X/ref=sr_1_1?ie=UTF8&qid=1522190320&sr=8-1&keywords=orientalism+edward+said)
 * [The Seventh Sense by Joshua Cooper Ramo](https://www.amazon.com/Seventh-Sense-Fortune-Survival-Networks/dp/0316285072/ref=sr_1_1?ie=UTF8&qid=1522987259&sr=8-1&keywords=the+seventh+sense)
 * [Meditations by Marcus Aurelius](https://www.amazon.com/Meditations-Thrift-Editions-Marcus-Aurelius/dp/048629823X/ref=sr_1_1?ie=UTF8&qid=1520733977&sr=8-1&keywords=marcus+aurelius)
