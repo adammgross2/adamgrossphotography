@@ -7,9 +7,8 @@ Here is a list of books that I have enjoyed. This includes fiction an non-fictio
 ## In Progress
 
 
-
-* [The Middle East by Bernard Lewis](https://www.amazon.com/Middle-East-Brief-History-Years/dp/0684832801/ref=sr_1_1?ie=UTF8&qid=1522987352&sr=8-1&keywords=the+middle+east+bernard+lewis)
-* [A Perfect Mess: The Hidden Benefits of Disorder](https://www.amazon.com/Perfect-Mess-Benefits-Cluttered-Fly/dp/0316114758/ref=sr_1_3?ie=UTF8&qid=1524759905&sr=8-3&keywords=a+perfect+mess)
+* [Sapiens by Yuval Harari](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316117/ref=sr_1_1?ie=UTF8&qid=1525838256&sr=8-1&keywords=sapiens+yuval)
+* [The Church History by Eusebius](https://www.amazon.com/Eusebius-Church-History/dp/082543307X)
 
 
 ## Have Read
@@ -53,6 +52,8 @@ Here is a list of books that I have enjoyed. This includes fiction an non-fictio
 
 ## To Read
 
+* [The Middle East by Bernard Lewis](https://www.amazon.com/Middle-East-Brief-History-Years/dp/0684832801/ref=sr_1_1?ie=UTF8&qid=1522987352&sr=8-1&keywords=the+middle+east+bernard+lewis)
+* [A Perfect Mess: The Hidden Benefits of Disorder](https://www.amazon.com/Perfect-Mess-Benefits-Cluttered-Fly/dp/0316114758/ref=sr_1_3?ie=UTF8&qid=1524759905&sr=8-3&keywords=a+perfect+mess)
 * [Straw Dogs by John Gray](https://www.amazon.com/Straw-Dogs-Thoughts-Humans-Animals/dp/0374270937/ref=sr_1_1?ie=UTF8&qid=1522442341&sr=8-1&keywords=straw+dogs+john+gray)
 * [The Fractal Geometry of Nature by Benoit Mandelbrodt](https://www.amazon.com/Fractal-Geometry-Nature-Benoit-Mandelbrot/dp/0716711869/ref=sr_1_sc_1?s=books&ie=UTF8&qid=1520700875&sr=1-1-spell&keywords=The+Fractal+Geometry+of+Nature+by+Benoit+Mandelbrodt)
 * [The Examined Life by Robert Nozick](https://www.amazon.com/Examined-Life-Philosophical-Meditations/dp/0671725017/ref=sr_1_1?s=books&ie=UTF8&qid=1520700887&sr=1-1&keywords=The+Examined+Life+by+Robert+Nozick)
