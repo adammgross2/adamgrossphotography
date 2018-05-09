@@ -73,7 +73,6 @@ Here is a list of books that I have enjoyed. This includes fiction an non-fictio
 * [Mean Genes by Terry Burnham](https://www.amazon.com/Mean-Genes-Taming-Primal-Instincts/dp/0142000078/ref=sr_1_2?s=books&ie=UTF8&qid=1520700402&sr=1-2&keywords=mean+genes)
 * [In God's Mirror by Harold Schulweis](https://www.amazon.com/Gods-Mirror-Reflections-Essays/dp/0881258059/ref=sr_1_1?s=books&ie=UTF8&qid=1520701035&sr=1-1&keywords=In+God%27s+Mirror+by+Harold+Schulweis)
 * [The Paradox of Choice by Barry Schwartz](https://www.amazon.com/Paradox-Choice-More-Less-Revised/dp/0062449923/ref=sr_1_1?s=books&ie=UTF8&qid=1520700451&sr=1-1&keywords=the+paradox+of+choice)
-* [Star Dogs by John Gray](https://www.amazon.com/Straw-Dogs-Thoughts-Humans-Animals/dp/0374270937/ref=sr_1_1?s=books&ie=UTF8&qid=1520700482&sr=1-1&keywords=straw+dogs)
 * [A Perfect Mess by Eric Abrahamson and David Freedman](https://www.amazon.com/Perfect-Mess-Benefits-Cluttered-Fly/dp/0316114758/ref=sr_1_3?s=books&ie=UTF8&qid=1520700522&sr=1-3&keywords=a+perfect+mess)
 * [What Went Wrong? by Bernard Lewis](https://www.amazon.com/What-Went-Wrong-Between-Modernity/dp/0060516054/ref=sr_1_1?s=books&ie=UTF8&qid=1520701048&sr=1-1&keywords=What+Went+Wrong%3F+by+Bernard+Lewis)
 * [The Status Syndrome by Michael Marmot](https://www.amazon.com/Status-Syndrome-Standing-Affects-Longevity/dp/0805078541/ref=sr_1_1?s=books&ie=UTF8&qid=1520701058&sr=1-1&keywords=The+Status+Syndrome+by+Michael+Marmot)
