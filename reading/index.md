@@ -93,3 +93,4 @@ Here is a list of books that I have enjoyed. This includes fiction an non-fictio
 * [Horace](https://www.amazon.com/Complete-Epodes-Oxford-Worlds-Classics/dp/0199555273/ref=sr_1_1?ie=UTF8&qid=1520734046&sr=8-1&keywords=horace)
 * [Montaigne](https://www.amazon.com/Michel-Montaigne-Complete-Penguin-Classics/dp/0140446044/ref=sr_1_1?ie=UTF8&qid=1520734125&sr=8-1&keywords=montaigne)
 * [Praise of Folly by Desiderius Erasmus](https://www.amazon.com/Praise-Penguin-Classics-Desiderius-Erasmus/dp/0140446087/ref=sr_1_1?ie=UTF8&qid=1520734134&sr=8-1&keywords=erasmus)
+* [A Discourse by Three Drunkards on Government](https://www.amazon.com/Discourse-Three-Drunkards-Government-ebook/dp/B00A4L7SYG/ref=sr_1_1?ie=UTF8&qid=1526610852&sr=8-1&keywords=on+government+by+three+drunkards)
