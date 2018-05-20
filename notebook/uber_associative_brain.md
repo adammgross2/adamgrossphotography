@@ -5,7 +5,7 @@ title: The Uber-Associativeness of the Human Brain
 ## The Uber-Associativeness of the Human Brain
 Meditating will show you that your brain is way faster and deeper in its associative power than you realized. By "faster and deeping in its associative power" I mean: 
 
-### **Any one thought usually triggers an unpredictable, but logical, association with another thought very quickly, which in turn triggers another association, and so forth, many times over, very quickly.** 
+#### **Any one thought usually triggers an unpredictable, but logical, association with another thought very quickly, which in turn triggers another association, and so forth, many times over, very quickly.** 
 
 For example, I was just meditating and was scanning down my body, checking in with each of my body parts, starting at my head. As I got to my torso, I thought about my back muscles which will be sore tomorrow since I put them through a good workout at the gym today, which made me think of how I hope I will be looking good for my girlfriend when she comes home from her vacation next week, which made me think of how awesome it is that I was able to coordinate with my boss that I can work from home next week instead of having to spend vacation days, which made me think about whether I should do the same for my upcoming trip to New York, which made me think about working in the Amazon office in New York and what that might be like. This all happened over the course of five to ten seconds. So just to recap, by checking in with the physical state of my back muscles, I triggered a sense of wonder about what the Amazon offices in New York are like, within ten seconds.
 
