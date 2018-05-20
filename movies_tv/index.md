@@ -44,8 +44,6 @@ My favorite movies and TV shows:
 * [The Disaster Artist](http://www.imdb.com/title/tt3521126/?ref_=nv_sr_1)
 * [Pineapple Express](http://www.imdb.com/title/tt0910936/?ref_=nv_sr_1)
 * [Step Brothers](http://www.imdb.com/title/tt0838283/?ref_=nv_sr_1)
-* [Brüno](http://www.imdb.com/title/tt0889583/?ref_=nv_sr_2)
-* [The Dictator](http://www.imdb.com/title/tt1645170/?ref_=nv_sr_1)
 * [Munich](http://www.imdb.com/title/tt0408306/?ref_=nv_sr_1)
 * [Team America World Police](http://www.imdb.com/title/tt0372588/)
 * [Cowboy Bebop the Movie](https://www.imdb.com/title/tt0275277/)
