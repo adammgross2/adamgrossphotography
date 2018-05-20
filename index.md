@@ -13,6 +13,7 @@ Hey! Thanks for visiting my website. This website is intended to be a social-med
 * The [Academic Work](/academic_work) page contains all of the most interesting articles and books I read and the papers I wrote as part of my collegiate studies, mostly focused on history.
 * The [Movies and TV](/movies_tv) section contains a list of all of my favorite movies and TV shows.
 * The [Travels](/travels) page has a map showing all of the countries I've visited, in the hopes that it can help stimulate a conversation.
+* The [Notebook](/notebook) section is a personal notebook of my thoughts about things. 
 
 I have a very wide range of interests. My undergraduate studies were in Computer Science, Math, and History with a concentration in the Middle East and North Africa. In addition to those academic areas, I also love all of the following (in no particular order):
 
