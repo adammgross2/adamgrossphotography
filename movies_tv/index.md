@@ -48,6 +48,7 @@ My favorite movies and TV shows:
 * [The Dictator](http://www.imdb.com/title/tt1645170/?ref_=nv_sr_1)
 * [Munich](http://www.imdb.com/title/tt0408306/?ref_=nv_sr_1)
 * [Team America World Police](http://www.imdb.com/title/tt0372588/)
+* [Cowboy Bebop the Movie](https://www.imdb.com/title/tt0275277/)
 
 ## Movies I Want to Watch
 * [Children of Men](http://www.imdb.com/title/tt0206634/)
@@ -62,3 +63,5 @@ My favorite movies and TV shows:
 * [Top Gear](http://www.imdb.com/title/tt1628033/?ref_=nv_sr_1)/[The Grand Tour](http://www.imdb.com/title/tt5712554/?ref_=nv_sr_1)
 * [Entourage](http://www.imdb.com/title/tt0387199/?ref_=fn_al_tt_1)
 * [Trailer Park Boys](http://www.imdb.com/title/tt0290988/?ref_=nv_sr_1)
+* [Cowboy Bebop](https://www.imdb.com/title/tt0213338/?ref_=nv_sr_1)
+
