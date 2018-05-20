@@ -4,6 +4,8 @@ title: Adam's Reading List
 ---
 Here is a list of books that I have enjoyed. This includes fiction an non-fiction, and it is roughly ordered by the recency of reading. I will also include a section at the end for books that I have yet to read, but intend to read in my life. There is a separate section of this website called [academic work](/academic_work) that contains the content I have read for my Middle Eastern History studies.
 
+* [notebook](/reading/notebook)
+
 ## In Progress
 
 * [Homo Deus by Yuval Harari](https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464310/ref=sr_1_1?ie=UTF8&qid=1526610805&sr=8-1&keywords=homo+deus)
