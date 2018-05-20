@@ -4,8 +4,21 @@ title: Adam's Reading List
 ---
 Here is a list of books that I have enjoyed. This includes fiction an non-fiction, and it is roughly ordered by the recency of reading. I will also include a section at the end for books that I have yet to read, but intend to read in my life. There is a separate section of this website called [academic work](/academic_work) that contains the content I have read for my Middle Eastern History studies.
 
+* [notebook](/reading/notebook)
+
+## In Progress
+
+* [Homo Deus by Yuval Harari](https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464310/ref=sr_1_1?ie=UTF8&qid=1526610805&sr=8-1&keywords=homo+deus)
+* [The Church History by Eusebius](https://www.amazon.com/Eusebius-Church-History/dp/082543307X)
+
+
 ## Have Read
 
+* [Sapiens by Yuval Harari](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316117/ref=sr_1_1?ie=UTF8&qid=1525838256&sr=8-1&keywords=sapiens+yuval)
+* [Fooled by Randomness by Nassim Taleb](https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219/ref=sr_1_1?s=books&ie=UTF8&qid=1520700943&sr=1-1&keywords=Fooled+by+Randomness+by+Nassim+Taleb)
+* [Orientalism by Edward Said](https://www.amazon.com/Orientalism-Edward-W-Said/dp/039474067X/ref=sr_1_1?ie=UTF8&qid=1522190320&sr=8-1&keywords=orientalism+edward+said)
+* [The Seventh Sense by Joshua Cooper Ramo](https://www.amazon.com/Seventh-Sense-Fortune-Survival-Networks/dp/0316285072/ref=sr_1_1?ie=UTF8&qid=1522987259&sr=8-1&keywords=the+seventh+sense)
+* [Meditations by Marcus Aurelius](https://www.amazon.com/Meditations-Thrift-Editions-Marcus-Aurelius/dp/048629823X/ref=sr_1_1?ie=UTF8&qid=1520733977&sr=8-1&keywords=marcus+aurelius)
 * [Guns, Germs, and Steel by Jared Diamond](https://www.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/0393354326/ref=sr_1_1?s=books&ie=UTF8&qid=1520700857&sr=1-1&keywords=Guns%2C+Germs%2C+and+Steel+by+Jared+Diamond)
 * [Skin in the Game by Nassim Taleb](https://www.amazon.com/Skin-Game-Hidden-Asymmetries-Daily/dp/042528462X/ref=sr_1_2?s=books&ie=UTF8&qid=1520700866&sr=1-2&keywords=Skin+in+the+Game+by+Nassim+Taleb)
 * [Black Swan by Nassim Taleb](https://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X/ref=sr_1_1?ie=UTF8&qid=1520699619&sr=8-1&keywords=black+swan+taleb)
@@ -38,15 +51,18 @@ Here is a list of books that I have enjoyed. This includes fiction an non-fictio
 * [Maus by Art Spiegelman](https://en.wikipedia.org/wiki/Maus)
 * [To Build a Fire by Jack London](https://en.wikipedia.org/wiki/To_Build_a_Fire)
 
+
 ## To Read
 
+* [The Middle East by Bernard Lewis](https://www.amazon.com/Middle-East-Brief-History-Years/dp/0684832801/ref=sr_1_1?ie=UTF8&qid=1522987352&sr=8-1&keywords=the+middle+east+bernard+lewis)
+* [A Perfect Mess: The Hidden Benefits of Disorder](https://www.amazon.com/Perfect-Mess-Benefits-Cluttered-Fly/dp/0316114758/ref=sr_1_3?ie=UTF8&qid=1524759905&sr=8-3&keywords=a+perfect+mess)
+* [Straw Dogs by John Gray](https://www.amazon.com/Straw-Dogs-Thoughts-Humans-Animals/dp/0374270937/ref=sr_1_1?ie=UTF8&qid=1522442341&sr=8-1&keywords=straw+dogs+john+gray)
 * [The Fractal Geometry of Nature by Benoit Mandelbrodt](https://www.amazon.com/Fractal-Geometry-Nature-Benoit-Mandelbrot/dp/0716711869/ref=sr_1_sc_1?s=books&ie=UTF8&qid=1520700875&sr=1-1-spell&keywords=The+Fractal+Geometry+of+Nature+by+Benoit+Mandelbrodt)
 * [The Examined Life by Robert Nozick](https://www.amazon.com/Examined-Life-Philosophical-Meditations/dp/0671725017/ref=sr_1_1?s=books&ie=UTF8&qid=1520700887&sr=1-1&keywords=The+Examined+Life+by+Robert+Nozick)
 * [The World Until Yesterday by Jared Diamond](https://www.amazon.com/World-Until-Yesterday-Traditional-Societies/dp/0143124404/ref=sr_1_1?s=books&ie=UTF8&qid=1520700898&sr=1-1&keywords=The+World+Until+Yesterday+by+Jared+Diamond)
 * [The Folly of Fools by Robert Trivers](https://www.amazon.com/Folly-Fools-Logic-Deceit-Self-Deception/dp/0465085970/ref=sr_1_1?s=books&ie=UTF8&qid=1520700910&sr=1-1&keywords=The+Folly+of+Fools+by+Robert+Trivers)
 * [The Third Chimpanzee by Jared Diamond](https://www.amazon.com/Third-Chimpanzee-Evolution-Future-Animal/dp/0060845503/ref=sr_1_1?s=books&ie=UTF8&qid=1520700920&sr=1-1&keywords=The+Third+Chimpanzee+by+Jared+Diamond)
 * [The (Mis)Behavior of Markets by Benoit Mandelbrodt](https://www.amazon.com/Misbehavior-Markets-Fractal-Financial-Turbulence/dp/0465043577/ref=sr_1_sc_1?s=books&ie=UTF8&qid=1520700930&sr=1-1-spell&keywords=The+%28Mis%29Behavior+of+Markets+by+Benoit+Mandelbrodt)
-* [Fooled by Randomness by Nassim Taleb](https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219/ref=sr_1_1?s=books&ie=UTF8&qid=1520700943&sr=1-1&keywords=Fooled+by+Randomness+by+Nassim+Taleb)
 * [Thinking Fast and Slow by Daniel Kahneman](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/ref=sr_1_1?s=books&ie=UTF8&qid=1520700953&sr=1-1&keywords=Thinking+Fast+and+Slow+by+Daniel+Kahneman)
 * [The Open Society and its Enemies by Karl Popper](https://www.amazon.com/Open-Society-Its-Enemies/dp/0691158134/ref=sr_1_1?s=books&ie=UTF8&qid=1520700962&sr=1-1&keywords=The+Open+Society+and+its+Enemies+by+Karl+Popper)
 * [1491: New Revelations of the Americas Before Columbus by Charles Mann](https://www.amazon.com/1491-Revelations-Americas-Before-Columbus/dp/1400032059/ref=sr_1_1?s=books&ie=UTF8&qid=1520700975&sr=1-1&keywords=1491%3A+The+Americas+Before+Columbus+by+Charles+Mann)
@@ -59,7 +75,6 @@ Here is a list of books that I have enjoyed. This includes fiction an non-fictio
 * [Mean Genes by Terry Burnham](https://www.amazon.com/Mean-Genes-Taming-Primal-Instincts/dp/0142000078/ref=sr_1_2?s=books&ie=UTF8&qid=1520700402&sr=1-2&keywords=mean+genes)
 * [In God's Mirror by Harold Schulweis](https://www.amazon.com/Gods-Mirror-Reflections-Essays/dp/0881258059/ref=sr_1_1?s=books&ie=UTF8&qid=1520701035&sr=1-1&keywords=In+God%27s+Mirror+by+Harold+Schulweis)
 * [The Paradox of Choice by Barry Schwartz](https://www.amazon.com/Paradox-Choice-More-Less-Revised/dp/0062449923/ref=sr_1_1?s=books&ie=UTF8&qid=1520700451&sr=1-1&keywords=the+paradox+of+choice)
-* [Star Dogs by John Gray](https://www.amazon.com/Straw-Dogs-Thoughts-Humans-Animals/dp/0374270937/ref=sr_1_1?s=books&ie=UTF8&qid=1520700482&sr=1-1&keywords=straw+dogs)
 * [A Perfect Mess by Eric Abrahamson and David Freedman](https://www.amazon.com/Perfect-Mess-Benefits-Cluttered-Fly/dp/0316114758/ref=sr_1_3?s=books&ie=UTF8&qid=1520700522&sr=1-3&keywords=a+perfect+mess)
 * [What Went Wrong? by Bernard Lewis](https://www.amazon.com/What-Went-Wrong-Between-Modernity/dp/0060516054/ref=sr_1_1?s=books&ie=UTF8&qid=1520701048&sr=1-1&keywords=What+Went+Wrong%3F+by+Bernard+Lewis)
 * [The Status Syndrome by Michael Marmot](https://www.amazon.com/Status-Syndrome-Standing-Affects-Longevity/dp/0805078541/ref=sr_1_1?s=books&ie=UTF8&qid=1520701058&sr=1-1&keywords=The+Status+Syndrome+by+Michael+Marmot)
@@ -74,10 +89,10 @@ Here is a list of books that I have enjoyed. This includes fiction an non-fictio
 * [Solomon Maimon's Autobiography](https://www.amazon.com/Solomon-Maimon-Autobiography/dp/0252069773/ref=sr_1_1?s=books&ie=UTF8&qid=1520700815&sr=1-1&keywords=maimon)
 * [Cicero](https://www.amazon.com/Cicero-Selected-Works-Marcus-Tullius/dp/0140440992/ref=sr_1_1?ie=UTF8&qid=1520733944&sr=8-1&keywords=cicero)
 * [Seneca](https://www.amazon.com/Letters-Penguin-Classics-Lucius-Annaeus/dp/0140442103/ref=sr_1_1?ie=UTF8&qid=1520733963&sr=8-1&keywords=seneca)
-* [Marcus Aurelius](https://www.amazon.com/Meditations-Thrift-Editions-Marcus-Aurelius/dp/048629823X/ref=sr_1_1?ie=UTF8&qid=1520733977&sr=8-1&keywords=marcus+aurelius)
 * [Epictetus](https://www.amazon.com/Discourses-Selected-Writings-Penguin-Classics/dp/0140449469/ref=sr_1_4?ie=UTF8&qid=1520733995&sr=8-4&keywords=epictetus)
 * [Lucian](https://www.amazon.com/Lucian-Selected-Dialogues-Oxford-Classics/dp/0199555931/ref=sr_1_1?ie=UTF8&qid=1520734011&sr=8-1&keywords=lucian)
 * [Juvenal](https://www.amazon.com/Sixteen-Satires-Penguin-Classics-Juvenal/dp/0140447040/ref=sr_1_1?ie=UTF8&qid=1520734027&sr=8-1&keywords=juvenal)
 * [Horace](https://www.amazon.com/Complete-Epodes-Oxford-Worlds-Classics/dp/0199555273/ref=sr_1_1?ie=UTF8&qid=1520734046&sr=8-1&keywords=horace)
 * [Montaigne](https://www.amazon.com/Michel-Montaigne-Complete-Penguin-Classics/dp/0140446044/ref=sr_1_1?ie=UTF8&qid=1520734125&sr=8-1&keywords=montaigne)
 * [Praise of Folly by Desiderius Erasmus](https://www.amazon.com/Praise-Penguin-Classics-Desiderius-Erasmus/dp/0140446087/ref=sr_1_1?ie=UTF8&qid=1520734134&sr=8-1&keywords=erasmus)
+* [A Discourse by Three Drunkards on Government](https://www.amazon.com/Discourse-Three-Drunkards-Government-ebook/dp/B00A4L7SYG/ref=sr_1_1?ie=UTF8&qid=1526610852&sr=8-1&keywords=on+government+by+three+drunkards)
