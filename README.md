@@ -5,7 +5,7 @@ title: Adam Gross's Personal Website
 <meta property="og:image" content="https://lh3.googleusercontent.com/4ACILfckSFi_5ySFzSckV49SWuCc3dAY_kifsvBg0OMOeSvkD8xnduRBrovoPafLaNJHFA-YlvfJtbA0G4gQUIj4iYXctSqH_yN41BA2c-cUrLsBeyWs_ZYTJrx0ZvjLki403X7ZgSo=w2400" />
 
 # Adam Gross
-Hey! Thanks for visiting my website. This website is intended to be a social-media-platform-independent digital social profile to share my personal interests and hobbies. If you like me or are like me, there will definitely be something of interest to you here.
+Hey! Thanks for visiting [my website](amgross.me). This website is intended to be a social-media-platform-independent digital social profile to share my personal interests and hobbies. If you like me or are like me, there will definitely be something of interest to you here.
 
 * The [Music](/music) page has a description of my music taste, a collection of self-made Spotify playlists, and SoundCloud playlist containing all of my personal compositions.
 * The [Reading](/reading) page has a list of my favorite books I've read, and top books on my reading to-do list.
