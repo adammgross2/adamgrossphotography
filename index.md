@@ -32,6 +32,7 @@ I have a very wide range of interests. My undergraduate studies were in Computer
 * Nature Photography
 * Surrealist, Impressionist, Art Deco, and related art
 * Meditation and Mindfulness
+* Hiking
 
 For me, *"interesting"* **does not** mean *"agreeable"*. I am a strong independent and value ideological diversity. I strive to expose myself to ideas that span the entire political spectrum, and am constantly re-assessing my political sentiments. I am consistently inconsistent. I have quit Facebook, because their news feed algorithms make me fear for my own mind's independence. One of the mantras of Machine Learning these days is that the quality of your data determines the quality of your algorithm. Thus I strive to maximize the quality of my data that I intake, and the rise of the internet has flooded our eyes with low-quality data. I hope that this website can help increase the availability of higher quality data on the web.
 
