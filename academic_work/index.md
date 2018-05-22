@@ -67,5 +67,5 @@ There are two categories to this page: my academic readings, and my academic wri
 *   [Orientalism](https://en.wikipedia.org/wiki/Orientalism_(book)) by Edward Said
 *   [Studies of Israeli Society: Migration, Ethnicity, and Community](https://www.amazon.com/Studies-Israeli-Society-Migration-Ethnicity/dp/0878554149) by Ernest Krausz
 *   [Shifting Ethnic Boundaries and Inequality in Israel: Or, How the German Peddler Became a German Intellectual](https://www.amazon.com/Shifting-Ethnic-Boundaries-Inequality-Israel/dp/080475697X) by Aziza Khazzoom
-*   [The Question of Orientalism](http://www.nybooks.com/articles/1982/06/24/the-question-of-orientalism/)(a criticism of Orientalism) by Bernard Lewis
+*   [The Question of Orientalism](http://www.nybooks.com/articles/1982/06/24/the-question-of-orientalism/) (a criticism of Orientalism) by Bernard Lewis
 *   [Debating Orientalism](https://www.amazon.com/Debating-Orientalism-Anna-Bernard/dp/0230303528) by Anna Bernard, David Attwell, ed Z. Elmarsafy
