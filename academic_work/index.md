@@ -2,8 +2,29 @@
 layout: default
 title: Adam's Academic Work
 ---
-
 There are two categories to this page: my academic readings, and my academic writings. Most of the writings are History papers focusing on the Middle East, Jewish History, and most specifically the Mediterranean basin.
+
+### Writing
+* [Moroccan Jewry, European Connections and Identity Flux: 1492-1912](https://drive.google.com/open?id=1ylV_uCK1oL0VhMv-vXs_oryzeSHdHoXf)
+*   [The Origin of the Septuagint](https://drive.google.com/file/d/0B56u1slA8DzQUXNTN3ZXMkd0Znc/view?usp=sharing)
+*   [Were Philo and His Family Typical Alexandrians?](https://drive.google.com/file/d/0B56u1slA8DzQYTdJcEVtVnFYSEE/view?usp=sharing)
+*   [POWER, POLITICS, AND PHILOSOPHY: Comparing the Religious Programs of Constantine I and Julian the Apostate](https://drive.google.com/file/d/0B56u1slA8DzQMWZ6N0Eza0Y5Nm8/view?usp=sharing)
+*   [Why Was Muhammad's Early Preaching So Effective? Or Was It?](https://drive.google.com/file/d/0B56u1slA8DzQT1dEUHpPb0tWekk/view?usp=sharing)
+*   [The Importance of the Constitution of Medina](https://drive.google.com/file/d/0B56u1slA8DzQWTFMdE1YRXRITDg/view?usp=sharing)
+*   [Inter-Religious Interaction: an Intra-Religious Affair, A Survey of non-Muslim Reactions to the Arab Conquests of the Early 7th Century](https://drive.google.com/file/d/0B56u1slA8DzQMDBaX3YxR082NEk/view?usp=sharing)
+*   [Islamic Origins: What Really Happened?](https://drive.google.com/file/d/0B56u1slA8DzQbmo5UG9aeGxjNkk/view?usp=sharing)
+*   [How Important Was Ideology to the Crusades?](https://drive.google.com/file/d/0B56u1slA8DzQRk9mZmNBclF2anM/view?usp=sharing)
+*   [Why Should We Look at the Jews in the Crusades?](https://drive.google.com/file/d/0B56u1slA8DzQR0swZGpPZWg2Vms/view?usp=sharing)
+*   [The Significance of Moses Maimonides in the History of the Jews of Egypt](https://drive.google.com/file/d/0B56u1slA8DzQWVpUM01KdFJkS0k/view?usp=sharing)
+*   [A Qualification of Jewish-Muslim Coexistence](https://drive.google.com/file/d/0B56u1slA8DzQZTJXejNRSTd4MlE/view?usp=sharing)
+*   [Dealing With Zionism From Morocco to Iraq in the 1930s](https://drive.google.com/file/d/0B56u1slA8DzQUUNIOXk0WUU1b1U/view?usp=sharing)
+*   [Egyptian Nationality and the Jews in the 20th Century](https://drive.google.com/file/d/0B56u1slA8DzQNG1JdnNkQ2VPNWM/view?usp=sharing)
+*   [Intra-Jewish Racism in Israel](https://drive.google.com/file/d/0B56u1slA8DzQelk1Mkh4YUI3LWM/view?usp=sharing)
+*   [Edward Said's Orientalism and its Criticism](https://drive.google.com/file/d/0B56u1slA8DzQSFdHMjdYdFRCczA/view?usp=sharing)
+*   [An Anthology of all of the above ^](https://drive.google.com/file/d/0B56u1slA8DzQSmI0OGR5NnRyMzQ/view?usp=sharing)
+*   [Response to Arthur Koestler's The Thirteenth Tribe, on the Jews of Eastern Europe's Origins](https://drive.google.com/file/d/0B56u1slA8DzQb3BBLS1BSTQ0eEk/view?usp=sharing)
+*   [On Sidney Chriqui's "As Time Goes By: A Life's Journey from Casablanca"](https://drive.google.com/file/d/0B56u1slA8DzQc2pGY1VYTUJLQXc/view?usp=sharing)
+*   [Pre-Colonial Jewish Comercial Networks in the Mediterranean](https://drive.google.com/file/d/0B56u1slA8DzQOWRYUUl5RlZFY2s/view?usp=sharing)
 
 ### Reading
 
@@ -49,25 +70,3 @@ There are two categories to this page: my academic readings, and my academic wri
 *   [Shifting Ethnic Boundaries and Inequality in Israel: Or, How the German Peddler Became a German Intellectual](https://www.amazon.com/Shifting-Ethnic-Boundaries-Inequality-Israel/dp/080475697X) by Aziza Khazzoom
 *   [The Question of Orientalism](http://www.nybooks.com/articles/1982/06/24/the-question-of-orientalism/)(a criticism of Orientalism) by Bernard Lewis
 *   [Debating Orientalism](https://www.amazon.com/Debating-Orientalism-Anna-Bernard/dp/0230303528) by Anna Bernard, David Attwell, ed Z. Elmarsafy
-
-### Writing
-* [Moroccan Jewry, European Connections and Identity Flux: 1492-1912](https://drive.google.com/open?id=1ylV_uCK1oL0VhMv-vXs_oryzeSHdHoXf)
-*   [The Origin of the Septuagint](https://drive.google.com/file/d/0B56u1slA8DzQUXNTN3ZXMkd0Znc/view?usp=sharing)
-*   [Were Philo and His Family Typical Alexandrians?](https://drive.google.com/file/d/0B56u1slA8DzQYTdJcEVtVnFYSEE/view?usp=sharing)
-*   [POWER, POLITICS, AND PHILOSOPHY: Comparing the Religious Programs of Constantine I and Julian the Apostate](https://drive.google.com/file/d/0B56u1slA8DzQMWZ6N0Eza0Y5Nm8/view?usp=sharing)
-*   [Why Was Muhammad's Early Preaching So Effective? Or Was It?](https://drive.google.com/file/d/0B56u1slA8DzQT1dEUHpPb0tWekk/view?usp=sharing)
-*   [The Importance of the Constitution of Medina](https://drive.google.com/file/d/0B56u1slA8DzQWTFMdE1YRXRITDg/view?usp=sharing)
-*   [Inter-Religious Interaction: an Intra-Religious Affair, A Survey of non-Muslim Reactions to the Arab Conquests of the Early 7th Century](https://drive.google.com/file/d/0B56u1slA8DzQMDBaX3YxR082NEk/view?usp=sharing)
-*   [Islamic Origins: What Really Happened?](https://drive.google.com/file/d/0B56u1slA8DzQbmo5UG9aeGxjNkk/view?usp=sharing)
-*   [How Important Was Ideology to the Crusades?](https://drive.google.com/file/d/0B56u1slA8DzQRk9mZmNBclF2anM/view?usp=sharing)
-*   [Why Should We Look at the Jews in the Crusades?](https://drive.google.com/file/d/0B56u1slA8DzQR0swZGpPZWg2Vms/view?usp=sharing)
-*   [The Significance of Moses Maimonides in the History of the Jews of Egypt](https://drive.google.com/file/d/0B56u1slA8DzQWVpUM01KdFJkS0k/view?usp=sharing)
-*   [A Qualification of Jewish-Muslim Coexistence](https://drive.google.com/file/d/0B56u1slA8DzQZTJXejNRSTd4MlE/view?usp=sharing)
-*   [Dealing With Zionism From Morocco to Iraq in the 1930s](https://drive.google.com/file/d/0B56u1slA8DzQUUNIOXk0WUU1b1U/view?usp=sharing)
-*   [Egyptian Nationality and the Jews in the 20th Century](https://drive.google.com/file/d/0B56u1slA8DzQNG1JdnNkQ2VPNWM/view?usp=sharing)
-*   [Intra-Jewish Racism in Israel](https://drive.google.com/file/d/0B56u1slA8DzQelk1Mkh4YUI3LWM/view?usp=sharing)
-*   [Edward Said's Orientalism and its Criticism](https://drive.google.com/file/d/0B56u1slA8DzQSFdHMjdYdFRCczA/view?usp=sharing)
-*   [An Anthology of all of the above ^](https://drive.google.com/file/d/0B56u1slA8DzQSmI0OGR5NnRyMzQ/view?usp=sharing)
-*   [Response to Arthur Koestler's The Thirteenth Tribe, on the Jews of Eastern Europe's Origins](https://drive.google.com/file/d/0B56u1slA8DzQb3BBLS1BSTQ0eEk/view?usp=sharing)
-*   [On Sidney Chriqui's "As Time Goes By: A Life's Journey from Casablanca"](https://drive.google.com/file/d/0B56u1slA8DzQc2pGY1VYTUJLQXc/view?usp=sharing)
-*   [Pre-Colonial Jewish Comercial Networks in the Mediterranean](https://drive.google.com/file/d/0B56u1slA8DzQOWRYUUl5RlZFY2s/view?usp=sharing)
