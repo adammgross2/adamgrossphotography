@@ -41,7 +41,7 @@ There are two categories to this page: my academic readings, and my academic wri
 *   ["The Constitution of Medina", Some Notes](http://www.urirubin.com/downloads/articles/constitution”) by Uri Rubin
 *   [The Constitution of Medina: A Sociolegal Interpretation of Muhammad’s Acts of Foundation of the “Umma”](https://www.jstor.org/stable/40389306?seq=1#page_scan_tab_contents) by Said Amir Arjomand
 *   [Muhammad and the Rise of Islam: The Creation of Group Identity](https://www.amazon.com/Muhammad-Rise-Islam-Creation-Identity/dp/1887841288) by Subhash C. Inamidar
-* [”How Islam Saved the Jews”](http://www.globalresearch.ca/islam-saved- jewry-a- historical-truth/5441235) by David Wasserstein
+* [”How Islam Saved the Jews”](http://www.globalresearch.ca/islam-saved-jewry-a-historical-truth/5441235) by David Wasserstein
 * [Christological Polemics of Maximus the Confessor and the Emergence of Islam onto the World Stage](http://journals.sagepub.com/doi/abs/10.1177/004056391107200205) by Grigory Benevich
 * [John C. Lamoreaux’s body of work on Islamic Studies, Christian History, and Political Islam](http://www.johnclamoreaux.org/cv.html)
 * [Initial Byzantine Reactions to the Arab Conquest](https://www.abebooks.com/servlet/BookDetailsPL?bi=8613903045&cm_sp=collections-_-item_1_35-_-bdp) by Walter Emil Kaegi Jr.
