@@ -99,4 +99,5 @@ Here is a list of books that I have enjoyed. This includes fiction an non-fictio
 * [Memes in Digital Culture by Limor Shifman](https://www.amazon.com/Memes-Digital-Culture-Essential-Knowledge/dp/0262525437/ref=sr_1_1?ie=UTF8&qid=1530247668&sr=8-1&keywords=Memes+in+Digital+Culture+%28Essential+Knowledge%29)
 * [The People's Platform by Astra Taylor](https://www.amazon.com/Peoples-Platform-Taking-Culture-Digital/dp/1250062594/ref=sr_1_2?ie=UTF8&qid=1530247674&sr=8-2&keywords=The+People%27s+Platform%3A+Taking+Back+Power+and+Culture+in+the+Digital+Age)
 * [Pressed for Time by Judy Wacjman](https://www.amazon.com/Pressed-Time-Acceleration-Digital-Capitalism/dp/022638084X/ref=sr_1_1?ie=UTF8&qid=1530247682&sr=8-1&keywords=Pressed+for+Time%3A+The+Acceleration+of+Life+in+Digital+Capitalism)
+* [Technology and the Virtues by Shannon Vallor](https://www.amazon.com/Technology-Virtues-Philosophical-Future-Wanting/dp/019049851X/ref=sr_1_1?ie=UTF8&qid=1530293721&sr=8-1&keywords=technology+and+the+virtues&dpID=51HtyxBgFSL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch)
 
