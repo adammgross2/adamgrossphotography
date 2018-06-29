@@ -7,11 +7,11 @@ Here is a list of books that I have enjoyed. This includes fiction an non-fictio
 ## In Progress
 
 * [Homo Deus by Yuval Harari](https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464310/ref=sr_1_1?ie=UTF8&qid=1526610805&sr=8-1&keywords=homo+deus)
-* [The Church History by Eusebius](https://www.amazon.com/Eusebius-Church-History/dp/082543307X)
 
 
 ## Have Read
 
+* [12 Rules for Life: An Antidote to Chaos by Jordan Peterson](https://www.amazon.com/12-Rules-Life-Antidote-Chaos/dp/0345816021/ref=sr_1_2?ie=UTF8&qid=1530247759&sr=8-2&keywords=12+rules+for+life)
 * [Sapiens by Yuval Harari](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316117/ref=sr_1_1?ie=UTF8&qid=1525838256&sr=8-1&keywords=sapiens+yuval)
 * [Fooled by Randomness by Nassim Taleb](https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219/ref=sr_1_1?s=books&ie=UTF8&qid=1520700943&sr=1-1&keywords=Fooled+by+Randomness+by+Nassim+Taleb)
 * [Orientalism by Edward Said](https://www.amazon.com/Orientalism-Edward-W-Said/dp/039474067X/ref=sr_1_1?ie=UTF8&qid=1522190320&sr=8-1&keywords=orientalism+edward+said)
@@ -94,3 +94,9 @@ Here is a list of books that I have enjoyed. This includes fiction an non-fictio
 * [Montaigne](https://www.amazon.com/Michel-Montaigne-Complete-Penguin-Classics/dp/0140446044/ref=sr_1_1?ie=UTF8&qid=1520734125&sr=8-1&keywords=montaigne)
 * [Praise of Folly by Desiderius Erasmus](https://www.amazon.com/Praise-Penguin-Classics-Desiderius-Erasmus/dp/0140446087/ref=sr_1_1?ie=UTF8&qid=1520734134&sr=8-1&keywords=erasmus)
 * [A Discourse by Three Drunkards on Government](https://www.amazon.com/Discourse-Three-Drunkards-Government-ebook/dp/B00A4L7SYG/ref=sr_1_1?ie=UTF8&qid=1526610852&sr=8-1&keywords=on+government+by+three+drunkards)
+* [The Church History by Eusebius](https://www.amazon.com/Eusebius-Church-History/dp/082543307X)
+* [The Internet of Us by Michael Lynch](https://www.amazon.com/Internet-Us-Knowing-More-Understanding/dp/1631492772/ref=sr_1_1?ie=UTF8&qid=1530247809&sr=8-1&keywords=The+Internet+of+Us%3A+Knowing+More+and+Understanding+Less+in+the+Age+of+Big+Data)
+* [Memes in Digital Culture by Limor Shifman](https://www.amazon.com/Memes-Digital-Culture-Essential-Knowledge/dp/0262525437/ref=sr_1_1?ie=UTF8&qid=1530247668&sr=8-1&keywords=Memes+in+Digital+Culture+%28Essential+Knowledge%29)
+* [The People's Platform by Astra Taylor](https://www.amazon.com/Peoples-Platform-Taking-Culture-Digital/dp/1250062594/ref=sr_1_2?ie=UTF8&qid=1530247674&sr=8-2&keywords=The+People%27s+Platform%3A+Taking+Back+Power+and+Culture+in+the+Digital+Age)
+* [Pressed for Time by Judy Wacjman](https://www.amazon.com/Pressed-Time-Acceleration-Digital-Capitalism/dp/022638084X/ref=sr_1_1?ie=UTF8&qid=1530247682&sr=8-1&keywords=Pressed+for+Time%3A+The+Acceleration+of+Life+in+Digital+Capitalism)
+
