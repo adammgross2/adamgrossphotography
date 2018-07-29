@@ -5,12 +5,14 @@ title: Adam's Reading List
 Here is a list of books that I have enjoyed. This includes fiction an non-fiction, and it is roughly ordered by the recency of reading. I will also include a section at the end for books that I have yet to read, but intend to read in my life. There is a separate section of this website called [academic work](/academic_work) that contains the content I have read for my Middle Eastern History studies.
 
 ## In Progress
-
-* [Homo Deus by Yuval Harari](https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464310/ref=sr_1_1?ie=UTF8&qid=1526610805&sr=8-1&keywords=homo+deus)
+* [The Internet of Us by Michael Lynch](https://www.amazon.com/Internet-Us-Knowing-More-Understanding/dp/1631492772/ref=sr_1_1?ie=UTF8&qid=1530247809&sr=8-1&keywords=The+Internet+of+Us%3A+Knowing+More+and+Understanding+Less+in+the+Age+of+Big+Data)
+* [The Folly of Fools by Robert Trivers](https://www.amazon.com/Folly-Fools-Logic-Deceit-Self-Deception/dp/0465085970/ref=sr_1_1?s=books&ie=UTF8&qid=1520700910&sr=1-1&keywords=The+Folly+of+Fools+by+Robert+Trivers)
 
 
 ## Have Read
 
+* [Weapons of Math Destruction by Cathy O'neil](https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418831/ref=sr_1_1?ie=UTF8&qid=1532884296&sr=8-1&keywords=weapons+of+math+destruction)
+* [Homo Deus by Yuval Harari](https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464310/ref=sr_1_1?ie=UTF8&qid=1526610805&sr=8-1&keywords=homo+deus)
 * [12 Rules for Life: An Antidote to Chaos by Jordan Peterson](https://www.amazon.com/12-Rules-Life-Antidote-Chaos/dp/0345816021/ref=sr_1_2?ie=UTF8&qid=1530247759&sr=8-2&keywords=12+rules+for+life)
 * [Sapiens by Yuval Harari](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316117/ref=sr_1_1?ie=UTF8&qid=1525838256&sr=8-1&keywords=sapiens+yuval)
 * [Fooled by Randomness by Nassim Taleb](https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219/ref=sr_1_1?s=books&ie=UTF8&qid=1520700943&sr=1-1&keywords=Fooled+by+Randomness+by+Nassim+Taleb)
@@ -65,7 +67,6 @@ Here is a list of books that I have enjoyed. This includes fiction an non-fictio
 * [Metamorphosis by Franz Kafka](https://www.amazon.com/Metamorphosis-Franz-Kafka/dp/1557427666/ref=sr_1_3?s=books&ie=UTF8&qid=1520701068&sr=1-3&keywords=Metamorphosis+by+Franz+Kafka)
 * [Culture and Imperialism by Edward Said](https://www.amazon.com/Culture-Imperialism-Edward-W-Said/dp/0679750541/ref=sr_1_1?s=books&ie=UTF8&qid=1520701077&sr=1-1&keywords=Culture+and+Imperialism+by+Edward+Said)
 * [Dancing Arabs by Sayed Kashua](https://www.amazon.com/Dancing-Arabs-Sayed-Kashua/dp/0802141269/ref=sr_1_1?s=books&ie=UTF8&qid=1520700795&sr=1-1&keywords=dancing+arabs)
-* [The Internet of Us by Michael Lynch](https://www.amazon.com/Internet-Us-Knowing-More-Understanding/dp/1631492772/ref=sr_1_1?ie=UTF8&qid=1530247809&sr=8-1&keywords=The+Internet+of+Us%3A+Knowing+More+and+Understanding+Less+in+the+Age+of+Big+Data)
 * [Memes in Digital Culture by Limor Shifman](https://www.amazon.com/Memes-Digital-Culture-Essential-Knowledge/dp/0262525437/ref=sr_1_1?ie=UTF8&qid=1530247668&sr=8-1&keywords=Memes+in+Digital+Culture+%28Essential+Knowledge%29)
 * [The 4th Revolution by Luciano Floridi](https://www.amazon.com/Fourth-Revolution-infosphere-reshaping-reality/dp/0199606722/ref=sr_1_5?ie=UTF8&qid=1530308835&sr=8-5&keywords=the+fourth+revolution+internet)
 
@@ -74,7 +75,6 @@ Here is a list of books that I have enjoyed. This includes fiction an non-fictio
 * [Straw Dogs by John Gray](https://www.amazon.com/Straw-Dogs-Thoughts-Humans-Animals/dp/0374270937/ref=sr_1_1?ie=UTF8&qid=1522442341&sr=8-1&keywords=straw+dogs+john+gray)
 * [The Fractal Geometry of Nature by Benoit Mandelbrodt](https://www.amazon.com/Fractal-Geometry-Nature-Benoit-Mandelbrot/dp/0716711869/ref=sr_1_sc_1?s=books&ie=UTF8&qid=1520700875&sr=1-1-spell&keywords=The+Fractal+Geometry+of+Nature+by+Benoit+Mandelbrodt)
 * [The Examined Life by Robert Nozick](https://www.amazon.com/Examined-Life-Philosophical-Meditations/dp/0671725017/ref=sr_1_1?s=books&ie=UTF8&qid=1520700887&sr=1-1&keywords=The+Examined+Life+by+Robert+Nozick)
-* [The Folly of Fools by Robert Trivers](https://www.amazon.com/Folly-Fools-Logic-Deceit-Self-Deception/dp/0465085970/ref=sr_1_1?s=books&ie=UTF8&qid=1520700910&sr=1-1&keywords=The+Folly+of+Fools+by+Robert+Trivers)
 * [The (Mis)Behavior of Markets by Benoit Mandelbrodt](https://www.amazon.com/Misbehavior-Markets-Fractal-Financial-Turbulence/dp/0465043577/ref=sr_1_sc_1?s=books&ie=UTF8&qid=1520700930&sr=1-1-spell&keywords=The+%28Mis%29Behavior+of+Markets+by+Benoit+Mandelbrodt)
 * [The Open Society and its Enemies by Karl Popper](https://www.amazon.com/Open-Society-Its-Enemies/dp/0691158134/ref=sr_1_1?s=books&ie=UTF8&qid=1520700962&sr=1-1&keywords=The+Open+Society+and+its+Enemies+by+Karl+Popper)
 * [All Life is Problem Solving by Karl Popper](https://www.amazon.com/Life-Problem-Solving-Karl-Popper/dp/0415249929/ref=sr_1_1?s=books&ie=UTF8&qid=1520700985&sr=1-1&keywords=All+Life+is+Problem+Solving+by+Karl+Popper)
