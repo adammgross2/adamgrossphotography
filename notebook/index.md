@@ -7,3 +7,4 @@ This is a page of my thoughts and notes about anything.
 * [On Jealousy and Self Improvement](jealousy_and_self_improvement.md)
 * [Focusing on Your Personal Goals](focus_on_your_main_duty_epictetus.md)
 * [A Definition of Perfection](perfection_definition.md)
+* [On Being Alone](on_being_alone.md)
