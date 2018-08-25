@@ -1,4 +1,4 @@
-*I spent two weeks travelling through Spain and Morocco alone, and had some thoughts on solitude:*
+*I spent two weeks travelling through Spain and Morocco alone, and had some thoughts on solitude*
 ## Reflections on travelling alone/extended periods of time being alone:
 
 Awesome. Amazing. So different. When you are with another person there are two main things going on that completely change your
