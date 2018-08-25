@@ -5,12 +5,13 @@ title: Adam's Reading List
 Here is a list of books that I have enjoyed. This includes fiction an non-fiction, and it is roughly ordered by the recency of reading. I will also include a section at the end for books that I have yet to read, but intend to read in my life. There is a separate section of this website called [academic work](/academic_work) that contains the content I have read for my Middle Eastern History studies.
 
 ## In Progress
-* [The Internet of Us by Michael Lynch](https://www.amazon.com/Internet-Us-Knowing-More-Understanding/dp/1631492772/ref=sr_1_1?ie=UTF8&qid=1530247809&sr=8-1&keywords=The+Internet+of+Us%3A+Knowing+More+and+Understanding+Less+in+the+Age+of+Big+Data)
-* [The Folly of Fools by Robert Trivers](https://www.amazon.com/Folly-Fools-Logic-Deceit-Self-Deception/dp/0465085970/ref=sr_1_1?s=books&ie=UTF8&qid=1520700910&sr=1-1&keywords=The+Folly+of+Fools+by+Robert+Trivers)
 
+* [The Folly of Fools by Robert Trivers](https://www.amazon.com/Folly-Fools-Logic-Deceit-Self-Deception/dp/0465085970/ref=sr_1_1?s=books&ie=UTF8&qid=1520700910&sr=1-1&keywords=The+Folly+of+Fools+by+Robert+Trivers)
 
 ## Have Read
 
+* [The Internet of Us by Michael Lynch](https://www.amazon.com/Internet-Us-Knowing-More-Understanding/dp/1631492772/ref=sr_1_1?ie=UTF8&qid=1530247809&sr=8-1&keywords=The+Internet+of+Us%3A+Knowing+More+and+Understanding+Less+in+the+Age+of+Big+Data)
+* [Wild Life by Robert Trivers](https://www.amazon.com/Wild-Life-Adventures-Evolutionary-Biologist/dp/1938972120/ref=sr_1_1?s=books&ie=UTF8&qid=1520701004&sr=1-1&keywords=Wild+Life+by+Robert+Trivers)
 * [Weapons of Math Destruction by Cathy O'neil](https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418831/ref=sr_1_1?ie=UTF8&qid=1532884296&sr=8-1&keywords=weapons+of+math+destruction)
 * [Homo Deus by Yuval Harari](https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464310/ref=sr_1_1?ie=UTF8&qid=1526610805&sr=8-1&keywords=homo+deus)
 * [12 Rules for Life: An Antidote to Chaos by Jordan Peterson](https://www.amazon.com/12-Rules-Life-Antidote-Chaos/dp/0345816021/ref=sr_1_2?ie=UTF8&qid=1530247759&sr=8-2&keywords=12+rules+for+life)
@@ -79,7 +80,6 @@ Here is a list of books that I have enjoyed. This includes fiction an non-fictio
 * [The Open Society and its Enemies by Karl Popper](https://www.amazon.com/Open-Society-Its-Enemies/dp/0691158134/ref=sr_1_1?s=books&ie=UTF8&qid=1520700962&sr=1-1&keywords=The+Open+Society+and+its+Enemies+by+Karl+Popper)
 * [All Life is Problem Solving by Karl Popper](https://www.amazon.com/Life-Problem-Solving-Karl-Popper/dp/0415249929/ref=sr_1_1?s=books&ie=UTF8&qid=1520700985&sr=1-1&keywords=All+Life+is+Problem+Solving+by+Karl+Popper)
 * [The Conquest of Happiness by Bertrand Russell](https://www.amazon.com/Conquest-Happiness-Bertrand-Russell/dp/087140673X/ref=sr_1_1?s=books&ie=UTF8&qid=1520700994&sr=1-1&keywords=The+Conquest+of+Happiness+by+Bertrand+Russell)
-* [Wild Life by Robert Trivers](https://www.amazon.com/Wild-Life-Adventures-Evolutionary-Biologist/dp/1938972120/ref=sr_1_1?s=books&ie=UTF8&qid=1520701004&sr=1-1&keywords=Wild+Life+by+Robert+Trivers)
 * [The Barbary Wars by Frank Lambert](https://www.amazon.com/Barbary-Wars-American-Independence-Atlantic/dp/0809028115/ref=sr_1_1?s=books&ie=UTF8&qid=1520700358&sr=1-1&keywords=the+barbary+wars)
 * [The Prophet by Kahlil Gibran](https://www.amazon.com/Prophet-Borzoi-Book-Kahlil-Gibran/dp/0394404289/ref=sr_1_1?s=books&ie=UTF8&qid=1520701015&sr=1-1&keywords=The+Prophet+by+Kahlil+Gibran)
 * [Flourishing by Miroslav Volf](https://www.amazon.com/Flourishing-Need-Religion-Globalized-World/dp/0300227132/ref=sr_1_1?s=books&ie=UTF8&qid=1520701024&sr=1-1&keywords=Flourishing+by+Miroslav+Volf)
