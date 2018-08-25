@@ -3,7 +3,9 @@
 
 Awesome. Amazing. So different. When you are with another person there are two main things going on that completely change your
 life experience:
-1. **Shared emotions/social awareness**: Being next to someone requires you to behave in accordance with their emotional space.
+
+#### Shared emotions/social awareness 
+Being next to someone requires you to behave in accordance with their emotional space.
 It is like an invisible dance. If they are upset, you must accommodate. If you are upset, they must accommodate. Same for the 
 opposite end of the spectrum with happiness. There’s nothing wrong with this, but it requires significant attention. When you
 are alone, you can devote all of that attention elsewhere. The best consequence of this is your increased ability for you mind
@@ -13,7 +15,8 @@ is that you can have a lowered regard for social norms and fashion. So I can wea
 awesome polarized dad glasses (my friends call them that because they’re so unstylish they make me look like a dad) without
 care. Because strangers are just strangers and can become invisible very easily. Especially when they’re foreigners and don’t
 speak English natively, or at all.
-1. **Consistency vs. impulse and dynamicness**: Every day you make tons of decisions. When you are with other people you 
+#### Consistency vs. impulse and dynamicness
+Every day you make tons of decisions. When you are with other people you 
 naturally make decisions that create a trail of rationality – this is how you can live easily with other people. The more 
 predictable and understandable your actions, the easier you are to get along with, cooperate with, and coordinate with.
 Consistent behavior is a fundamental thread in social relationships. However, our emotional states are incredibly inconsistent.
