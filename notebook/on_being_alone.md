@@ -32,5 +32,5 @@ emotional state, even the most amazing experiences can be tainted, or even compl
 experiences are a product of the intrinsic value of the experience AND your emotional state (I have a hunch that this is 
 true and would love to hear what a psychologist thinks about this claim) then it is much easier to maximize this product 
 when alone – UNLESS your emotional state suffers too significantly from being alone in the first place. People who fit 
-this category are missing out on an amazing component of life. Furthermore, I believe the mobile device, internet connected 
+this category are missing out on an amazing component of life. Furthermore, I believe that the mobile device, internet connected 
 millennial lifestyle is at odds with this mode of experience.
