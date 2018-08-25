@@ -1,10 +1,10 @@
 *I spent two weeks travelling through Spain and Morocco alone, and had some thoughts on solitude:*
-### Reflections on travelling alone/extended periods of time being alone:
+## Reflections on travelling alone/extended periods of time being alone:
 
 Awesome. Amazing. So different. When you are with another person there are two main things going on that completely change your
 life experience:
 
-#### Shared emotions/social awareness 
+### Shared emotions/social awareness 
 Being next to someone requires you to behave in accordance with their emotional space.
 It is like an invisible dance. If they are upset, you must accommodate. If you are upset, they must accommodate. Same for the 
 opposite end of the spectrum with happiness. There’s nothing wrong with this, but it requires significant attention. When you
@@ -15,7 +15,7 @@ is that you can have a lowered regard for social norms and fashion. So I can wea
 awesome polarized dad glasses (my friends call them that because they’re so unstylish they make me look like a dad) without
 care. Because strangers are just strangers and can become invisible very easily. Especially when they’re foreigners and don’t
 speak English natively, or at all.
-#### Consistency vs. impulse and dynamicness
+### Consistency vs. impulse and dynamicness
 Every day you make tons of decisions. When you are with other people you 
 naturally make decisions that create a trail of rationality – this is how you can live easily with other people. The more 
 predictable and understandable your actions, the easier you are to get along with, cooperate with, and coordinate with.
