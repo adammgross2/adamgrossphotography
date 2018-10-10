@@ -13,7 +13,7 @@ Here is a list of books that I have enjoyed. This includes fiction an non-fictio
 
 ## Have Read
 
-** [The 4th Revolution by Luciano Floridi](https://www.amazon.com/Fourth-Revolution-infosphere-reshaping-reality/dp/0199606722/ref=sr_1_5?ie=UTF8&qid=1530308835&sr=8-5&keywords=the+fourth+revolution+internet)
+* [The 4th Revolution by Luciano Floridi](https://www.amazon.com/Fourth-Revolution-infosphere-reshaping-reality/dp/0199606722/ref=sr_1_5?ie=UTF8&qid=1530308835&sr=8-5&keywords=the+fourth+revolution+internet)
 * [Principles: Life and Work by Ray Dalio](https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1508243247/ref=sr_1_1_sspa?ie=UTF8&qid=1536864316&sr=8-1-spons&keywords=principles+ray+dalio&psc=1)
 * [The Internet of Us by Michael Lynch](https://www.amazon.com/Internet-Us-Knowing-More-Understanding/dp/1631492772/ref=sr_1_1?ie=UTF8&qid=1530247809&sr=8-1&keywords=The+Internet+of+Us%3A+Knowing+More+and+Understanding+Less+in+the+Age+of+Big+Data)
 * [Wild Life by Robert Trivers](https://www.amazon.com/Wild-Life-Adventures-Evolutionary-Biologist/dp/1938972120/ref=sr_1_1?s=books&ie=UTF8&qid=1520701004&sr=1-1&keywords=Wild+Life+by+Robert+Trivers)
