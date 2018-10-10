@@ -6,12 +6,14 @@ Here is a list of books that I have enjoyed. This includes fiction an non-fictio
 
 ## In Progress
 
-* [The 4th Revolution by Luciano Floridi](https://www.amazon.com/Fourth-Revolution-infosphere-reshaping-reality/dp/0199606722/ref=sr_1_5?ie=UTF8&qid=1530308835&sr=8-5&keywords=the+fourth+revolution+internet)
-* [The Folly of Fools by Robert Trivers](https://www.amazon.com/Folly-Fools-Logic-Deceit-Self-Deception/dp/0465085970/ref=sr_1_1?s=books&ie=UTF8&qid=1520700910&sr=1-1&keywords=The+Folly+of+Fools+by+Robert+Trivers)
+* [21 Lessons for the 21st Century by Yuval Noah Harari](https://www.amazon.com/Lessons-21st-Century-Yuval-Harari/dp/0525512179)
+* [The World Until Yesterday by Jared Diamond](https://www.amazon.com/World-Until-Yesterday-Traditional-Societies/dp/0143124404/ref=sr_1_1?s=books&ie=UTF8&qid=1520700898&sr=1-1&keywords=The+World+Until+Yesterday+by+Jared+Diamond)
+
 
 
 ## Have Read
 
+** [The 4th Revolution by Luciano Floridi](https://www.amazon.com/Fourth-Revolution-infosphere-reshaping-reality/dp/0199606722/ref=sr_1_5?ie=UTF8&qid=1530308835&sr=8-5&keywords=the+fourth+revolution+internet)
 * [Principles: Life and Work by Ray Dalio](https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1508243247/ref=sr_1_1_sspa?ie=UTF8&qid=1536864316&sr=8-1-spons&keywords=principles+ray+dalio&psc=1)
 * [The Internet of Us by Michael Lynch](https://www.amazon.com/Internet-Us-Knowing-More-Understanding/dp/1631492772/ref=sr_1_1?ie=UTF8&qid=1530247809&sr=8-1&keywords=The+Internet+of+Us%3A+Knowing+More+and+Understanding+Less+in+the+Age+of+Big+Data)
 * [Wild Life by Robert Trivers](https://www.amazon.com/Wild-Life-Adventures-Evolutionary-Biologist/dp/1938972120/ref=sr_1_1?s=books&ie=UTF8&qid=1520701004&sr=1-1&keywords=Wild+Life+by+Robert+Trivers)
@@ -60,9 +62,8 @@ Here is a list of books that I have enjoyed. This includes fiction an non-fictio
 ## To Read
 
 #### On Audible
-* [21 Lessons for the 21st Century by Yuval Noah Harari](https://www.amazon.com/Lessons-21st-Century-Yuval-Harari/dp/0525512179)
+* [10 Arugments to Delete Your Social Media Accounts Right Now by Jaron Lanier](https://www.amazon.com/Arguments-Deleting-Social-Media-Accounts/dp/B07CX579TC/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)
 * [A Perfect Mess: The Hidden Benefits of Disorder](https://www.amazon.com/Perfect-Mess-Benefits-Cluttered-Fly/dp/0316114758/ref=sr_1_3?ie=UTF8&qid=1524759905&sr=8-3&keywords=a+perfect+mess)
-* [The World Until Yesterday by Jared Diamond](https://www.amazon.com/World-Until-Yesterday-Traditional-Societies/dp/0143124404/ref=sr_1_1?s=books&ie=UTF8&qid=1520700898&sr=1-1&keywords=The+World+Until+Yesterday+by+Jared+Diamond)
 * [The Third Chimpanzee by Jared Diamond](https://www.amazon.com/Third-Chimpanzee-Evolution-Future-Animal/dp/0060845503/ref=sr_1_1?s=books&ie=UTF8&qid=1520700920&sr=1-1&keywords=The+Third+Chimpanzee+by+Jared+Diamond)
 * [Thinking Fast and Slow by Daniel Kahneman](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/ref=sr_1_1?s=books&ie=UTF8&qid=1520700953&sr=1-1&keywords=Thinking+Fast+and+Slow+by+Daniel+Kahneman)
 * [1491: New Revelations of the Americas Before Columbus by Charles Mann](https://www.amazon.com/1491-Revelations-Americas-Before-Columbus/dp/1400032059/ref=sr_1_1?s=books&ie=UTF8&qid=1520700975&sr=1-1&keywords=1491%3A+The+Americas+Before+Columbus+by+Charles+Mann)
@@ -76,6 +77,7 @@ Here is a list of books that I have enjoyed. This includes fiction an non-fictio
 
 
 #### Not on Audible
+** [The Folly of Fools by Robert Trivers](https://www.amazon.com/Folly-Fools-Logic-Deceit-Self-Deception/dp/0465085970/ref=sr_1_1?s=books&ie=UTF8&qid=1520700910&sr=1-1&keywords=The+Folly+of+Fools+by+Robert+Trivers)
 * [The Middle East by Bernard Lewis](https://www.amazon.com/Middle-East-Brief-History-Years/dp/0684832801/ref=sr_1_1?ie=UTF8&qid=1522987352&sr=8-1&keywords=the+middle+east+bernard+lewis)
 * [Straw Dogs by John Gray](https://www.amazon.com/Straw-Dogs-Thoughts-Humans-Animals/dp/0374270937/ref=sr_1_1?ie=UTF8&qid=1522442341&sr=8-1&keywords=straw+dogs+john+gray)
 * [The Fractal Geometry of Nature by Benoit Mandelbrodt](https://www.amazon.com/Fractal-Geometry-Nature-Benoit-Mandelbrot/dp/0716711869/ref=sr_1_sc_1?s=books&ie=UTF8&qid=1520700875&sr=1-1-spell&keywords=The+Fractal+Geometry+of+Nature+by+Benoit+Mandelbrodt)
