@@ -7,12 +7,11 @@ Here is a list of books that I have enjoyed. This includes fiction an non-fictio
 ## In Progress
 
 * [21 Lessons for the 21st Century by Yuval Noah Harari](https://www.amazon.com/Lessons-21st-Century-Yuval-Harari/dp/0525512179)
-* [The World Until Yesterday by Jared Diamond](https://www.amazon.com/World-Until-Yesterday-Traditional-Societies/dp/0143124404/ref=sr_1_1?s=books&ie=UTF8&qid=1520700898&sr=1-1&keywords=The+World+Until+Yesterday+by+Jared+Diamond)
-
-
+* [10 Arugments to Delete Your Social Media Accounts Right Now by Jaron Lanier](https://www.amazon.com/Arguments-Deleting-Social-Media-Accounts/dp/B07CX579TC/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)
 
 ## Have Read
 
+* [The World Until Yesterday by Jared Diamond](https://www.amazon.com/World-Until-Yesterday-Traditional-Societies/dp/0143124404/ref=sr_1_1?s=books&ie=UTF8&qid=1520700898&sr=1-1&keywords=The+World+Until+Yesterday+by+Jared+Diamond)
 * [The 4th Revolution by Luciano Floridi](https://www.amazon.com/Fourth-Revolution-infosphere-reshaping-reality/dp/0199606722/ref=sr_1_5?ie=UTF8&qid=1530308835&sr=8-5&keywords=the+fourth+revolution+internet)
 * [Principles: Life and Work by Ray Dalio](https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1508243247/ref=sr_1_1_sspa?ie=UTF8&qid=1536864316&sr=8-1-spons&keywords=principles+ray+dalio&psc=1)
 * [The Internet of Us by Michael Lynch](https://www.amazon.com/Internet-Us-Knowing-More-Understanding/dp/1631492772/ref=sr_1_1?ie=UTF8&qid=1530247809&sr=8-1&keywords=The+Internet+of+Us%3A+Knowing+More+and+Understanding+Less+in+the+Age+of+Big+Data)
@@ -62,7 +61,6 @@ Here is a list of books that I have enjoyed. This includes fiction an non-fictio
 ## To Read
 
 #### On Audible
-* [10 Arugments to Delete Your Social Media Accounts Right Now by Jaron Lanier](https://www.amazon.com/Arguments-Deleting-Social-Media-Accounts/dp/B07CX579TC/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)
 * [A Perfect Mess: The Hidden Benefits of Disorder](https://www.amazon.com/Perfect-Mess-Benefits-Cluttered-Fly/dp/0316114758/ref=sr_1_3?ie=UTF8&qid=1524759905&sr=8-3&keywords=a+perfect+mess)
 * [The Third Chimpanzee by Jared Diamond](https://www.amazon.com/Third-Chimpanzee-Evolution-Future-Animal/dp/0060845503/ref=sr_1_1?s=books&ie=UTF8&qid=1520700920&sr=1-1&keywords=The+Third+Chimpanzee+by+Jared+Diamond)
 * [Thinking Fast and Slow by Daniel Kahneman](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/ref=sr_1_1?s=books&ie=UTF8&qid=1520700953&sr=1-1&keywords=Thinking+Fast+and+Slow+by+Daniel+Kahneman)
