@@ -6,11 +6,12 @@ Here is a list of books that I have enjoyed. This includes fiction an non-fictio
 
 ## In Progress
 
-* [21 Lessons for the 21st Century by Yuval Noah Harari](https://www.amazon.com/Lessons-21st-Century-Yuval-Harari/dp/0525512179)
+* [A Jew in the Lotus by Rodger Kamenetz](https://www.amazon.com/Jew-Lotus-Rediscovery-Identity-Buddhist/dp/0061367397/ref=sr_1_1?ie=UTF8&qid=1530470844&sr=8-1&keywords=the+jew+in+the+lotus)
 * [10 Arugments to Delete Your Social Media Accounts Right Now by Jaron Lanier](https://www.amazon.com/Arguments-Deleting-Social-Media-Accounts/dp/B07CX579TC/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)
 
 ## Have Read
 
+* [21 Lessons for the 21st Century by Yuval Noah Harari](https://www.amazon.com/Lessons-21st-Century-Yuval-Harari/dp/0525512179) 
 * [The World Until Yesterday by Jared Diamond](https://www.amazon.com/World-Until-Yesterday-Traditional-Societies/dp/0143124404/ref=sr_1_1?s=books&ie=UTF8&qid=1520700898&sr=1-1&keywords=The+World+Until+Yesterday+by+Jared+Diamond)
 * [The 4th Revolution by Luciano Floridi](https://www.amazon.com/Fourth-Revolution-infosphere-reshaping-reality/dp/0199606722/ref=sr_1_5?ie=UTF8&qid=1530308835&sr=8-5&keywords=the+fourth+revolution+internet)
 * [Principles: Life and Work by Ray Dalio](https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1508243247/ref=sr_1_1_sspa?ie=UTF8&qid=1536864316&sr=8-1-spons&keywords=principles+ray+dalio&psc=1)
@@ -107,6 +108,5 @@ Here is a list of books that I have enjoyed. This includes fiction an non-fictio
 * [The People's Platform by Astra Taylor](https://www.amazon.com/Peoples-Platform-Taking-Culture-Digital/dp/1250062594/ref=sr_1_2?ie=UTF8&qid=1530247674&sr=8-2&keywords=The+People%27s+Platform%3A+Taking+Back+Power+and+Culture+in+the+Digital+Age)
 * [Pressed for Time by Judy Wacjman](https://www.amazon.com/Pressed-Time-Acceleration-Digital-Capitalism/dp/022638084X/ref=sr_1_1?ie=UTF8&qid=1530247682&sr=8-1&keywords=Pressed+for+Time%3A+The+Acceleration+of+Life+in+Digital+Capitalism)
 * [Technology and the Virtues by Shannon Vallor](https://www.amazon.com/Technology-Virtues-Philosophical-Future-Wanting/dp/019049851X/ref=sr_1_1?ie=UTF8&qid=1530293721&sr=8-1&keywords=technology+and+the+virtues&dpID=51HtyxBgFSL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch)
-* [A Jew in the Lotus by Rodger Kamenetz](https://www.amazon.com/Jew-Lotus-Rediscovery-Identity-Buddhist/dp/0061367397/ref=sr_1_1?ie=UTF8&qid=1530470844&sr=8-1&keywords=the+jew+in+the+lotus)
 * [Gate to the Heart: A Manual of Contemplative Jewish Practice by Zalman Scachter-Shalomi](https://www.amazon.com/Gate-Heart-Manual-Contemplative-Practice/dp/0615944566/ref=sr_1_3?s=books&ie=UTF8&qid=1530471016&sr=1-3&keywords=zalman+schachter-shalomi)
 * [Credo of a Modern Kabbalist by Zalman Schacter-Shalomi](https://www.amazon.com/Credo-Modern-Kabbalist-Zalman-Schachter-Shalomi/dp/1412061075/ref=sr_1_11?s=books&ie=UTF8&qid=1530471016&sr=1-11&keywords=zalman+schachter-shalomi)
