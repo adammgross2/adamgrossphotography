@@ -2,15 +2,17 @@
 layout: default
 title: Adam's Reading List
 ---
-Here is a list of books that I have enjoyed. This includes fiction and non-fiction, and it is roughly ordered by the recency of reading. I will also include a section at the end for books that I have yet to read, but intend to read in my life. There is a separate section of this website called [academic work](/academic_work) that contains the content I have read for my Middle Eastern History studies.
+Here is a list of books that I have enjoyed. This includes fiction and non-fiction (but is mostly non-fiction), and it is roughly ordered by the recency of reading. There a section at the end for books that are on my todo list. There is a separate section of this website called [academic work](/academic_work) that contains the content I have read for my Middle Eastern History studies.
+
 
 ## In Progress
 
 * [A Jew in the Lotus by Rodger Kamenetz](https://www.amazon.com/Jew-Lotus-Rediscovery-Identity-Buddhist/dp/0061367397/ref=sr_1_1?ie=UTF8&qid=1530470844&sr=8-1&keywords=the+jew+in+the+lotus)
-* [10 Arugments to Delete Your Social Media Accounts Right Now by Jaron Lanier](https://www.amazon.com/Arguments-Deleting-Social-Media-Accounts/dp/B07CX579TC/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)
+
 
 ## Have Read
 
+* [10 Arugments to Delete Your Social Media Accounts Right Now by Jaron Lanier](https://www.amazon.com/Arguments-Deleting-Social-Media-Accounts/dp/B07CX579TC/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)
 * [21 Lessons for the 21st Century by Yuval Noah Harari](https://www.amazon.com/Lessons-21st-Century-Yuval-Harari/dp/0525512179) 
 * [The World Until Yesterday by Jared Diamond](https://www.amazon.com/World-Until-Yesterday-Traditional-Societies/dp/0143124404/ref=sr_1_1?s=books&ie=UTF8&qid=1520700898&sr=1-1&keywords=The+World+Until+Yesterday+by+Jared+Diamond)
 * [The 4th Revolution by Luciano Floridi](https://www.amazon.com/Fourth-Revolution-infosphere-reshaping-reality/dp/0199606722/ref=sr_1_5?ie=UTF8&qid=1530308835&sr=8-5&keywords=the+fourth+revolution+internet)
@@ -73,6 +75,10 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 * [Culture and Imperialism by Edward Said](https://www.amazon.com/Culture-Imperialism-Edward-W-Said/dp/0679750541/ref=sr_1_1?s=books&ie=UTF8&qid=1520701077&sr=1-1&keywords=Culture+and+Imperialism+by+Edward+Said)
 * [Dancing Arabs by Sayed Kashua](https://www.amazon.com/Dancing-Arabs-Sayed-Kashua/dp/0802141269/ref=sr_1_1?s=books&ie=UTF8&qid=1520700795&sr=1-1&keywords=dancing+arabs)
 * [Memes in Digital Culture by Limor Shifman](https://www.amazon.com/Memes-Digital-Culture-Essential-Knowledge/dp/0262525437/ref=sr_1_1?ie=UTF8&qid=1530247668&sr=8-1&keywords=Memes+in+Digital+Culture+%28Essential+Knowledge%29)
+* [Altered Traits: Science Reveals How Meditation Changes Your Mind, Brain, and Body by Daniel Goleman and Richard Davidson](https://www.amazon.com/gp/product/0399184384/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1)
+* [The Left Hand of Darkness by Ursula Le Guin](https://www.amazon.com/gp/product/0143111590/ref=oh_aui_detailpage_o05_s00?ie=UTF8&psc=1)
+* [Fantasyland: How America Went Haywire: A 500-Year History by Kurt Andersen](https://www.amazon.com/gp/product/1400067219/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1)
+* [Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen by Christopher McDougal](https://www.amazon.com/gp/product/0307266303/ref=oh_aui_detailpage_o09_s00?ie=UTF8&psc=1)
 
 
 #### Not on Audible
@@ -110,3 +116,6 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 * [Technology and the Virtues by Shannon Vallor](https://www.amazon.com/Technology-Virtues-Philosophical-Future-Wanting/dp/019049851X/ref=sr_1_1?ie=UTF8&qid=1530293721&sr=8-1&keywords=technology+and+the+virtues&dpID=51HtyxBgFSL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch)
 * [Gate to the Heart: A Manual of Contemplative Jewish Practice by Zalman Scachter-Shalomi](https://www.amazon.com/Gate-Heart-Manual-Contemplative-Practice/dp/0615944566/ref=sr_1_3?s=books&ie=UTF8&qid=1530471016&sr=1-3&keywords=zalman+schachter-shalomi)
 * [Credo of a Modern Kabbalist by Zalman Schacter-Shalomi](https://www.amazon.com/Credo-Modern-Kabbalist-Zalman-Schachter-Shalomi/dp/1412061075/ref=sr_1_11?s=books&ie=UTF8&qid=1530471016&sr=1-11&keywords=zalman+schachter-shalomi)
+* [The Throne of Adulis: Red Sea Wars on the Eve of Islam by G.W. Bowersock](https://www.amazon.com/gp/product/0199739323/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1)
+* [Black Banners of ISIS: The Roots of the New Caliphate by David J. Wasserstein](https://www.amazon.com/gp/product/030022835X/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1)
+* [The Book of Tea by Kakuzo Okakura](https://www.amazon.com/gp/product/0486479145/ref=oh_aui_detailpage_o05_s00?ie=UTF8&psc=1)
