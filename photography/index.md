@@ -6,6 +6,9 @@ title: Adam's Photography
 ### Inca Trail, Peru
 ![](https://lh3.googleusercontent.com/2g0rTvkwf8aE73em9EVRsoellFwvUczV6X4224ed-h-5T_x4QbeIqFNA8Eng88-xHSCSVmz-Rh8A8WMbAD6XHQHommzY9cFP80BtdE7-3qIV7fQjFms5SAX55UZ3q07pNGIJygBfQTM=w2400)
 
+### Joshua Tree National Park, California
+![](https://lh3.googleusercontent.com/ZaSWaAYf1YEySWaZhHun3R8P5XJHZdoDAbfQ4Trm5cyMk7QfVABN8ZyJXsmg3CWukPIiDdO6MEv0QSQXBHwp1_eKxdNlYD4DYYi1c7SOCkDnwPL8GA4VyU2Dykl803HI6kprBYvJa3Y=w2400)
+
 ### Canyonlands National Park, Utah
 ![](https://lh3.googleusercontent.com/Cs6BQCIcTMr3R7zvDrzLZUGWtxCpQbwlB0enziCdhtGphwlDWdJAYWuAxb1EZRfuhs5nPD2uqhncDg48oRV6hDQE02kcBm8ZqVJgzaFwErJm0U0prPGCRRodbDP5j8rTpC6K_NMXX-k=w2400){:height="640px" width="960px" .center-image}
 
