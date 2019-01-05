@@ -2,7 +2,10 @@
 layout: default
 title: Adam's Photography
 ---
-Here are the pictures I have taken that I am the most proud of.
+
+### Inca Trail, Peru
+![](https://lh3.googleusercontent.com/2g0rTvkwf8aE73em9EVRsoellFwvUczV6X4224ed-h-5T_x4QbeIqFNA8Eng88-xHSCSVmz-Rh8A8WMbAD6XHQHommzY9cFP80BtdE7-3qIV7fQjFms5SAX55UZ3q07pNGIJygBfQTM=w2400)
+
 ### Canyonlands National Park, Utah
 ![](https://lh3.googleusercontent.com/Cs6BQCIcTMr3R7zvDrzLZUGWtxCpQbwlB0enziCdhtGphwlDWdJAYWuAxb1EZRfuhs5nPD2uqhncDg48oRV6hDQE02kcBm8ZqVJgzaFwErJm0U0prPGCRRodbDP5j8rTpC6K_NMXX-k=w2400){:height="640px" width="960px" .center-image}
 
