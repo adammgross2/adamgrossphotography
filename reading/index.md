@@ -64,6 +64,7 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 ## To Read
 
 #### On Audible
+* [Superminds: The Surprising Power of People and Computers Thinking Together by Thomas Malone](https://www.amazon.com/Superminds-Surprising-Computers-Thinking-Together/dp/0316349135/ref=sr_1_1?ie=UTF8&qid=1547842213&sr=8-1&keywords=superminds)
 * [A Perfect Mess: The Hidden Benefits of Disorder](https://www.amazon.com/Perfect-Mess-Benefits-Cluttered-Fly/dp/0316114758/ref=sr_1_3?ie=UTF8&qid=1524759905&sr=8-3&keywords=a+perfect+mess)
 * [The Third Chimpanzee by Jared Diamond](https://www.amazon.com/Third-Chimpanzee-Evolution-Future-Animal/dp/0060845503/ref=sr_1_1?s=books&ie=UTF8&qid=1520700920&sr=1-1&keywords=The+Third+Chimpanzee+by+Jared+Diamond)
 * [Thinking Fast and Slow by Daniel Kahneman](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/ref=sr_1_1?s=books&ie=UTF8&qid=1520700953&sr=1-1&keywords=Thinking+Fast+and+Slow+by+Daniel+Kahneman)
