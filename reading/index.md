@@ -8,6 +8,8 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 ## In Progress
 
 * [A Jew in the Lotus by Rodger Kamenetz](https://www.amazon.com/Jew-Lotus-Rediscovery-Identity-Buddhist/dp/0061367397/ref=sr_1_1?ie=UTF8&qid=1530470844&sr=8-1&keywords=the+jew+in+the+lotus)
+* [Kafka on the Shore by Haruki Murakami](https://www.amazon.com/Kafka-Shore-Haruki-Murakami/dp/1400079276/ref=sr_1_1?ie=UTF8&qid=1549517022&sr=8-1&keywords=kafka+on+the+shore)
+* [Heretic by Aayan Hirsi Ali](https://www.amazon.com/Heretic-Why-Islam-Needs-Reformation-ebook/dp/B00FVW8MH0/ref=sr_1_1?ie=UTF8&qid=1549517018&sr=8-1&keywords=heretic+ayaan+hirsi)
 
 
 ## Have Read
