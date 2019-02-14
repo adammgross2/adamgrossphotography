@@ -7,13 +7,15 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 
 ## In Progress
 
-* [A Jew in the Lotus by Rodger Kamenetz](https://www.amazon.com/Jew-Lotus-Rediscovery-Identity-Buddhist/dp/0061367397/ref=sr_1_1?ie=UTF8&qid=1530470844&sr=8-1&keywords=the+jew+in+the+lotus)
 * [Kafka on the Shore by Haruki Murakami](https://www.amazon.com/Kafka-Shore-Haruki-Murakami/dp/1400079276/ref=sr_1_1?ie=UTF8&qid=1549517022&sr=8-1&keywords=kafka+on+the+shore)
-* [Heretic by Aayan Hirsi Ali](https://www.amazon.com/Heretic-Why-Islam-Needs-Reformation-ebook/dp/B00FVW8MH0/ref=sr_1_1?ie=UTF8&qid=1549517018&sr=8-1&keywords=heretic+ayaan+hirsi)
+* [AI Superpowers: China, Silicon Valley, and the New World Order by Kai-Fu Lee](https://www.amazon.com/AI-Superpowers-China-Silicon-Valley/dp/132854639X/ref=sr_1_1?ie=UTF8&qid=1550173695&sr=8-1&keywords=ai+superpowers)
+* [A Jew in the Lotus by Rodger Kamenetz](https://www.amazon.com/Jew-Lotus-Rediscovery-Identity-Buddhist/dp/0061367397/ref=sr_1_1?ie=UTF8&qid=1530470844&sr=8-1&keywords=the+jew+in+the+lotus)
+
 
 
 ## Have Read
 
+* [Heretic by Aayan Hirsi Ali](https://www.amazon.com/Heretic-Why-Islam-Needs-Reformation-ebook/dp/B00FVW8MH0/ref=sr_1_1?ie=UTF8&qid=1549517018&sr=8-1&keywords=heretic+ayaan+hirsi)
 * [10 Arugments to Delete Your Social Media Accounts Right Now by Jaron Lanier](https://www.amazon.com/Arguments-Deleting-Social-Media-Accounts/dp/B07CX579TC/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)
 * [21 Lessons for the 21st Century by Yuval Noah Harari](https://www.amazon.com/Lessons-21st-Century-Yuval-Harari/dp/0525512179) 
 * [The World Until Yesterday by Jared Diamond](https://www.amazon.com/World-Until-Yesterday-Traditional-Societies/dp/0143124404/ref=sr_1_1?s=books&ie=UTF8&qid=1520700898&sr=1-1&keywords=The+World+Until+Yesterday+by+Jared+Diamond)
