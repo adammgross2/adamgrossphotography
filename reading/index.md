@@ -6,7 +6,7 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 
 
 ## In Progress
-[Tribe: On Homecoming and Belonging by Sebastian Junger](https://www.amazon.com/Tribe-Homecoming-Belonging-Sebastian-Junger/dp/1455566381/ref=sr_1_1?keywords=Tribe%3A+On+Homecoming+and+Belonging&qid=1551122041&s=gateway&sr=8-1)
+* [Tribe: On Homecoming and Belonging by Sebastian Junger](https://www.amazon.com/Tribe-Homecoming-Belonging-Sebastian-Junger/dp/1455566381/ref=sr_1_1?keywords=Tribe%3A+On+Homecoming+and+Belonging&qid=1551122041&s=gateway&sr=8-1)
 * [A Jew in the Lotus by Rodger Kamenetz](https://www.amazon.com/Jew-Lotus-Rediscovery-Identity-Buddhist/dp/0061367397/ref=sr_1_1?ie=UTF8&qid=1530470844&sr=8-1&keywords=the+jew+in+the+lotus)
 
 
