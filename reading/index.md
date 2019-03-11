@@ -6,13 +6,17 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 
 
 ## In Progress
-* [Tribe: On Homecoming and Belonging by Sebastian Junger](https://www.amazon.com/Tribe-Homecoming-Belonging-Sebastian-Junger/dp/1455566381/ref=sr_1_1?keywords=Tribe%3A+On+Homecoming+and+Belonging&qid=1551122041&s=gateway&sr=8-1)
+
+* [Imperial Twilight: The Opium War and the End of China's Last Golden Age by Stepehn Platt](https://www.amazon.com/Imperial-Twilight-Opium-Chinas-Golden-ebook/dp/B074YK9NHS/ref=sr_1_fkmrnull_1?keywords=imperial+twilight+stephen+platt&qid=1552321242&s=gateway&sr=8-1-fkmrnull)
+* [The Third Chimpanzee by Jared Diamond](https://www.amazon.com/Third-Chimpanzee-Evolution-Future-Animal/dp/0060845503/ref=sr_1_1?s=books&ie=UTF8&qid=1520700920&sr=1-1&keywords=The+Third+Chimpanzee+by+Jared+Diamond)
 * [A Jew in the Lotus by Rodger Kamenetz](https://www.amazon.com/Jew-Lotus-Rediscovery-Identity-Buddhist/dp/0061367397/ref=sr_1_1?ie=UTF8&qid=1530470844&sr=8-1&keywords=the+jew+in+the+lotus)
+* [Seneca's Letters](https://www.amazon.com/gp/product/022652843X/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
 
 
 
 ## Have Read
 
+* [Tribe: On Homecoming and Belonging by Sebastian Junger](https://www.amazon.com/Tribe-Homecoming-Belonging-Sebastian-Junger/dp/1455566381/ref=sr_1_1?keywords=Tribe%3A+On+Homecoming+and+Belonging&qid=1551122041&s=gateway&sr=8-1)
 * [Kafka on the Shore by Haruki Murakami](https://www.amazon.com/Kafka-Shore-Haruki-Murakami/dp/1400079276/ref=sr_1_1?ie=UTF8&qid=1549517022&sr=8-1&keywords=kafka+on+the+shore)
 * [AI Superpowers: China, Silicon Valley, and the New World Order by Kai-Fu Lee](https://www.amazon.com/AI-Superpowers-China-Silicon-Valley/dp/132854639X/ref=sr_1_1?ie=UTF8&qid=1550173695&sr=8-1&keywords=ai+superpowers)
 * [Heretic by Aayan Hirsi Ali](https://www.amazon.com/Heretic-Why-Islam-Needs-Reformation-ebook/dp/B00FVW8MH0/ref=sr_1_1?ie=UTF8&qid=1549517018&sr=8-1&keywords=heretic+ayaan+hirsi)
@@ -68,9 +72,10 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 ## To Read
 
 #### On Audible
+* [One Hundred Years of Solitude by Gabriel Garcia Marquez](https://www.amazon.com/gp/product/0060531045/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1
+* [Team Human by Douglas Rushkoff](https://www.amazon.com/gp/product/039365169X/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1)
 * [Superminds: The Surprising Power of People and Computers Thinking Together by Thomas Malone](https://www.amazon.com/Superminds-Surprising-Computers-Thinking-Together/dp/0316349135/ref=sr_1_1?ie=UTF8&qid=1547842213&sr=8-1&keywords=superminds)
 * [A Perfect Mess: The Hidden Benefits of Disorder](https://www.amazon.com/Perfect-Mess-Benefits-Cluttered-Fly/dp/0316114758/ref=sr_1_3?ie=UTF8&qid=1524759905&sr=8-3&keywords=a+perfect+mess)
-* [The Third Chimpanzee by Jared Diamond](https://www.amazon.com/Third-Chimpanzee-Evolution-Future-Animal/dp/0060845503/ref=sr_1_1?s=books&ie=UTF8&qid=1520700920&sr=1-1&keywords=The+Third+Chimpanzee+by+Jared+Diamond)
 * [Thinking Fast and Slow by Daniel Kahneman](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/ref=sr_1_1?s=books&ie=UTF8&qid=1520700953&sr=1-1&keywords=Thinking+Fast+and+Slow+by+Daniel+Kahneman)
 * [1491: New Revelations of the Americas Before Columbus by Charles Mann](https://www.amazon.com/1491-Revelations-Americas-Before-Columbus/dp/1400032059/ref=sr_1_1?s=books&ie=UTF8&qid=1520700975&sr=1-1&keywords=1491%3A+The+Americas+Before+Columbus+by+Charles+Mann)
 * [Mean Genes by Terry Burnham](https://www.amazon.com/Mean-Genes-Taming-Primal-Instincts/dp/0142000078/ref=sr_1_2?s=books&ie=UTF8&qid=1520700402&sr=1-2&keywords=mean+genes)
