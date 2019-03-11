@@ -36,9 +36,6 @@ title: Adam's Photography
 ### Zion National Park, Utah
 ![](https://lh3.googleusercontent.com/PMsBm1OCelEkL_JPbLAEwWawlMXYn21SffOBYAhCoSDAtXLXBpWCyRCNx0c7VPk5veoPMXE6MDw5Td_-vMssIYLcbzHn01tfFUE6Goa3vIyuDFhp_R9OKGfsV3qUzHlk-wPcgavWLUI=w2400){:height="640px" width="960px" .center-image}
 
-### Zion National Park, Utah
-![](https://lh3.googleusercontent.com/D8OXlsxNjsoINjBjTuo_9aoZCwlVc7648djsRFhLNWqWnQtLX3pTLlFnWBf854sGTtMgZeGygqiw41AIlVJeGnECwuKVT_PPwhv_mYtLm6QTTJcE_YRnJIyiyPaqD0pIqGYwHSRHyu4=w2400){:height="640px" width="960px" .center-image}
-
 ### Yosemite National Park, California
 ![](https://lh3.googleusercontent.com/tqcYQOogCChBvpw5CpwNRBL88FGzkTLApgxzCIWhVC4O_RIdFK-D_6kzaNYFSa8y37PZgCpDV-wK5xo1nAFYW1T3e-ApnRWlrLwowVtfbG-xpuY-_UlxhWTZJ9NeOH14dlfBU422Sa4=w2400){:height="640px" width="960px" .center-image}
 
