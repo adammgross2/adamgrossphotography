@@ -2,6 +2,14 @@
 layout: default
 title: Adam's Photography
 ---
+### Death Valley National Park, California
+![](https://lh3.googleusercontent.com/c6658hFl9yvvi9pt7N9Fm1dnw9oCirCwR0qeobBAbRHFdIOHG4PmGPl1avz1BLf7Ku0ZtTmPxvTEq0SAO-RKG3_aeHbcT2QSs21gPlF_LzQVMYXKxDpzN_VFkAk8-8Py_gJ0BrU_uXs=w2400){:height="640px" width="960px" .center-image}
+
+### Malibu, California
+![](https://lh3.googleusercontent.com/IR7UoXMmilE_dS4zlEdAAIsROgNqXr8D2xLTc99QJ4mvLGGw2GwJy11USlpx7SyHKiCD3jjBsjGjcIMYly2FV26U6pp5Ev9XE1KSJ3zlMkPas9jx41tvsXI3zFBhVLMn4wVZNEaAEfQ=w2400){:height="640px" width="960px" .center-image}
+
+### Cabo San Lucas, Mexico
+![](https://lh3.googleusercontent.com/4fROjmNLiMQacEANR5WKckJ8zNVKbvlUqKMDQykI-N0ED4x75gvjVgvd367rlSXDjRcXP4W62SVTpDuJW-xhkXhybFnOX9aXFbwLjdSwvqtli58o1tGEWr8xygJK2eTWozQIUgaT3CU=w2400){:height="640px" width="960px" .center-image}
 
 ### Inca Trail, Peru
 ![](https://lh3.googleusercontent.com/2g0rTvkwf8aE73em9EVRsoellFwvUczV6X4224ed-h-5T_x4QbeIqFNA8Eng88-xHSCSVmz-Rh8A8WMbAD6XHQHommzY9cFP80BtdE7-3qIV7fQjFms5SAX55UZ3q07pNGIJygBfQTM=w2400){:height="640px" width="960px" .center-image}
