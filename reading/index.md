@@ -72,7 +72,7 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 ## To Read
 
 #### On Audible
-* [One Hundred Years of Solitude by Gabriel Garcia Marquez](https://www.amazon.com/gp/product/0060531045/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1
+* [One Hundred Years of Solitude by Gabriel Garcia Marquez](https://www.amazon.com/gp/product/0060531045/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
 * [Team Human by Douglas Rushkoff](https://www.amazon.com/gp/product/039365169X/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1)
 * [Superminds: The Surprising Power of People and Computers Thinking Together by Thomas Malone](https://www.amazon.com/Superminds-Surprising-Computers-Thinking-Together/dp/0316349135/ref=sr_1_1?ie=UTF8&qid=1547842213&sr=8-1&keywords=superminds)
 * [A Perfect Mess: The Hidden Benefits of Disorder](https://www.amazon.com/Perfect-Mess-Benefits-Cluttered-Fly/dp/0316114758/ref=sr_1_3?ie=UTF8&qid=1524759905&sr=8-3&keywords=a+perfect+mess)
