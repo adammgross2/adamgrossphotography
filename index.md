@@ -5,7 +5,7 @@ title: Adam Gross's Personal Website
 <meta property="og:image" content="https://lh3.googleusercontent.com/eWvRhY3r-mXe8XcvQ_9wIz1tvlPk5bNYTS8YTPkg7g-tSp0mj0g6XQ_pNjr6HREj6w4s-8PA4Yhxf3KSt25awaSzUG1NTOLosY0erAjNHyqSXUaG_rEqBNFmdXb8No9C7XwptOAjzdo=w2400" />
 
 # Adam Gross
-Hey! Thanks for visiting my website.
+Hey! Thanks for visiting my website. You can find my bio on the [About Me](/about) page.
 
 * The [Reading](/reading) page has a list of my reading activity: books in progress, completed, and to read next.
 * The [Photography](/photography) page is a gallery of my favorite photos I have taken.
