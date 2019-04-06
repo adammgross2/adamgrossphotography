@@ -7,7 +7,7 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 
 ## In Progress
 
-* [Imperial Twilight: The Opium War and the End of China's Last Golden Age by Stepehn Platt](https://www.amazon.com/Imperial-Twilight-Opium-Chinas-Golden-ebook/dp/B074YK9NHS/ref=sr_1_fkmrnull_1?keywords=imperial+twilight+stephen+platt&qid=1552321242&s=gateway&sr=8-1-fkmrnull)
+
 * [The Third Chimpanzee by Jared Diamond](https://www.amazon.com/Third-Chimpanzee-Evolution-Future-Animal/dp/0060845503/ref=sr_1_1?s=books&ie=UTF8&qid=1520700920&sr=1-1&keywords=The+Third+Chimpanzee+by+Jared+Diamond)
 * [A Jew in the Lotus by Rodger Kamenetz](https://www.amazon.com/Jew-Lotus-Rediscovery-Identity-Buddhist/dp/0061367397/ref=sr_1_1?ie=UTF8&qid=1530470844&sr=8-1&keywords=the+jew+in+the+lotus)
 * [Seneca's Letters](https://www.amazon.com/gp/product/022652843X/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
@@ -16,6 +16,8 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 
 ## Have Read
 
+* [The Left Hand of Darkness by Ursula Le Guin](https://www.amazon.com/gp/product/0143111590/ref=oh_aui_detailpage_o05_s00?ie=UTF8&psc=1)
+* [Imperial Twilight: The Opium War and the End of China's Last Golden Age by Stepehn Platt](https://www.amazon.com/Imperial-Twilight-Opium-Chinas-Golden-ebook/dp/B074YK9NHS/ref=sr_1_fkmrnull_1?keywords=imperial+twilight+stephen+platt&qid=1552321242&s=gateway&sr=8-1-fkmrnull)
 * [Tribe: On Homecoming and Belonging by Sebastian Junger](https://www.amazon.com/Tribe-Homecoming-Belonging-Sebastian-Junger/dp/1455566381/ref=sr_1_1?keywords=Tribe%3A+On+Homecoming+and+Belonging&qid=1551122041&s=gateway&sr=8-1)
 * [Kafka on the Shore by Haruki Murakami](https://www.amazon.com/Kafka-Shore-Haruki-Murakami/dp/1400079276/ref=sr_1_1?ie=UTF8&qid=1549517022&sr=8-1&keywords=kafka+on+the+shore)
 * [AI Superpowers: China, Silicon Valley, and the New World Order by Kai-Fu Lee](https://www.amazon.com/AI-Superpowers-China-Silicon-Valley/dp/132854639X/ref=sr_1_1?ie=UTF8&qid=1550173695&sr=8-1&keywords=ai+superpowers)
@@ -88,13 +90,16 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 * [Dancing Arabs by Sayed Kashua](https://www.amazon.com/Dancing-Arabs-Sayed-Kashua/dp/0802141269/ref=sr_1_1?s=books&ie=UTF8&qid=1520700795&sr=1-1&keywords=dancing+arabs)
 * [Memes in Digital Culture by Limor Shifman](https://www.amazon.com/Memes-Digital-Culture-Essential-Knowledge/dp/0262525437/ref=sr_1_1?ie=UTF8&qid=1530247668&sr=8-1&keywords=Memes+in+Digital+Culture+%28Essential+Knowledge%29)
 * [Altered Traits: Science Reveals How Meditation Changes Your Mind, Brain, and Body by Daniel Goleman and Richard Davidson](https://www.amazon.com/gp/product/0399184384/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1)
-* [The Left Hand of Darkness by Ursula Le Guin](https://www.amazon.com/gp/product/0143111590/ref=oh_aui_detailpage_o05_s00?ie=UTF8&psc=1)
 * [Fantasyland: How America Went Haywire: A 500-Year History by Kurt Andersen](https://www.amazon.com/gp/product/1400067219/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1)
 * [Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen by Christopher McDougal](https://www.amazon.com/gp/product/0307266303/ref=oh_aui_detailpage_o09_s00?ie=UTF8&psc=1)
 
 
 #### Not on Audible
 
+* [Emerson: Essays and Lectures: Nature: Addresses and Lectures / Essays: First and Second Series / Representative Men / English Traits / The Conduct of Life (Library of America)](https://www.amazon.com/gp/product/0940450151/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
+* [Thomas Jefferson : Writings : Autobiography / Notes on the State of Virginia / Public and Private Papers / Addresses / Letters (Library of America)](https://www.amazon.com/gp/product/094045016X/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
+* [James Madison: Writings (LOA #109) (Library of America Founders Collection)](https://www.amazon.com/gp/product/1883011663/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
+* [Thomas Paine : Collected Writings : Common Sense / The Crisis / Rights of Man / The Age of Reason / Pamphlets, Articles, and Letters (Library of America)](https://www.amazon.com/gp/product/1883011035/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
 * [Agrarian Justice by Thomas Paine](https://en.wikipedia.org/wiki/Agrarian_Justice)
 * [The Folly of Fools by Robert Trivers](https://www.amazon.com/Folly-Fools-Logic-Deceit-Self-Deception/dp/0465085970/ref=sr_1_1?s=books&ie=UTF8&qid=1520700910&sr=1-1&keywords=The+Folly+of+Fools+by+Robert+Trivers)
 * [The Middle East by Bernard Lewis](https://www.amazon.com/Middle-East-Brief-History-Years/dp/0684832801/ref=sr_1_1?ie=UTF8&qid=1522987352&sr=8-1&keywords=the+middle+east+bernard+lewis)
