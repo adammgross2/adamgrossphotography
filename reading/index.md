@@ -2,7 +2,7 @@
 layout: default
 title: Adam's Reading List
 ---
-Here is a list of books that I have enjoyed. This includes fiction and non-fiction (but is mostly non-fiction), and it is roughly ordered by the recency of reading. There a section at the end for books that are on my todo list. There is a separate section of this website called [academic work](/academic_work) that contains the content I have read for my Middle Eastern History studies.
+Here is a list of books that I have enjoyed. This includes fiction and non-fiction (but is mostly non-fiction), and it is ordered by the recency of reading. There a section at the end for books that are on my todo list. **There is a separate section of this website called [academic work](/academic_work) that contains the content I have read for my Middle Eastern History studies.**
 
 
 ## In Progress
@@ -14,6 +14,8 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 
 ## Have Read
 
+### 2019
+
 * [Digital Minimalism: Choosing a Focused Life in a Noisy World by Cal Newport](https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy-ebook/dp/B07DBRBP7G/ref=bmx_3/137-0202655-2206753?_encoding=UTF8&pd_rd_i=B07DBRBP7G&pd_rd_r=c6cac575-45b7-11e9-a0f6-eb01d7bf9839&pd_rd_w=eFodi&pd_rd_wg=gAqSS&pf_rd_p=33750cd9-1585-4897-b3e3-d6ba72a2aa24&pf_rd_r=XM17KHQ6S7BRDNYM07EM&psc=1&refRID=XM17KHQ6S7BRDNYM07EM)
 * [Life After Google: The Fall of Big Data and the Rise of the Blockchain Economy by George Gilder](https://www.amazon.com/Life-After-Google-Blockchain-Economy-ebook/dp/B072NYKG2G/ref=bmx_2/137-0202655-2206753?_encoding=UTF8&pd_rd_i=B072NYKG2G&pd_rd_r=1031d142-45b8-11e9-87a3-d1c5d12b63d5&pd_rd_w=4uD1w&pd_rd_wg=iLXKn&pf_rd_p=33750cd9-1585-4897-b3e3-d6ba72a2aa24&pf_rd_r=FD199ZVG6AT6FPFAJSHP&psc=1&refRID=FD199ZVG6AT6FPFAJSHP)
 * [The Left Hand of Darkness by Ursula Le Guin](https://www.amazon.com/gp/product/0143111590/ref=oh_aui_detailpage_o05_s00?ie=UTF8&psc=1)
@@ -22,6 +24,9 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 * [Kafka on the Shore by Haruki Murakami](https://www.amazon.com/Kafka-Shore-Haruki-Murakami/dp/1400079276/ref=sr_1_1?ie=UTF8&qid=1549517022&sr=8-1&keywords=kafka+on+the+shore)
 * [AI Superpowers: China, Silicon Valley, and the New World Order by Kai-Fu Lee](https://www.amazon.com/AI-Superpowers-China-Silicon-Valley/dp/132854639X/ref=sr_1_1?ie=UTF8&qid=1550173695&sr=8-1&keywords=ai+superpowers)
 * [Heretic by Aayan Hirsi Ali](https://www.amazon.com/Heretic-Why-Islam-Needs-Reformation-ebook/dp/B00FVW8MH0/ref=sr_1_1?ie=UTF8&qid=1549517018&sr=8-1&keywords=heretic+ayaan+hirsi)
+
+### 2018
+
 * [10 Arugments to Delete Your Social Media Accounts Right Now by Jaron Lanier](https://www.amazon.com/Arguments-Deleting-Social-Media-Accounts/dp/B07CX579TC/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)
 * [21 Lessons for the 21st Century by Yuval Noah Harari](https://www.amazon.com/Lessons-21st-Century-Yuval-Harari/dp/0525512179) 
 * [The World Until Yesterday by Jared Diamond](https://www.amazon.com/World-Until-Yesterday-Traditional-Societies/dp/0143124404/ref=sr_1_1?s=books&ie=UTF8&qid=1520700898&sr=1-1&keywords=The+World+Until+Yesterday+by+Jared+Diamond)
@@ -39,6 +44,9 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 * [Meditations by Marcus Aurelius](https://www.amazon.com/Meditations-Thrift-Editions-Marcus-Aurelius/dp/048629823X/ref=sr_1_1?ie=UTF8&qid=1520733977&sr=8-1&keywords=marcus+aurelius)
 * [Guns, Germs, and Steel by Jared Diamond](https://www.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/0393354326/ref=sr_1_1?s=books&ie=UTF8&qid=1520700857&sr=1-1&keywords=Guns%2C+Germs%2C+and+Steel+by+Jared+Diamond)
 * [Skin in the Game by Nassim Taleb](https://www.amazon.com/Skin-Game-Hidden-Asymmetries-Daily/dp/042528462X/ref=sr_1_2?s=books&ie=UTF8&qid=1520700866&sr=1-2&keywords=Skin+in+the+Game+by+Nassim+Taleb)
+
+### 2017
+
 * [Black Swan by Nassim Taleb](https://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X/ref=sr_1_1?ie=UTF8&qid=1520699619&sr=8-1&keywords=black+swan+taleb)
 * [Nudge by Richard Thaler and Cass Sunstein](https://www.amazon.com/Nudge-Improving-Decisions-Health-Happiness/dp/014311526X/ref=sr_1_4?s=books&ie=UTF8&qid=1520699629&sr=1-4&keywords=nudge+improving+decisions+about+health+wealth+and+happiness)
 * [Zero to One by Peter Thiel](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296/ref=sr_1_4?s=books&ie=UTF8&qid=1520699637&sr=1-4&keywords=zero+to+one)
@@ -46,6 +54,9 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 * [Antifragile by Nassim Taleb](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680/ref=sr_1_1?s=books&ie=UTF8&qid=1520699660&sr=1-1&keywords=antifragile)
 * [Antonio Carlos Jobim: An Illuminated Man by Helena Jobim ](https://www.amazon.com/Antonio-Carlos-Jobim-Illuminated-Man/dp/161780343X/ref=sr_1_1?s=books&ie=UTF8&qid=1520699675&sr=1-1&keywords=antonio+carlos+jobim+an+illuminated+man)
 * [The Undoing Project by Michael Lewis](https://www.amazon.com/Undoing-Project-Friendship-Changed-Minds/dp/0393354776/ref=sr_1_1?s=books&ie=UTF8&qid=1520699686&sr=1-1&keywords=the+undoing+project)
+
+### Pre-2017
+
 * [The Autobiography of Benjamin Franklin](https://en.wikipedia.org/wiki/The_Autobiography_of_Benjamin_Franklin)
 * [Herodotus' Histories](https://en.wikipedia.org/wiki/Histories_(Herodotus))
 * [Into the Wild by Jon Krakauer](https://en.wikipedia.org/wiki/Into_the_Wild_(book))
