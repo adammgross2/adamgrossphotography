@@ -88,6 +88,7 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 
 #### On Audible
 
+* [Fields of Blood: Religion and the History of Violence by Karen Armstrong](https://www.amazon.com/Fields-Blood-Religion-History-Violence/dp/0307957047/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=)
 * [One Hundred Years of Solitude by Gabriel Garcia Marquez](https://www.amazon.com/gp/product/0060531045/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
 * [Team Human by Douglas Rushkoff](https://www.amazon.com/gp/product/039365169X/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1)
 * [Superminds: The Surprising Power of People and Computers Thinking Together by Thomas Malone](https://www.amazon.com/Superminds-Surprising-Computers-Thinking-Together/dp/0316349135/ref=sr_1_1?ie=UTF8&qid=1547842213&sr=8-1&keywords=superminds)
