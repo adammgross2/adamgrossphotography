@@ -5,6 +5,11 @@ title: Adam's Movie/TV List
 My favorite movies and TV shows:
 
 ## Movies
+
+* [Get Out](https://www.imdb.com/title/tt5052448/?ref_=nv_sr_1?ref_=nv_sr_1)
+* [The National Parks: America's Best Idea](https://en.wikipedia.org/wiki/The_National_Parks:_America%27s_Best_Idea)
+* [Children of Men](http://www.imdb.com/title/tt0206634/)
+* [Chungking Express](https://www.imdb.com/title/tt0109424/)
 * [Pulp Fiction](http://www.imdb.com/title/tt0110912/?ref_=nv_sr_1)
 * [Spirited Away](http://www.imdb.com/title/tt0245429/?ref_=fn_al_tt_1)
 * [The Dark Knight](http://www.imdb.com/title/tt0468569/?ref_=nv_sr_1)
@@ -48,10 +53,10 @@ My favorite movies and TV shows:
 * [Team America World Police](http://www.imdb.com/title/tt0372588/)
 * [Cowboy Bebop the Movie](https://www.imdb.com/title/tt0275277/)
 
-## Movies I Want to Watch
-* [Children of Men](http://www.imdb.com/title/tt0206634/)
-
 ## TV
+* [Parts Unknown](https://www.imdb.com/title/tt2845786/?ref_=nv_sr_1?ref_=nv_sr_1)
+* [Chef's Table](https://www.imdb.com/title/tt4295140/?ref_=nv_sr_1?ref_=nv_sr_1)
+* [Barry](https://www.imdb.com/title/tt5348176/?ref_=fn_al_tt_1)
 * [South Park](http://www.imdb.com/title/tt0121955/?ref_=fn_al_tt_1)
 * [The Eric Andre Show](http://www.imdb.com/title/tt2244495/?ref_=fn_al_tt_1)
 * [Curb Your Enthusiasm](http://www.imdb.com/title/tt0264235/?ref_=fn_al_tt_1)
