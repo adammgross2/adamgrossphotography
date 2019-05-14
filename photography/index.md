@@ -2,6 +2,13 @@
 layout: default
 title: Adam's Photography
 ---
+
+### Carbondale, Colorado
+![](https://lh3.googleusercontent.com/QzNfN6pdBw5hCFQlL_vl-zus55I-r44bNY-unG8PZNox6zv-7DUCBmlgCZT6Qv40tlC7zmOmKJzqvuxVNmv8OXAU73QPnEEgr1Hp2JhhTZQavFhVEoyol3hpZxDHaHijDMnjB_rBW6Y=w2400){:height="640px" width="960px" .center-image}
+
+### Hong Kong, China
+![](https://lh3.googleusercontent.com/b79xZj-C2n7f7hUHuXEKeoAVvH3D-kiMbk640SKXW-bwySGkAnw1IjV7CpEULvjjMPKVQmBqsH-CMm-Y-D28QlrFRZOA-5p-smylyqpppJdWV3owpUqDOFnyel7jr5puFZpNtuWtPwQ=w2400){:height="640px" width="960px" .center-image}
+
 ### Cabo San Lucas, Mexico
 ![](https://lh3.googleusercontent.com/4fROjmNLiMQacEANR5WKckJ8zNVKbvlUqKMDQykI-N0ED4x75gvjVgvd367rlSXDjRcXP4W62SVTpDuJW-xhkXhybFnOX9aXFbwLjdSwvqtli58o1tGEWr8xygJK2eTWozQIUgaT3CU=w2400){:height="640px" width="960px" .center-image}
 
