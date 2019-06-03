@@ -7,6 +7,7 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 
 ## In Progress
 
+* [Altered Traits: Science Reveals How Meditation Changes Your Mind, Brain, and Body by Daniel Goleman and Richard Davidson](https://www.amazon.com/gp/product/0399184384/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1)
 * [The Third Chimpanzee by Jared Diamond](https://www.amazon.com/Third-Chimpanzee-Evolution-Future-Animal/dp/0060845503/ref=sr_1_1?s=books&ie=UTF8&qid=1520700920&sr=1-1&keywords=The+Third+Chimpanzee+by+Jared+Diamond)
 * [A Jew in the Lotus by Rodger Kamenetz](https://www.amazon.com/Jew-Lotus-Rediscovery-Identity-Buddhist/dp/0061367397/ref=sr_1_1?ie=UTF8&qid=1530470844&sr=8-1&keywords=the+jew+in+the+lotus)
 * [Seneca's Letters](https://www.amazon.com/gp/product/022652843X/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
@@ -100,7 +101,6 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 * [Culture and Imperialism by Edward Said](https://www.amazon.com/Culture-Imperialism-Edward-W-Said/dp/0679750541/ref=sr_1_1?s=books&ie=UTF8&qid=1520701077&sr=1-1&keywords=Culture+and+Imperialism+by+Edward+Said)
 * [Dancing Arabs by Sayed Kashua](https://www.amazon.com/Dancing-Arabs-Sayed-Kashua/dp/0802141269/ref=sr_1_1?s=books&ie=UTF8&qid=1520700795&sr=1-1&keywords=dancing+arabs)
 * [Memes in Digital Culture by Limor Shifman](https://www.amazon.com/Memes-Digital-Culture-Essential-Knowledge/dp/0262525437/ref=sr_1_1?ie=UTF8&qid=1530247668&sr=8-1&keywords=Memes+in+Digital+Culture+%28Essential+Knowledge%29)
-* [Altered Traits: Science Reveals How Meditation Changes Your Mind, Brain, and Body by Daniel Goleman and Richard Davidson](https://www.amazon.com/gp/product/0399184384/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1)
 * [Fantasyland: How America Went Haywire: A 500-Year History by Kurt Andersen](https://www.amazon.com/gp/product/1400067219/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1)
 * [Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen by Christopher McDougal](https://www.amazon.com/gp/product/0307266303/ref=oh_aui_detailpage_o09_s00?ie=UTF8&psc=1)
 
