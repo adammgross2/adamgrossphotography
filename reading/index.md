@@ -7,7 +7,6 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 
 ## In Progress
 
-* [Upheaval: Turning Points for Nations in Crisis by Jared Diamond](https://www.amazon.com/Upheaval-Turning-Points-Nations-Crisis/dp/0316409138)
 * [The Third Chimpanzee by Jared Diamond](https://www.amazon.com/Third-Chimpanzee-Evolution-Future-Animal/dp/0060845503/ref=sr_1_1?s=books&ie=UTF8&qid=1520700920&sr=1-1&keywords=The+Third+Chimpanzee+by+Jared+Diamond)
 * [A Jew in the Lotus by Rodger Kamenetz](https://www.amazon.com/Jew-Lotus-Rediscovery-Identity-Buddhist/dp/0061367397/ref=sr_1_1?ie=UTF8&qid=1530470844&sr=8-1&keywords=the+jew+in+the+lotus)
 * [Seneca's Letters](https://www.amazon.com/gp/product/022652843X/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
@@ -17,6 +16,7 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 
 ### 2019
 
+* [Upheaval: Turning Points for Nations in Crisis by Jared Diamond](https://www.amazon.com/Upheaval-Turning-Points-Nations-Crisis/dp/0316409138)
 * [My First Summer in the Sierra by John Muir](https://www.amazon.com/First-Summer-Sierra-John-Muir/dp/1423649125/ref=sr_1_3?keywords=my+first+summer+in+the+sierra&qid=1557427459&s=gateway&sr=8-3)
 * [Digital Minimalism: Choosing a Focused Life in a Noisy World by Cal Newport](https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy-ebook/dp/B07DBRBP7G/ref=bmx_3/137-0202655-2206753?_encoding=UTF8&pd_rd_i=B07DBRBP7G&pd_rd_r=c6cac575-45b7-11e9-a0f6-eb01d7bf9839&pd_rd_w=eFodi&pd_rd_wg=gAqSS&pf_rd_p=33750cd9-1585-4897-b3e3-d6ba72a2aa24&pf_rd_r=XM17KHQ6S7BRDNYM07EM&psc=1&refRID=XM17KHQ6S7BRDNYM07EM)
 * [Life After Google: The Fall of Big Data and the Rise of the Blockchain Economy by George Gilder](https://www.amazon.com/Life-After-Google-Blockchain-Economy-ebook/dp/B072NYKG2G/ref=bmx_2/137-0202655-2206753?_encoding=UTF8&pd_rd_i=B072NYKG2G&pd_rd_r=1031d142-45b8-11e9-87a3-d1c5d12b63d5&pd_rd_w=4uD1w&pd_rd_wg=iLXKn&pf_rd_p=33750cd9-1585-4897-b3e3-d6ba72a2aa24&pf_rd_r=FD199ZVG6AT6FPFAJSHP&psc=1&refRID=FD199ZVG6AT6FPFAJSHP)
@@ -81,8 +81,6 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 * [The Great Gatsby by F. Scott Fitzgerald](https://en.wikipedia.org/wiki/The_Great_Gatsby)
 * [Maus by Art Spiegelman](https://en.wikipedia.org/wiki/Maus)
 * [To Build a Fire by Jack London](https://en.wikipedia.org/wiki/To_Build_a_Fire)
-
-
 
 ## To Read
 
