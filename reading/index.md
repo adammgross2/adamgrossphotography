@@ -87,6 +87,7 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 
 #### On Audible
 
+* [The Laws of Human Nature by Robert Greene](https://www.amazon.com/Laws-Human-Nature-GREENE-ROBERT/dp/1781259194/ref=sr_1_1?crid=OWUZFRM97NQF&keywords=laws+of+human+nature&qid=1559943758&s=gateway&sprefix=aa+ba%2Caps%2C182&sr=8-1)
 * [Fields of Blood: Religion and the History of Violence by Karen Armstrong](https://www.amazon.com/Fields-Blood-Religion-History-Violence/dp/0307957047/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=)
 * [One Hundred Years of Solitude by Gabriel Garcia Marquez](https://www.amazon.com/gp/product/0060531045/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
 * [Team Human by Douglas Rushkoff](https://www.amazon.com/gp/product/039365169X/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1)
