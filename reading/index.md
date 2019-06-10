@@ -7,7 +7,7 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 
 ## In Progress
 
-* [Altered Traits: Science Reveals How Meditation Changes Your Mind, Brain, and Body by Daniel Goleman and Richard Davidson](https://www.amazon.com/gp/product/0399184384/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1)
+* [The Story of Tea: A Cultural History and Drinking Guide](https://www.amazon.com/Story-Tea-Cultural-History-Drinking/dp/1580087450/ref=sr_1_1?crid=OWUZFRM97NQF&keywords=the+story+of+tea&qid=1560181101&s=gateway&sprefix=aa+ba%2Caps%2C182&sr=8-1)
 * [The Third Chimpanzee by Jared Diamond](https://www.amazon.com/Third-Chimpanzee-Evolution-Future-Animal/dp/0060845503/ref=sr_1_1?s=books&ie=UTF8&qid=1520700920&sr=1-1&keywords=The+Third+Chimpanzee+by+Jared+Diamond)
 * [A Jew in the Lotus by Rodger Kamenetz](https://www.amazon.com/Jew-Lotus-Rediscovery-Identity-Buddhist/dp/0061367397/ref=sr_1_1?ie=UTF8&qid=1530470844&sr=8-1&keywords=the+jew+in+the+lotus)
 * [Seneca's Letters](https://www.amazon.com/gp/product/022652843X/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
@@ -87,6 +87,7 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 
 #### On Audible
 
+* [Altered Traits: Science Reveals How Meditation Changes Your Mind, Brain, and Body by Daniel Goleman and Richard Davidson](https://www.amazon.com/gp/product/0399184384/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1)
 * [The Laws of Human Nature by Robert Greene](https://www.amazon.com/Laws-Human-Nature-GREENE-ROBERT/dp/1781259194/ref=sr_1_1?crid=OWUZFRM97NQF&keywords=laws+of+human+nature&qid=1559943758&s=gateway&sprefix=aa+ba%2Caps%2C182&sr=8-1)
 * [Fields of Blood: Religion and the History of Violence by Karen Armstrong](https://www.amazon.com/Fields-Blood-Religion-History-Violence/dp/0307957047/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=)
 * [One Hundred Years of Solitude by Gabriel Garcia Marquez](https://www.amazon.com/gp/product/0060531045/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
