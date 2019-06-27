@@ -9,7 +9,7 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 
 #### Primary
 * [The Empire of Tea by Alan and Iris McFarlane](https://www.amazon.com/Empire-Tea-Remarkable-History-Plant/dp/B003EN3K66/ref=sr_1_10?keywords=the+empire+of+tea&qid=1560271873&s=gateway&sr=8-10)
-* [The Story of Tea: A Cultural History and Drinking Guide](https://www.amazon.com/Story-Tea-Cultural-History-Drinking/dp/1580087450/ref=sr_1_1?crid=OWUZFRM97NQF&keywords=the+story+of+tea&qid=1560181101&s=gateway&sprefix=aa+ba%2Caps%2C182&sr=8-1)
+
 
 #### Secondary
 * [The Third Chimpanzee by Jared Diamond](https://www.amazon.com/Third-Chimpanzee-Evolution-Future-Animal/dp/0060845503/ref=sr_1_1?s=books&ie=UTF8&qid=1520700920&sr=1-1&keywords=The+Third+Chimpanzee+by+Jared+Diamond)
@@ -21,6 +21,7 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 
 ### 2019
 
+* [The Story of Tea: A Cultural History and Drinking Guide](https://www.amazon.com/Story-Tea-Cultural-History-Drinking/dp/1580087450/ref=sr_1_1?crid=OWUZFRM97NQF&keywords=the+story+of+tea&qid=1560181101&s=gateway&sprefix=aa+ba%2Caps%2C182&sr=8-1)
 * [Upheaval: Turning Points for Nations in Crisis by Jared Diamond](https://www.amazon.com/Upheaval-Turning-Points-Nations-Crisis/dp/0316409138)
 * [My First Summer in the Sierra by John Muir](https://www.amazon.com/First-Summer-Sierra-John-Muir/dp/1423649125/ref=sr_1_3?keywords=my+first+summer+in+the+sierra&qid=1557427459&s=gateway&sr=8-3)
 * [Digital Minimalism: Choosing a Focused Life in a Noisy World by Cal Newport](https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy-ebook/dp/B07DBRBP7G/ref=bmx_3/137-0202655-2206753?_encoding=UTF8&pd_rd_i=B07DBRBP7G&pd_rd_r=c6cac575-45b7-11e9-a0f6-eb01d7bf9839&pd_rd_w=eFodi&pd_rd_wg=gAqSS&pf_rd_p=33750cd9-1585-4897-b3e3-d6ba72a2aa24&pf_rd_r=XM17KHQ6S7BRDNYM07EM&psc=1&refRID=XM17KHQ6S7BRDNYM07EM)
