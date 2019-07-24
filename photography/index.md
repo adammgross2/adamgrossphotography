@@ -3,6 +3,33 @@ layout: default
 title: Adam's Photography
 ---
 
+### Kings Canyon National Park, California
+![](https://lh3.googleusercontent.com/Zg7a2u0PCUNi2y3R1a_VRfAQAPnHGBV7hEs-vhRp6FvX1bpnJq8NiM9-lnEOF9KuFlMJXu0CJxxJ3zmdwO7OtkchtaPHt6GgkgAW_UzPFlvza3u6aZzASMBHH7ccFFRw9Lmz9IP1sPQ=w2400){:height="640px" width="960px" .center-image}
+
+### Kings Canyon National Park, California
+![](https://lh3.googleusercontent.com/InCwrirp7JuvR1i8f9iYZrdWtG3jSwccFdPbkrmq5Q5j6eA_0lTibze4wqVrNfD-GmFr5c_sse5Cr3UE1rP0EM2qu5zIAd_PFL5iZxzPM7UX5euHrVyV5UzeniR-fybiG-HJPamz_Qo=w2400){:height="640px" width="960px" .center-image}
+
+### Ansel Adams Wilderness, California
+![](https://lh3.googleusercontent.com/Gjx9NS6dEWJfZmoE7V9GOoRNP3jws6MjJEvv4hgBVzfWI_B67VN7hxTiaXG4TLE_tBEUsxQDjWDzJBb4f8fhMX8v4fZyzGdx5wlpoJW3aBHzMlxleJIe8v8t-8yyR9mgEiH6rY_gm4g=w2400){:height="640px" width="960px" .center-image}
+
+### Ansel Adams Wilderness, California
+![](https://lh3.googleusercontent.com/L-7I14JNvNjkc5HJKyBQlTG8UJKjTKTB1cxkpzv-pGQe9nK9wky95ll-bJQLJlcbQ7ZLHAXk1MrBfj4zYMZ-9DQVQFLGlhpezA51KnvgyluZ5DkMAxWxyPih4ErNN0V1hBLygB_sMVA=w2400){:height="640px" width="960px" .center-image}
+
+### Ansel Adams Wilderness, California
+![](https://lh3.googleusercontent.com/Uh-fzRIlR-yKCem8935FxPDAnQ6pbEvdpZ2emS6xdaLLKpvG1uLwLqSdPpV-w0RemURIATerf3L0LDxGfg_CnLmnXnmdwGmoF8agwxcnixkMEMj2-LHD_QUqe50Ze-IrflL1v6abMiU=w2400){:height="640px" width="960px" .center-image}
+
+### Kings Canyon National Park, California
+![](https://lh3.googleusercontent.com/PeMfb45BatuYGNR1-AzQ_FhsY7WZXVuLHKSeJA2ruAIDBO_a6b_fmLTENcgJfGq5I2dSrLcPbyoG_7RH2Y2smssOj8A0sn39OTLIVuIf-d04q7BnCaTW11-JcJYoJipZO55Z5Ajhijs=w2400){:height="640px" width="960px" .center-image}
+
+### Kings Canyon National Park, California
+![](https://lh3.googleusercontent.com/FaUI2SJ1mRlcxPxZX6TcO_p6Mv4AiSMSHNE5OIeTFYS-mxeehfNoywqAYh3QAq7IbEXwvh_n9SEKRgAM9xlw5iLW7a7BgmrRs6Z9y3KR57wI0VNFF2o1CZBiPzSViiWDV4-qt6gOlLE=w2400){:height="640px" width="960px" .center-image}
+
+### Kings Canyon National Park, California
+![](https://lh3.googleusercontent.com/RVnVxhwykLWQOQkYTGVMGJr9CWwETNnzvKykdU8VcOc_dIyJOsSR-4PPMxElIQB_4rvG4UuHGxn93-0shcjpGrQhtDYlQSHs4djQxB9CH3xLx1ng1CjD7mQg0Y1CNGsKE8SpeJ0HYBQ=w2400){:height="640px" width="960px" .center-image}
+
+### Kings Canyon National Park, California
+![](https://lh3.googleusercontent.com/f20-v0AFHKbynks8-u7u0EI5x2322SroR_RydnaZn0-Xp4TPGfvgzs8dhTIZxNWf-cDDyLRhCGs3bUMW3DoDh7SFpldzWK4xzaK86RHu3ytu0amUglxM1NZoMT8Xt2Du0SUrJtDDraY=w2400){:height="640px" width="960px" .center-image}
+
 ### Carbondale, Colorado
 ![](https://lh3.googleusercontent.com/QzNfN6pdBw5hCFQlL_vl-zus55I-r44bNY-unG8PZNox6zv-7DUCBmlgCZT6Qv40tlC7zmOmKJzqvuxVNmv8OXAU73QPnEEgr1Hp2JhhTZQavFhVEoyol3hpZxDHaHijDMnjB_rBW6Y=w2400){:height="640px" width="960px" .center-image}
 
@@ -10,7 +37,7 @@ title: Adam's Photography
 ![](https://lh3.googleusercontent.com/b79xZj-C2n7f7hUHuXEKeoAVvH3D-kiMbk640SKXW-bwySGkAnw1IjV7CpEULvjjMPKVQmBqsH-CMm-Y-D28QlrFRZOA-5p-smylyqpppJdWV3owpUqDOFnyel7jr5puFZpNtuWtPwQ=w2400){:height="640px" width="960px" .center-image}
 
 ### Cabo San Lucas, Mexico
-![](https://lh3.googleusercontent.com/4fROjmNLiMQacEANR5WKckJ8zNVKbvlUqKMDQykI-N0ED4x75gvjVgvd367rlSXDjRcXP4W62SVTpDuJW-xhkXhybFnOX9aXFbwLjdSwvqtli58o1tGEWr8xygJK2eTWozQIUgaT3CU=w2400){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/E4OegsMrZf5oCKD9J1234WycAv2Qw_SI3yAOCU3yuBZDpXM9DOVWyjcKXIRMUxe0zFPe71FPLr7aHrOTDetFPEOthZ5dXWkZFYbWmrX1P94sf5zsmAzUSJgdsZym7L92WptTNlFIs10=w2400){:height="640px" width="960px" .center-image}
 
 ### Death Valley National Park, California
 ![](https://lh3.googleusercontent.com/c6658hFl9yvvi9pt7N9Fm1dnw9oCirCwR0qeobBAbRHFdIOHG4PmGPl1avz1BLf7Ku0ZtTmPxvTEq0SAO-RKG3_aeHbcT2QSs21gPlF_LzQVMYXKxDpzN_VFkAk8-8Py_gJ0BrU_uXs=w2400){:height="640px" width="960px" .center-image}
