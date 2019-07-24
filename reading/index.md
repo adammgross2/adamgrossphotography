@@ -8,11 +8,11 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 ## In Progress
 
 #### Primary
-* [The Empire of Tea by Alan and Iris McFarlane](https://www.amazon.com/Empire-Tea-Remarkable-History-Plant/dp/B003EN3K66/ref=sr_1_10?keywords=the+empire+of+tea&qid=1560271873&s=gateway&sr=8-10)
+* [A Passion for Nature: The Life of John Muir by Donald Worster](https://www.amazon.com/Passion-Nature-Life-John-Muir/dp/0199782245/ref=sr_1_1?crid=26HGQ2FA7RH0E&keywords=biography+of+john+muir&qid=1564005567&s=gateway&sprefix=graduated+neu%2Caps%2C271&sr=8-1)
 
-
-#### Secondary
+#### On the Backburner
 * [The Third Chimpanzee by Jared Diamond](https://www.amazon.com/Third-Chimpanzee-Evolution-Future-Animal/dp/0060845503/ref=sr_1_1?s=books&ie=UTF8&qid=1520700920&sr=1-1&keywords=The+Third+Chimpanzee+by+Jared+Diamond)
+* [The Empire of Tea by Alan and Iris McFarlane](https://www.amazon.com/Empire-Tea-Remarkable-History-Plant/dp/B003EN3K66/ref=sr_1_10?keywords=the+empire+of+tea&qid=1560271873&s=gateway&sr=8-10)
 * [A Jew in the Lotus by Rodger Kamenetz](https://www.amazon.com/Jew-Lotus-Rediscovery-Identity-Buddhist/dp/0061367397/ref=sr_1_1?ie=UTF8&qid=1530470844&sr=8-1&keywords=the+jew+in+the+lotus)
 * [Seneca's Letters](https://www.amazon.com/gp/product/022652843X/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
 
