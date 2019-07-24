@@ -32,6 +32,9 @@ title: Adam's Photography
 ### Kings Canyon National Park, California
 ![](https://lh3.googleusercontent.com/f20-v0AFHKbynks8-u7u0EI5x2322SroR_RydnaZn0-Xp4TPGfvgzs8dhTIZxNWf-cDDyLRhCGs3bUMW3DoDh7SFpldzWK4xzaK86RHu3ytu0amUglxM1NZoMT8Xt2Du0SUrJtDDraY=w2400){:height="640px" width="960px" .center-image}
 
+### Kings Canyon National Park, California
+![](https://lh3.googleusercontent.com/Vk9dVjmQDwC0vd2S_cGW-i5iW3bNW4ypY0cJmIHEK5zA_VxGT64_vDVS-Rz3vIq2dRemM7mNwBdYcqHLLHlpDHM9MTkvMlS_0sQ7Wlo--AXGcgjOrbWyWIv4mAkTcpJC5rqBCl_G6Ik=w2400){:height="640px" width="960px" .center-image}
+
 ### Carbondale, Colorado
 ![](https://lh3.googleusercontent.com/QzNfN6pdBw5hCFQlL_vl-zus55I-r44bNY-unG8PZNox6zv-7DUCBmlgCZT6Qv40tlC7zmOmKJzqvuxVNmv8OXAU73QPnEEgr1Hp2JhhTZQavFhVEoyol3hpZxDHaHijDMnjB_rBW6Y=w2400){:height="640px" width="960px" .center-image}
 
@@ -51,7 +54,7 @@ title: Adam's Photography
 ![](https://lh3.googleusercontent.com/IR7UoXMmilE_dS4zlEdAAIsROgNqXr8D2xLTc99QJ4mvLGGw2GwJy11USlpx7SyHKiCD3jjBsjGjcIMYly2FV26U6pp5Ev9XE1KSJ3zlMkPas9jx41tvsXI3zFBhVLMn4wVZNEaAEfQ=w2400){:height="640px" width="960px" .center-image}
 
 ### Independence, California
-![](https://lh3.googleusercontent.com/zidDWeilaJsixaiZuyRyLMoaRlfjRWd3Ia22Ugv1fQPwJ9sn5zEcQNr6Ylt3W0qJ1qfbDBIF8ALFxJNgnfU3EEM8oStxewH7C_DahD7sJJBUiLe3XbjVDDQjbDnXshL_8LZ0npRCQW4=w2400){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/db_JgAsgbS27tQj3rsuT-KVd73ioWSZ4sEnXECKROREfMHijFwLjTL9CTLAjw33_1IpxGg1uTUR1qJsbLx0gX-s6iDfWYA5bumlN4HfNevF6riJ6-TyrcRxU2A8HwLVppr5k3h_xA_I=w2400){:height="640px" width="960px" .center-image}
 
 ## 2018
 
