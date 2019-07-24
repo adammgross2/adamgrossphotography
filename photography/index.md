@@ -3,6 +3,8 @@ layout: default
 title: Adam's Photography
 ---
 
+## 2019
+
 ### Kings Canyon National Park, California
 ![](https://lh3.googleusercontent.com/Zg7a2u0PCUNi2y3R1a_VRfAQAPnHGBV7hEs-vhRp6FvX1bpnJq8NiM9-lnEOF9KuFlMJXu0CJxxJ3zmdwO7OtkchtaPHt6GgkgAW_UzPFlvza3u6aZzASMBHH7ccFFRw9Lmz9IP1sPQ=w2400){:height="640px" width="960px" .center-image}
 
@@ -51,6 +53,8 @@ title: Adam's Photography
 ### Independence, California
 ![](https://lh3.googleusercontent.com/zidDWeilaJsixaiZuyRyLMoaRlfjRWd3Ia22Ugv1fQPwJ9sn5zEcQNr6Ylt3W0qJ1qfbDBIF8ALFxJNgnfU3EEM8oStxewH7C_DahD7sJJBUiLe3XbjVDDQjbDnXshL_8LZ0npRCQW4=w2400){:height="640px" width="960px" .center-image}
 
+## 2018
+
 ### Inca Trail, Peru
 ![](https://lh3.googleusercontent.com/2g0rTvkwf8aE73em9EVRsoellFwvUczV6X4224ed-h-5T_x4QbeIqFNA8Eng88-xHSCSVmz-Rh8A8WMbAD6XHQHommzY9cFP80BtdE7-3qIV7fQjFms5SAX55UZ3q07pNGIJygBfQTM=w2400){:height="640px" width="960px" .center-image}
 
@@ -60,6 +64,8 @@ title: Adam's Photography
 
 ### Malibu, California
 ![](https://lh3.googleusercontent.com/6fHEfIosJRAC98lhSZaMFMwxIvSFkiqHF7Z3EzGOW5n-7vgRMvN9yM3XwV78WLYhrygVwnoUGhJPasugES_BRgCSl5i7zcR4KcE6OCJbOdj2Fcsgr2NPfpBemEWxGgUfiAVA0Y2qbpI=w2400){:height="640px" width="960px" .center-image}
+
+## 2017
 
 ### Canyonlands National Park, Utah
 ![](https://lh3.googleusercontent.com/Cs6BQCIcTMr3R7zvDrzLZUGWtxCpQbwlB0enziCdhtGphwlDWdJAYWuAxb1EZRfuhs5nPD2uqhncDg48oRV6hDQE02kcBm8ZqVJgzaFwErJm0U0prPGCRRodbDP5j8rTpC6K_NMXX-k=w2400){:height="640px" width="960px" .center-image}
