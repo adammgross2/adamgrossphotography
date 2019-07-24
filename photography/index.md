@@ -48,7 +48,7 @@ title: Adam's Photography
 ![](https://lh3.googleusercontent.com/c6658hFl9yvvi9pt7N9Fm1dnw9oCirCwR0qeobBAbRHFdIOHG4PmGPl1avz1BLf7Ku0ZtTmPxvTEq0SAO-RKG3_aeHbcT2QSs21gPlF_LzQVMYXKxDpzN_VFkAk8-8Py_gJ0BrU_uXs=w2400){:height="640px" width="960px" .center-image}
 
 ### Malibu, California
-![](https://lh3.googleusercontent.com/hhYE44KA1q1X-O0CVm5g4cRUCH9Nm3ZOQzx6jnkpAJVG_zJaz5j8QfYtyjBCO3iaZJyKnYiMNJDcavz0MaXHz6bvj7p_W-0RPZDikawVlCUc9WZNmD1tvBAAUwv163wIXtPsBPEiW1s=w2400){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/IR7UoXMmilE_dS4zlEdAAIsROgNqXr8D2xLTc99QJ4mvLGGw2GwJy11USlpx7SyHKiCD3jjBsjGjcIMYly2FV26U6pp5Ev9XE1KSJ3zlMkPas9jx41tvsXI3zFBhVLMn4wVZNEaAEfQ=w2400){:height="640px" width="960px" .center-image}
 
 ### Independence, California
 ![](https://lh3.googleusercontent.com/zidDWeilaJsixaiZuyRyLMoaRlfjRWd3Ia22Ugv1fQPwJ9sn5zEcQNr6Ylt3W0qJ1qfbDBIF8ALFxJNgnfU3EEM8oStxewH7C_DahD7sJJBUiLe3XbjVDDQjbDnXshL_8LZ0npRCQW4=w2400){:height="640px" width="960px" .center-image}
