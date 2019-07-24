@@ -40,10 +40,13 @@ title: Adam's Photography
 ![](https://lh3.googleusercontent.com/E4OegsMrZf5oCKD9J1234WycAv2Qw_SI3yAOCU3yuBZDpXM9DOVWyjcKXIRMUxe0zFPe71FPLr7aHrOTDetFPEOthZ5dXWkZFYbWmrX1P94sf5zsmAzUSJgdsZym7L92WptTNlFIs10=w2400){:height="640px" width="960px" .center-image}
 
 ### Death Valley National Park, California
+![](https://lh3.googleusercontent.com/VO1FckapUOBIAqdne17aPdYcrCZ_fead6LFJ3esNqY5_bqZMVBQlc4GIKx3kxgxxxNAKLpStA6_TkQVey4tue6g_FuVNRzHS87Xy7U0elHCZLVKbHbsOevrs4DbU4b7YJ5cTNWxWAPA=w2400){:height="640px" width="960px" .center-image}
+
+### Death Valley National Park, California
 ![](https://lh3.googleusercontent.com/c6658hFl9yvvi9pt7N9Fm1dnw9oCirCwR0qeobBAbRHFdIOHG4PmGPl1avz1BLf7Ku0ZtTmPxvTEq0SAO-RKG3_aeHbcT2QSs21gPlF_LzQVMYXKxDpzN_VFkAk8-8Py_gJ0BrU_uXs=w2400){:height="640px" width="960px" .center-image}
 
 ### Malibu, California
-![](https://lh3.googleusercontent.com/IR7UoXMmilE_dS4zlEdAAIsROgNqXr8D2xLTc99QJ4mvLGGw2GwJy11USlpx7SyHKiCD3jjBsjGjcIMYly2FV26U6pp5Ev9XE1KSJ3zlMkPas9jx41tvsXI3zFBhVLMn4wVZNEaAEfQ=w2400){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/hhYE44KA1q1X-O0CVm5g4cRUCH9Nm3ZOQzx6jnkpAJVG_zJaz5j8QfYtyjBCO3iaZJyKnYiMNJDcavz0MaXHz6bvj7p_W-0RPZDikawVlCUc9WZNmD1tvBAAUwv163wIXtPsBPEiW1s=w2400){:height="640px" width="960px" .center-image}
 
 ### Independence, California
 ![](https://lh3.googleusercontent.com/zidDWeilaJsixaiZuyRyLMoaRlfjRWd3Ia22Ugv1fQPwJ9sn5zEcQNr6Ylt3W0qJ1qfbDBIF8ALFxJNgnfU3EEM8oStxewH7C_DahD7sJJBUiLe3XbjVDDQjbDnXshL_8LZ0npRCQW4=w2400){:height="640px" width="960px" .center-image}
@@ -56,19 +59,16 @@ title: Adam's Photography
 
 
 ### Malibu, California
-![](https://lh3.googleusercontent.com/ZaSWaAYf1YEySWaZhHun3R8P5XJHZdoDAbfQ4Trm5cyMk7QfVABN8ZyJXsmg3CWukPIiDdO6MEv0QSQXBHwp1_eKxdNlYD4DYYi1c7SOCkDnwPL8GA4VyU2Dykl803HI6kprBYvJa3Y=w2400){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/6fHEfIosJRAC98lhSZaMFMwxIvSFkiqHF7Z3EzGOW5n-7vgRMvN9yM3XwV78WLYhrygVwnoUGhJPasugES_BRgCSl5i7zcR4KcE6OCJbOdj2Fcsgr2NPfpBemEWxGgUfiAVA0Y2qbpI=w2400){:height="640px" width="960px" .center-image}
 
 ### Canyonlands National Park, Utah
 ![](https://lh3.googleusercontent.com/Cs6BQCIcTMr3R7zvDrzLZUGWtxCpQbwlB0enziCdhtGphwlDWdJAYWuAxb1EZRfuhs5nPD2uqhncDg48oRV6hDQE02kcBm8ZqVJgzaFwErJm0U0prPGCRRodbDP5j8rTpC6K_NMXX-k=w2400){:height="640px" width="960px" .center-image}
 
 ### Bryce Canyon National Park, Utah
-![](https://lh3.googleusercontent.com/4QnwhvLKaRXLom2tBo8zsWrJn6ztwvjSbxyGFUzIqU6dzpO_9duoPsQAwfOMUf999lObO0-wek2OOZzapB66BEDJaNfhq6mPczGIMY5Gyvg93vFD-YPB5_4dWd_pkp-nSJMP_IS1cXw=w2400){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/wHZUX8fbGQxaqnpZ5WPbghYOaK4AZ-Q5lVMYmYX9VfzYn1hlAVn_QnuFoeFVjBHKQjgOb4t04HkmTN5X7_TebFfVBLnr92EFfN-c_T45G4r1hecrjyM0hQtJyzSdSX5K_UfevKJzRgI=w2400){:height="640px" width="960px" .center-image}
 
 ### Zion National Park, Utah
-![](https://lh3.googleusercontent.com/fGHoASwV-AeTTpFbwbjTYHbwNE850_upQy_mS6w7JmnvjKyL9uhZnkBmwwGibon9zeELbXPyvvZVGduC5AD2dqsEwPaTZlcMAiaX3_2YNSXi2OPMWI069JkyTV04JcdO8RTzfbhmnvA=w2400){:height="640px" width="960px" .center-image}
-
-### Zion National Park, Utah
-![](https://lh3.googleusercontent.com/PMsBm1OCelEkL_JPbLAEwWawlMXYn21SffOBYAhCoSDAtXLXBpWCyRCNx0c7VPk5veoPMXE6MDw5Td_-vMssIYLcbzHn01tfFUE6Goa3vIyuDFhp_R9OKGfsV3qUzHlk-wPcgavWLUI=w2400){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/q0giABa3KjuqrIdun_hv3FgYSiIyWmHv3Ak0qSMhIZoaF2WEMIkGTLaZ1GLep64qqRyVjhl9jZPIayP3vBiH98s8exmv1GcgMq62v90DDDKFJeSMfDwSUQfdXJ0lWiYRSJeibRhHHLI=w2400){:height="640px" width="960px" .center-image}
 
 ### Yosemite National Park, California
 ![](https://lh3.googleusercontent.com/tqcYQOogCChBvpw5CpwNRBL88FGzkTLApgxzCIWhVC4O_RIdFK-D_6kzaNYFSa8y37PZgCpDV-wK5xo1nAFYW1T3e-ApnRWlrLwowVtfbG-xpuY-_UlxhWTZJ9NeOH14dlfBU422Sa4=w2400){:height="640px" width="960px" .center-image}
