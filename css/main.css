@@ -10,8 +10,8 @@ a:hover { text-decoration: underline; }
 
 p, ul
 { font-family: 'Cormorant Garamond', serif;
-  font-size: 1.5em;
-  line-height: 1.4em;
+  font-size: 1.5rem;
+  line-height: 1.4rem;
   color: #333;
 }
 
