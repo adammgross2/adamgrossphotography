@@ -12,13 +12,13 @@ Legend: TT = [Tea Trekker](https://teatrekker.com), RBT = [Red Blossom Tea](http
 ### Pu-erh
 * ['Old Aroma, Old Taste' Shou Puerh](https://teatrekker.com/product/loose-leaf-old-aroma-old-taste-shou-pu-erh/) - TT
    * earthy, "dirt"y, makes water taste like the most refreshing water ever
-* 'Selected Yunnan Puerh' from [LockCha Tea House in Hong Kong](https://www.lockcha.com)
+* 'Selected Yunnan Puerh' from [LockCha Tea House, Hong Kong](https://www.lockcha.com)
    * vibrant, *just* enough earthiness, light but full
 
 ### Oolong
 * [Tung Ting Dark Roast, Formosa](https://redblossomtea.com/products/tung-ting-dark-roast?variant=31627522564) - RBT
    * full, easy to extract mint-like flavor, amazing aftertaste lingers
-* Unnamed Taiwanese Oolong - [Wangdechuan, Shanghai](http://www.dechuantea.com/)
+* Unnamed Taiwanese Oolong - [Wangdechuan Tea House, Shanghai](http://www.dechuantea.com/)
   * extremely subtle, smooth, soft, and sweet
 
 ### Green
