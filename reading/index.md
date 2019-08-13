@@ -8,7 +8,7 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 ## In Progress
 
 #### Primary
-* [A Passion for Nature: The Life of John Muir by Donald Worster](https://www.amazon.com/Passion-Nature-Life-John-Muir/dp/0199782245/ref=sr_1_1?crid=26HGQ2FA7RH0E&keywords=biography+of+john+muir&qid=1564005567&s=gateway&sprefix=graduated+neu%2Caps%2C271&sr=8-1)
+* [Coming Into the Country by John McPhee](https://www.amazon.com/gp/product/0374522871/ref=dbs_a_def_rwt_bibl_vppi_i3)
 
 #### On the Backburner
 * [The Third Chimpanzee by Jared Diamond](https://www.amazon.com/Third-Chimpanzee-Evolution-Future-Animal/dp/0060845503/ref=sr_1_1?s=books&ie=UTF8&qid=1520700920&sr=1-1&keywords=The+Third+Chimpanzee+by+Jared+Diamond)
@@ -21,6 +21,7 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 
 ### 2019
 
+* [A Passion for Nature: The Life of John Muir by Donald Worster](https://www.amazon.com/Passion-Nature-Life-John-Muir/dp/0199782245/ref=sr_1_1?crid=26HGQ2FA7RH0E&keywords=biography+of+john+muir&qid=1564005567&s=gateway&sprefix=graduated+neu%2Caps%2C271&sr=8-1)
 * [The Story of Tea: A Cultural History and Drinking Guide](https://www.amazon.com/Story-Tea-Cultural-History-Drinking/dp/1580087450/ref=sr_1_1?crid=OWUZFRM97NQF&keywords=the+story+of+tea&qid=1560181101&s=gateway&sprefix=aa+ba%2Caps%2C182&sr=8-1)
 * [Upheaval: Turning Points for Nations in Crisis by Jared Diamond](https://www.amazon.com/Upheaval-Turning-Points-Nations-Crisis/dp/0316409138)
 * [My First Summer in the Sierra by John Muir](https://www.amazon.com/First-Summer-Sierra-John-Muir/dp/1423649125/ref=sr_1_3?keywords=my+first+summer+in+the+sierra&qid=1557427459&s=gateway&sr=8-3)
