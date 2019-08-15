@@ -2,7 +2,7 @@
 I am currently a Software Engineer at Google in Venice Beach, California. My undergraduate studies were in Computer Science, Math, and History with a concentration in the Middle East and North Africa. In addition to those academic areas, I also love all of the following (in no particular order):
 
 * Backpacking and Hiking
-* Photography
+* Nature Photography
 * Tea
 * Philosophy
 * Mathematics -- probability, algorithms, topology, number theory
