@@ -4,6 +4,19 @@ title: Adam's Reading List
 ---
 Here is a list of books that I have enjoyed. This includes fiction and non-fiction (but is mostly non-fiction), and it is ordered by the recency of reading. There a section at the end for books that are on my todo list. **There is a separate section of this website called [academic work](/academic_work) that contains the content I have read for my Middle Eastern History studies.**
 
+## TL;DR Book Hall of Fame
+
+* [Antifragile by Nassim Taleb](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680/ref=sr_1_1?s=books&ie=UTF8&qid=1520699660&sr=1-1&keywords=antifragile)
+* [Sapiens by Yuval Harari](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316117/ref=sr_1_1?ie=UTF8&qid=1525838256&sr=8-1&keywords=sapiens+yuval)
+* [Guns, Germs, and Steel by Jared Diamond](https://www.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/0393354326/ref=sr_1_1?s=books&ie=UTF8&qid=1520700857&sr=1-1&keywords=Guns%2C+Germs%2C+and+Steel+by+Jared+Diamond)
+* [12 Rules for Life: An Antidote to Chaos by Jordan Peterson](https://www.amazon.com/12-Rules-Life-Antidote-Chaos/dp/0345816021/ref=sr_1_2?ie=UTF8&qid=1530247759&sr=8-2&keywords=12+rules+for+life)
+* [10 Arugments to Delete Your Social Media Accounts Right Now by Jaron Lanier](https://www.amazon.com/Arguments-Deleting-Social-Media-Accounts/dp/B07CX579TC/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)
+* [The World Until Yesterday by Jared Diamond](https://www.amazon.com/World-Until-Yesterday-Traditional-Societies/dp/0143124404/ref=sr_1_1?s=books&ie=UTF8&qid=1520700898&sr=1-1&keywords=The+World+Until+Yesterday+by+Jared+Diamond)
+* [A Passion for Nature: The Life of John Muir by Donald Worster](https://www.amazon.com/Passion-Nature-Life-John-Muir/dp/0199782245/ref=sr_1_1?crid=26HGQ2FA7RH0E&keywords=biography+of+john+muir&qid=1564005567&s=gateway&sprefix=graduated+neu%2Caps%2C271&sr=8-1)
+* [Antonio Carlos Jobim: An Illuminated Man by Helena Jobim ](https://www.amazon.com/Antonio-Carlos-Jobim-Illuminated-Man/dp/161780343X/ref=sr_1_1?s=books&ie=UTF8&qid=1520699675&sr=1-1&keywords=antonio+carlos+jobim+an+illuminated+man)
+* [The Undoing Project by Michael Lewis](https://www.amazon.com/Undoing-Project-Friendship-Changed-Minds/dp/0393354776/ref=sr_1_1?s=books&ie=UTF8&qid=1520699686&sr=1-1&keywords=the+undoing+project)
+* [Principles: Life and Work by Ray Dalio](https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1508243247/ref=sr_1_1_sspa?ie=UTF8&qid=1536864316&sr=8-1-spons&keywords=principles+ray+dalio&psc=1)
+
 
 ## In Progress
 
