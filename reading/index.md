@@ -6,7 +6,7 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 
 ## TL;DR Book Hall of Fame
 
-* [Antifragile by Nassim Taleb](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680/ref=sr_1_1?s=books&ie=UTF8&qid=1520699660&sr=1-1&keywords=antifragile)
+* [Antifragile by Nassim Taleb](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680/ref=sr_1_1?s=books&ie=UTF8&qid=1520699660&sr=1-1&keywords=antifragile) (+ the rest of the *Incerto*)
 * [Sapiens by Yuval Harari](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316117/ref=sr_1_1?ie=UTF8&qid=1525838256&sr=8-1&keywords=sapiens+yuval)
 * [Guns, Germs, and Steel by Jared Diamond](https://www.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/0393354326/ref=sr_1_1?s=books&ie=UTF8&qid=1520700857&sr=1-1&keywords=Guns%2C+Germs%2C+and+Steel+by+Jared+Diamond)
 * [12 Rules for Life: An Antidote to Chaos by Jordan Peterson](https://www.amazon.com/12-Rules-Life-Antidote-Chaos/dp/0345816021/ref=sr_1_2?ie=UTF8&qid=1530247759&sr=8-2&keywords=12+rules+for+life)
