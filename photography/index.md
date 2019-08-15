@@ -7,7 +7,7 @@ I am an extremely enthusiastic nature photographer. My love for nature photograp
 
 This was all festering under the hood, however, as I had no conscious interest in photography until a girlfriend of mine in high school who was serious and trained in photography shared her skills with me. Furthermore, as photographing life has exploded in the 2010s with smartphones and social media, I began to get frustrated with how inadequate my smartphone was in capturing the vistas I was experiencing. With my father and grandfather as guides, I began getting serious with camera gear and seeking out pure nature scenes. Upon moving back to California after college, I was able to begin a deep dive into the American West, and especially California. With Ansel Adams and John Muir as inspiration, I now indulge myself in hiking, backpacking, and road tripping around the beautiful nature in my vicinity and continue to hone my ability to capture the pristine natural beauty I encounter. It is both an aesthetic and spiritual endeavor, as I find my true self in nature, indulge in emotional and philosophical catharsis, and detoxify from the issues brought onto me by modern civilization.
 
-I have no formal training in photography and use the internet minimally for photography education. I believe that intuitive training through iterative trial and error is the best approach for me. I currently use a Fujifilm XT-3, usually without a tripod.
+I have no formal training in photography and use the internet minimally for photography education. I believe that intuitive training through iterative trial and error is the best approach for me. I currently use a Fujifilm XT-3, usually without a tripod, and a DJI Mavic Pro 2 drone.
 
 ## 2019
 
