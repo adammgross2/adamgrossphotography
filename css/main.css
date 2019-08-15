@@ -4,7 +4,7 @@ body { margin: 60px auto;
      }
 
 a { text-decoration: none;
-    color: #999;
+    color: #86a8b3;
   }
 
 a:hover { text-decoration: underline; }
@@ -33,5 +33,5 @@ nav ul li, footer ul li
 }
 
 footer
-{ border-top: 1px solid #d5d5d5;
+{ border-top: 1px solid #86a8b3;
   font-size: .8em; }
