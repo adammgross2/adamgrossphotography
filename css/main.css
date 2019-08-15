@@ -1,6 +1,6 @@
 body { margin: 60px auto;
        width: 70%;
-       background-color: #ebe8e1;
+       background-color: #333333;
      }
 
 a { text-decoration: none;
@@ -13,12 +13,12 @@ p, ul
 { font-family: 'Cormorant Garamond', serif;
   font-size: 1.5rem;
   line-height: 2rem;
-  color: #333;
+  color: #eee8d5;
 }
 
 h1, h2, h3, h4
 { font-family: 'Cormorant Garamond', serif;
-  color: #403926}
+  color: #b8b3a3}
 h1 { font-size: 2.5em;  }
 h2 { font-size: 2.0em; }
 h3 { font-size: 1.75em; }
