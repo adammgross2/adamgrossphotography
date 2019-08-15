@@ -1,3 +1,4 @@
+<body bgcolor="#363636">
 ---
 layout: default
 title: Adam's Photography
