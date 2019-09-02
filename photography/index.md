@@ -13,6 +13,9 @@ I have no formal training in photography and use the internet minimally for phot
 
 ## 2019
 
+### Joshua Tree National Park, California
+![](https://lh3.googleusercontent.com/e0pKPOOHB2--bnWKmgXqE9-3wyEdYLkuqSkrBxYT6VjpRPPV9AGf615Mmb6ofSKro1t5MmMZpSSc78hafG0DwZeLeFd_5zPwZpe3f4kZLo06fsDUi6fE8BZwU2M7YEywSCdx9pPBjLE=w2400){:height="640px" width="960px" .center-image}
+
 ### Whittier, Alaska
 ![](https://lh3.googleusercontent.com/dBBYbtFKugEryASHe_yJ10_MTaE50-H2Ta1LinxpWJCfMrhFknVMssLPBTEVqGBHnNqp04-Ea9x2Seu8SSjXlgwmy6B3b7so6MH_skkA_Hda4OwGScloActEd-EqsRrwkGxKd0u0-eA=w2400){:height="640px" width="960px" .center-image}
 
