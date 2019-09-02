@@ -84,10 +84,6 @@ I have no formal training in photography and use the internet minimally for phot
 ### Inca Trail, Peru
 ![](https://lh3.googleusercontent.com/2g0rTvkwf8aE73em9EVRsoellFwvUczV6X4224ed-h-5T_x4QbeIqFNA8Eng88-xHSCSVmz-Rh8A8WMbAD6XHQHommzY9cFP80BtdE7-3qIV7fQjFms5SAX55UZ3q07pNGIJygBfQTM=w2400){:height="640px" width="960px" .center-image}
 
-### Joshua Tree National Park, California
-![](https://lh3.googleusercontent.com/Fl3AWeFsYzMVprLhrorqPOKui9gKFlR22cZAPNC682-g1Cfy558hOM2oS40QCSbJzd4upTpXdYpmSiq6A0nnB4P0D4ri1bKgi04mD-XEikdPW6p6rbKHz5T8LDKH__zKZbujuEGcqEs=w2400){:height="640px" width="960px" .center-image}
-
-
 ### Malibu, California
 ![](https://lh3.googleusercontent.com/6fHEfIosJRAC98lhSZaMFMwxIvSFkiqHF7Z3EzGOW5n-7vgRMvN9yM3XwV78WLYhrygVwnoUGhJPasugES_BRgCSl5i7zcR4KcE6OCJbOdj2Fcsgr2NPfpBemEWxGgUfiAVA0Y2qbpI=w2400){:height="640px" width="960px" .center-image}
 
