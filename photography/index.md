@@ -11,15 +11,15 @@ This was all festering under the hood, however, as I had no conscious interest i
 
 I have no formal training in photography and use the internet minimally for photography education. I believe that intuitive training through iterative trial and error is the best approach for me. For my photos, I use a digital mirrorless camera, usually without a tripod, and a drone. I am my own main audience, as I add my top shots to a folder which my personal and work computers each use as the source of their desktop backgrounds, going through the pictures in a random order, changing every 15 minutes. When people don't realize that my desktop backgrounds are self-shot and think they are defaults that came with the OS, that is a win for me. Below is a feed of my top favorite photographs I have produced, but for fuller inventories by location see the following links:
 
-* [Alaska](/alaska)
-* [Kings Canyon](/kings_canyon)
-* [Death Valley](/death_valley)
-* [Ansel Adams Wilderness](/ansel_adams_wilderness)
-* [Joshua Tree](/joshua_tree)
-* [Cabo](/cabo)
-* [Hong Kong](/hong_kong)
-* [Malibu](/malibu)
-* [Arches, Canyonlands, Bryce, and Zion](/utah)
+* [Alaska](/phography/alaska)
+* [Kings Canyon](/phography/kings_canyon)
+* [Death Valley](/phography/death_valley)
+* [Ansel Adams Wilderness](/phography/ansel_adams_wilderness)
+* [Joshua Tree](/phography/joshua_tree)
+* [Cabo](/phography/cabo)
+* [Hong Kong](/phography/hong_kong)
+* [Malibu](/phography/malibu)
+* [Arches, Canyonlands, Bryce, and Zion](/phography/utah)
 
 ## 2019
 
