@@ -27,7 +27,7 @@ color: white
 ![](https://lh3.googleusercontent.com/yLQLRsHQqL2rINIaKU0t93JximVQ6cQogSPF4r0A-yrwrs5pNLV_UsLZSHqXtvzt-v1os3RG0ATPYDM0DhbZH4ErsMKQVrI0_MFGDDf883NvmyjwZ4WWRdxvh56cu-bE1l5fU0e1cZk=w2400){:height="640px" width="960px" .center-image}
 
 ### Bubbs Creek and Woods Creek confluence
-![](https://lh3.googleusercontent.com/FaUI2SJ1mRlcxPxZX6TcO_p6Mv4AiSMSHNE5OIeTFYS-mxeehfNoywqAYh3QAq7IbEXwvh_n9SEKRgAM9xlw5iLW7a7BgmrRs6Z9y3KR57wI0VNFF2o1CZBiPzSViiWDV4-qt6gOlLE=w2400){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/bmiUQooK28Gj0-Vw-sOUBuqHpvURSDWbhNP-3Z4595T0t4Cc2UcZcy2Iko2f61YqT3z8AKdnSKwRlSacmmNk0Os2WrYpuP_v3PFIJuUnrglAr2vZVyJ7MV4eRbpONuDKr_nig5Mt3P0=w2400){:height="640px" width="960px" .center-image}
 
 ### Kings Canyon
 ![](https://lh3.googleusercontent.com/3PaW_9-N8J03GAXgWmA1ryFqDyPHb1FUN7up7M30qgp8kHe6JK9PIkb_jc1EMUaqjk_OMQPgoCokyNalG2-RSPl9nJNPIOgLhbcmmQ_c-An5Ylfn_06J2lYYTC40KRt4YgGEve_mpeI=w2400){:height="640px" width="960px" .center-image}
