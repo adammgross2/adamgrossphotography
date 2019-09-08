@@ -66,7 +66,7 @@ Lorem ipsum
 ![](https://lh3.googleusercontent.com/KAcy2q6eWfQqvQOTbtmAesISMS561bkLGW1wrJ1-BQMWFPG3x9lzEcT-Nr9NOrR9URUGdrs2ApdqfNzCki6Nxb23YxwZR-aGHtpEbiJM-B-G60TCxWEMC5ztspDNt_fJQFz1ue0SftI=w2400){:height="640px" width="960px" .center-image}
 
 ### Tordrillo Mountains
-![](https://lh3.googleusercontent.com/sLDBp9E-2bNPOsp5-F3wiKydoNG79Yf5Sl-4fq-iS3fyR-wVl2l0AvH2Ro6u_2ZiiQFcGNKQwP3ej9T9R8EwapX7vOV0dkr-g6rUWt_VSc3UkqSM__tt8jRIfHd7V3Rdd-Bky33nd_I=w2400){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/D4o2UcT98K3KdHUC57jxC-veZJh_h1BD5AgTbIOzaKXMj54ndS4O3kLfs4lPp10oiUxfXLSLiRTfJjnejgLoGYHduZPl9B83RHqt9J_1DBo8FlPiTjmpH1lQuNxuhUTWYB7cDOIuyuU=w2400){:height="640px" width="960px" .center-image}
 
 ### Tordrillo Mountains
 ![](https://lh3.googleusercontent.com/pk-NlkQQq6WSdopZj-Xico1duB6tehqmMqdlZHMyOJOvYQmsnrLCWNR0yiaFWR0eZABWsyWGM4Z89xu4CnWQTl_5fRMvUmfrJDXD6qpnIizbUHI--PnhnWrtI-sen62hkNe3CF88UaA=w2400){:height="640px" width="960px" .center-image}
@@ -88,6 +88,9 @@ Lorem ipsum
 
 ### Old Denali Highway
 ![](https://lh3.googleusercontent.com/kb6zA9BB3ZecuMAjrmaOMHnGp8aeby6MQpIv8ESPrCB4bjb1dWQ9p-jOzTRfZKPAt5hG4JpqC-kbFkimnzP55-dY7WYthg8p6cEMhJED0t23L81yYVr5dM4VFb9iegaYZLD7AiENLSU=w2400){:height="640px" width="960px" .center-image}
+
+### Talkeetna Mountains
+![](https://lh3.googleusercontent.com/oi7WnnOsuw3k5XKpW2_v8H2JiRpqyDqXNKIzgk1eQ33wjirj3y01t4WazZti0EVi8vhFxYVc4JwhaieLNjwDYazNa9EV_G7GbEOLofitQj8uZ3xHitU_cMtCMkK2T_9L_MjiMuRjeSg=w2400){:height="640px" width="960px" .center-image}
 
 ### Talkeetna Mountains
 ![](https://lh3.googleusercontent.com/s5Pt8VUaiL-XcWXe0-ChXdBCcGki0TPElHfRCrNO19q3JG-X3ZjY2C8VR3IvN5SCGuRC10TaOlGcV3S6lT11CALGpYMG5AUR9w2LNNyCBR9xtNo0Muq4rByKD1HEhn9Td9gLGnm0Lp0=w2400){:height="640px" width="960px" .center-image}
