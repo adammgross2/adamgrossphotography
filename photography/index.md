@@ -20,7 +20,7 @@ I have no formal training in photography and use the internet minimally for phot
 * [Hong Kong](/photography/hong_kong)
 * [Malibu](/photography/malibu)
 * [Arches, Canyonlands, Bryce, and Zion](/photography/utah)
-* [Peru](/photography/peru)(shot on iPhone)
+* [Peru](/photography/peru) (shot on iPhone)
 
 ## 2019
 
