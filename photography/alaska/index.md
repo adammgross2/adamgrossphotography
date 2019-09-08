@@ -26,7 +26,7 @@ Lorem ipsum
 ![](https://lh3.googleusercontent.com/sg9cHmhIKj891teXRYXsfBMSoxs6hQLXVgl0L7b8gqxZNUhV8_2x-87mlMkvgPzqSqk4XSuQXffVGu-Qp_cUJJyg1jY0Htf3QoK8BB6OTZlghf4DUFfwgSEpkaBG3U2Z5C9J2ItPTf0=w2400){:height="640px" width="960px" .center-image}
 
 ### Prince William Sound, Alaska
-![](https://lh3.googleusercontent.com/QWXk1szd6LgorEQXrEVUohM62QinaYliGlSB13G9rSowXjw6w4FflUa_R4QNdj__ah4FNDdqAoZ0-WWXvjPkhZEDQcylNJwSSsRqW1kTLseAavzUwGN7q1q2a9hlNVE22VH6h2fbkFQ=w2400){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/tGm_2TGGEt_m88Q-fEJxMiuVHGYKsHRoTSJwg8-CNWa02ZxTVfBpbR-VTup-JLpSgFMkPzSUYzeqvve0fr3bAOgeybHwO01xex2rpT4oMeQqBC4XJaQT4zRGOI2VdthfrgRkHZRNpII=w2400){:height="640px" width="960px" .center-image}
 
 ### Prince William Sound, Alaska
 ![](https://lh3.googleusercontent.com/tlUAzdeXnyhI-bcqAE6INHTjP_AVMehNbbc1--HN_2nllZe3AUAnVc2dniI_d0nzZblQB4XbPewzeHYhUA6-jH6yO2C5EJame0fFoe6TauM4vjkXv9rZ7vnRvFLHeZBuUPnRUnUBo0s=w2400){:height="640px" width="960px" .center-image}
