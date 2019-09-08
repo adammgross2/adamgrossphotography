@@ -69,22 +69,22 @@ color: white
 ### [Tordrillo Mountains](https://earth.app.goo.gl/oAazVY)
 ![](https://lh3.googleusercontent.com/pk-NlkQQq6WSdopZj-Xico1duB6tehqmMqdlZHMyOJOvYQmsnrLCWNR0yiaFWR0eZABWsyWGM4Z89xu4CnWQTl_5fRMvUmfrJDXD6qpnIizbUHI--PnhnWrtI-sen62hkNe3CF88UaA=w2400){:height="640px" width="960px" .center-image}
 
-### Wrangell-St. Elias National Park
+### [Wrangell-St. Elias National Park](https://earth.app.goo.gl/1qMbsQ)
 ![](https://lh3.googleusercontent.com/e5J0DHmA5azO7v3KUuk9iz6tteq2ogs_qQdaLkHTgUaT2bcHfAG26SbzUraTWg5bfj2Xkua4LBrL7HSz7q6O9Ki9Is7t6gAlsPnLyOO361ud6u45qnj84_vMUlKW50Jkd-lV8GnOfog=w2400){:height="640px" width="960px" .center-image}
 
-### Wrangell-St. Elias National Park
+### [Wrangell-St. Elias National Park](https://earth.app.goo.gl/1qMbsQ)
 ![](https://lh3.googleusercontent.com/WHQuT87-Gp30_bvUWyqmBy6au4BOR3z2s4se99prqoKwR2RCKaEID8OdGl00h2jvNXalH-NcGsIXlk8yVRL7O-hlWoiRtK-JxtE9r2Lnv-ZOcXopL1DrTqXYaW2nJHIdwXjm2ajwFJk=w2400){:height="640px" width="960px" .center-image}
 
-### Wrangell-St. Elias National Park
+### [Wrangell-St. Elias National Park](https://earth.app.goo.gl/1qMbsQ)
 ![](https://lh3.googleusercontent.com/-MJXwe9VQP0V9VbjhDvSPstrteKI47mEvQsIedQ822uhh1QvXJbeGLaSX0w0G9svuUX28hNz_tG4Wkn5Enxe4t_HQqVU6HTkOpWisrZaZXiPRmKom4h8KBjbYpeLOrKoSexBSSV8t4c=w2400){:height="640px" width="960px" .center-image}
 
-### Wrangell-St. Elias National Park
+### [Wrangell-St. Elias National Park](https://earth.app.goo.gl/1qMbsQ)
 ![](https://lh3.googleusercontent.com/osZ21ZZRtgqsEPL4DdfVCETBaVX4qY66XqCZsEQPgPlyXa0pbeFLcaQwUoYSypl3bSwJoeXY_H_6NQrPh0_vGjv12K0YXArBFrg9IDOJZapj-w6xurZXD3bq41a2eGZZP9SilXiPtiw=w2400){:height="640px" width="960px" .center-image}
 
-### Wrangell-St. Elias National Park
+### [Wrangell-St. Elias National Park](https://earth.app.goo.gl/1qMbsQ)
 ![](https://lh3.googleusercontent.com/0Z_0f_POcidBrmvWDQkWb6f0eyHbwlxpJVG9jEBMi1RuucknLqJBwOUhF-zryt0t_hq0NuXDWEHjB9M1NWDKdKZqyPEIrG8c9yovoQsA3_1XeblBOpnrgRATHNSz_7fxAPRjJdKaPXE=w2400){:height="640px" width="960px" .center-image}
 
-### Old Denali Highway
+### [Old Denali Highway](https://earth.app.goo.gl/h6vJNu)
 ![](https://lh3.googleusercontent.com/kb6zA9BB3ZecuMAjrmaOMHnGp8aeby6MQpIv8ESPrCB4bjb1dWQ9p-jOzTRfZKPAt5hG4JpqC-kbFkimnzP55-dY7WYthg8p6cEMhJED0t23L81yYVr5dM4VFb9iegaYZLD7AiENLSU=w2400){:height="640px" width="960px" .center-image}
 
 ### [Talkeetna Mountains](https://earth.app.goo.gl/U9RNpj)
@@ -93,7 +93,7 @@ color: white
 ### [Talkeetna Mountains](https://earth.app.goo.gl/U9RNpj)
 ![](https://lh3.googleusercontent.com/s5Pt8VUaiL-XcWXe0-ChXdBCcGki0TPElHfRCrNO19q3JG-X3ZjY2C8VR3IvN5SCGuRC10TaOlGcV3S6lT11CALGpYMG5AUR9w2LNNyCBR9xtNo0Muq4rByKD1HEhn9Td9gLGnm0Lp0=w2400){:height="640px" width="960px" .center-image}
 
-### Mount Denali
+### [Denali View North Campground](https://earth.app.goo.gl/HRUCNv)
 ![](https://lh3.googleusercontent.com/csQpPJUclSHPTsNYjHFE7gJe36pcQlfBCglSdqGL-NPaYx1zd7dGzukaFyiOqYcap2ZeWcVJKrzCgQJeARZqkg_JtjDapVy6a6x_93qUR8JOoCTzE9WpduObi-H7VwEJQMMJq4oUPRo=w2400){:height="640px" width="960px" .center-image}
 
 ### [Whittier](https://earth.app.goo.gl/x9SJ8R)
