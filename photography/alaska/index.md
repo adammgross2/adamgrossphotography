@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Adam's Photography
+title: Alaska Photos
 bg: black
 color: white
 ---
@@ -47,7 +47,7 @@ Lorem ipsum
 ![](https://lh3.googleusercontent.com/288oPHX8iaocldqd7FUayrYLdLaJnUPvZ4tEAMpQdl7S-KFpZ7YxYdtAIRtpo1WbyBRMv0aYiiGg_BaxyuBVTffEIBj1IHVrVCbjvjGcRafg1gYbpryOSCi3Uvi0Rf1xx_xYPCdr3bo=w2400){:height="640px" width="960px" .center-image}
 
 ### Knik Glacier
-![](https://lh3.googleusercontent.com/vazRF8tZz5anTwC65zz5rYHdgg72Xe4CRVs7iK99CyzJKercsHZEVUXdQ53dUVz1WqePYRufnU1VOsm_nnr25rcO-17AzMKC0ZGLzLC-2XKIrGX90t4vesYCTEbJDXtqDFvUAAy_dR0=w2400){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/2ImNxzIZDyiPU173TnxkBph997v3KIlMNcUzHnhP802tIXIk2x7k4zYRQFtj2kPw0ZDfT8yz7-mfrRNKjxIHJ5hoDnpHWXcOTNjThZq73iRDz57jbMBH3H_IndU0bo_nTMk2-ml8aZ0=w2400){:height="640px" width="960px" .center-image}
 
 ### Grasshopper Canyon
 ![](https://lh3.googleusercontent.com/h2h0VZ6H-a7nUd1bNn_HJ57pkfU6m-zQEHnwJBkfJhUsR6WrqcYIfWe5-2LbT670RVi0BrfkkCpixRT9i-L45ISrkaKqzn2byPTqGpY2rGAmbmQfjQ9EZggjAfx8_wX2zqiK822yR3c=w2400){:height="640px" width="960px" .center-image}
@@ -58,36 +58,42 @@ Lorem ipsum
 
 ### Grasshopper Canyon
 ![](https://lh3.googleusercontent.com/SBNQsAgoXJ6Qi94u12ShxgeZGMwstJGSWrzHLMRHYj608QK0RE8hk88X27h3PTZuUEJdYqBuYu7dUZad44OJTcyavyFNG60w1ogUzgp9f5vV147kaln-GIgCee6FEG4XVeISCijO89c=w2400){:height="640px" width="960px" .center-image}
--------------------
 
+### Tordrillo Mountains
+![](https://lh3.googleusercontent.com/qMkQWYIrRzKE9XFp3tzYVkfaxSK50ezF5tA7oVcetS78uBSKj9cUsC4gH5aA9h8MSusBs8o8WymZtQlFCr-Tw83Qs4xzCxf36dWd8aRO-PFH2A0wHo_mX8Ylo8E1qp5e-ACzkuyhtNQ=w2400){:height="640px" width="960px" .center-image}
 
+### Tordrillo Mountains
+![](https://lh3.googleusercontent.com/KAcy2q6eWfQqvQOTbtmAesISMS561bkLGW1wrJ1-BQMWFPG3x9lzEcT-Nr9NOrR9URUGdrs2ApdqfNzCki6Nxb23YxwZR-aGHtpEbiJM-B-G60TCxWEMC5ztspDNt_fJQFz1ue0SftI=w2400){:height="640px" width="960px" .center-image}
 
+### Tordrillo Mountains
+![](https://lh3.googleusercontent.com/sLDBp9E-2bNPOsp5-F3wiKydoNG79Yf5Sl-4fq-iS3fyR-wVl2l0AvH2Ro6u_2ZiiQFcGNKQwP3ej9T9R8EwapX7vOV0dkr-g6rUWt_VSc3UkqSM__tt8jRIfHd7V3Rdd-Bky33nd_I=w2400){:height="640px" width="960px" .center-image}
 
-### Prince William Sound, Alaska
-![](https://lh3.googleusercontent.com/sg9cHmhIKj891teXRYXsfBMSoxs6hQLXVgl0L7b8gqxZNUhV8_2x-87mlMkvgPzqSqk4XSuQXffVGu-Qp_cUJJyg1jY0Htf3QoK8BB6OTZlghf4DUFfwgSEpkaBG3U2Z5C9J2ItPTf0=w2400){:height="640px" width="960px" .center-image}
+### Tordrillo Mountains
+![](https://lh3.googleusercontent.com/pk-NlkQQq6WSdopZj-Xico1duB6tehqmMqdlZHMyOJOvYQmsnrLCWNR0yiaFWR0eZABWsyWGM4Z89xu4CnWQTl_5fRMvUmfrJDXD6qpnIizbUHI--PnhnWrtI-sen62hkNe3CF88UaA=w2400){:height="640px" width="960px" .center-image}
 
-### Prince William Sound, Alaska
-![](https://lh3.googleusercontent.com/sg9cHmhIKj891teXRYXsfBMSoxs6hQLXVgl0L7b8gqxZNUhV8_2x-87mlMkvgPzqSqk4XSuQXffVGu-Qp_cUJJyg1jY0Htf3QoK8BB6OTZlghf4DUFfwgSEpkaBG3U2Z5C9J2ItPTf0=w2400){:height="640px" width="960px" .center-image}
+### Wrangell-St. Elias National Park
+![](https://lh3.googleusercontent.com/e5J0DHmA5azO7v3KUuk9iz6tteq2ogs_qQdaLkHTgUaT2bcHfAG26SbzUraTWg5bfj2Xkua4LBrL7HSz7q6O9Ki9Is7t6gAlsPnLyOO361ud6u45qnj84_vMUlKW50Jkd-lV8GnOfog=w2400){:height="640px" width="960px" .center-image}
 
-### Prince William Sound, Alaska
-![](https://lh3.googleusercontent.com/sg9cHmhIKj891teXRYXsfBMSoxs6hQLXVgl0L7b8gqxZNUhV8_2x-87mlMkvgPzqSqk4XSuQXffVGu-Qp_cUJJyg1jY0Htf3QoK8BB6OTZlghf4DUFfwgSEpkaBG3U2Z5C9J2ItPTf0=w2400){:height="640px" width="960px" .center-image}
+### Wrangell-St. Elias National Park
+![](https://lh3.googleusercontent.com/WHQuT87-Gp30_bvUWyqmBy6au4BOR3z2s4se99prqoKwR2RCKaEID8OdGl00h2jvNXalH-NcGsIXlk8yVRL7O-hlWoiRtK-JxtE9r2Lnv-ZOcXopL1DrTqXYaW2nJHIdwXjm2ajwFJk=w2400){:height="640px" width="960px" .center-image}
 
-### Prince William Sound, Alaska
-![](https://lh3.googleusercontent.com/sg9cHmhIKj891teXRYXsfBMSoxs6hQLXVgl0L7b8gqxZNUhV8_2x-87mlMkvgPzqSqk4XSuQXffVGu-Qp_cUJJyg1jY0Htf3QoK8BB6OTZlghf4DUFfwgSEpkaBG3U2Z5C9J2ItPTf0=w2400){:height="640px" width="960px" .center-image}
-### Prince William Sound, Alaska
-![](https://lh3.googleusercontent.com/sg9cHmhIKj891teXRYXsfBMSoxs6hQLXVgl0L7b8gqxZNUhV8_2x-87mlMkvgPzqSqk4XSuQXffVGu-Qp_cUJJyg1jY0Htf3QoK8BB6OTZlghf4DUFfwgSEpkaBG3U2Z5C9J2ItPTf0=w2400){:height="640px" width="960px" .center-image}
+### Wrangell-St. Elias National Park
+![](https://lh3.googleusercontent.com/-MJXwe9VQP0V9VbjhDvSPstrteKI47mEvQsIedQ822uhh1QvXJbeGLaSX0w0G9svuUX28hNz_tG4Wkn5Enxe4t_HQqVU6HTkOpWisrZaZXiPRmKom4h8KBjbYpeLOrKoSexBSSV8t4c=w2400){:height="640px" width="960px" .center-image}
 
-### Prince William Sound, Alaska
-![](https://lh3.googleusercontent.com/sg9cHmhIKj891teXRYXsfBMSoxs6hQLXVgl0L7b8gqxZNUhV8_2x-87mlMkvgPzqSqk4XSuQXffVGu-Qp_cUJJyg1jY0Htf3QoK8BB6OTZlghf4DUFfwgSEpkaBG3U2Z5C9J2ItPTf0=w2400){:height="640px" width="960px" .center-image}
+### Wrangell-St. Elias National Park
+![](https://lh3.googleusercontent.com/osZ21ZZRtgqsEPL4DdfVCETBaVX4qY66XqCZsEQPgPlyXa0pbeFLcaQwUoYSypl3bSwJoeXY_H_6NQrPh0_vGjv12K0YXArBFrg9IDOJZapj-w6xurZXD3bq41a2eGZZP9SilXiPtiw=w2400){:height="640px" width="960px" .center-image}
 
-### Prince William Sound, Alaska
-![](https://lh3.googleusercontent.com/sg9cHmhIKj891teXRYXsfBMSoxs6hQLXVgl0L7b8gqxZNUhV8_2x-87mlMkvgPzqSqk4XSuQXffVGu-Qp_cUJJyg1jY0Htf3QoK8BB6OTZlghf4DUFfwgSEpkaBG3U2Z5C9J2ItPTf0=w2400){:height="640px" width="960px" .center-image}
+### Wrangell-St. Elias National Park
+![](https://lh3.googleusercontent.com/0Z_0f_POcidBrmvWDQkWb6f0eyHbwlxpJVG9jEBMi1RuucknLqJBwOUhF-zryt0t_hq0NuXDWEHjB9M1NWDKdKZqyPEIrG8c9yovoQsA3_1XeblBOpnrgRATHNSz_7fxAPRjJdKaPXE=w2400){:height="640px" width="960px" .center-image}
 
-### Prince William Sound, Alaska
-![](https://lh3.googleusercontent.com/sg9cHmhIKj891teXRYXsfBMSoxs6hQLXVgl0L7b8gqxZNUhV8_2x-87mlMkvgPzqSqk4XSuQXffVGu-Qp_cUJJyg1jY0Htf3QoK8BB6OTZlghf4DUFfwgSEpkaBG3U2Z5C9J2ItPTf0=w2400){:height="640px" width="960px" .center-image}
+### Old Denali Highway
+![](https://lh3.googleusercontent.com/kb6zA9BB3ZecuMAjrmaOMHnGp8aeby6MQpIv8ESPrCB4bjb1dWQ9p-jOzTRfZKPAt5hG4JpqC-kbFkimnzP55-dY7WYthg8p6cEMhJED0t23L81yYVr5dM4VFb9iegaYZLD7AiENLSU=w2400){:height="640px" width="960px" .center-image}
 
-### Prince William Sound, Alaska
-![](https://lh3.googleusercontent.com/sg9cHmhIKj891teXRYXsfBMSoxs6hQLXVgl0L7b8gqxZNUhV8_2x-87mlMkvgPzqSqk4XSuQXffVGu-Qp_cUJJyg1jY0Htf3QoK8BB6OTZlghf4DUFfwgSEpkaBG3U2Z5C9J2ItPTf0=w2400){:height="640px" width="960px" .center-image}
+### Talkeetna Mountains
+![](https://lh3.googleusercontent.com/s5Pt8VUaiL-XcWXe0-ChXdBCcGki0TPElHfRCrNO19q3JG-X3ZjY2C8VR3IvN5SCGuRC10TaOlGcV3S6lT11CALGpYMG5AUR9w2LNNyCBR9xtNo0Muq4rByKD1HEhn9Td9gLGnm0Lp0=w2400){:height="640px" width="960px" .center-image}
 
-### Prince William Sound, Alaska
-![](https://lh3.googleusercontent.com/sg9cHmhIKj891teXRYXsfBMSoxs6hQLXVgl0L7b8gqxZNUhV8_2x-87mlMkvgPzqSqk4XSuQXffVGu-Qp_cUJJyg1jY0Htf3QoK8BB6OTZlghf4DUFfwgSEpkaBG3U2Z5C9J2ItPTf0=w2400){:height="640px" width="960px" .center-image}
+### Mount Denali
+![](https://lh3.googleusercontent.com/csQpPJUclSHPTsNYjHFE7gJe36pcQlfBCglSdqGL-NPaYx1zd7dGzukaFyiOqYcap2ZeWcVJKrzCgQJeARZqkg_JtjDapVy6a6x_93qUR8JOoCTzE9WpduObi-H7VwEJQMMJq4oUPRo=w2400){:height="640px" width="960px" .center-image}
+
+### Whittier
+![](https://lh3.googleusercontent.com/5dVs-nrJNfocK6QLx327UWnUxqInjUlrFdjLm2AvSDrx7htpSPtuSAWjMw080At6_bBKdZ-V-M2dNuTQxFpX8dZCUkHt7Z4MO6mAPMaPQuyHyRi_7DWougPf8TtAJzHYuCevosDXLHI=w2400){:height="640px" width="960px" .center-image}
