@@ -39,4 +39,4 @@ color: white
 ![](https://lh3.googleusercontent.com/hpOftOy657DWsj9uttPXkz9D0KH9Yx2AAP_3RKaR2CfL4k-8_JVm-EIvHfbyOu42LNoRq48Ili73c2JeKdC2X6Jx7wF3qxbbhgYBlT396xK9zoADtnJ14n1TSQDETi_DCAYX5MofTZw=w2400){:height="640px" width="960px" .center-image}
 
 ### Garnet Lake
-![](https://lh3.googleusercontent.com/WDJsVhdgGDFX3c1vzUW2YFLms0fkp1InHBtnE14UTnPp9zNWW38ERRVOX5Hluqk6nFsX0k4KOKmWbBhlgfi2Slv9XAn7MJAlGPENRuL2mgSdCJOYw4YwuoLIl1Jh0SHYfjt589n-WbM=w2400){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/WDJsVhdgGDFX3c1vzUW2YFLms0fkp1InHBtnE14UTnPp9zNWW38ERRVOX5Hluqk6nFsX0k4KOKmWbBhlgfi2Slv9XAn7MJAlGPENRuL2mgSdCJOYw4YwuoLIl1Jh0SHYfjt589n-WbM=w2400){:height="960px" width="640px" .center-image}
