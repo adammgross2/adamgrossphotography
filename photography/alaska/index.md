@@ -5,8 +5,6 @@ bg: black
 color: white
 ---
 
-Lorem ipsum
-
 ### Whittier, Alaska
 ![](https://lh3.googleusercontent.com/dBBYbtFKugEryASHe_yJ10_MTaE50-H2Ta1LinxpWJCfMrhFknVMssLPBTEVqGBHnNqp04-Ea9x2Seu8SSjXlgwmy6B3b7so6MH_skkA_Hda4OwGScloActEd-EqsRrwkGxKd0u0-eA=w2400){:height="640px" width="960px" .center-image}
 
