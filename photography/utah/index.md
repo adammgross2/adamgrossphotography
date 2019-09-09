@@ -15,8 +15,6 @@ color: white
 
 ![](https://lh3.googleusercontent.com/dz3k_wADiWQOujYyseR5t3JJcr6EHa4KzRTYmIIa-XlX4lXqp1LHF15aPG7SuV7e9DiY0lh1UPlQoHu9smgP3szFO-QvaWemLsucSmuqdDmxIsLJT1VXMtHAKhlerL3vy94VFdQdjDo=w2400){:height="640px" width="960px" .center-image}
 
-![](https://lh3.googleusercontent.com/Ab6KcQXD2-6Qg6X3nrLKwgzKwPInqbip1MJRWSIgAqXwaJ7YE5vtMY9wdIKBqPlOre8BLKqpqUuMIkOG4sHvKJFFGuOHlK1FE9ULjpfdtEsP_3pmfYfh7VVAeA2wX4Sq9s6C2D2W-W8=w2400){:height="640px" width="960px" .center-image}
-
 ### Bryce Canyon National Park
 
 ![](https://lh3.googleusercontent.com/wHZUX8fbGQxaqnpZ5WPbghYOaK4AZ-Q5lVMYmYX9VfzYn1hlAVn_QnuFoeFVjBHKQjgOb4t04HkmTN5X7_TebFfVBLnr92EFfN-c_T45G4r1hecrjyM0hQtJyzSdSX5K_UfevKJzRgI=w2400){:height="640px" width="960px" .center-image}
