@@ -5,6 +5,8 @@ bg: black
 color: white
 ---
 
+<meta property="og:image" content="https://lh3.googleusercontent.com/RVnVxhwykLWQOQkYTGVMGJr9CWwETNnzvKykdU8VcOc_dIyJOsSR-4PPMxElIQB_4rvG4UuHGxn93-0shcjpGrQhtDYlQSHs4djQxB9CH3xLx1ng1CjD7mQg0Y1CNGsKE8SpeJ0HYBQ=w2400" />
+
 ### Gardiner Falls
 ![](https://lh3.googleusercontent.com/RVnVxhwykLWQOQkYTGVMGJr9CWwETNnzvKykdU8VcOc_dIyJOsSR-4PPMxElIQB_4rvG4UuHGxn93-0shcjpGrQhtDYlQSHs4djQxB9CH3xLx1ng1CjD7mQg0Y1CNGsKE8SpeJ0HYBQ=w2400){:height="640px" width="960px" .center-image}
 
