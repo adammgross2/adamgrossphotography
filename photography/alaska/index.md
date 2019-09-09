@@ -5,6 +5,8 @@ bg: black
 color: white
 ---
 
+<meta property="og:image" content="https://lh3.googleusercontent.com/oi7WnnOsuw3k5XKpW2_v8H2JiRpqyDqXNKIzgk1eQ33wjirj3y01t4WazZti0EVi8vhFxYVc4JwhaieLNjwDYazNa9EV_G7GbEOLofitQj8uZ3xHitU_cMtCMkK2T_9L_MjiMuRjeSg=w2400" />
+
 ### [Whittier](https://earth.app.goo.gl/x9SJ8R)
 ![](https://lh3.googleusercontent.com/dBBYbtFKugEryASHe_yJ10_MTaE50-H2Ta1LinxpWJCfMrhFknVMssLPBTEVqGBHnNqp04-Ea9x2Seu8SSjXlgwmy6B3b7so6MH_skkA_Hda4OwGScloActEd-EqsRrwkGxKd0u0-eA=w2400){:height="640px" width="960px" .center-image}
 
