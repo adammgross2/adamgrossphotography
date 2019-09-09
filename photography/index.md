@@ -71,7 +71,7 @@ I have no formal training in photography and use the internet minimally for phot
 ![](https://lh3.googleusercontent.com/Vk9dVjmQDwC0vd2S_cGW-i5iW3bNW4ypY0cJmIHEK5zA_VxGT64_vDVS-Rz3vIq2dRemM7mNwBdYcqHLLHlpDHM9MTkvMlS_0sQ7Wlo--AXGcgjOrbWyWIv4mAkTcpJC5rqBCl_G6Ik=w2400){:height="640px" width="960px" .center-image}
 
 ### Carbondale, Colorado
-![](https://lh3.googleusercontent.com/QzNfN6pdBw5hCFQlL_vl-zus55I-r44bNY-unG8PZNox6zv-7DUCBmlgCZT6Qv40tlC7zmOmKJzqvuxVNmv8OXAU73QPnEEgr1Hp2JhhTZQavFhVEoyol3hpZxDHaHijDMnjB_rBW6Y=w2400){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/TV4NgaBUMfXmsTyFKJOLVebe2-sKGHlTj-yTzp5Nvu7dqZ0UZUxKDLICxNBNdz9VOGgIzRn6I6TYH0h1QRUHF7oQhmAeJJrTloCEoy_AB_6aiFZDRy5Ltmc1mPBMS7iXEBfbCaj94y8=w2400){:height="640px" width="960px" .center-image}
 
 ### Hong Kong, China
 ![](https://lh3.googleusercontent.com/b79xZj-C2n7f7hUHuXEKeoAVvH3D-kiMbk640SKXW-bwySGkAnw1IjV7CpEULvjjMPKVQmBqsH-CMm-Y-D28QlrFRZOA-5p-smylyqpppJdWV3owpUqDOFnyel7jr5puFZpNtuWtPwQ=w2400){:height="640px" width="960px" .center-image}
