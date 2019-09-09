@@ -1,9 +1,11 @@
 ---
 layout: default
-title: Ansel Adams Wilderness
+title: Ansel Adams Wilderness Photos
 bg: black
 color: white
 ---
+
+<meta property="og:image" content="https://lh3.googleusercontent.com/Gjx9NS6dEWJfZmoE7V9GOoRNP3jws6MjJEvv4hgBVzfWI_B67VN7hxTiaXG4TLE_tBEUsxQDjWDzJBb4f8fhMX8v4fZyzGdx5wlpoJW3aBHzMlxleJIe8v8t-8yyR9mgEiH6rY_gm4g=w2400" />
 
 ### Ansel Adams Wilderness, California
 ![](https://lh3.googleusercontent.com/Gjx9NS6dEWJfZmoE7V9GOoRNP3jws6MjJEvv4hgBVzfWI_B67VN7hxTiaXG4TLE_tBEUsxQDjWDzJBb4f8fhMX8v4fZyzGdx5wlpoJW3aBHzMlxleJIe8v8t-8yyR9mgEiH6rY_gm4g=w2400){:height="640px" width="960px" .center-image}
