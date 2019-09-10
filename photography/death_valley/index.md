@@ -35,7 +35,7 @@ color: white
 ![](https://lh3.googleusercontent.com/OB7eVytkRWzplp0FINYYx1-gFn9xqspUZdTwJOtdqnPBOEfvJ7I3eiX0VNgsnaG7jhZVjmlKx6IwkxC6Cqd8YwPbWbnblcJCMienSmbrlZA8ZCuQuKm-Lem81Hz-jioeQt63UhP66yo=w2400){:height="640px" width="960px" .center-image}
 
 ### Badwater Basin
-![](https://lh3.googleusercontent.com/tV7lOeoSUwjV5EPRJ8IUnNEU220HlqMZUPvzF0GwKlKVAEO41OvVezS9NVlJpZe58G-Eb7DRpjHbZRyzlZgMpZQBfsaLbPV3AK15oM1iwlwApQs3fZmFA0-oMRHqbokOYADiZiGdrHA=w2400){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/wpD-vMmq5IuZ286AnoRsmNnqhqNCo9RavNFkFCv7vi0zGweTwIj7MpqeKbKivlRhyPSK6igNjT4xbzcOexCHKQzyA8HjYGH7-Sr9gdEFxCXZtCLKuDkZZsB72H82Nk-3w8PlEsnUeQA=w2400){:height="640px" width="960px" .center-image}
 
 ### Near Artist's Palette
 ![](https://lh3.googleusercontent.com/k3k2tnv56CiN5K7Pa8ySYkNwxLNe0-lv2jLSqeAWv6LNniANk3z627Dt8iI1zUdauQnFnfK6b3lMw0D3nyqlG5yJGRdwRH2-ffaM_PSwWB9FbBWtTrEyhf1pzHk3d_APB1SKZDAp4MQ=w2400){:height="640px" width="960px" .center-image}
