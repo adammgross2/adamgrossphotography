@@ -53,6 +53,9 @@ I have no formal training in photography and use the internet minimally for phot
 ![](https://lh3.googleusercontent.com/L-7I14JNvNjkc5HJKyBQlTG8UJKjTKTB1cxkpzv-pGQe9nK9wky95ll-bJQLJlcbQ7ZLHAXk1MrBfj4zYMZ-9DQVQFLGlhpezA51KnvgyluZ5DkMAxWxyPih4ErNN0V1hBLygB_sMVA=w2400){:height="640px" width="960px" .center-image}
 
 ### Ansel Adams Wilderness, California
+![](https://lh3.googleusercontent.com/QXAwBoYO0A1w9W-lgVeuRJzIr7KjntMPrWayAVdRBwl7PZHVC8yov6OA6pcePDZKMMEQ1q5tAS35sAWLBHYpqvYrTAEWh8-6a-3CgOsjQnUHweeewvj0ePphu3hi537txqKV4T9pMS8=w2400){:height="640px" width="960px" .center-image}
+
+### Ansel Adams Wilderness, California
 ![](https://lh3.googleusercontent.com/Uh-fzRIlR-yKCem8935FxPDAnQ6pbEvdpZ2emS6xdaLLKpvG1uLwLqSdPpV-w0RemURIATerf3L0LDxGfg_CnLmnXnmdwGmoF8agwxcnixkMEMj2-LHD_QUqe50Ze-IrflL1v6abMiU=w2400){:height="640px" width="960px" .center-image}
 
 ### Kings Canyon National Park, California
