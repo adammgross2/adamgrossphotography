@@ -11,6 +11,8 @@ While nothing can beat talking face to face with a good merchant and smelling an
    * full, classic yunnan golden
 * [Yunnan Pearl](https://redblossomtea.com/products/yunnan-pearl?variant=31628129412) - RBT
    * my first favorite black, smoky, full
+* [Ruby Red 18](http://dechuantea.com/products/products_intro.htm) -- Wangdechuan
+   * Taiwanese, light, great depth, basically perfect
 
 ### Pu-erh
 * ['Old Aroma, Old Taste' Shou Puerh](https://teatrekker.com/product/loose-leaf-old-aroma-old-taste-shou-pu-erh/) - TT
