@@ -29,6 +29,7 @@ I love music. I started learning the violin at 9 and switched to guitar at 10 ye
 
 #### Bop
 <iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A1294365737%3Aplaylist%3A5N3c8zVbwGPsLwGospVYwU" width="373" height="210" frameborder="0" allowtransparency="true"></iframe>
+
 #### Boosa Nova
 <iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A1294365737%3Aplaylist%3A6pBjUemLxJ8v0DnOKj2N9L" width="373" height="210" frameborder="0" allowtransparency="true"></iframe>
 
