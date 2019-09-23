@@ -13,17 +13,40 @@ This was all festering under the hood, however, as I had no conscious interest i
 
 I have no formal training in photography and use the internet minimally for photography education. I believe that intuitive training through iterative trial and error is the best approach for me. For my photos, I use a digital mirrorless camera, usually without a tripod, and a drone. I am my own main audience, as I add my top shots to a folder which my personal and work computers each use as the source of their desktop backgrounds, going through the pictures in a random order, changing every 15 minutes. When people don't realize that my desktop backgrounds are self-shot and think they are defaults that came with the OS, that is a win for me. Below is a feed of my top favorite photographs I have produced, but for fuller inventories by location see the following links:
 
+* [Yosemite](/photography/yosemite)
 * [Alaska](/photography/alaska)
 * [Kings Canyon](/photography/kings_canyon)
 * [Death Valley](/photography/death_valley)
 * [Ansel Adams Wilderness](/photography/ansel_adams_wilderness)
 * [Joshua Tree](/photography/joshua_tree)
+* [Malibu](/photography/malibu)
 * [Cabo](/photography/cabo)
 * [Hong Kong](/photography/hong_kong)
-* [Malibu](/photography/malibu)
 * [Arches, Canyonlands, Bryce, and Zion](/photography/utah)
 
 ## 2019
+
+### Yosemite National Park, California
+![](https://lh3.googleusercontent.com/YtjtDfK0AYMiqLSZryNnifdEayTah-OD8Rp9b_RHmrqi2w1_7DVOayihIL3u0UUCjcDL9H1Q9wMxPVAn0MgA0AOHD2q_Z5VeJGIxQAp1OUDbOfte_jrCP5DyveC3QGXbmWf8H20GW1c=w2400
+){:height="640px" width="960px" .center-image}
+
+### Yosemite National Park, California
+![](https://lh3.googleusercontent.com/EcNGWLS2TZtZKi3dOK5ouds39Oeel1I2hZo_9WGhwI6rxyrM9w8wwpktEcAU3wlNSy5FyDk3Qe937potMz9BhKEFGLDb76vU-ekI-4M4Oc0B_nA-M2GmGe3K9xoJBGSFZlPKfsJ5B0I=w2400){:height="640px" width="960px" .center-image}
+
+### Yosemite National Park, California
+![](https://lh3.googleusercontent.com/gE4NqALhIVCQDJv6USvVRMAeBSatx6PfU7Ar1gDfYt5QCFIq0zulULrxOdLgBjP1aBucZG3stiTVi0aKOhhQKlGWSxi-krKZkgmfHIRfVeL6man2bOLG1nTmdmU7YSR3heyfSY70KkA=w2400){:height="640px" width="960px" .center-image}
+
+### Yosemite National Park, California
+![](https://lh3.googleusercontent.com/7rL_ck-tGxWs7de12-ds8rBX1g6AzgYcfgGOnVDCm28Npjd034Z7PDi7EN59hlLNF4S8s-YVhp-nodRjcQ3Mhlj3XhQ5H0_g-argS6gcQDPYGoc0SVCy6sg2rT3Ljm06qB8BRJPMal4=w2400){:height="640px" width="960px" .center-image}
+
+### Yosemite National Park, California
+![](https://lh3.googleusercontent.com/faqbLgR82UCRZrTP9oeysXfZrD8ZPWdokUSFPC3f3Eq9EMvGfHCnq6DOH6GItZpR_ioUJ1QXwy643z856M_1X3YIsbJ-COq1yuiJk8OPGWE-ylhztp8MgBvD52InwYVx-XjFxV2gcyU=w2400){:height="640px" width="960px" .center-image}
+
+### Yosemite National Park, California
+![](https://lh3.googleusercontent.com/IAb9KNG-QdJyj3FiNmixVkpAzdAup6kc9qRe-bpJ3Kx3Eeb7LyUSg03W_QcDRkGZ5UwDDNj30n3Qr3PTd5Gqau8Z-SoS2c9yp-cbkZ3qBwEy6r_45Y8xXazXJ1-Rl5bJ-MlZ4p2Nc90=w2400){:height="640px" width="960px" .center-image}
+
+### Yosemite National Park, California
+![](https://lh3.googleusercontent.com/wywRiuuMWZPs-qOMoCsefu3dy9UNHibL1dQBdL-Qr6Q1zMBZ-AF99TWBXwRiiU1JSSjhxVl1tlXCBYj0amVoozQsh3pUxf36IYV1XGOM-QYCuf_EuijqzCEviRqum5h5P4qluQR53FY=w2400){:height="640px" width="960px" .center-image}
 
 ### Joshua Tree National Park, California
 ![](https://lh3.googleusercontent.com/e0pKPOOHB2--bnWKmgXqE9-3wyEdYLkuqSkrBxYT6VjpRPPV9AGf615Mmb6ofSKro1t5MmMZpSSc78hafG0DwZeLeFd_5zPwZpe3f4kZLo06fsDUi6fE8BZwU2M7YEywSCdx9pPBjLE=w2400){:height="640px" width="960px" .center-image}
