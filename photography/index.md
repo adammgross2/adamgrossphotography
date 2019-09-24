@@ -5,7 +5,7 @@ bg: black
 color: white
 ---
 
-<meta property="og:image" content="https://lh3.googleusercontent.com/ucYh_g4ITYQFpl2Kf7_dPiRIt1xlXxzVgmGRWtVyz-cviW4g1fnSfBY4ZlvgSdfLkYr8PvyxZnTmpE_BRaTj_W8grm5FVo3Gt-A7Dm3YRlGXzxy95N4WAeUK38r3BiVSvyAgKhi702I=w2400" />
+<meta property="og:image" content="https://lh3.googleusercontent.com/8YfVSJ7Js56D1LnjgBX8-3Vw2CHt5L-uUEFqJCHWoU5OEB0jF1_tHwSP9F6Xw_mBnvwXZn5z5nLidGKkI3XToCpB05FiaZZKswmybf11syDfEbmSMBMxffrc5Ghyf8_zyFwgXqRX3B4=w2400" />
 
 I am an extremely enthusiastic nature photographer. My love for nature photography was sparked, ironically, through spending hours upon hours sitting at my personal computer as a kid choosing desktop wallpaper photos. I got my first personal computer in 1999, right when PC desktops started featuring beautiful landscapes as their backgrounds (remember ["Bliss"](https://en.wikipedia.org/wiki/Bliss_(image)) from WindowsXP?). As a kid I found myself getting caught up in the endless rabbit hole of choosing beautiful backgrounds for my computer, and in hindsight I think this instilled in me a deep appreciation for nature fine art photography, and a well-trained sensibility for composition and the beautiful aesthetic possibilities in nature photography. Over time, Apple has really kept this movement going with beautiful pictures of California -- Yosemite, the Mojave, and the Sierra -- as options for their backgrounds. This has helped refine my taste and spark my desire to get out in the California wilderness.
 
