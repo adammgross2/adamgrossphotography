@@ -124,6 +124,9 @@ I have no formal training in photography and use the internet minimally for phot
 ### Inca Trail, Peru
 ![](https://lh3.googleusercontent.com/-b1arlKZgZE01lSHECeAW8gov5wPKGpc-tr6Oy-7Y--WeHrrp_llBtv6a7t3OlodciPQSxhV1AEQ12kZmexAiBmweltgodyMU05t0TTivKs3ELxzkkRMqaBm3F8fTAdTv3XhDGWyV1s=w2400){:height="640px" width="960px" .center-image}
 
+### Inca Trail, Peru
+![](https://lh3.googleusercontent.com/vkqmYgf-bV3nmCbF_BLwwReEhqKGreP6ThxvC2i3g9b1bop6-d7zsgEcE3SeXPx4A0QOLM3vpiTKiDR6l42wFN9ugDJf4nfWwSYsvJTbmysC9sqIvGe08W3iPApH7RTz2O7Ynt_597s=w2400){:height="640px" width="960px" .center-image}
+
 ### Malibu, California
 ![](https://lh3.googleusercontent.com/6fHEfIosJRAC98lhSZaMFMwxIvSFkiqHF7Z3EzGOW5n-7vgRMvN9yM3XwV78WLYhrygVwnoUGhJPasugES_BRgCSl5i7zcR4KcE6OCJbOdj2Fcsgr2NPfpBemEWxGgUfiAVA0Y2qbpI=w2400){:height="640px" width="960px" .center-image}
 
