@@ -2,7 +2,7 @@
 layout: default
 title: Adam's Reading List
 ---
-Here is a list of books that I have enjoyed. This includes fiction and non-fiction (but is mostly non-fiction), and it is ordered by the recency of reading. There a section at the end for books that are on my todo list. **There is a separate section of this website called [academic work](/academic_work) that contains the content I have read for my Middle Eastern History studies.**
+Here is a list of books that I have enjoyed. This includes fiction and non-fiction (but is mostly non-fiction), and it is ordered by the recency of reading. There a section at the end for books that are on my todo list. **There is a separate section of this website called [academic work](/academic_work) that contains the content I have read for my Middle Eastern History studies, and a listing of books in the [photography section](/photography) that I have read for my photography, hiking, and nature interests.**
 
 ## TL;DR Book Hall of Fame
 
