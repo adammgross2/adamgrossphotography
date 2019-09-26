@@ -48,7 +48,7 @@ I have no formal training in photography and use the internet minimally for phot
 ## 2019
 
 ### Yosemite National Park, California
-![](https://lh3.googleusercontent.com/YtjtDfK0AYMiqLSZryNnifdEayTah-OD8Rp9b_RHmrqi2w1_7DVOayihIL3u0UUCjcDL9H1Q9wMxPVAn0MgA0AOHD2q_Z5VeJGIxQAp1OUDbOfte_jrCP5DyveC3QGXbmWf8H20GW1c=w2400
+![](https://lh3.googleusercontent.com/NlsnVgi7c88Y7FDgO2aecW52yKeRR_hc5IaKaFoBTyWO2otvER6iTegdIPzpNX8VLXOjSj3Wr-89F7jW-_5z7FYO6GKoiLM28De8z9zH-sYvV6cuC-KHjxGRJ1BQpBtSaWLZD50Gm3k=w2400
 ){:height="640px" width="960px" .center-image}
 
 ### Yosemite National Park, California
