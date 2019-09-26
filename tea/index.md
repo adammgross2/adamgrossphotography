@@ -25,6 +25,7 @@ While nothing can beat talking face to face with a good merchant and smelling an
    * full, easy to extract mint-like flavor, amazing aftertaste lingers
 * Unnamed Taiwanese Oolong - WDC
   * extremely subtle, smooth, soft, and sweet
+* [Jin Xuan Golden Buds Milk Oolong](https://www.memteaimports.com/tea/golden-buds-milk-oolong) - MemTea
 
 ### Green
 * N/A (yet)
