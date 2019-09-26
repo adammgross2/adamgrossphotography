@@ -5,12 +5,11 @@ bg: black
 color: white
 ---
 
-<meta property="og:image" content="https://lh3.googleusercontent.com/YtjtDfK0AYMiqLSZryNnifdEayTah-OD8Rp9b_RHmrqi2w1_7DVOayihIL3u0UUCjcDL9H1Q9wMxPVAn0MgA0AOHD2q_Z5VeJGIxQAp1OUDbOfte_jrCP5DyveC3QGXbmWf8H20GW1c=w2400
+<meta property="og:image" content="https://lh3.googleusercontent.com/NlsnVgi7c88Y7FDgO2aecW52yKeRR_hc5IaKaFoBTyWO2otvER6iTegdIPzpNX8VLXOjSj3Wr-89F7jW-_5z7FYO6GKoiLM28De8z9zH-sYvV6cuC-KHjxGRJ1BQpBtSaWLZD50Gm3k=w2400
 " />
 
 ### Olmsted Point
-![](https://lh3.googleusercontent.com/YtjtDfK0AYMiqLSZryNnifdEayTah-OD8Rp9b_RHmrqi2w1_7DVOayihIL3u0UUCjcDL9H1Q9wMxPVAn0MgA0AOHD2q_Z5VeJGIxQAp1OUDbOfte_jrCP5DyveC3QGXbmWf8H20GW1c=w2400
-){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/NlsnVgi7c88Y7FDgO2aecW52yKeRR_hc5IaKaFoBTyWO2otvER6iTegdIPzpNX8VLXOjSj3Wr-89F7jW-_5z7FYO6GKoiLM28De8z9zH-sYvV6cuC-KHjxGRJ1BQpBtSaWLZD50Gm3k=w2400){:height="640px" width="960px" .center-image}
 
 ### Glen Aulin
 ![](https://lh3.googleusercontent.com/EcNGWLS2TZtZKi3dOK5ouds39Oeel1I2hZo_9WGhwI6rxyrM9w8wwpktEcAU3wlNSy5FyDk3Qe937potMz9BhKEFGLDb76vU-ekI-4M4Oc0B_nA-M2GmGe3K9xoJBGSFZlPKfsJ5B0I=w2400){:height="640px" width="960px" .center-image}
