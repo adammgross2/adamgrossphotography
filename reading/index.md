@@ -21,13 +21,13 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 ## In Progress
 
 #### Primary
-* [Coming Into the Country by John McPhee](https://www.amazon.com/gp/product/0374522871/ref=dbs_a_def_rwt_bibl_vppi_i3)
 
-#### On the Backburner
+* [Maps of Meaning by Jordan Peterson](https://www.amazon.com/gp/product/0415922224/ref=dbs_a_def_rwt_bibl_vppi_i1)
+
+#### Dabbling
 * [The Third Chimpanzee by Jared Diamond](https://www.amazon.com/Third-Chimpanzee-Evolution-Future-Animal/dp/0060845503/ref=sr_1_1?s=books&ie=UTF8&qid=1520700920&sr=1-1&keywords=The+Third+Chimpanzee+by+Jared+Diamond)
-* [The Empire of Tea by Alan and Iris McFarlane](https://www.amazon.com/Empire-Tea-Remarkable-History-Plant/dp/B003EN3K66/ref=sr_1_10?keywords=the+empire+of+tea&qid=1560271873&s=gateway&sr=8-10)
-* [A Jew in the Lotus by Rodger Kamenetz](https://www.amazon.com/Jew-Lotus-Rediscovery-Identity-Buddhist/dp/0061367397/ref=sr_1_1?ie=UTF8&qid=1530470844&sr=8-1&keywords=the+jew+in+the+lotus)
 * [Seneca's Letters](https://www.amazon.com/gp/product/022652843X/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
+* [Coming Into the Country by John McPhee](https://www.amazon.com/gp/product/0374522871/ref=dbs_a_def_rwt_bibl_vppi_i3)
 
 
 ## Have Read
@@ -106,6 +106,7 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 
 #### On Audible
 
+* [The Empire of Tea by Alan and Iris McFarlane](https://www.amazon.com/Empire-Tea-Remarkable-History-Plant/dp/B003EN3K66/ref=sr_1_10?keywords=the+empire+of+tea&qid=1560271873&s=gateway&sr=8-10)
 * [Altered Traits: Science Reveals How Meditation Changes Your Mind, Brain, and Body by Daniel Goleman and Richard Davidson](https://www.amazon.com/gp/product/0399184384/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1)
 * [The Laws of Human Nature by Robert Greene](https://www.amazon.com/Laws-Human-Nature-GREENE-ROBERT/dp/1781259194/ref=sr_1_1?crid=OWUZFRM97NQF&keywords=laws+of+human+nature&qid=1559943758&s=gateway&sprefix=aa+ba%2Caps%2C182&sr=8-1)
 * [Fields of Blood: Religion and the History of Violence by Karen Armstrong](https://www.amazon.com/Fields-Blood-Religion-History-Violence/dp/0307957047/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=)
@@ -128,6 +129,7 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 
 #### Not on Audible
 
+* [A Jew in the Lotus by Rodger Kamenetz](https://www.amazon.com/Jew-Lotus-Rediscovery-Identity-Buddhist/dp/0061367397/ref=sr_1_1?ie=UTF8&qid=1530470844&sr=8-1&keywords=the+jew+in+the+lotus)
 * [Ansel Adams' Autobiography](https://www.amazon.com/Ansel-Adams-Autobiography/dp/0821215965/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=)
 * [Emerson: Essays and Lectures: Nature: Addresses and Lectures / Essays: First and Second Series / Representative Men / English Traits / The Conduct of Life (Library of America)](https://www.amazon.com/gp/product/0940450151/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
 * [Thomas Jefferson : Writings : Autobiography / Notes on the State of Virginia / Public and Private Papers / Addresses / Letters (Library of America)](https://www.amazon.com/gp/product/094045016X/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
