@@ -7,13 +7,8 @@ color: white
 
 <meta property="og:image" content="https://lh3.googleusercontent.com/RVnVxhwykLWQOQkYTGVMGJr9CWwETNnzvKykdU8VcOc_dIyJOsSR-4PPMxElIQB_4rvG4UuHGxn93-0shcjpGrQhtDYlQSHs4djQxB9CH3xLx1ng1CjD7mQg0Y1CNGsKE8SpeJ0HYBQ=w2400" />
 
-### Copper Creek Trail Sunrise
-<div style="width:100%;height:480px;background-color:black;text-align:center;">
-  <video style="height:100%;" controls>
-    <source src="https://lh3.googleusercontent.com/cl01pAr5Xg4RgFYcPZBz2349PQPFMHAgL0RcQPhzvxG90ootFUWeaBmlXpFirvqjhKpDnCA8HtpFdeR5Y2HPfFa41bU_IKQk87u1oLHgNtaleq_KS5epfYyp6AlG4QSK1bnW0fKRMRI=m37" type="video/mp4">
-  </video>
-</div>
-
+### Gardiner Falls
+![](https://lh3.googleusercontent.com/f20-v0AFHKbynks8-u7u0EI5x2322SroR_RydnaZn0-Xp4TPGfvgzs8dhTIZxNWf-cDDyLRhCGs3bUMW3DoDh7SFpldzWK4xzaK86RHu3ytu0amUglxM1NZoMT8Xt2Du0SUrJtDDraY=w2400){:height="640px" width="960px" .center-image}
 
 ### Gardiner Falls
 ![](https://lh3.googleusercontent.com/PeMfb45BatuYGNR1-AzQ_FhsY7WZXVuLHKSeJA2ruAIDBO_a6b_fmLTENcgJfGq5I2dSrLcPbyoG_7RH2Y2smssOj8A0sn39OTLIVuIf-d04q7BnCaTW11-JcJYoJipZO55Z5Ajhijs=w2400){:height="640px" width="960px" .center-image}
