@@ -19,6 +19,15 @@ color: white
 ### Woods Creek
 ![](https://lh3.googleusercontent.com/f20-v0AFHKbynks8-u7u0EI5x2322SroR_RydnaZn0-Xp4TPGfvgzs8dhTIZxNWf-cDDyLRhCGs3bUMW3DoDh7SFpldzWK4xzaK86RHu3ytu0amUglxM1NZoMT8Xt2Du0SUrJtDDraY=w2400){:height="640px" width="960px" .center-image}
 
+### Copper Creek Trail big shot
+![](https://lh3.googleusercontent.com/94Xy_EAWKRJaB0FDeoaUrfLfsYgEa7RzVGl9vPmdCB6-8jsd_3BER3rk4_TgJD9_B_1m-Gl80kwBQyexHmTTdr5yt6mCN1pxcQxFiZrtuY3CZW05Wevy7yEGx-QJX0gopznOQxvBxos=w2400){:height="640px" width="960px" .center-image}
+
+### Zumwalt Meadows water 
+![](https://lh3.googleusercontent.com/eM0BcoamZ3UAkYRJQaGFBnsdzbPCCUHwzZ_aIku5REQzpC53RyFHClzGNVt0W6gv6wrCL6yeSI6MUPgerskkWrktpNydsvoz32xNmPTEb5FiNume4r4_3xU4P-UE-Kt-1b-AYc4ROwo=w2400){:height="640px" width="960px" .center-image}
+
+### Zumwalt Meadows cliff
+![](https://lh3.googleusercontent.com/xrsNdWbTPwO-gM2ARjjUiLyrsWBpKKjR8VYtXWCSPspAg3takkOftKuMIQjBK_vZDBf0UWEPsOzVjqFmGR82KFS618D_-rgK9hEVb4OI9JarhQnfCxOXz6KJUpJfNUqvqddL9T8mFik=w2400){:height="640px" width="960px" .center-image}
+
 ### Kings Canyon
 ![](https://lh3.googleusercontent.com/Vk9dVjmQDwC0vd2S_cGW-i5iW3bNW4ypY0cJmIHEK5zA_VxGT64_vDVS-Rz3vIq2dRemM7mNwBdYcqHLLHlpDHM9MTkvMlS_0sQ7Wlo--AXGcgjOrbWyWIv4mAkTcpJC5rqBCl_G6Ik=w2400){:height="640px" width="960px" .center-image}
 
@@ -27,6 +36,18 @@ color: white
 
 ### Kanawyers
 ![](https://lh3.googleusercontent.com/yLQLRsHQqL2rINIaKU0t93JximVQ6cQogSPF4r0A-yrwrs5pNLV_UsLZSHqXtvzt-v1os3RG0ATPYDM0DhbZH4ErsMKQVrI0_MFGDDf883NvmyjwZ4WWRdxvh56cu-bE1l5fU0e1cZk=w2400){:height="640px" width="960px" .center-image}
+
+### Zumwalt Meadows
+![](https://lh3.googleusercontent.com/oSpFZ1kvN36SBhy_kXqyikvSg7iI_UoxO_clqYxZVxbTpadSetVgdcNNvsXlxfeKh4oMYM3wKDqJvVVQGFivwip7sq_LLcUBI8S2qA4ehzNiCrIYk1BRARl97HG5CNm11SnpICRvH4Q=w2400){:height="640px" width="960px" .center-image}
+
+### South Fork Kings River
+![](https://lh3.googleusercontent.com/coYOY6JcO-K5FepD3OzOiiJCtd7q8wDsPyYOy06zcwBLVJbbOh4bJoXRQenVLHJdpN76JDFm_LfckPAlrVOMDlPB4TsWKH6w2qfBFFc_ZAQ2Efi3ZXGccYGCIfpFB6IdpqiBevrOAHs=w2400){:height="640px" width="960px" .center-image}
+
+### South Fork Kings River
+![](https://lh3.googleusercontent.com/hDq0pn48s-g4RiEu_991htTpW7DFlWC0p9wWptLLjW-XJOrbrYRVDdR7EQQxIiEWY-qf9qBErV8pJyx-IkLsk-OIMzKSwPx-UVjiUlxJAobzPMQLzDLR4VnV5ApUH7xToZ2sdtAF5-U=w2400){:height="640px" width="960px" .center-image}
+
+### South Fork Kings River
+![](https://lh3.googleusercontent.com/oYzo03cnlXQwmcPMqw99bJ2nZ2rSGhmmnfvg-36HEJ2s7LFuMre8bLxr6bp2ci1z1ARAF5VL7lkZxnKSfv1X4pIprar0raxlbT1aAt2ifa2fpakoKnFJ6xCZxapMD9HTmFmiy-OWCWw=w2400){:height="640px" width="960px" .center-image}
 
 ### Bubbs Creek and Woods Creek confluence
 ![](https://lh3.googleusercontent.com/bmiUQooK28Gj0-Vw-sOUBuqHpvURSDWbhNP-3Z4595T0t4Cc2UcZcy2Iko2f61YqT3z8AKdnSKwRlSacmmNk0Os2WrYpuP_v3PFIJuUnrglAr2vZVyJ7MV4eRbpONuDKr_nig5Mt3P0=w2400){:height="640px" width="960px" .center-image}
@@ -69,3 +90,21 @@ color: white
 
 ### Kearsarge Pass
 ![](https://lh3.googleusercontent.com/va1-Xwylwtc6Qwh_YRl7HVNtfqM-e8UbG0zBpoChk1U99lLvQQGlw9XOrCyUdBAmSJemG8f33O5nM_TA6jBsQATi8DjTgm3lsuM_CakTloX9MFMTVaar89AMC5R3KEfj11TJteMevqI=w2400){:height="640px" width="960px" .center-image}
+
+### Copper Creek Trail
+![](https://lh3.googleusercontent.com/s345eIveEh0IAaX7nBsdcs__RlQy8HmqYMNASd1-go7BtFbVaHeMDQgr5Zd_94JKDpjqyMY2VI2n6cZmJTC7NoYvHoVB3fKFa9Ea5vfpGP26nPksmOoQTL8jH-IyeBrlCIzfIV1DzXk=w2400){:height="640px" width="960px" .center-image}
+
+### South Fork Kings River
+![](https://lh3.googleusercontent.com/TfqIjtp9vYpPJz2XDy8weRZ4HiUo6gXGg_qoJvhSFR8V3BQNJkm2oVJm7C4B3gQUb47Lwv0WVNqOno9E_AQuloHJ6qJglMc77DixWlsXTErNyZMYCk1xUGvyJhTg0wEyEgHg_RQZPmM=w2400){:height="640px" width="960px" .center-image}
+
+### South Fork Kings River
+![](https://lh3.googleusercontent.com/js5CyA9L8NQrxv9EFsZCyVMTjTbV0Ami98hRdKBTTUWgE_opnhMaNXFfU8tBZcjRO2Im2YMAONUAiaYswCG7F1A-GSuXphaRQbEoAtcMQuyhZyX2YPZynVdApxmgoLmMxpLw8VhR74g=w2400){:height="640px" width="960px" .center-image}
+
+### South Fork Kings River
+![](https://lh3.googleusercontent.com/flzJFN3ZC3rUWTBWczhy6eqR9HDCmG2uk3CpornkJh2JPjlhO-qHZoQDACRT1M0_xSjv2bjJF4g6Q_lxhHTl9CDfo9R25aNXw_RAfUbmy1vpVwFNdulCtcivEbCnCg4MFchAuZH05S0=w2400){:height="640px" width="960px" .center-image}
+
+### Middle Fork Kings River
+![](https://lh3.googleusercontent.com/U-ZCEctqHcUISdcHMmRiV-yXmhYvCM8SPadCKkf62_Do3jpgVekWkM0kL2Nx2lETeBa-mMpKtXyJlPJhn7XNKpQ3aVie4e2_zRUe2WeZ6aCcpXRHRl7fj5wrPGyruLpEN-3ZrNLjDT0=w2400){:height="640px" width="960px" .center-image}
+
+### Kings Canyon Scenic Byway
+![](https://lh3.googleusercontent.com/KQYZBCjLlthzajVPdMf7yifWv_4m03UpIkkvXuXeUHdLkNZhuHu3qAg6majDr2IuyODohRVBlh1kuG_a8cmFbBAsU3PEH056ArUzg2iuZ5RMEB_bx7Vla5z9JgoP22Crw4qSngcM260=w2400){:height="640px" width="960px" .center-image}
