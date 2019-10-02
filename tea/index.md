@@ -13,6 +13,8 @@ While nothing can beat talking face to face with a good merchant and smelling an
    * my first favorite black, smoky, full
 * [Ruby Red 18](http://dechuantea.com/products/products_intro.htm) - WDC
    * Taiwanese, light, great depth, basically perfect
+* [Formosa Red #18 Mi Xiang](https://redblossomtea.com/products/formosa-red-18-mi-xiang?variant=31872083652) - RBT
+   * Taiwanese, very different from the [Ruby Red 18](http://dechuantea.com/products/products_intro.htm) ^^, nutty, very deep sweetness but not overwhelming, viscous aftertaste
 
 ### Pu-erh
 * ['Old Aroma, Old Taste' Shou Puerh](https://teatrekker.com/product/loose-leaf-old-aroma-old-taste-shou-pu-erh/) - TT
