@@ -47,6 +47,15 @@ I have no formal training in photography and use the internet minimally for phot
 
 ## 2019
 
+### Alabama Hills, California
+![](https://lh3.googleusercontent.com/ZGVHO1L8880lf8-3NbGgHMOtV5Jc2P5q1DVGl2HpWDgq0vIO78eIFA-jn0bsAlTff4M69C31fvM3ewMJRRDLJQwizzyu3ZOpd_vp_hqUBw8u58JfdPFL1ZMQ9e_5z1f45SOfNGHype0=w2400){:height="640px" width="960px" .center-image}
+
+### Aspendell, California
+![](https://lh3.googleusercontent.com/0XToO3zdSlf6yZvdnTLGt9yFYtXi7lO_lhb9JQgtiATbgcf6LKbA4Nj10rugKfM3ZYnHClAR-qtgsYTWvEPHnycsE5RDDVA7OPYO1KM-epOV_02exRyVPQFLUN69GIOBMq698yVQko8=w2400){:height="640px" width="960px" .center-image}
+
+### Bishop Creek Canyon, California
+![](https://lh3.googleusercontent.com/uBOTlnEdNRS5Lma4wQZH9p6P3GrFs4LEElg-XewSZGFlxt874W70x-p1gafjGA38tRbwgX08I9kZt0Lvf9-xUucj1vFpD6VS0U7JmhQmVzMMrwUiI-HT1NhvFw_smRgSGcLxzFehCvM=w2400){:height="640px" width="960px" .center-image}
+
 ### Kings Canyon National Park, California
 ![](https://lh3.googleusercontent.com/94Xy_EAWKRJaB0FDeoaUrfLfsYgEa7RzVGl9vPmdCB6-8jsd_3BER3rk4_TgJD9_B_1m-Gl80kwBQyexHmTTdr5yt6mCN1pxcQxFiZrtuY3CZW05Wevy7yEGx-QJX0gopznOQxvBxos=w2400){:height="640px" width="960px" .center-image}
 
