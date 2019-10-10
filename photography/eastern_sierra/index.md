@@ -8,7 +8,6 @@ color: white
 <meta property="og:image" content="https://lh3.googleusercontent.com/ZGVHO1L8880lf8-3NbGgHMOtV5Jc2P5q1DVGl2HpWDgq0vIO78eIFA-jn0bsAlTff4M69C31fvM3ewMJRRDLJQwizzyu3ZOpd_vp_hqUBw8u58JfdPFL1ZMQ9e_5z1f45SOfNGHype0=w2400
 " />
 
-
 ### Alabama Hills, California
 ![](https://lh3.googleusercontent.com/ZGVHO1L8880lf8-3NbGgHMOtV5Jc2P5q1DVGl2HpWDgq0vIO78eIFA-jn0bsAlTff4M69C31fvM3ewMJRRDLJQwizzyu3ZOpd_vp_hqUBw8u58JfdPFL1ZMQ9e_5z1f45SOfNGHype0=w2400){:height="640px" width="960px" .center-image}
 
@@ -56,3 +55,15 @@ color: white
 
 ### Garnet Lake
 ![](https://lh3.googleusercontent.com/WDJsVhdgGDFX3c1vzUW2YFLms0fkp1InHBtnE14UTnPp9zNWW38ERRVOX5Hluqk6nFsX0k4KOKmWbBhlgfi2Slv9XAn7MJAlGPENRuL2mgSdCJOYw4YwuoLIl1Jh0SHYfjt589n-WbM=w2400){:height="960px" width="640px" .center-image}
+
+### Mount Robinson from Long Lake
+![](https://lh3.googleusercontent.com/8YoW6WfOIuPyakpM0dOGgVwIjvv1KuWCHijPTr-eK0NaG6WUX3Zgn1PNyAAOnGRFANOPaKZPucsi0mECPLWIl2DoPvw6mcXZPXOAh7lJXMN2MVBcb-FcrDupi4XzYcDt2fE9cjHEiNQ=w2400){:height="960px" width="640px" .center-image}
+
+### Bishop Creek Canyon near South Lake
+![](https://lh3.googleusercontent.com/hULDWRwsizm3Mo1A5Y__F_aweoSn8oHrVIq5bD7F2kPsbwTJI6Z3xat-RWKsz4b7X1mu0RC1SV1_UtcEh_HmrZUe4NhOI1c51RdXO6a50AF7vbLtg80Ume3-ULe773k_2iAyfMs9iqY=w2400){:height="960px" width="640px" .center-image}
+
+### South Lake
+![](https://lh3.googleusercontent.com/Pr7XAtyDa-yZaKBtfBMh6Ie94cfmaHUCzLxVMOh8OGEKO7ataqRUWhPO-1hBPI6nvsk4xnLrZmd82FCkWJYTDO03CjondcZ_zkZoU7WGcBcwRTeB6r6_BwF8ryNYwgIqqO-rKPCOtIg=w2400){:height="960px" width="640px" .center-image}
+
+### Bishop Creek Canyon near North Lake
+![](https://lh3.googleusercontent.com/qTFQxRmZBBPoo5lWMojJcdhUy9yItvM2hAfDxQlvY_bNJDoAS6ha2BhEcRX89nx2KVXxdhTExnTP__ju6k8pY2yagzLThNxaI9ukC2591g3TzX5S4cstINQsKfinAC01WXAYn9EL97c=w2400){:height="960px" width="640px" .center-image}
