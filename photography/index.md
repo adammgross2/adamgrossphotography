@@ -19,9 +19,9 @@ I have no formal training in photography and use the internet minimally for phot
 
 * [Yosemite](/photography/yosemite)
 * [Alaska](/photography/alaska)
+* [Eastern Sierra Nevada](/photography/eastern_sierra)
 * [Kings Canyon](/photography/kings_canyon)
 * [Death Valley](/photography/death_valley)
-* [Ansel Adams Wilderness](/photography/ansel_adams_wilderness)
 * [Joshua Tree](/photography/joshua_tree)
 * [Malibu](/photography/malibu)
 * [Cabo](/photography/cabo)
