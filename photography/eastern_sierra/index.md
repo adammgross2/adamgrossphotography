@@ -8,25 +8,25 @@ color: white
 <meta property="og:image" content="https://lh3.googleusercontent.com/ZGVHO1L8880lf8-3NbGgHMOtV5Jc2P5q1DVGl2HpWDgq0vIO78eIFA-jn0bsAlTff4M69C31fvM3ewMJRRDLJQwizzyu3ZOpd_vp_hqUBw8u58JfdPFL1ZMQ9e_5z1f45SOfNGHype0=w2400
 " />
 
-### Alabama Hills, California
+### Alabama Hills
 ![](https://lh3.googleusercontent.com/ZGVHO1L8880lf8-3NbGgHMOtV5Jc2P5q1DVGl2HpWDgq0vIO78eIFA-jn0bsAlTff4M69C31fvM3ewMJRRDLJQwizzyu3ZOpd_vp_hqUBw8u58JfdPFL1ZMQ9e_5z1f45SOfNGHype0=w2400){:height="640px" width="960px" .center-image}
 
-### Aspendell, California
+### Aspendell
 ![](https://lh3.googleusercontent.com/0XToO3zdSlf6yZvdnTLGt9yFYtXi7lO_lhb9JQgtiATbgcf6LKbA4Nj10rugKfM3ZYnHClAR-qtgsYTWvEPHnycsE5RDDVA7OPYO1KM-epOV_02exRyVPQFLUN69GIOBMq698yVQko8=w2400){:height="640px" width="960px" .center-image}
 
-### Bishop Creek Canyon, California
+### Bishop Creek Canyon
 ![](https://lh3.googleusercontent.com/uBOTlnEdNRS5Lma4wQZH9p6P3GrFs4LEElg-XewSZGFlxt874W70x-p1gafjGA38tRbwgX08I9kZt0Lvf9-xUucj1vFpD6VS0U7JmhQmVzMMrwUiI-HT1NhvFw_smRgSGcLxzFehCvM=w2400){:height="640px" width="960px" .center-image}
 
 ### Tioga Pass
 ![](https://lh3.googleusercontent.com/sJmx3suFwRgwspZctI84m2-2aPYO5OhnpyTj_C05sgsHqcQ9av6itPigjILeANFOWtbXuq-Pm0lRbyPCtkPc8muX8rPkyvB51bniKE_DMTJ_aiNWsmgvuIV-634kCsux-97llP20I-A=w2400){:height="640px" width="960px" .center-image}
 
-### Ansel Adams Wilderness, California
+### Ansel Adams Wilderness
 ![](https://lh3.googleusercontent.com/Gjx9NS6dEWJfZmoE7V9GOoRNP3jws6MjJEvv4hgBVzfWI_B67VN7hxTiaXG4TLE_tBEUsxQDjWDzJBb4f8fhMX8v4fZyzGdx5wlpoJW3aBHzMlxleJIe8v8t-8yyR9mgEiH6rY_gm4g=w2400){:height="640px" width="960px" .center-image}
 
-### Ansel Adams Wilderness, California
+### Ansel Adams Wilderness
 ![](https://lh3.googleusercontent.com/L-7I14JNvNjkc5HJKyBQlTG8UJKjTKTB1cxkpzv-pGQe9nK9wky95ll-bJQLJlcbQ7ZLHAXk1MrBfj4zYMZ-9DQVQFLGlhpezA51KnvgyluZ5DkMAxWxyPih4ErNN0V1hBLygB_sMVA=w2400){:height="640px" width="960px" .center-image}
 
-### Ansel Adams Wilderness, California
+### Ansel Adams Wilderness
 ![](https://lh3.googleusercontent.com/Uh-fzRIlR-yKCem8935FxPDAnQ6pbEvdpZ2emS6xdaLLKpvG1uLwLqSdPpV-w0RemURIATerf3L0LDxGfg_CnLmnXnmdwGmoF8agwxcnixkMEMj2-LHD_QUqe50Ze-IrflL1v6abMiU=w2400){:height="640px" width="960px" .center-image}
 
 ### Above Shadow Lake
