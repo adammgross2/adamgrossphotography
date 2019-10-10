@@ -13,4 +13,4 @@ Hello! Thanks for visiting my website. You can find my bio on the [About Me](/ab
 * The [Music](/music) page has a description of my music taste, a collection of self-made Spotify and Youtube Music playlists, and SoundCloud playlist containing all of my personal compositions.
 * The [Academic Work](/academic_work) page contains all of the most interesting articles and books I read and the papers I wrote as part of my undergraduate collegiate studies, mostly focused on history.
 * The [Movies and TV](/movies_tv) section contains a list of all of my favorite movies and TV shows.
-* The [Travels](/travels) page has a map showing all of the countries I've visited.]
+* The [Travels](/travels) page has a map showing all of the countries I've visited.
