@@ -17,16 +17,16 @@ This was all festering under the hood, however, as I had no conscious interest i
 
 I have no formal training in photography and use the internet minimally for photography education. I believe that intuitive training through iterative trial and error is the best approach for me (see [Antifragile by Nassim Taleb](https://en.wikipedia.org/wiki/Antifragile)). For my photos, I use a digital mirrorless camera and a drone. I am my own main audience, as I add my top shots to a folder which my personal and work computers each use as the source of their desktop backgrounds, going through the pictures in a random order, changing every 15 minutes. When people don't realize that my desktop backgrounds are self-shot and think they are defaults that came with the OS, that is a win for me. Below is a feed of my top favorite photographs I have produced, but for fuller inventories by location see the following links:
 
-* [Yosemite](/photography/yosemite)
-* [Alaska](/photography/alaska)
-* [Eastern Sierra Nevada](/photography/eastern_sierra)
-* [Kings Canyon](/photography/kings_canyon)
-* [Death Valley](/photography/death_valley)
-* [Joshua Tree](/photography/joshua_tree)
-* [Malibu](/photography/malibu)
-* [Cabo](/photography/cabo)
-* [Hong Kong](/photography/hong_kong)
-* [Arches, Canyonlands, Bryce, and Zion](/photography/utah)
+* [Yosemite](/yosemite)
+* [Alaska](/alaska)
+* [Eastern Sierra Nevada](/eastern_sierra)
+* [Kings Canyon](/kings_canyon)
+* [Death Valley](/death_valley)
+* [Joshua Tree](/joshua_tree)
+* [Malibu](/malibu)
+* [Cabo](/cabo)
+* [Hong Kong](/hong_kong)
+* [Arches, Canyonlands, Bryce, and Zion](/utah)
 
 #### Reading
 
