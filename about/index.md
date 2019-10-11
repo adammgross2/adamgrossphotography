@@ -1,5 +1,5 @@
 
-I am currently a Software Engineer at Google in Venice Beach, California. You can see more about me at my personal website: **[amgross.me]**(https://amgross.me). My undergraduate studies were in Computer Science, Math, and History with a concentration in the Middle East and North Africa. In addition to those academic areas, I also love all of the following (in no particular order):
+I am currently a Software Engineer at Google in Venice Beach, California. You can see more about me at my personal website: **[amgross.me](https://amgross.me)**. My undergraduate studies were in Computer Science, Math, and History with a concentration in the Middle East and North Africa. In addition to those academic areas, I also love all of the following (in no particular order):
 
 * Backpacking and Hiking
 * Nature Photography
