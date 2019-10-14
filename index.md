@@ -133,7 +133,7 @@ I have no formal training in photography and use the internet minimally for phot
 ![](https://lh3.googleusercontent.com/RVnVxhwykLWQOQkYTGVMGJr9CWwETNnzvKykdU8VcOc_dIyJOsSR-4PPMxElIQB_4rvG4UuHGxn93-0shcjpGrQhtDYlQSHs4djQxB9CH3xLx1ng1CjD7mQg0Y1CNGsKE8SpeJ0HYBQ=w2400){:height="640px" width="960px" .center-image}
 
 ### Kings Canyon National Park, California
-![](https://lh3.googleusercontent.com/f20-v0AFHKbynks8-u7u0EI5x2322SroR_RydnaZn0-Xp4TPGfvgzs8dhTIZxNWf-cDDyLRhCGs3bUMW3DoDh7SFpldzWK4xzaK86RHu3ytu0amUglxM1NZoMT8Xt2Du0SUrJtDDraY=w2400){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/RU9eLZRU-JDLI8mMedZrMkKIGSR_EgIWAw7kEm_uZtNazYBdCdLiQd993nnmM-k2gJ21Rt6unN9zGRi1wzvnOc0nOxzbal5gZyZzTZiOZw65QhEVPYzhAtyPW5dsd0d3wT-4sIST0qU=w2400){:height="640px" width="960px" .center-image}
 
 ### Kings Canyon National Park, California
 ![](https://lh3.googleusercontent.com/Vk9dVjmQDwC0vd2S_cGW-i5iW3bNW4ypY0cJmIHEK5zA_VxGT64_vDVS-Rz3vIq2dRemM7mNwBdYcqHLLHlpDHM9MTkvMlS_0sQ7Wlo--AXGcgjOrbWyWIv4mAkTcpJC5rqBCl_G6Ik=w2400){:height="640px" width="960px" .center-image}
