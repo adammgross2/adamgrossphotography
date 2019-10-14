@@ -23,7 +23,7 @@ color: white
 ![](https://lh3.googleusercontent.com/js5CyA9L8NQrxv9EFsZCyVMTjTbV0Ami98hRdKBTTUWgE_opnhMaNXFfU8tBZcjRO2Im2YMAONUAiaYswCG7F1A-GSuXphaRQbEoAtcMQuyhZyX2YPZynVdApxmgoLmMxpLw8VhR74g=w2400){:height="640px" width="960px" .center-image}
 
 ### Woods Creek
-![](https://lh3.googleusercontent.com/f20-v0AFHKbynks8-u7u0EI5x2322SroR_RydnaZn0-Xp4TPGfvgzs8dhTIZxNWf-cDDyLRhCGs3bUMW3DoDh7SFpldzWK4xzaK86RHu3ytu0amUglxM1NZoMT8Xt2Du0SUrJtDDraY=w2400){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/RU9eLZRU-JDLI8mMedZrMkKIGSR_EgIWAw7kEm_uZtNazYBdCdLiQd993nnmM-k2gJ21Rt6unN9zGRi1wzvnOc0nOxzbal5gZyZzTZiOZw65QhEVPYzhAtyPW5dsd0d3wT-4sIST0qU=w2400){:height="640px" width="960px" .center-image}
 
 ### Copper Creek Trail
 ![](https://lh3.googleusercontent.com/94Xy_EAWKRJaB0FDeoaUrfLfsYgEa7RzVGl9vPmdCB6-8jsd_3BER3rk4_TgJD9_B_1m-Gl80kwBQyexHmTTdr5yt6mCN1pxcQxFiZrtuY3CZW05Wevy7yEGx-QJX0gopznOQxvBxos=w2400){:height="640px" width="960px" .center-image}
