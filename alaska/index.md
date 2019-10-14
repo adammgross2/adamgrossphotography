@@ -17,7 +17,7 @@ color: white
 ![](https://lh3.googleusercontent.com/ucYh_g4ITYQFpl2Kf7_dPiRIt1xlXxzVgmGRWtVyz-cviW4g1fnSfBY4ZlvgSdfLkYr8PvyxZnTmpE_BRaTj_W8grm5FVo3Gt-A7Dm3YRlGXzxy95N4WAeUK38r3BiVSvyAgKhi702I=w2400){:height="640px" width="960px" .center-image}
 
 ### [Prince William Sound](https://earth.app.goo.gl/APrMwk)
-![](https://lh3.googleusercontent.com/y1395M-d2ijk2YGSfaXEDMAHqfXd_LkE-2FBbFE2PqK0lWqX-GHsHoBJELfx33ESeIeEk1IZl5fo6jqTw943iMFbFQ3-VylrE1LV2b3xriu4Xl6L-tOf7icTe7hiD0V5ffpriZe7Auo=w2400){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/mFf260mAynocPUiTfHCtYiB_qf9OPRoFYud1pfetAbVO0KgD13xbCvWh4R7lzlA2du2q-xUi6sIogVuDNkEd1RQP2uRIJqYbKhR4b8ruDsIkMWiqhLqRVEETdLVBPJoSLgioplY1QfA=w2400){:height="640px" width="960px" .center-image}
 
 ### [Prince William Sound](https://earth.app.goo.gl/APrMwk)
 ![](https://lh3.googleusercontent.com/zeojBi300EZfxmafbI5BxZOLl_DxdeqeBQ0XYCa10r4Rb12HTMYamBdV4BYwOeooIuKK92f6l46zvxI-2OsSdBwrK2CjsyAC-RjEo_E1ul-d3ZtU5gWWmcFwLLUk3C5D0_Om6eJ5Wpc=w2400){:height="960px" width="640px" .center-image}
