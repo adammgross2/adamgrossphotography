@@ -7,7 +7,7 @@ color: white
 
 <meta property="og:image" content="https://lh3.googleusercontent.com/Ybf6JKlWusSiiwvOySqssWiL5gXNK7gcB4WalD8GgXYaf6K6ESTLBSS3iEASnVua5DNlKEkDQgdPVTdBEj22zX68XsEWXBSB1J3DjoPYO-nHRbtYA5gysgULq-oWv92I3svadpxIYRU=w960-h640" />
 
- <span style="text-align:center;">Swipe or use the arrow keys to navigate through the images</span>
+ Swipe or use the arrow keys to navigate through the images.
 
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
