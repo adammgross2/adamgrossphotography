@@ -5,9 +5,9 @@ bg: black
 color: white
 ---
 
-<meta property="og:image" content="https://lh3.googleusercontent.com/e0pKPOOHB2--bnWKmgXqE9-3wyEdYLkuqSkrBxYT6VjpRPPV9AGf615Mmb6ofSKro1t5MmMZpSSc78hafG0DwZeLeFd_5zPwZpe3f4kZLo06fsDUi6fE8BZwU2M7YEywSCdx9pPBjLE=w2400" />
+<meta property="og:image" content="https://lh3.googleusercontent.com/5_30ikHY1KXHT7U_ZJcEfF2r2rlwrxS7jrwNfsMcNF9CBFUkXfFuFKdiVpuNbu2Ve8kN_2z3VJd3mLhi5ob1jFZzp-lH53TfIg_aEztTfiXGgYTVrjkvPulHZT85C-Kn4OASGA9xqIU=w2400" />
 
-![](https://lh3.googleusercontent.com/e0pKPOOHB2--bnWKmgXqE9-3wyEdYLkuqSkrBxYT6VjpRPPV9AGf615Mmb6ofSKro1t5MmMZpSSc78hafG0DwZeLeFd_5zPwZpe3f4kZLo06fsDUi6fE8BZwU2M7YEywSCdx9pPBjLE=w2400){:height="640px" width="960px" .center-image}
+![]https://lh3.googleusercontent.com/5_30ikHY1KXHT7U_ZJcEfF2r2rlwrxS7jrwNfsMcNF9CBFUkXfFuFKdiVpuNbu2Ve8kN_2z3VJd3mLhi5ob1jFZzp-lH53TfIg_aEztTfiXGgYTVrjkvPulHZT85C-Kn4OASGA9xqIU=w2400){:height="640px" width="960px" .center-image}
 
 ![](https://lh3.googleusercontent.com/KJkUq4LMD6dGmyiENefel4IbUb1jObDpUSj1wpE31un-Rk7nFSJ24J2sS4z6oWq6uShX78PXhKWPkCvktuJ7uZbIJ1jMUW6KcB3i9UhfLn8slVZ9A2n2vnF8BACv59izW4H48qUJ1yE=w2400){:height="640px" width="960px" .center-image}
 
