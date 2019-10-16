@@ -20,7 +20,7 @@ color: white
 ![](https://lh3.googleusercontent.com/mmXR8wXXpDevqp-GZeAOQI3RVTnB80kXAdZymMIRrOJPTQQNJ0P-9QH1KteCWbq4nAr0LvNHl46YTlCOmKaoJsvCkUfdW-F2ci4Yg7S5hHKIYyuU-KYSlxrM6fXFdmvOSoFXi-bFWYg=w2400){:height="640px" width="960px" .center-image}
 
 ### Mesquite Flat Sand Dunes
-![](https://lh3.googleusercontent.com/zGoXn5Mrbcs4IyJR7nBhYL7f6BKl0g2XaB0a0k56tn7iaTiv5x3ddeErqYy-bAwLK6Tz_6oQRXHJCokXZL0WvfzsPi_FSdvIwglTKhid63OhPSKAqiET9ehcxrYFX9htMJBiubDaj5s=w2400){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/axeHWHvbQiId4FAcSTkz67x2qNsfQIE75vyqLECjJaBUcfgWWJPX-onDg_gmoTD42APYYmLZv5fQ0uMkb2SwHp23U7M2T9ESKMz2l4FkQd7pw9S-AKu2rPD-0E2u5QksIFB22RoaBmw=w2400){:height="640px" width="960px" .center-image}
 
 ### Mesquite Flat Sand Dunes
 ![](https://lh3.googleusercontent.com/NC4vHgYAKY5nDaMi16rTGUdObJZNghcrcf70g6tN_3fTivcE0zK-uxia-VQqUL4fNEcKFzJmdjP6WZfCHNzubkLafZJp33pccQIEhMJWuLZ5OnIDokCUQQefWAe3pYkehlznXInUGAo=w2400){:height="640px" width="960px" .center-image}
