@@ -95,7 +95,7 @@ I have no formal training in photography and use the internet minimally for phot
 ![](https://lh3.googleusercontent.com/wywRiuuMWZPs-qOMoCsefu3dy9UNHibL1dQBdL-Qr6Q1zMBZ-AF99TWBXwRiiU1JSSjhxVl1tlXCBYj0amVoozQsh3pUxf36IYV1XGOM-QYCuf_EuijqzCEviRqum5h5P4qluQR53FY=w2400){:height="640px" width="960px" .center-image}
 
 ### Joshua Tree National Park, California
-![](https://lh3.googleusercontent.com/e0pKPOOHB2--bnWKmgXqE9-3wyEdYLkuqSkrBxYT6VjpRPPV9AGf615Mmb6ofSKro1t5MmMZpSSc78hafG0DwZeLeFd_5zPwZpe3f4kZLo06fsDUi6fE8BZwU2M7YEywSCdx9pPBjLE=w2400){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/5_30ikHY1KXHT7U_ZJcEfF2r2rlwrxS7jrwNfsMcNF9CBFUkXfFuFKdiVpuNbu2Ve8kN_2z3VJd3mLhi5ob1jFZzp-lH53TfIg_aEztTfiXGgYTVrjkvPulHZT85C-Kn4OASGA9xqIU=w2400){:height="640px" width="960px" .center-image}
 
 ### Whittier, Alaska
 ![](https://lh3.googleusercontent.com/dBBYbtFKugEryASHe_yJ10_MTaE50-H2Ta1LinxpWJCfMrhFknVMssLPBTEVqGBHnNqp04-Ea9x2Seu8SSjXlgwmy6B3b7so6MH_skkA_Hda4OwGScloActEd-EqsRrwkGxKd0u0-eA=w2400){:height="640px" width="960px" .center-image}
