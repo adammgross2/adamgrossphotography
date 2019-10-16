@@ -51,6 +51,9 @@ I have no formal training in photography and use the internet minimally for phot
 ### Alabama Hills, California
 ![](https://lh3.googleusercontent.com/ZGVHO1L8880lf8-3NbGgHMOtV5Jc2P5q1DVGl2HpWDgq0vIO78eIFA-jn0bsAlTff4M69C31fvM3ewMJRRDLJQwizzyu3ZOpd_vp_hqUBw8u58JfdPFL1ZMQ9e_5z1f45SOfNGHype0=w2400){:height="640px" width="960px" .center-image}
 
+### Alabama Hills
+![](https://lh3.googleusercontent.com/KHVDVUvAVfUlfaFhfXsAO9T6H41A8Eun_GHWwYGifUX9QMqKlJSovM-vH-RVz1w-rgOquifqmohwDMmQ__oJTWuv0sofBNUt8UFXKc3ams8qXo3X_hmA1ARfqSvENPmv8TUrD77qNOU=w2400){:height="640px" width="960px" .center-image}
+
 ### Aspendell, California
 ![](https://lh3.googleusercontent.com/0XToO3zdSlf6yZvdnTLGt9yFYtXi7lO_lhb9JQgtiATbgcf6LKbA4Nj10rugKfM3ZYnHClAR-qtgsYTWvEPHnycsE5RDDVA7OPYO1KM-epOV_02exRyVPQFLUN69GIOBMq698yVQko8=w2400){:height="640px" width="960px" .center-image}
 
