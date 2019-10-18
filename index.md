@@ -45,13 +45,16 @@ I have no formal training in photography and use the internet minimally for phot
 * [Assortment of Articles by John Muir](https://www.amazon.com/gp/product/1359685596/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1)
 * [National Geographic Greatest Landscapes: Stunning Photographs That Inspire and Astonish](https://www.amazon.com/gp/product/1426217129/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1)
 * [The Ansel Adams Wilderness by Peter Essick](https://www.amazon.com/Ansel-Adams-Wilderness-Peter-Essick/dp/1426213298/ref=sr_1_3?keywords=ansel+adams+wilderness&qid=1569447667&s=gateway&sr=8-3)
+* [Utah, the Light Fantastic by Tom Till](https://www.amazon.com/gp/product/0971255547/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+* [Utah, Magnificent Wilderness by Tom Till](https://www.amazon.com/gp/product/0942394607/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+* [Canyons of Utah by Tom Till](https://www.amazon.com/gp/product/0971255555/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
 ## 2019
 
 ### Alabama Hills, California
 ![](https://lh3.googleusercontent.com/ZGVHO1L8880lf8-3NbGgHMOtV5Jc2P5q1DVGl2HpWDgq0vIO78eIFA-jn0bsAlTff4M69C31fvM3ewMJRRDLJQwizzyu3ZOpd_vp_hqUBw8u58JfdPFL1ZMQ9e_5z1f45SOfNGHype0=w2400){:height="640px" width="960px" .center-image}
 
-### Alabama Hills
+### Alabama Hills, California
 ![](https://lh3.googleusercontent.com/KHVDVUvAVfUlfaFhfXsAO9T6H41A8Eun_GHWwYGifUX9QMqKlJSovM-vH-RVz1w-rgOquifqmohwDMmQ__oJTWuv0sofBNUt8UFXKc3ams8qXo3X_hmA1ARfqSvENPmv8TUrD77qNOU=w2400){:height="640px" width="960px" .center-image}
 
 ### Aspendell, California
