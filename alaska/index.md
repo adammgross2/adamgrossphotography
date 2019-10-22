@@ -17,7 +17,7 @@ color: white
 ![](https://lh3.googleusercontent.com/ucYh_g4ITYQFpl2Kf7_dPiRIt1xlXxzVgmGRWtVyz-cviW4g1fnSfBY4ZlvgSdfLkYr8PvyxZnTmpE_BRaTj_W8grm5FVo3Gt-A7Dm3YRlGXzxy95N4WAeUK38r3BiVSvyAgKhi702I=w2400){:height="640px" width="960px" .center-image}
 
 ### [Prince William Sound](https://earth.app.goo.gl/APrMwk)
-![](https://lh3.googleusercontent.com/mFf260mAynocPUiTfHCtYiB_qf9OPRoFYud1pfetAbVO0KgD13xbCvWh4R7lzlA2du2q-xUi6sIogVuDNkEd1RQP2uRIJqYbKhR4b8ruDsIkMWiqhLqRVEETdLVBPJoSLgioplY1QfA=w2400){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/S3fMeuiiyhLIcZPxCMzbu86LIwXraIRu9rJpkj0pSwr0X01u3NQwMcuoNJyvYO64xnKl-gIfnMsWhhjKB3ku1OmyuIKldSqaMkvpaSCCM_TT_mwZa1d0F80749rUNqQbxSzYSSGXvfQ=w2400){:height="640px" width="960px" .center-image}
 
 ### [Prince William Sound](https://earth.app.goo.gl/APrMwk)
 ![](https://lh3.googleusercontent.com/zeojBi300EZfxmafbI5BxZOLl_DxdeqeBQ0XYCa10r4Rb12HTMYamBdV4BYwOeooIuKK92f6l46zvxI-2OsSdBwrK2CjsyAC-RjEo_E1ul-d3ZtU5gWWmcFwLLUk3C5D0_Om6eJ5Wpc=w2400){:height="960px" width="640px" .center-image}
@@ -46,12 +46,14 @@ color: white
 ### [Lake George](https://earth.app.goo.gl/JXXJbu)
 ![](https://lh3.googleusercontent.com/288oPHX8iaocldqd7FUayrYLdLaJnUPvZ4tEAMpQdl7S-KFpZ7YxYdtAIRtpo1WbyBRMv0aYiiGg_BaxyuBVTffEIBj1IHVrVCbjvjGcRafg1gYbpryOSCi3Uvi0Rf1xx_xYPCdr3bo=w2400){:height="640px" width="960px" .center-image}
 
+### [Prince William Sound](https://earth.app.goo.gl/APrMwk)
+![](https://lh3.googleusercontent.com/mFf260mAynocPUiTfHCtYiB_qf9OPRoFYud1pfetAbVO0KgD13xbCvWh4R7lzlA2du2q-xUi6sIogVuDNkEd1RQP2uRIJqYbKhR4b8ruDsIkMWiqhLqRVEETdLVBPJoSLgioplY1QfA=w2400){:height="640px" width="960px" .center-image}
+
 ### [Knik Glacier](https://earth.app.goo.gl/KsJsmj)
 ![](https://lh3.googleusercontent.com/2ImNxzIZDyiPU173TnxkBph997v3KIlMNcUzHnhP802tIXIk2x7k4zYRQFtj2kPw0ZDfT8yz7-mfrRNKjxIHJ5hoDnpHWXcOTNjThZq73iRDz57jbMBH3H_IndU0bo_nTMk2-ml8aZ0=w2400){:height="640px" width="960px" .center-image}
 
 ### [Grasshopper Canyon](https://earth.app.goo.gl/cqJuzE)
 ![](https://lh3.googleusercontent.com/h2h0VZ6H-a7nUd1bNn_HJ57pkfU6m-zQEHnwJBkfJhUsR6WrqcYIfWe5-2LbT670RVi0BrfkkCpixRT9i-L45ISrkaKqzn2byPTqGpY2rGAmbmQfjQ9EZggjAfx8_wX2zqiK822yR3c=w2400){:height="640px" width="960px" .center-image}
-
 
 ### [Grasshopper Canyon](https://earth.app.goo.gl/cqJuzE)
 ![](https://lh3.googleusercontent.com/wjwLb8t94ucMe2EUVBuBViC_YgtNJ8HVLlfXMBzbi5o49n3k_KeNs6ot8M8tQq-w31ZL8mWubGflwAlUXaoLaE7I0zuWv1lRwtkT7lJBIgwGvicBdgX1bXpN8G6O2PJHGXcQ9LF0Ub4=w2400){:height="640px" width="960px" .center-image}
@@ -100,9 +102,6 @@ color: white
 
 ### [Whittier](https://earth.app.goo.gl/x9SJ8R)
 ![](https://lh3.googleusercontent.com/5dVs-nrJNfocK6QLx327UWnUxqInjUlrFdjLm2AvSDrx7htpSPtuSAWjMw080At6_bBKdZ-V-M2dNuTQxFpX8dZCUkHt7Z4MO6mAPMaPQuyHyRi_7DWougPf8TtAJzHYuCevosDXLHI=w2400){:height="640px" width="960px" .center-image}
-
-### [Prince William Sound](https://earth.app.goo.gl/APrMwk)
-![](https://lh3.googleusercontent.com/S3fMeuiiyhLIcZPxCMzbu86LIwXraIRu9rJpkj0pSwr0X01u3NQwMcuoNJyvYO64xnKl-gIfnMsWhhjKB3ku1OmyuIKldSqaMkvpaSCCM_TT_mwZa1d0F80749rUNqQbxSzYSSGXvfQ=w2400){:height="640px" width="960px" .center-image}
 
 ### [Prince William Sound](https://earth.app.goo.gl/APrMwk)
 ![](https://lh3.googleusercontent.com/S_C1Wj2nJvRsglciXHg5udMuKaeu1OzqfJMkHudHuDBSsy0g57x0OLHL41brw6f3D6sskz91aQ4YrABrHPLJHmw1lzJQIKVcE6HsttSocGeAu-B0XSBN3WwD6sAEokma5h2vrHZMNh0=w2400){:height="640px" width="960px" .center-image}
