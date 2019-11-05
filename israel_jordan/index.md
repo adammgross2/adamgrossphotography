@@ -35,7 +35,7 @@ color: white
 ![](https://lh3.googleusercontent.com/kVPeIQkhqWNy5cS2beOx-fuFHilCq3NS5mfp_PLQh5Smb286uZjrhqHxxkc6M79ytDzRrQKpUTFsA4L5egMiVKAgBrhHIUx7xLF0F7c8NVa-lpreJh_jR6TtrKY9LK5nQQP1hqF6vZk=w2400){:height="640px" width="960px" .center-image}
 
 ### Tel Aviv - Allenby Street
-![](https://lh3.googleusercontent.com/REMXFST3cXExhqUbS4_QRUarEM4nw85dmMaYKYLt24_C0I8gbe05jPhr9h5ulkMsZV4cgkVxNISacciZ-ofGHvj2NxXFnlwKbUw9luuYn2OiJNFQOD-UXglgliRlHYJb0YToPjKQK0w=w2400){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/UPJTDX1n-fBq_LK2WEztiSBEOS7g7oEfhuSUQ5q1WVgf39yZMFE3KmkylsDsLQaukRUUBpRZPMNhjQtIshudS4hntRL201amR41PQ5U4nBPk0PDkFpFuXQ9LnczKr6tffflR5DMwzG4=w2400){:height="640px" width="960px" .center-image}
 
 ### Tel Aviv - Dizengoff Square
 ![](https://lh3.googleusercontent.com/1c6hn0c3v7SW42d_P3TbVPzKuCyrb7nTRd3jBBh0zBdy4w8wpGo-EoEfwRqBUJ0p2OWAsXC3T2jb2CGv0FMROfcBSTnCkdFydxyNNWThYSq54dGEN1mIgcndAzr254y35rvwLBB6AQU=w2400){:height="640px" width="960px" .center-image}
