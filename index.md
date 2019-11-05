@@ -27,6 +27,7 @@ I have no formal training in photography and use the internet minimally for phot
 * [Cabo](/cabo)
 * [Hong Kong](/hong_kong)
 * [Arches, Canyonlands, Bryce, and Zion](/utah)
+* [Israel and Jordan](/israel_jordan)
 * [Black and White Collection](/black_and_white)
 
 #### Reading
