@@ -52,6 +52,12 @@ I have no formal training in photography and use the internet minimally for phot
 
 ## 2019
 
+### Mitzpe Ramon, Israel
+![](https://lh3.googleusercontent.com/fiCy5z3IzESWxkpcRYl777y5jqb7u06jlcQfbQNIru0EjLPjlEPj9FrM4RziPjXQvjL52fnSyQpIKqB7MR9LG7dCTTDFqVaV2f5uWnlkG0l0CUmHGZy84j7EapWqIJKT476ALrh13VI=w2400){:height="640px" width="960px" .center-image}
+
+### Petra, Jordan
+![](https://lh3.googleusercontent.com/kcitvGh5uBH6P2yDbndWBYHLotxbh0-B_qeCXORiYY0TFMlSg9K18dbPV7WIBHjGwTRICDhQgJ3N17DKpFxrOvG1n0eSWGqrMtafet_-RprrZ8n8Lt2lJ3dicD5SGMm2xcNaYXd2NAE=w2400){:height="640px" width="960px" .center-image}
+
 ### Alabama Hills, California
 ![](https://lh3.googleusercontent.com/ZGVHO1L8880lf8-3NbGgHMOtV5Jc2P5q1DVGl2HpWDgq0vIO78eIFA-jn0bsAlTff4M69C31fvM3ewMJRRDLJQwizzyu3ZOpd_vp_hqUBw8u58JfdPFL1ZMQ9e_5z1f45SOfNGHype0=w2400){:height="640px" width="960px" .center-image}
 
