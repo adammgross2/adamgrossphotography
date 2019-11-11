@@ -64,7 +64,7 @@ color: white
 ### [Tordrillo Mountains](https://earth.app.goo.gl/oAazVY)
 ![](https://lh3.googleusercontent.com/qMkQWYIrRzKE9XFp3tzYVkfaxSK50ezF5tA7oVcetS78uBSKj9cUsC4gH5aA9h8MSusBs8o8WymZtQlFCr-Tw83Qs4xzCxf36dWd8aRO-PFH2A0wHo_mX8Ylo8E1qp5e-ACzkuyhtNQ=w2400){:height="640px" width="960px" .center-image}
 
-### [Tordrillo Mountains](https://earth.app.goo.gl/oAazVY)
+### [Tordrillo Mountains, Mount Chichantna](https://earth.app.goo.gl/oAazVY)
 ![](https://lh3.googleusercontent.com/KAcy2q6eWfQqvQOTbtmAesISMS561bkLGW1wrJ1-BQMWFPG3x9lzEcT-Nr9NOrR9URUGdrs2ApdqfNzCki6Nxb23YxwZR-aGHtpEbiJM-B-G60TCxWEMC5ztspDNt_fJQFz1ue0SftI=w2400){:height="640px" width="960px" .center-image}
 
 ### [Tordrillo Mountains](https://earth.app.goo.gl/oAazVY)
