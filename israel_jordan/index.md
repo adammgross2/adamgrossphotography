@@ -31,6 +31,15 @@ color: white
 ### Tel Aviv - Hilton Beach
 ![](https://lh3.googleusercontent.com/ZEGdZTXy3aOLYh45VjTiXPPnOEM9wKJ3tiSKOJ45J7iKENlQp1O3UTw-AExBOAlKcDY__vY3C5fnMDINR1Xjh4GRe7mJrLtEULhjCXLlIBZ-y6hY_uFbg76KIytO31arMQwkCAMNb_k=w2400){:height="640px" width="960px" .center-image}
 
+### Tel Aviv - Elektra Tower
+![](https://lh3.googleusercontent.com/SHbMqfXiYj73PruaLVMnNYG8Ojj2bukx5UzXZwwuV7m7rVEHosNDeM20azXWipRmv-l7_9dLg9ACEwMruJ5jPm1H5T_wPkF8Q8AV-gx41faQBzLQEzaY0Y3y-YuX6YYNlJgGL6u6Ghc=w2400){:height="640px" width="960px" .center-image}
+
+### Tel Aviv - Elektra Tower
+![](https://lh3.googleusercontent.com/p3MaXgEppk2YWGVhmy0LJO20qT2gtPUqIo74mKXkPo2KG7DLWUBfNXPrbxt5briYwl-RPql8y59AjAhkZYtgCdfGQ9KMHR-xB6F2Wqnfl-s86Tk2qMPuh6IyBBoWjOWrc7r8n3WKEaY=w2400){:height="640px" width="960px" .center-image}
+
+### Tel Aviv - Elektra Tower
+![](https://lh3.googleusercontent.com/p-X_qD6D6Pdi-tLlLlYrOUCo8tg3d6aKdGp-ZWnQSQVECpS0dpi47ljqD7EtMqB6PqLlJjQ1nR7EAzkUcPaLiWlD_qdSopWUhIFK1QVg5u3gGvcuOKlzbXJGpY_fXhq5BaJU-gV9muI=w2400){:height="640px" width="960px" .center-image}
+
 ### Mitzpe Ramon
 ![](https://lh3.googleusercontent.com/kVPeIQkhqWNy5cS2beOx-fuFHilCq3NS5mfp_PLQh5Smb286uZjrhqHxxkc6M79ytDzRrQKpUTFsA4L5egMiVKAgBrhHIUx7xLF0F7c8NVa-lpreJh_jR6TtrKY9LK5nQQP1hqF6vZk=w2400){:height="640px" width="960px" .center-image}
 
