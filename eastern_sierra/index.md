@@ -5,11 +5,11 @@ bg: black
 color: white
 ---
 
-<meta property="og:image" content="https://lh3.googleusercontent.com/ZGVHO1L8880lf8-3NbGgHMOtV5Jc2P5q1DVGl2HpWDgq0vIO78eIFA-jn0bsAlTff4M69C31fvM3ewMJRRDLJQwizzyu3ZOpd_vp_hqUBw8u58JfdPFL1ZMQ9e_5z1f45SOfNGHype0=w2400
+<meta property="og:image" content="https://lh3.googleusercontent.com/K0Z2c_EFRElNz-NjL8Qf08buNnl_OD2KN7MRujnrrGxHfy9fcjSkcVIMDzsalRdhUOdiQSZfAgEhSvwpqNJPLAWfNnz4bv2-YN0DdQvLIPG85zAcoKik5fLK-TtKj3WxXxqtz6Svs9I=w2400
 " />
 
 ### Alabama Hills
-![](https://lh3.googleusercontent.com/ZGVHO1L8880lf8-3NbGgHMOtV5Jc2P5q1DVGl2HpWDgq0vIO78eIFA-jn0bsAlTff4M69C31fvM3ewMJRRDLJQwizzyu3ZOpd_vp_hqUBw8u58JfdPFL1ZMQ9e_5z1f45SOfNGHype0=w2400){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/K0Z2c_EFRElNz-NjL8Qf08buNnl_OD2KN7MRujnrrGxHfy9fcjSkcVIMDzsalRdhUOdiQSZfAgEhSvwpqNJPLAWfNnz4bv2-YN0DdQvLIPG85zAcoKik5fLK-TtKj3WxXxqtz6Svs9I=w2400){:height="640px" width="960px" .center-image}
 
 ### Alabama Hills
 ![](https://lh3.googleusercontent.com/zS7eH7uWIWyhdtXezRlgYSsNxG1fm_5Kne914UpEBJMiijmbpXAhTlxayujjpBaXJOFcXG8oNxk05GUXdXC3qOJWrFoz_dQ79DPSicHssBbT6827gT8pw25wj6e95M2dhOU7APC7GX8=w2400){:height="640px" width="960px" .center-image}
