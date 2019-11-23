@@ -108,7 +108,7 @@ I have no formal training in photography and use the internet minimally for phot
 ![](https://lh3.googleusercontent.com/5_30ikHY1KXHT7U_ZJcEfF2r2rlwrxS7jrwNfsMcNF9CBFUkXfFuFKdiVpuNbu2Ve8kN_2z3VJd3mLhi5ob1jFZzp-lH53TfIg_aEztTfiXGgYTVrjkvPulHZT85C-Kn4OASGA9xqIU=w2400){:height="640px" width="960px" .center-image}
 
 ### Whittier, Alaska
-![](https://lh3.googleusercontent.com/dBBYbtFKugEryASHe_yJ10_MTaE50-H2Ta1LinxpWJCfMrhFknVMssLPBTEVqGBHnNqp04-Ea9x2Seu8SSjXlgwmy6B3b7so6MH_skkA_Hda4OwGScloActEd-EqsRrwkGxKd0u0-eA=w2400){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/yHknYIbsTCTB6UbbobEAHw8hRvYB56XRRC3tfgpVZC9gw7ln902M1WU0aORePWzULFo4FnQ4QDUURm2tL80zfo8A7NP-lbvWfTm9hm8F-AwNraai8isuKIRNeB8tfR9Hpc8d57pcBBE=w2400){:height="640px" width="960px" .center-image}
 
 ### Tordrillo Mountains, Alaska
 ![](https://lh3.googleusercontent.com/CkKIzjLmHdfA60OC5arzM21SanBTRr4NAEk_6qtSlUfCGO8JHc0RuOxduVVmXq1nsZtxLvPbDc7Fbma6_f51tRGYa3QoegHStFCYV0CCdx3P1bWappXX2NZXWxNAtJoX_q_89rchOPU=w2400){:height="960px" width="640px" .center-image}
