@@ -12,13 +12,13 @@ color: white
 ![](https://lh3.googleusercontent.com/K0Z2c_EFRElNz-NjL8Qf08buNnl_OD2KN7MRujnrrGxHfy9fcjSkcVIMDzsalRdhUOdiQSZfAgEhSvwpqNJPLAWfNnz4bv2-YN0DdQvLIPG85zAcoKik5fLK-TtKj3WxXxqtz6Svs9I=w2400){:height="640px" width="960px" .center-image}
 
 ### Alabama Hills
-![](https://lh3.googleusercontent.com/zS7eH7uWIWyhdtXezRlgYSsNxG1fm_5Kne914UpEBJMiijmbpXAhTlxayujjpBaXJOFcXG8oNxk05GUXdXC3qOJWrFoz_dQ79DPSicHssBbT6827gT8pw25wj6e95M2dhOU7APC7GX8=w2400){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/0f_ywhZ9KdD1TS-DvzcjDmP4r8tBQ1uyMVm8kadQS0ysJ6bXA9BsxzsKclfGnyD55VPBjJRNBKJW3yUp81CHHq3sgHwrVHAD4PXSkiR9lRI5NE7DcZh6As4QBpMTEhwcwJh3t7Dg_co=w2400){:height="640px" width="960px" .center-image}
 
 ### Aspendell
-![](https://lh3.googleusercontent.com/0XToO3zdSlf6yZvdnTLGt9yFYtXi7lO_lhb9JQgtiATbgcf6LKbA4Nj10rugKfM3ZYnHClAR-qtgsYTWvEPHnycsE5RDDVA7OPYO1KM-epOV_02exRyVPQFLUN69GIOBMq698yVQko8=w2400){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/CVcifakUGc2BeFt-IF-Usci1fxvFVMqSfZoKOwpwF8DZzxXyBgpziqa_sr2yUhqCDkzATJh-b2h6s5NViSOzcDJB9l8rJNMXaLeUMVks1O9wS3_H5Jzf-d9iyT8th30s9BmRS3AWfX0=w2400){:height="640px" width="960px" .center-image}
 
 ### Bishop Creek Canyon
-![](https://lh3.googleusercontent.com/uBOTlnEdNRS5Lma4wQZH9p6P3GrFs4LEElg-XewSZGFlxt874W70x-p1gafjGA38tRbwgX08I9kZt0Lvf9-xUucj1vFpD6VS0U7JmhQmVzMMrwUiI-HT1NhvFw_smRgSGcLxzFehCvM=w2400){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/wU46vhRssq2bSnyx0XOsAVY5kxqrN06FcZ-94embk6kDMgCKm-yZtE-sNjyg8rv6wQlyb9ZNqL0xxGTVooiO6Ciy1PmfADyx1nqK5b1alMIZ-auBO5V4VaALlh8DwM1IKzKSozSthok=w2400){:height="640px" width="960px" .center-image}
 
 ### Tioga Pass
 ![](https://lh3.googleusercontent.com/sJmx3suFwRgwspZctI84m2-2aPYO5OhnpyTj_C05sgsHqcQ9av6itPigjILeANFOWtbXuq-Pm0lRbyPCtkPc8muX8rPkyvB51bniKE_DMTJ_aiNWsmgvuIV-634kCsux-97llP20I-A=w2400){:height="640px" width="960px" .center-image}
