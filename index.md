@@ -125,7 +125,7 @@ I have no formal training in photography and use the internet minimally for phot
 ### Lake George, Alaska
 ![](https://lh3.googleusercontent.com/QkNXsvNJ1gheJxPqlwYNPPhNHNKRv-epk3sSFVxM1qfnrX-ThVwRgomeP-vfvL8vIGkOEjJeElmWyEE4nbSDlKPxxNkZ0735nCQ67nZbVnvOgXl-NNio8xstmnuM1djg_rljU2q_E4w=w2400){:height="640px" width="960px" .center-image}
 
-### [Chugach State Park, Alaska]
+### Chugach State Park, Alaska
 ![](https://lh3.googleusercontent.com/tf8QTtbEYF58hZ0jFxfY8KboJgDxdmYwiAqLHG5b2VG3YTpPbNxtVIUsrE21R8Wg35IfnvMXMU77U0fcm9ejHO4pB-V4gWcLCr8c4R6yduVY-gm6pJ2ylPJhzOd9iun5a-pPs6K3KJo=w2400){:height="640px" width="960px" .center-image}
 
 ### [Talkeetna Mountains]
