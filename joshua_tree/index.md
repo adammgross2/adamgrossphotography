@@ -26,7 +26,7 @@ color: white
 ![](https://lh3.googleusercontent.com/tXNKjxcoZmuCiXQ08c8Qkbu6iP9Rg9FlpjJJWDZE8tbuT1C1B7d76xKAUbw_ONVLpCwLjbkcc9obDYFoNJUQaGHbza6oj3opIi4ZsULNnn9lNCpTWqU9ipicnlFfthNvkKeZrJtiNL8=w2400){:height="640px" width="960px" .center-image}
 
 ### Wonderland of Rocks
-![](https://lh3.googleusercontent.com/MGu3_zJ5hc7sJ2v3kCumm6RY9xLGZjK_wcnHrrJCq61jtEPihrpKUBA6EIWqfMcLofPW6hhKpgNHqvzXsU8-OM0z4t6UVzfloBoLb3U_RYJmB2MMdazIYqfXMrgt6Vo0IPYThq2_Na0=w2400){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/QNk_p75Mbu0OrF3e-QqwLl6Gq3ZpZ5iSyVM5wHu2eecgJI92u6ilpAERLrIOm76vsArQnnU-QI_7Y8x_i1DrnajGtcHfXYnPgSz1zSwR0A4JVrhdEwHhrktUcoa8ISuOe1HlVsHqODU=w2400){:height="640px" width="960px" .center-image}
 
 ### Wonderland of Rocks
 ![](https://lh3.googleusercontent.com/l8DDuOxtZf72cDi0F-ZIJWkLK9JHgSWNjhx1v4HQJ_NwFZdgOOaIXVNpmb3B9hYHNkp4aIRI_QjZNTAY0xoQF3RmEvDowuQ9rw8ObptxUmhdFu2Wh9WUuuSZDTUMpP7HCFRRuJSrq_A=w2400){:height="640px" width="960px" .center-image}
