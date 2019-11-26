@@ -123,10 +123,16 @@ I have no formal training in photography and use the internet minimally for phot
 ![](https://lh3.googleusercontent.com/CkKIzjLmHdfA60OC5arzM21SanBTRr4NAEk_6qtSlUfCGO8JHc0RuOxduVVmXq1nsZtxLvPbDc7Fbma6_f51tRGYa3QoegHStFCYV0CCdx3P1bWappXX2NZXWxNAtJoX_q_89rchOPU=w2400){:height="960px" width="640px" .center-image}
 
 ### Lake George, Alaska
-![](https://lh3.googleusercontent.com/ucYh_g4ITYQFpl2Kf7_dPiRIt1xlXxzVgmGRWtVyz-cviW4g1fnSfBY4ZlvgSdfLkYr8PvyxZnTmpE_BRaTj_W8grm5FVo3Gt-A7Dm3YRlGXzxy95N4WAeUK38r3BiVSvyAgKhi702I=w2400){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/QkNXsvNJ1gheJxPqlwYNPPhNHNKRv-epk3sSFVxM1qfnrX-ThVwRgomeP-vfvL8vIGkOEjJeElmWyEE4nbSDlKPxxNkZ0735nCQ67nZbVnvOgXl-NNio8xstmnuM1djg_rljU2q_E4w=w2400){:height="640px" width="960px" .center-image}
+
+### [Chugach State Park, Alaska]
+![](https://lh3.googleusercontent.com/tf8QTtbEYF58hZ0jFxfY8KboJgDxdmYwiAqLHG5b2VG3YTpPbNxtVIUsrE21R8Wg35IfnvMXMU77U0fcm9ejHO4pB-V4gWcLCr8c4R6yduVY-gm6pJ2ylPJhzOd9iun5a-pPs6K3KJo=w2400){:height="640px" width="960px" .center-image}
+
+### [Talkeetna Mountains]
+![](https://lh3.googleusercontent.com/oi7WnnOsuw3k5XKpW2_v8H2JiRpqyDqXNKIzgk1eQ33wjirj3y01t4WazZti0EVi8vhFxYVc4JwhaieLNjwDYazNa9EV_G7GbEOLofitQj8uZ3xHitU_cMtCMkK2T_9L_MjiMuRjeSg=w2400){:height="640px" width="960px" .center-image}
 
 ### Prince William Sound, Alaska
-![](https://lh3.googleusercontent.com/mFf260mAynocPUiTfHCtYiB_qf9OPRoFYud1pfetAbVO0KgD13xbCvWh4R7lzlA2du2q-xUi6sIogVuDNkEd1RQP2uRIJqYbKhR4b8ruDsIkMWiqhLqRVEETdLVBPJoSLgioplY1QfA=w2400){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/S3fMeuiiyhLIcZPxCMzbu86LIwXraIRu9rJpkj0pSwr0X01u3NQwMcuoNJyvYO64xnKl-gIfnMsWhhjKB3ku1OmyuIKldSqaMkvpaSCCM_TT_mwZa1d0F80749rUNqQbxSzYSSGXvfQ=w2400){:height="640px" width="960px" .center-image}
 
 ### Prince William Sound, Alaska
 ![](https://lh3.googleusercontent.com/zeojBi300EZfxmafbI5BxZOLl_DxdeqeBQ0XYCa10r4Rb12HTMYamBdV4BYwOeooIuKK92f6l46zvxI-2OsSdBwrK2CjsyAC-RjEo_E1ul-d3ZtU5gWWmcFwLLUk3C5D0_Om6eJ5Wpc=w2400){:height="960px" width="640px" .center-image}
