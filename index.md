@@ -128,7 +128,7 @@ I have no formal training in photography and use the internet minimally for phot
 ### Chugach State Park, Alaska
 ![](https://lh3.googleusercontent.com/tf8QTtbEYF58hZ0jFxfY8KboJgDxdmYwiAqLHG5b2VG3YTpPbNxtVIUsrE21R8Wg35IfnvMXMU77U0fcm9ejHO4pB-V4gWcLCr8c4R6yduVY-gm6pJ2ylPJhzOd9iun5a-pPs6K3KJo=w2400){:height="640px" width="960px" .center-image}
 
-### [Talkeetna Mountains]
+### Talkeetna Mountains, Alaska
 ![](https://lh3.googleusercontent.com/oi7WnnOsuw3k5XKpW2_v8H2JiRpqyDqXNKIzgk1eQ33wjirj3y01t4WazZti0EVi8vhFxYVc4JwhaieLNjwDYazNa9EV_G7GbEOLofitQj8uZ3xHitU_cMtCMkK2T_9L_MjiMuRjeSg=w2400){:height="640px" width="960px" .center-image}
 
 ### Prince William Sound, Alaska
