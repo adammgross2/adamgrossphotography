@@ -77,7 +77,7 @@ I have no formal training in photography and use the internet minimally for phot
 ![](https://lh3.googleusercontent.com/CVcifakUGc2BeFt-IF-Usci1fxvFVMqSfZoKOwpwF8DZzxXyBgpziqa_sr2yUhqCDkzATJh-b2h6s5NViSOzcDJB9l8rJNMXaLeUMVks1O9wS3_H5Jzf-d9iyT8th30s9BmRS3AWfX0=w2400){:height="640px" width="960px" .center-image}
 
 ### Bishop Creek Canyon
-![](https://lh3.googleusercontent.com/wU46vhRssq2bSnyx0XOsAVY5kxqrN06FcZ-94embk6kDMgCKm-yZtE-sNjyg8rv6wQlyb9ZNqL0xxGTVooiO6Ciy1PmfADyx1nqK5b1alMIZ-auBO5V4VaALlh8DwM1IKzKSozSthok=w2400){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/8zQubznpzaXSB3M7VIJ7jc4H1JGoU2JdmlnsWWZlYuBUTKmBxM_mgDJ4zk78MogoyM_Eb39v9cpq5PGCUEIwAiHd6naZrY11B7v7lel7mGKmiv3gnAs-Y5ML0d5yHM_zCO4vS_kPfCo=w2400){:height="640px" width="960px" .center-image}
 
 ### Kings Canyon National Park, California
 ![](https://lh3.googleusercontent.com/94Xy_EAWKRJaB0FDeoaUrfLfsYgEa7RzVGl9vPmdCB6-8jsd_3BER3rk4_TgJD9_B_1m-Gl80kwBQyexHmTTdr5yt6mCN1pxcQxFiZrtuY3CZW05Wevy7yEGx-QJX0gopznOQxvBxos=w2400){:height="640px" width="960px" .center-image}
