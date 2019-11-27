@@ -21,3 +21,15 @@ I am currently a Software Engineer at Google in Venice Beach, California. My und
 * Surrealist, Impressionist, Art Deco, and related art
 
 For me, *"interesting"* **does not** mean *"agreeable"*. I am a strong independent and value ideological diversity. I strive to expose myself to ideas that span the entire political spectrum, and am constantly re-assessing my political sentiments. I am consistently inconsistent. I am an aware and skeptical user of some social media, and avid critic of technology that does not adhere to the concepts put forward in [digital wellbeing](https://wellbeing.google/), [humane technology](http://humanetech.com/), and [digital minimalism](https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy/dp/0525536515).
+
+Some of my most prominent photography idols and influencers are:
+* Ansel Adams
+* QT Luong
+* Galen Rowell
+* Bob Kaufman
+* Vern Clevenger
+* Erin Babnik
+* Tom Till
+* Sarah Marino
+* Patricia Davidson
+* Colleen Miniuk
