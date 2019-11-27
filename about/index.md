@@ -33,3 +33,4 @@ Some of my most prominent photography idols and influencers are:
 * Sarah Marino
 * Patricia Davidson
 * Colleen Miniuk
+* Sean Bagshaw
