@@ -34,3 +34,4 @@ Some of my most prominent photography idols and influencers are:
 * Patricia Davidson
 * Colleen Miniuk
 * Sean Bagshaw
+* Michael Frye
