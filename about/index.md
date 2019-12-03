@@ -35,3 +35,4 @@ Some of my most prominent photography idols and influencers are:
 * Colleen Miniuk
 * Sean Bagshaw
 * Michael Frye
+* Joe Braun
