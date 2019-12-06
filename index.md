@@ -70,13 +70,13 @@ I have no formal training in photography and use the internet minimally for phot
 ### Alabama Hills, California
 ![](https://lh3.googleusercontent.com/K0Z2c_EFRElNz-NjL8Qf08buNnl_OD2KN7MRujnrrGxHfy9fcjSkcVIMDzsalRdhUOdiQSZfAgEhSvwpqNJPLAWfNnz4bv2-YN0DdQvLIPG85zAcoKik5fLK-TtKj3WxXxqtz6Svs9I=w2400){:height="640px" width="960px" .center-image}
 
-### Alabama Hills
+### Alabama Hills, California
 ![](https://lh3.googleusercontent.com/0f_ywhZ9KdD1TS-DvzcjDmP4r8tBQ1uyMVm8kadQS0ysJ6bXA9BsxzsKclfGnyD55VPBjJRNBKJW3yUp81CHHq3sgHwrVHAD4PXSkiR9lRI5NE7DcZh6As4QBpMTEhwcwJh3t7Dg_co=w2400){:height="640px" width="960px" .center-image}
 
-### Aspendell
+### Aspendell, California
 ![](https://lh3.googleusercontent.com/CVcifakUGc2BeFt-IF-Usci1fxvFVMqSfZoKOwpwF8DZzxXyBgpziqa_sr2yUhqCDkzATJh-b2h6s5NViSOzcDJB9l8rJNMXaLeUMVks1O9wS3_H5Jzf-d9iyT8th30s9BmRS3AWfX0=w2400){:height="640px" width="960px" .center-image}
 
-### Bishop Creek Canyon
+### Bishop Creek Canyon, California
 ![](https://lh3.googleusercontent.com/8zQubznpzaXSB3M7VIJ7jc4H1JGoU2JdmlnsWWZlYuBUTKmBxM_mgDJ4zk78MogoyM_Eb39v9cpq5PGCUEIwAiHd6naZrY11B7v7lel7mGKmiv3gnAs-Y5ML0d5yHM_zCO4vS_kPfCo=w2400){:height="640px" width="960px" .center-image}
 
 ### Kings Canyon National Park, California
