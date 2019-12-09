@@ -26,7 +26,7 @@ color: white
 ![](https://lh3.googleusercontent.com/IR7UoXMmilE_dS4zlEdAAIsROgNqXr8D2xLTc99QJ4mvLGGw2GwJy11USlpx7SyHKiCD3jjBsjGjcIMYly2FV26U6pp5Ev9XE1KSJ3zlMkPas9jx41tvsXI3zFBhVLMn4wVZNEaAEfQ=w2400){:height="640px" width="960px" .center-image}
 
 ### Near el Matador State Beach
-![](https://lh3.googleusercontent.com/6fHEfIosJRAC98lhSZaMFMwxIvSFkiqHF7Z3EzGOW5n-7vgRMvN9yM3XwV78WLYhrygVwnoUGhJPasugES_BRgCSl5i7zcR4KcE6OCJbOdj2Fcsgr2NPfpBemEWxGgUfiAVA0Y2qbpI=w2400){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/aCPP5nh9fbebXiG-UKxd3Mcpx7HGHOYfUxLsBPvEp-QDn-pW26IQy9cTlzvo75uM8jM_PxY_9jmFElJNNof21k0BhMIecyPxl63lXc8-4QjG9Uk2hWy4LCgP8I2F-5Kpcr_E7TLeYJ0=w2400){:height="640px" width="960px" .center-image}
 
 ### Stunt Road
 ![](https://lh3.googleusercontent.com/f-Q1DaNhYbInMcl_lZaCG6OwRBeMZDRGA1qS26JszbBt4DHmqvH5aUuX7Wh_49smhDiU3VAV6tyugAA_2-4M4sUwfTK8nbmnr-IUKPrQxcxqyesIrYGcq9IafYb8WjSvE-CkF2b8viA=w2400){:height="640px" width="960px" .center-image}
