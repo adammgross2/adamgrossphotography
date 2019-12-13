@@ -26,7 +26,7 @@ color: white
 ![](https://lh3.googleusercontent.com/sg9cHmhIKj891teXRYXsfBMSoxs6hQLXVgl0L7b8gqxZNUhV8_2x-87mlMkvgPzqSqk4XSuQXffVGu-Qp_cUJJyg1jY0Htf3QoK8BB6OTZlghf4DUFfwgSEpkaBG3U2Z5C9J2ItPTf0=w2400){:height="640px" width="960px" .center-image}
 
 ### [Tordrillo Mountains](https://earth.app.goo.gl/oAazVY)
-![](https://lh3.googleusercontent.com/eV5CsISY5O9-hEFhQbzojktdKQtMG9BqcW50-0yR5yrdEWLjQ_X9Dvg8vHfAA5Mazpyq8p8RZY7EoGZscmhUuqzThboBwbWk41ijCsrztcO0l259PoMpGrJuu_EsapBuidBGNelwZRY=w2400){:height="960px" width="640px" .center-image}
+![](https://lh3.googleusercontent.com/eV5CsISY5O9-hEFhQbzojktdKQtMG9BqcW50-0yR5yrdEWLjQ_X9Dvg8vHfAA5Mazpyq8p8RZY7EoGZscmhUuqzThboBwbWk41ijCsrztcO0l259PoMpGrJuu_EsapBuidBGNelwZRY=w2400){:height="640px" width="960px" .center-image}
 
 ### [Prince William Sound](https://earth.app.goo.gl/APrMwk)
 ![](https://lh3.googleusercontent.com/tGm_2TGGEt_m88Q-fEJxMiuVHGYKsHRoTSJwg8-CNWa02ZxTVfBpbR-VTup-JLpSgFMkPzSUYzeqvve0fr3bAOgeybHwO01xex2rpT4oMeQqBC4XJaQT4zRGOI2VdthfrgRkHZRNpII=w2400){:height="640px" width="960px" .center-image}
