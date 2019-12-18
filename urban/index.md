@@ -7,12 +7,6 @@ color: white
 
 <meta property="og:image" content="https://lh3.googleusercontent.com/c6658hFl9yvvi9pt7N9Fm1dnw9oCirCwR0qeobBAbRHFdIOHG4PmGPl1avz1BLf7Ku0ZtTmPxvTEq0SAO-RKG3_aeHbcT2QSs21gPlF_LzQVMYXKxDpzN_VFkAk8-8Py_gJ0BrU_uXs=w2400" />
 
-### Tel Aviv - Hilton Beach
-![](https://lh3.googleusercontent.com/7IGU1myhpqXCbClgUCHowjivPOfHWJGNO8HdZr2LDVfk63D8pNZNkxSlqzBnptCgYqCh9GvmMFYizz184wwb8EnD33xPLi31Aj7APoFhlThOyZs0qszz0IYJdm-TBdd2fRFEkzZM2q0=w2400){:height="640px" width="960px" .center-image}
-
-### Tel Aviv - Hilton Beach
-![](https://lh3.googleusercontent.com/ZEGdZTXy3aOLYh45VjTiXPPnOEM9wKJ3tiSKOJ45J7iKENlQp1O3UTw-AExBOAlKcDY__vY3C5fnMDINR1Xjh4GRe7mJrLtEULhjCXLlIBZ-y6hY_uFbg76KIytO31arMQwkCAMNb_k=w2400){:height="640px" width="960px" .center-image}
-
 ### Tel Aviv - Elektra Tower
 ![](https://lh3.googleusercontent.com/SHbMqfXiYj73PruaLVMnNYG8Ojj2bukx5UzXZwwuV7m7rVEHosNDeM20azXWipRmv-l7_9dLg9ACEwMruJ5jPm1H5T_wPkF8Q8AV-gx41faQBzLQEzaY0Y3y-YuX6YYNlJgGL6u6Ghc=w2400){:height="640px" width="960px" .center-image}
 
@@ -33,9 +27,6 @@ color: white
 
 ### Hong Kong
 ![](https://lh3.googleusercontent.com/b79xZj-C2n7f7hUHuXEKeoAVvH3D-kiMbk640SKXW-bwySGkAnw1IjV7CpEULvjjMPKVQmBqsH-CMm-Y-D28QlrFRZOA-5p-smylyqpppJdWV3owpUqDOFnyel7jr5puFZpNtuWtPwQ=w2400){:height="640px" width="960px" .center-image}
-
-### Hong Kong
-![](https://lh3.googleusercontent.com/MmsIfOJhDNYJhFcNhPL_162W6HdZT89mZjR1viyEOy4BtNm5QAYqV7lJHzHpWigaJOJ7Ro27m4cjiuDYvhMi99nuiPaHV7kEeGVsxRiaatsRQyjs731pPaji1wo0skQW_Zm_ngcBX8M=w2400){:height="640px" width="960px" .center-image}
 
 ### Hong Kong
 ![](https://lh3.googleusercontent.com/Xx5gbfop93x1C3yMgIb1WncK3vi8WIhjBiDqNETV1yEm04ScgBpapVt1voBZjWybOxwD7s8IW4SgHwohVbY6-v0-EE_-LCOyzEgfWobqnXdH7wmAFL3yELqlE009mc8eBs5GS9zwQ50=w2400){:height="640px" width="960px" .center-image}
