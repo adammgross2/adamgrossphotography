@@ -8,7 +8,7 @@ color: white
 <meta property="og:image" content="https://lh3.googleusercontent.com/0f_ywhZ9KdD1TS-DvzcjDmP4r8tBQ1uyMVm8kadQS0ysJ6bXA9BsxzsKclfGnyD55VPBjJRNBKJW3yUp81CHHq3sgHwrVHAD4PXSkiR9lRI5NE7DcZh6As4QBpMTEhwcwJh3t7Dg_co=w2400" />
 
 ### Mount Whitney from Alabama Hills, California
-![](https://lh3.googleusercontent.com/0f_ywhZ9KdD1TS-DvzcjDmP4r8tBQ1uyMVm8kadQS0ysJ6bXA9BsxzsKclfGnyD55VPBjJRNBKJW3yUp81CHHq3sgHwrVHAD4PXSkiR9lRI5NE7DcZh6As4QBpMTEhwcwJh3t7Dg_co=w2400){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/K0Z2c_EFRElNz-NjL8Qf08buNnl_OD2KN7MRujnrrGxHfy9fcjSkcVIMDzsalRdhUOdiQSZfAgEhSvwpqNJPLAWfNnz4bv2-YN0DdQvLIPG85zAcoKik5fLK-TtKj3WxXxqtz6Svs9I=w2400){:height="640px" width="960px" .center-image}
 
 ### [Lake George](https://earth.app.goo.gl/JXXJbu), Alaska
 ![](https://lh3.googleusercontent.com/QkNXsvNJ1gheJxPqlwYNPPhNHNKRv-epk3sSFVxM1qfnrX-ThVwRgomeP-vfvL8vIGkOEjJeElmWyEE4nbSDlKPxxNkZ0735nCQ67nZbVnvOgXl-NNio8xstmnuM1djg_rljU2q_E4w=w2400){:height="640px" width="960px" .center-image}
@@ -29,7 +29,7 @@ color: white
 ![](https://lh3.googleusercontent.com/L-7I14JNvNjkc5HJKyBQlTG8UJKjTKTB1cxkpzv-pGQe9nK9wky95ll-bJQLJlcbQ7ZLHAXk1MrBfj4zYMZ-9DQVQFLGlhpezA51KnvgyluZ5DkMAxWxyPih4ErNN0V1hBLygB_sMVA=w2400){:height="640px" width="960px" .center-image}
 
 ### Lone Pine Peak from Alabama Hills, California
-![](https://lh3.googleusercontent.com/K0Z2c_EFRElNz-NjL8Qf08buNnl_OD2KN7MRujnrrGxHfy9fcjSkcVIMDzsalRdhUOdiQSZfAgEhSvwpqNJPLAWfNnz4bv2-YN0DdQvLIPG85zAcoKik5fLK-TtKj3WxXxqtz6Svs9I=w2400){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/0f_ywhZ9KdD1TS-DvzcjDmP4r8tBQ1uyMVm8kadQS0ysJ6bXA9BsxzsKclfGnyD55VPBjJRNBKJW3yUp81CHHq3sgHwrVHAD4PXSkiR9lRI5NE7DcZh6As4QBpMTEhwcwJh3t7Dg_co=w2400){:height="640px" width="960px" .center-image}
 
 ### Banner Peak from Thousand Island Lake - Ansel Adams Wilderness, California
 ![](https://lh3.googleusercontent.com/Gjx9NS6dEWJfZmoE7V9GOoRNP3jws6MjJEvv4hgBVzfWI_B67VN7hxTiaXG4TLE_tBEUsxQDjWDzJBb4f8fhMX8v4fZyzGdx5wlpoJW3aBHzMlxleJIe8v8t-8yyR9mgEiH6rY_gm4g=w2400){:height="640px" width="960px" .center-image}
