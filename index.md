@@ -22,18 +22,6 @@ I have no formal training in photography and use the internet minimally for phot
 * [Coastal](/coastal)
 * [Urban](/urban)
 * [Full List by Location](/locations)
-
-## 2019
-
-### Joshua Tree National Park, California
-![](https://lh3.googleusercontent.com/tXNKjxcoZmuCiXQ08c8Qkbu6iP9Rg9FlpjJJWDZE8tbuT1C1B7d76xKAUbw_ONVLpCwLjbkcc9obDYFoNJUQaGHbza6oj3opIi4ZsULNnn9lNCpTWqU9ipicnlFfthNvkKeZrJtiNL8=w2400){:height="640px" width="960px" .center-image}
-
-### Joshua Tree National Park, California
-![](https://lh3.googleusercontent.com/MGu3_zJ5hc7sJ2v3kCumm6RY9xLGZjK_wcnHrrJCq61jtEPihrpKUBA6EIWqfMcLofPW6hhKpgNHqvzXsU8-OM0z4t6UVzfloBoLb3U_RYJmB2MMdazIYqfXMrgt6Vo0IPYThq2_Na0=w2400){:height="640px" width="960px" .center-image}
-
-### Joshua Tree National Park, California
-![](https://lh3.googleusercontent.com/l8DDuOxtZf72cDi0F-ZIJWkLK9JHgSWNjhx1v4HQJ_NwFZdgOOaIXVNpmb3B9hYHNkp4aIRI_QjZNTAY0xoQF3RmEvDowuQ9rw8ObptxUmhdFu2Wh9WUuuSZDTUMpP7HCFRRuJSrq_A=w2400){:height="640px" width="960px" .center-image}
-
 ### Mitzpe Ramon, Israel
 ![](https://lh3.googleusercontent.com/fiCy5z3IzESWxkpcRYl777y5jqb7u06jlcQfbQNIru0EjLPjlEPj9FrM4RziPjXQvjL52fnSyQpIKqB7MR9LG7dCTTDFqVaV2f5uWnlkG0l0CUmHGZy84j7EapWqIJKT476ALrh13VI=w2400){:height="640px" width="960px" .center-image}
 
@@ -53,16 +41,7 @@ I have no formal training in photography and use the internet minimally for phot
 ![](https://lh3.googleusercontent.com/8zQubznpzaXSB3M7VIJ7jc4H1JGoU2JdmlnsWWZlYuBUTKmBxM_mgDJ4zk78MogoyM_Eb39v9cpq5PGCUEIwAiHd6naZrY11B7v7lel7mGKmiv3gnAs-Y5ML0d5yHM_zCO4vS_kPfCo=w2400){:height="640px" width="960px" .center-image}
 
 ### Kings Canyon National Park, California
-![](https://lh3.googleusercontent.com/94Xy_EAWKRJaB0FDeoaUrfLfsYgEa7RzVGl9vPmdCB6-8jsd_3BER3rk4_TgJD9_B_1m-Gl80kwBQyexHmTTdr5yt6mCN1pxcQxFiZrtuY3CZW05Wevy7yEGx-QJX0gopznOQxvBxos=w2400){:height="640px" width="960px" .center-image}
-
-### Kings Canyon National Park, California
 ![](https://lh3.googleusercontent.com/eM0BcoamZ3UAkYRJQaGFBnsdzbPCCUHwzZ_aIku5REQzpC53RyFHClzGNVt0W6gv6wrCL6yeSI6MUPgerskkWrktpNydsvoz32xNmPTEb5FiNume4r4_3xU4P-UE-Kt-1b-AYc4ROwo=w2400){:height="640px" width="960px" .center-image}
-
-### Kings Canyon National Park, California
-![](https://lh3.googleusercontent.com/xrsNdWbTPwO-gM2ARjjUiLyrsWBpKKjR8VYtXWCSPspAg3takkOftKuMIQjBK_vZDBf0UWEPsOzVjqFmGR82KFS618D_-rgK9hEVb4OI9JarhQnfCxOXz6KJUpJfNUqvqddL9T8mFik=w2400){:height="640px" width="960px" .center-image}
-
-### Kings Canyon National Park, California
-![](https://lh3.googleusercontent.com/js5CyA9L8NQrxv9EFsZCyVMTjTbV0Ami98hRdKBTTUWgE_opnhMaNXFfU8tBZcjRO2Im2YMAONUAiaYswCG7F1A-GSuXphaRQbEoAtcMQuyhZyX2YPZynVdApxmgoLmMxpLw8VhR74g=w2400){:height="640px" width="960px" .center-image}
 
 ### Yosemite National Park, California
 ![](https://lh3.googleusercontent.com/NlsnVgi7c88Y7FDgO2aecW52yKeRR_hc5IaKaFoBTyWO2otvER6iTegdIPzpNX8VLXOjSj3Wr-89F7jW-_5z7FYO6GKoiLM28De8z9zH-sYvV6cuC-KHjxGRJ1BQpBtSaWLZD50Gm3k=w2400
@@ -70,9 +49,6 @@ I have no formal training in photography and use the internet minimally for phot
 
 ### Yosemite National Park, California
 ![](https://lh3.googleusercontent.com/EcNGWLS2TZtZKi3dOK5ouds39Oeel1I2hZo_9WGhwI6rxyrM9w8wwpktEcAU3wlNSy5FyDk3Qe937potMz9BhKEFGLDb76vU-ekI-4M4Oc0B_nA-M2GmGe3K9xoJBGSFZlPKfsJ5B0I=w2400){:height="640px" width="960px" .center-image}
-
-### Yosemite National Park, California
-![](https://lh3.googleusercontent.com/gE4NqALhIVCQDJv6USvVRMAeBSatx6PfU7Ar1gDfYt5QCFIq0zulULrxOdLgBjP1aBucZG3stiTVi0aKOhhQKlGWSxi-krKZkgmfHIRfVeL6man2bOLG1nTmdmU7YSR3heyfSY70KkA=w2400){:height="640px" width="960px" .center-image}
 
 ### Yosemite National Park, California
 ![](https://lh3.googleusercontent.com/7rL_ck-tGxWs7de12-ds8rBX1g6AzgYcfgGOnVDCm28Npjd034Z7PDi7EN59hlLNF4S8s-YVhp-nodRjcQ3Mhlj3XhQ5H0_g-argS6gcQDPYGoc0SVCy6sg2rT3Ljm06qB8BRJPMal4=w2400){:height="640px" width="960px" .center-image}
@@ -107,12 +83,6 @@ I have no formal training in photography and use the internet minimally for phot
 ### Prince William Sound, Alaska
 ![](https://lh3.googleusercontent.com/S3fMeuiiyhLIcZPxCMzbu86LIwXraIRu9rJpkj0pSwr0X01u3NQwMcuoNJyvYO64xnKl-gIfnMsWhhjKB3ku1OmyuIKldSqaMkvpaSCCM_TT_mwZa1d0F80749rUNqQbxSzYSSGXvfQ=w2400){:height="640px" width="960px" .center-image}
 
-### Prince William Sound, Alaska
-![](https://lh3.googleusercontent.com/zeojBi300EZfxmafbI5BxZOLl_DxdeqeBQ0XYCa10r4Rb12HTMYamBdV4BYwOeooIuKK92f6l46zvxI-2OsSdBwrK2CjsyAC-RjEo_E1ul-d3ZtU5gWWmcFwLLUk3C5D0_Om6eJ5Wpc=w2400){:height="960px" width="640px" .center-image}
-
-### Prince William Sound, Alaska
-![](https://lh3.googleusercontent.com/sg9cHmhIKj891teXRYXsfBMSoxs6hQLXVgl0L7b8gqxZNUhV8_2x-87mlMkvgPzqSqk4XSuQXffVGu-Qp_cUJJyg1jY0Htf3QoK8BB6OTZlghf4DUFfwgSEpkaBG3U2Z5C9J2ItPTf0=w2400){:height="640px" width="960px" .center-image}
-
 ### Ansel Adams Wilderness, California
 ![](https://lh3.googleusercontent.com/Gjx9NS6dEWJfZmoE7V9GOoRNP3jws6MjJEvv4hgBVzfWI_B67VN7hxTiaXG4TLE_tBEUsxQDjWDzJBb4f8fhMX8v4fZyzGdx5wlpoJW3aBHzMlxleJIe8v8t-8yyR9mgEiH6rY_gm4g=w2400){:height="640px" width="960px" .center-image}
 
@@ -126,9 +96,6 @@ I have no formal training in photography and use the internet minimally for phot
 ![](https://lh3.googleusercontent.com/Uh-fzRIlR-yKCem8935FxPDAnQ6pbEvdpZ2emS6xdaLLKpvG1uLwLqSdPpV-w0RemURIATerf3L0LDxGfg_CnLmnXnmdwGmoF8agwxcnixkMEMj2-LHD_QUqe50Ze-IrflL1v6abMiU=w2400){:height="640px" width="960px" .center-image}
 
 ### Kings Canyon National Park, California
-![](https://lh3.googleusercontent.com/PeMfb45BatuYGNR1-AzQ_FhsY7WZXVuLHKSeJA2ruAIDBO_a6b_fmLTENcgJfGq5I2dSrLcPbyoG_7RH2Y2smssOj8A0sn39OTLIVuIf-d04q7BnCaTW11-JcJYoJipZO55Z5Ajhijs=w2400){:height="640px" width="960px" .center-image}
-
-### Kings Canyon National Park, California
 ![](https://lh3.googleusercontent.com/FaUI2SJ1mRlcxPxZX6TcO_p6Mv4AiSMSHNE5OIeTFYS-mxeehfNoywqAYh3QAq7IbEXwvh_n9SEKRgAM9xlw5iLW7a7BgmrRs6Z9y3KR57wI0VNFF2o1CZBiPzSViiWDV4-qt6gOlLE=w2400){:height="640px" width="960px" .center-image}
 
 ### Kings Canyon National Park, California
@@ -136,12 +103,6 @@ I have no formal training in photography and use the internet minimally for phot
 
 ### Kings Canyon National Park, California
 ![](https://lh3.googleusercontent.com/RU9eLZRU-JDLI8mMedZrMkKIGSR_EgIWAw7kEm_uZtNazYBdCdLiQd993nnmM-k2gJ21Rt6unN9zGRi1wzvnOc0nOxzbal5gZyZzTZiOZw65QhEVPYzhAtyPW5dsd0d3wT-4sIST0qU=w2400){:height="640px" width="960px" .center-image}
-
-### Kings Canyon National Park, California
-![](https://lh3.googleusercontent.com/Vk9dVjmQDwC0vd2S_cGW-i5iW3bNW4ypY0cJmIHEK5zA_VxGT64_vDVS-Rz3vIq2dRemM7mNwBdYcqHLLHlpDHM9MTkvMlS_0sQ7Wlo--AXGcgjOrbWyWIv4mAkTcpJC5rqBCl_G6Ik=w2400){:height="640px" width="960px" .center-image}
-
-### Carbondale, Colorado
-![](https://lh3.googleusercontent.com/TV4NgaBUMfXmsTyFKJOLVebe2-sKGHlTj-yTzp5Nvu7dqZ0UZUxKDLICxNBNdz9VOGgIzRn6I6TYH0h1QRUHF7oQhmAeJJrTloCEoy_AB_6aiFZDRy5Ltmc1mPBMS7iXEBfbCaj94y8=w2400){:height="640px" width="960px" .center-image}
 
 ### Hong Kong, China
 ![](https://lh3.googleusercontent.com/b79xZj-C2n7f7hUHuXEKeoAVvH3D-kiMbk640SKXW-bwySGkAnw1IjV7CpEULvjjMPKVQmBqsH-CMm-Y-D28QlrFRZOA-5p-smylyqpppJdWV3owpUqDOFnyel7jr5puFZpNtuWtPwQ=w2400){:height="640px" width="960px" .center-image}
@@ -155,13 +116,8 @@ I have no formal training in photography and use the internet minimally for phot
 ### Death Valley National Park, California
 ![](https://lh3.googleusercontent.com/c6658hFl9yvvi9pt7N9Fm1dnw9oCirCwR0qeobBAbRHFdIOHG4PmGPl1avz1BLf7Ku0ZtTmPxvTEq0SAO-RKG3_aeHbcT2QSs21gPlF_LzQVMYXKxDpzN_VFkAk8-8Py_gJ0BrU_uXs=w2400){:height="640px" width="960px" .center-image}
 
-### Malibu, California
-![](https://lh3.googleusercontent.com/IR7UoXMmilE_dS4zlEdAAIsROgNqXr8D2xLTc99QJ4mvLGGw2GwJy11USlpx7SyHKiCD3jjBsjGjcIMYly2FV26U6pp5Ev9XE1KSJ3zlMkPas9jx41tvsXI3zFBhVLMn4wVZNEaAEfQ=w2400){:height="640px" width="960px" .center-image}
-
 ### Independence, California
 ![](https://lh3.googleusercontent.com/db_JgAsgbS27tQj3rsuT-KVd73ioWSZ4sEnXECKROREfMHijFwLjTL9CTLAjw33_1IpxGg1uTUR1qJsbLx0gX-s6iDfWYA5bumlN4HfNevF6riJ6-TyrcRxU2A8HwLVppr5k3h_xA_I=w2400){:height="640px" width="960px" .center-image}
-
-## 2018
 
 ### Inca Trail, Peru
 ![](https://lh3.googleusercontent.com/-b1arlKZgZE01lSHECeAW8gov5wPKGpc-tr6Oy-7Y--WeHrrp_llBtv6a7t3OlodciPQSxhV1AEQ12kZmexAiBmweltgodyMU05t0TTivKs3ELxzkkRMqaBm3F8fTAdTv3XhDGWyV1s=w2400){:height="640px" width="960px" .center-image}
@@ -171,8 +127,6 @@ I have no formal training in photography and use the internet minimally for phot
 
 ### Malibu, California
 ![](https://lh3.googleusercontent.com/6fHEfIosJRAC98lhSZaMFMwxIvSFkiqHF7Z3EzGOW5n-7vgRMvN9yM3XwV78WLYhrygVwnoUGhJPasugES_BRgCSl5i7zcR4KcE6OCJbOdj2Fcsgr2NPfpBemEWxGgUfiAVA0Y2qbpI=w2400){:height="640px" width="960px" .center-image}
-
-## 2017
 
 ### Canyonlands National Park, Utah
 ![](https://lh3.googleusercontent.com/Cs6BQCIcTMr3R7zvDrzLZUGWtxCpQbwlB0enziCdhtGphwlDWdJAYWuAxb1EZRfuhs5nPD2uqhncDg48oRV6hDQE02kcBm8ZqVJgzaFwErJm0U0prPGCRRodbDP5j8rTpC6K_NMXX-k=w2400){:height="640px" width="960px" .center-image}
@@ -188,12 +142,6 @@ I have no formal training in photography and use the internet minimally for phot
 
 ### Seville, Spain
 ![](https://lh3.googleusercontent.com/RJ-I8bUYEO-hpEfPLXiFxLxKs88km-AeiQWogNPDaqyyYZFlBLc5iKGssaXeVtVKBgKorW9zjyftXwv6iHLF9h1OHl_zzlPkMgzj62VvH89asWlu_Vm-KEyptqZDSL1zDmJdXDC-NqQ=w2400){:height="640px" width="960px" .center-image}
-
-### San Francisco, California
-![](https://lh3.googleusercontent.com/Ub3xxhAI3Nd3vNxGqlk8wGZ4W35qRYOTjD0PZXpjF5vkStPimbCYDN9tQtzxll9m9LqMcCpurYGKnFUO_dQtJeqIfVzWGqwm3LxmwrHY8RLkbaH5mucMvGAAlYg-UTNtu6j2Q5KffQo=w2400){:height="640px" width="960px" .center-image}
-
-### Hong Kong, China
-![](https://lh3.googleusercontent.com/MmsIfOJhDNYJhFcNhPL_162W6HdZT89mZjR1viyEOy4BtNm5QAYqV7lJHzHpWigaJOJ7Ro27m4cjiuDYvhMi99nuiPaHV7kEeGVsxRiaatsRQyjs731pPaji1wo0skQW_Zm_ngcBX8M=w2400){:height="640px" width="960px" .center-image}
 
 ### Copenhagen, Denmark
 ![](https://lh3.googleusercontent.com/oydQ3WpRxYM0lX-F_lAwIs2Y0_Y85LMnePwMfSiP8EoZgBhajtLdjSAlBLinSLLvhf6zoxCMXlpucA31Yhcj4HsCTRhwv51PolvaV-nbyaC42kwyLBeS9Al7Rj3kEVmxw9veeoAHGi4=w2400){:height="640px" width="960px" .center-image}
