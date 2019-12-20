@@ -22,6 +22,7 @@ I have no formal training in photography and use the internet minimally for phot
 * [Coastal](/coastal)
 * [Urban](/urban)
 * [Full List by Location](/locations)
+
 ### Mitzpe Ramon, Israel
 ![](https://lh3.googleusercontent.com/fiCy5z3IzESWxkpcRYl777y5jqb7u06jlcQfbQNIru0EjLPjlEPj9FrM4RziPjXQvjL52fnSyQpIKqB7MR9LG7dCTTDFqVaV2f5uWnlkG0l0CUmHGZy84j7EapWqIJKT476ALrh13VI=w2400){:height="640px" width="960px" .center-image}
 
