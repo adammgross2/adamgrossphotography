@@ -40,7 +40,7 @@ color: white
 ### Waimea, Kauai
 ![](https://lh3.googleusercontent.com/3vT5UgYLt0DwejvKen1bgqX5gXVqj6dN3SF-NNd0gCrgAKSe3YH9cPrdE_rWDuC-DRtThm5IZTI796tiwYGhQYAH7jjyWNp3dvD4hfIH84Gh5ONCqyoYk-zdNdrCaCqSpk1OOANpiqo=w1920-h1080){:height="640px" width="960px" .center-image}
 
-### Waimea, Kauai
+### Kalalau Lookout, Kauai
 ![](https://lh3.googleusercontent.com/Dz0IyoQCJNOpMwIcg9k_7GFJt2dze0nK1uuhK7y1RhTRO2OwcF0bcW4HH1lHyKLA42eKJJlpGFJF9LctJJI5EPSwsqemHlGqfGuFcVYLzEGTtMqpJvp1w1PKwHV3xJCppdzqRc0BHT4=w1920-h1080){:height="640px" width="960px" .center-image}
 
 ### Waimea Canyon, Kauai
@@ -58,13 +58,13 @@ color: white
 ### Waimea Canyon, Kauai
 ![](https://lh3.googleusercontent.com/_8HnF1IKg40w6auQnIdAfyJZBzANZRffTngSmI8Xa3_899f9-AB5c4DLjsOxW6EkOFKVx3oNTYRCoZkA-IJFp79q2hcsoEFwIBCFkbCfRhkpQYT-nF5UHuxMOZzAgFkMDh-COuVUmBM=w1920-h1080){:height="640px" width="960px" .center-image}
 
-### Kalalau Lookout, Kauai
+### Na Pali Coast, Kauai
 ![](https://lh3.googleusercontent.com/jB4nXer6njvs5NQg2YxabGrrXyKJe50mhuSs4VX8HsCdb0af9Gb6KNbR7reNsdzkaQ-mhigTTnBvCrCkLPAYqaTYw8dVE8k3PcNS9cwE7UJp9SGtkWRhMknC6ZOFlAN7pxD3Qvoki0Q=w1920-h1080){:height="640px" width="960px" .center-image}
 
-### Na Pali Coast, Kauai
+### Hanakapi'ai Beach, Kauai
 ![](https://lh3.googleusercontent.com/EnFO_lKoB-FrCR0g-DlbLGFdK0zmtV1sbN8FhnuKgIIXSzTDf-NnJhEGd3qep4yWktAynVNPN8eG4EfchjrOBlB4zO2kcLxoNhyEnfmtZ5eYZHAd0gKLMcMdmCcpfoLlUyoghcIRORM=w1920-h1080){:height="640px" width="960px" .center-image}
 
-### Hanakapi'ai Beach, Kauai
+### Haleakala Crater, Maui
 ![](https://lh3.googleusercontent.com/bUwhMUJLN5PMXC8rthKdsopYmGAVW25B6x-nqjKQLOLqwhGoioZEtY996Y_QhDcRdw4cLYS2SEuqHX3FV_oRo6Ge9672-DAH7WW6JSYiYcLE-TI8KNogCh9ioYe5E4a55tF0qczKlp8=w1920-h1080){:height="640px" width="960px" .center-image}
 
 ### Haleakala Crater, Maui
@@ -79,7 +79,7 @@ color: white
 ### Haleakala Crater, Maui
 ![](https://lh3.googleusercontent.com/Kr20-mT-ill339dxCs81-EmBWWlYj5vW77kCTBkzkydvb9oT-ch8LwyGPlrc9H84XBS8tD5KVSIT7yyzFpZtiAM8BTpadX0JMgutuV7ftevuvnDt6_FrVVmUiJ7uEZM-zeDCF9bRMTk=w1920-h1080){:height="640px" width="960px" .center-image}
 
-### Haleakala Crater, Maui
+### Uplands, Haleakala, Maui
 ![](https://lh3.googleusercontent.com/K4kvAIjYCgJ2JXOiOBRDfMaL_bbX-jiW5a4UD-4UOvde9xMy2vdYdPnkSBn3VNG8WUGRzZm80w3IZaB5uhL12nhlmkCk_lunsVMGkIbhB6q20UrZQ4EIYTYmG5nrbSruDbPvGcXjXZQ=w1920-h1080){:height="640px" width="960px" .center-image}
 
 ### Uplands, Haleakala, Maui
@@ -88,22 +88,22 @@ color: white
 ### Uplands, Haleakala, Maui
 ![](https://lh3.googleusercontent.com/C_UeZjTHlUwIL5SuYd-0hFtOdbv8K9STFx_7PVgVY-hxWDsQJn0GZe4Rt6MLieIN4YIL59jTHcAVp2F3VDdHsNYSsmnrmp9yRmWorx-DBGQHd_U8BUZ5QNAho20JZl04-ZCB9Z04H84=w1920-h1080){:height="640px" width="960px" .center-image}
 
-### Uplands, Haleakala, Maui
+### O'heo Gulch, Kipahulu, Maui
 ![](https://lh3.googleusercontent.com/wKRR78ao6GLkW50bN4leDgszrqPrHWzRoBH4ElbYcOvALMcSo7OermLsHBAFeyavUV3IocS1gsXzDS6-qZOSSAVUatG282Q2zJjc0VRfTF3mlv-bABqzxHxJYqhtvKH85CeS-zfBakw=w1920-h1080){:height="640px" width="960px" .center-image}
 
-### O'heo Gulch, Kipahulu, Maui
+### Kipahulu, Maui
 ![](https://lh3.googleusercontent.com/s59SCcmq77wyjJTID_lAyRATgPtiLhCaWNaSWvwPj0Y9o68sHbUlzN4Ji8U8hf9NsiuwDyc8AwGyIz0IQfw40IezQDbwKKK0ErRbKye6LHIM4nc3etEdN2f64AaRpCWVLB-Ibi7myok=w1920-h1080){:height="640px" width="960px" .center-image}
 
-### Kipahulu, Maui
+### Koki Beach, Maui
 ![](https://lh3.googleusercontent.com/bp_oqj83FbN2_Y0mf_XNMn1V3e_kit92o9Fm2ydDn0qAsv1HMETdZAGdq-H8FL3GziLSjoRiMTTL4B0RfPsEVUFuhpT4yL8o5MJqY2nizd7wpeMYFgw8R9Q-Yq8f-BWhTlcSSgq61oA=w1920-h1080){:height="640px" width="960px" .center-image}
 
-### Koki Beach, Maui
+### Road to Hana, Maui
 ![](https://lh3.googleusercontent.com/cnbAkHMCBGJnappSzGCQ4b7uElEI2XfGEDHeXM5RbPcGKL1RnYArhZBRszKlXG6Vf0Hxw0DaCkkLVNyERDmCS8hx4Y_1Z0kmD0ZNaX_CQZkri-E0zOsngQLei6OJ7BxQ0DkTBzWGNbI=w1920-h1080){:height="640px" width="960px" .center-image}
 
 ### Road to Hana, Maui
 ![](https://lh3.googleusercontent.com/52RUVDyP2GAsgmFlDdnEZkh80lBlQEVGnk8PaDXvgwWqpRFPdoO3Dy2IZNHDnKpClHs1R-CsQfvCwWktFX03DrykY7OHqDcNB7urEil_Se1yXGKXVW-o_hJCcYM65HeGV0aU3X8TliY=w1920-h1080){:height="640px" width="960px" .center-image}
 
-### Road to Hana, Maui
+### Haleakala Crater, Maui
 ![](https://lh3.googleusercontent.com/b69u7WjcMAVK3dV6jbj-pd7nVhrKUqHT8D0s-rF1ZCkJphU7mjv9DdUub4MmpgMcBvLnQYzeQzKso-Oz83KL9Yz2fyhW3PXLcmdoEct2wJTGhhsPLsbp9Vf0W2OAqF5g6Uxl7ucG5D0=w1920-h1080){:height="640px" width="960px" .center-image}
 
 ### Haleakala Crater, Maui
