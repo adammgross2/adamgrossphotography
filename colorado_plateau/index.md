@@ -9,26 +9,22 @@ color: white
 
 ### Grand Canyon National Park
 
-![](https://lh3.googleusercontent.com/K7FkUkx2VJZLsxTIoV9kTK2ZwYfPbuZlf8xRWQ3mQkw1eBzhyoBCMMbWDvzsDImJMQUuvg7IIHLifWoGcCkw7NDa5l8KzxiHZPwCUKuqHkUOUu6meGgOrUkK65W2HFJ6wRUOrPNcpZI=w1920-h1080){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/9rpfdASBzrumYQW3eGeaLrDIwgei4x3qFaRm7Mm0OCpRqhi6GyHF3qQRtVpS9FOCAW4BFoybW_-toZPqwyVHt_6FnQVmqBtVcgR0y6mV6PYWMKyol_n4iwEo8b-Y9hplgjRgwglelgk=w1920-h1080){:height="640px" width="960px" .center-image}
 
-![](https://lh3.googleusercontent.com/1hGNIsME9fCxsWQFlgzk9hMyuOuyB1318BCuB_gHdEP5EUqs7XNISqULCoYzNwKHCbG94h---ZvADWNZpuEfLfDlnCxi0XMz6cDMNCPekoslA1F78iAeF6ldOlWrmh_nhdyIfprKQdw=w1920-h1080){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/PZJ_g2WmUi2iwZifD0I7yqC-R9iy9hVA-3YZ8XVa7yzGOzGCemK6T6mOPSXcTYBCX1H4CSG0kLEOkq29-nP-wIX4IWJqwjMHTQXeSfxB8fym_dxj0SCEJHVv4qltFJ9MbpGyB1lh0dM=w1920-h1080){:height="640px" width="960px" .center-image}
 
-![](https://lh3.googleusercontent.com/sg5zNV82WCyV8BGw5xY_DYwmsGkqfTucurxg2_nQzLqFI_30bV3gw4U9fSAMzG8S8O91JgBlZxw4WPv8qyOCZ0lSzkheCnEQgZL-e7PoH3o8O9cFtwyhc5i6AIC0HAMek0oCdUTsLyk=w1920-h1080){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/tmAjBfxiH-zGUPY5_oFSyXCHT5Y65-kQO3x9j_m_Qjcbzhak-tl-i0nhVQuNHn4bnk312mq8GspfIeoa26mTUmlI3nhdPdxXyVSQXKvp9O6GifV6I-i9qviVzbQrdp_6NtCY7tvFrMU=w1920-h1080){:height="640px" width="960px" .center-image}
 
-![](https://lh3.googleusercontent.com/_RQgr5g1xGooK0e9Czw1VMAAZvrYw7kAdYKRKxFmTOwJp6YuE-1X1mByvuL6LgFz6t2AcELEdovqpsnWKkxsStNh15SqY1_KrLZMhr0VrqIOYuTbyfgQC6dfMkApdxTMNjZQbnQcXEU=w1920-h1080){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/qDQ5aKHVtPvdu86J49VqJrM0srHUftw-9Owv7Z7LIFQDSsHrUFBJKTUkKnvgteLxNirDOMwKAE59wdPn3616u-6dtD0S0WI2EaZttnLQKPsg1McysYQaRPzAcRB7oAvoV14HsQRmOKE=w1920-h1080){:height="960px" width="640px" .center-image}
 
-![](https://lh3.googleusercontent.com/Lp_eJlXjamRr1CnjWV2f5xGWxLW0w0y-Lv6zSmqLd1sFz7M7kGTBkSEkKYGA2rPBU4xIhb4SU5RjT0jtD5c0o7z5ad0BATrM1PXNrbsEUvAGuJLX3g5owlCqeuDYkFP6GReOCO8EkCM=w1920-h1080){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/1O_dSqcEXrrzhWJZRfkJxnx9p9rxJ2zw-33WQNPisrVWMTzv2gilwhhYQzR4NS1u_VU5WoL9oOVup93iDrhoNxZMR9GoAZD4F2H3zq5vKgeEAnhQ525uxs6328LDEftJCK-mOiOUZr0=w1920-h1080){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/CkfHArRiGNfoWr3uEUSrkRZAIwd6laGSlVGUvImCqkGcMYTYO3Z3KJ5lbFVkVnFdLFoObXF36EhYvnAXdK1QK7cfsEWHT2v1xR1sEh3KTzYVSM3kTtjR0LDFEJwXR1GUUqljGbp4p30=w1920-h1080){:height="640px" width="960px" .center-image}
 
-![](https://lh3.googleusercontent.com/PTzxNMY5GvZdWpqb39OiJtIKYxmzsAV6G4OsABcyWdEwP2XTrjYtcKD-z0jDr09SfNeHL4A1rAZIwa5Zq-E76bVGnXczoa7jMf_3IEq4Ro-0os-oET2rKVH5nWobQpv7AmIgZqO1U0k=w1920-h1080){:height="960px" width="640px" .center-image}
+![](https://lh3.googleusercontent.com/nRJIYsI_DuyFlNfaJsBACiiBBwtJ3aMxrzNTo1kxgRjbVETm3sjxyfd7k_9ujZV1wTNvgQI3gTLXD0DLJWztuuief34WqLJxgGGXCmCrwnHjO5ofvGjD_-HI-QF80t8KlyCwA2Gsu5o=w1920-h1080){:height="640px" width="960px" .center-image}
 
-![]
-(https://lh3.googleusercontent.com/oszIpT56MmUeCgDCel1DH_pS83eT2lAtqSXy99wgdvg1IC3hQv0_QY1zIwvKEjVtmuqi9f56V1jr9AyDgwPMCkYnzoKpGQqMa2ghXpTm3PUsK5PVvBTgRCqTIOZKSSTSkzhh9KBPIOk=w1920-h1080){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/f5OPWvuy7vDhlH6aZsoAWDo3fdHKPP9f4tCUGbln12dQtpmMRiJ45TDkTVq3xVapCrfo1lKls0ZhqpnwHkG_OzQC_Mane2EKSMrLvH2wC5jbF1Kxl7-95qwf5SerhsQ8Z3fRAkusVIo=w1920-h1080){:height="640px" width="960px" .center-image}
 
-![](https://lh3.googleusercontent.com/0A7BdeX_JxWroC2bHt7mLmq1SdkcJXqNDUjcC_XpkCFcNE2aJWKEkM1S87XaNmdm8UkYGcZF5Cn_zlCuys5-Qo4XwV8-Z085G5XsakLXkGjZcBbGkX_H4n8Pmt3lTrVMtH8TE7whXqg=w1920-h1080){:height="640px" width="960px" .center-image}
-
-![](https://lh3.googleusercontent.com/uch4Sd6CYLw-8kGbLWNUTzc9Xe4jRK2O7Saz3iSlNe3UlR3nXEcFkuQDuwIDwrYJhUyYnTaXElVfqALqGyWPib-FWXuimKzEosXxEoWIhR1-_q_VsG2JlqOy1Yrjw7S-4XAxzKRq77k=w1920-h1080){:height="640px" width="960px" .center-image}
-
-![](https://lh3.googleusercontent.com/e97a-tlfqhbwlGAOUEWKJAXqDjH-LSnX3vfKvhhMp7oGVDgRvcLoyKl1WnmF2PqU64xdb-6yJLNERz_FR35ev6PxcB8sr1wWbCVqnbVvykRPEi7YnuJnExU5V9B1KL0KY-TQ--BlszA=w1920-h1080){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/p_yR6Tnu9mq5I7-Cw0wGye6xevKKROwHMMP1pvf1bolVyadiON9uJz7n2RcgLkqO_OImbXioQXK7Xmi7moWuuQVJzTEGHB5Y0LRr_WvGPvCiUV259wkBXTlokz_LhWCxJHKFz4yxKLo=w1920-h1080){:height="640px" width="960px" .center-image}
 
 ### Arches National Park
 
