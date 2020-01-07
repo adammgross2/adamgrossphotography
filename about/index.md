@@ -40,6 +40,7 @@ Some of my most prominent photography idols and influencers are:
 * Michael Frye
 * Joe Braun
 * Alan Majchrowicz
+* Greg Lawson
 
 ### Reading
 
