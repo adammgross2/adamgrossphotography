@@ -15,6 +15,6 @@ color: white
 * [Malibu](/malibu)
 * [Cabo](/cabo)
 * [Hong Kong](/hong_kong)
-* [Arches, Canyonlands, Bryce, Zion, and the Grand Canyopn](/colorado_plateau)
+* [Arches, Canyonlands, Bryce, Zion, and the Grand Canyon](/colorado_plateau)
 * [Israel and Jordan](/israel_jordan)
 * [Red Rock Canyon](/red_rock)
