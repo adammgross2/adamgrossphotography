@@ -43,6 +43,21 @@ color: white
 ### Waimea, Kauai
 ![](https://lh3.googleusercontent.com/Dz0IyoQCJNOpMwIcg9k_7GFJt2dze0nK1uuhK7y1RhTRO2OwcF0bcW4HH1lHyKLA42eKJJlpGFJF9LctJJI5EPSwsqemHlGqfGuFcVYLzEGTtMqpJvp1w1PKwHV3xJCppdzqRc0BHT4=w1920-h1080){:height="640px" width="960px" .center-image}
 
+### Waimea Canyon, Kauai
+![](https://lh3.googleusercontent.com/4epXoOeeafhwoP505XCqRFMqRTBmVkztptCTQzIof5D1Hd9RZPrcJ72JgL3OK1pJKJsVGcEK7_dWcoKZfTkBBu0y5iKg7embiwppRgRk9ioX86kvh4QMlp3D-2jyMTz_oo-ChYz40vQ=w1920-h1080){:height="640px" width="960px" .center-image}
+
+### Waimea Canyon, Kauai
+![](https://lh3.googleusercontent.com/EWZIZAzUVvdOMdGpLGBOLx0HbaZIY5l9WMObfzNMAjcEawxXM3zkabtIioiW6ttP2WD4jG-eoVleCFQuKewraRRp5qo3UdYygqA3JLsAO782qj-VxVVdGdeUPrQt97iAvjLz9hCksn0=w1920-h1080){:height="640px" width="960px" .center-image}
+
+### Waipoo Falls, Kauai
+![](https://lh3.googleusercontent.com/OKYFst1U555WQah5HBdf06qBO9fgPugprt--VCnzeGLXesm2rp5ufTgMDzmdqrfdGPqU24rxQVsNeXwD87aXo26hVT3A76CWqFtjpZCiOoR0gpLGjCd6O8OvYAs1lMhOEXhFpYzaZKc=w1920-h1080){:height="640px" width="960px" .center-image}
+
+### Waipoo Falls, Kauai
+![](https://lh3.googleusercontent.com/FBa1tuz9gPTCPnOmtFFU-MT-ZPgzgQx9m4fLds5xskfZKgWeVU02QdY--Df3S1KMudqLBCehO3lOm8wotxygiT1k7UOQJjdu6M8BbuC3jI8aAkx9Ig-3gdARhHxLhW99kmdl7SculYQ=w1920-h1080){:height="640px" width="960px" .center-image}
+
+### Waimea Canyon, Kauai
+![](https://lh3.googleusercontent.com/_8HnF1IKg40w6auQnIdAfyJZBzANZRffTngSmI8Xa3_899f9-AB5c4DLjsOxW6EkOFKVx3oNTYRCoZkA-IJFp79q2hcsoEFwIBCFkbCfRhkpQYT-nF5UHuxMOZzAgFkMDh-COuVUmBM=w1920-h1080){:height="640px" width="960px" .center-image}
+
 ### Kalalau Lookout, Kauai
 ![](https://lh3.googleusercontent.com/jB4nXer6njvs5NQg2YxabGrrXyKJe50mhuSs4VX8HsCdb0af9Gb6KNbR7reNsdzkaQ-mhigTTnBvCrCkLPAYqaTYw8dVE8k3PcNS9cwE7UJp9SGtkWRhMknC6ZOFlAN7pxD3Qvoki0Q=w1920-h1080){:height="640px" width="960px" .center-image}
 
