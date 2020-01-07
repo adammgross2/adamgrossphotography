@@ -39,6 +39,7 @@ Some of my most prominent photography idols and influencers are:
 * Sean Bagshaw
 * Michael Frye
 * Joe Braun
+* Alan Majchrowicz
 
 ### Reading
 
