@@ -17,16 +17,6 @@ color: white
 
 ![](https://lh3.googleusercontent.com/qDQ5aKHVtPvdu86J49VqJrM0srHUftw-9Owv7Z7LIFQDSsHrUFBJKTUkKnvgteLxNirDOMwKAE59wdPn3616u-6dtD0S0WI2EaZttnLQKPsg1McysYQaRPzAcRB7oAvoV14HsQRmOKE=w1920-h1080){:height="960px" width="640px" .center-image}
 
-![](https://lh3.googleusercontent.com/1O_dSqcEXrrzhWJZRfkJxnx9p9rxJ2zw-33WQNPisrVWMTzv2gilwhhYQzR4NS1u_VU5WoL9oOVup93iDrhoNxZMR9GoAZD4F2H3zq5vKgeEAnhQ525uxs6328LDEftJCK-mOiOUZr0=w1920-h1080){:height="640px" width="960px" .center-image}
-
-![](https://lh3.googleusercontent.com/CkfHArRiGNfoWr3uEUSrkRZAIwd6laGSlVGUvImCqkGcMYTYO3Z3KJ5lbFVkVnFdLFoObXF36EhYvnAXdK1QK7cfsEWHT2v1xR1sEh3KTzYVSM3kTtjR0LDFEJwXR1GUUqljGbp4p30=w1920-h1080){:height="640px" width="960px" .center-image}
-
-![](https://lh3.googleusercontent.com/nRJIYsI_DuyFlNfaJsBACiiBBwtJ3aMxrzNTo1kxgRjbVETm3sjxyfd7k_9ujZV1wTNvgQI3gTLXD0DLJWztuuief34WqLJxgGGXCmCrwnHjO5ofvGjD_-HI-QF80t8KlyCwA2Gsu5o=w1920-h1080){:height="640px" width="960px" .center-image}
-
-![](https://lh3.googleusercontent.com/f5OPWvuy7vDhlH6aZsoAWDo3fdHKPP9f4tCUGbln12dQtpmMRiJ45TDkTVq3xVapCrfo1lKls0ZhqpnwHkG_OzQC_Mane2EKSMrLvH2wC5jbF1Kxl7-95qwf5SerhsQ8Z3fRAkusVIo=w1920-h1080){:height="640px" width="960px" .center-image}
-
-![](https://lh3.googleusercontent.com/p_yR6Tnu9mq5I7-Cw0wGye6xevKKROwHMMP1pvf1bolVyadiON9uJz7n2RcgLkqO_OImbXioQXK7Xmi7moWuuQVJzTEGHB5Y0LRr_WvGPvCiUV259wkBXTlokz_LhWCxJHKFz4yxKLo=w1920-h1080){:height="640px" width="960px" .center-image}
-
 ### Arches National Park
 
 ![](https://lh3.googleusercontent.com/Ab6KcQXD2-6Qg6X3nrLKwgzKwPInqbip1MJRWSIgAqXwaJ7YE5vtMY9wdIKBqPlOre8BLKqpqUuMIkOG4sHvKJFFGuOHlK1FE9ULjpfdtEsP_3pmfYfh7VVAeA2wX4Sq9s6C2D2W-W8=w2400){:height="640px" width="960px" .center-image}
