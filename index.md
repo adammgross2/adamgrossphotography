@@ -49,7 +49,7 @@ I have no formal training in photography and use the internet minimally for phot
 ### Haleakala National Park, Maui, Hawaii
 ![](https://lh3.googleusercontent.com/dFs-DCyXB8QhJ6ob-M3Y7EGHGziMb1ncrCks5vZ1c-Zy-4R-RPieOdIUyfClXqQHgucQ29eHns42jGT02qdlcMa8MK716aT8LT8SYRDY-Uyfqn3M6izC2MkjO4afoSRyCukTEN2_vzo=w1920-h1080){:height="640px" width="960px" .center-image}
 
-### Haleakala National Park, Maui, Hawaii
+### Maui, Hawaii
 ![](https://lh3.googleusercontent.com/cNgghFJqTpp1Bxd9S9U_pMCUOPP3rlBX739IrsqpcMcG6Re9I5zudndXcb2-GBxGaLT64MghL6ypzF7ogEpxYRRGCbkIX_e4Amq22otPYWLmmLwItZYaH8y0PzNpbNRitWhG0B0bleA=w1920-h1080){:height="640px" width="960px" .center-image}
 
 ### Haleakala National Park, Maui, Hawaii
