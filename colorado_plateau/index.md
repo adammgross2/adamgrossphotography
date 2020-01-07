@@ -18,6 +18,7 @@ color: white
 ![](https://lh3.googleusercontent.com/qDQ5aKHVtPvdu86J49VqJrM0srHUftw-9Owv7Z7LIFQDSsHrUFBJKTUkKnvgteLxNirDOMwKAE59wdPn3616u-6dtD0S0WI2EaZttnLQKPsg1McysYQaRPzAcRB7oAvoV14HsQRmOKE=w1920-h1080){:height="960px" width="640px" .center-image}
 
 ![](https://lh3.googleusercontent.com/1O_dSqcEXrrzhWJZRfkJxnx9p9rxJ2zw-33WQNPisrVWMTzv2gilwhhYQzR4NS1u_VU5WoL9oOVup93iDrhoNxZMR9GoAZD4F2H3zq5vKgeEAnhQ525uxs6328LDEftJCK-mOiOUZr0=w1920-h1080){:height="640px" width="960px" .center-image}
+
 ![](https://lh3.googleusercontent.com/CkfHArRiGNfoWr3uEUSrkRZAIwd6laGSlVGUvImCqkGcMYTYO3Z3KJ5lbFVkVnFdLFoObXF36EhYvnAXdK1QK7cfsEWHT2v1xR1sEh3KTzYVSM3kTtjR0LDFEJwXR1GUUqljGbp4p30=w1920-h1080){:height="640px" width="960px" .center-image}
 
 ![](https://lh3.googleusercontent.com/nRJIYsI_DuyFlNfaJsBACiiBBwtJ3aMxrzNTo1kxgRjbVETm3sjxyfd7k_9ujZV1wTNvgQI3gTLXD0DLJWztuuief34WqLJxgGGXCmCrwnHjO5ofvGjD_-HI-QF80t8KlyCwA2Gsu5o=w1920-h1080){:height="640px" width="960px" .center-image}
