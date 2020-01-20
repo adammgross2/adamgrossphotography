@@ -8,29 +8,25 @@ color: white
 <meta property="og:image" content="https://lh3.googleusercontent.com/c6658hFl9yvvi9pt7N9Fm1dnw9oCirCwR0qeobBAbRHFdIOHG4PmGPl1avz1BLf7Ku0ZtTmPxvTEq0SAO-RKG3_aeHbcT2QSs21gPlF_LzQVMYXKxDpzN_VFkAk8-8Py_gJ0BrU_uXs=w2400" />
 
 ### Zabriskie Point
-![](https://lh3.googleusercontent.com/RgAbD6ay0y_jkY04pjSsrP_d5552slfLFev4Sw1JKf498kMGHmpvGXn9Fz5HAL-jMyZJFoeDzDgrB92cdRkvWKuZNw3_1MiEmM0dt404j3LtdxIQsNlkYXA5L-EVrRHDzuw9kDmuo7Q=w1920-h1080){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/-IIiqHGsvqDyVytWYjW4fbvV2SgtgjYJQE26Q2yJ47VZXbvb0h1qj2cKkU_2mknXv_EzH8W_Y1MMomnh0tFtnqQ_aVXKofWecLtafuGf8X08_5kKVVQRRUkbOvASw55BdbuxbZOLFx8=w1920-h1080){:height="640px" width="960px" .center-image}
 
 ### Mesquite Flat Sand Dunes
-![](https://lh3.googleusercontent.com/s8-etg5trsMxOZBHW12gF15e655zs1OZT_BXMH4lsHACoa4doHFjio7nGzdU30QJELYqSqSMVFQsnlNMQIp7tub6V-E_Vbvrm2-5l0YxF_ykvoPQyrD5f5WO3BDpGg9C8Q0S1pJ-7HY=w1920-h1080){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/bC-x7QO79vv0niiMtC1DkaUp0fwwQB-w2tW98-cuPCh4P3BsM2eT1zjGmKrFTpyotBk1SN8mwHeDdo88JsM7iFrwTMif0P7pJWFebcRIiCTZovVjkOye5MUEH_x5ML5ZL7Yz5uRIYbM=w1920-h1080){:height="640px" width="960px" .center-image}
 
 ### Mesquite Flat Sand Dunes
-![](https://lh3.googleusercontent.com/ih-RmYGnFgjTgQyZ49y78y_xgKKI_jFYhvRAk8Cl1_jg4IZW1HYQbDY7ZTuZ-pNYSh5T4qtpPt6FikSs3jsjnnXSat7WFyE_2igBnCxV3ixwFdr6tYSs_lW4M2U9Tqxh5zVL-_VXhjY=w1920-h1080){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/6hpq94KxBT87iBf72-tVB2-G-c_IWqSfmQn-Lcmz54WFvb4vQ714EwaMlNpy8_AfzFWvG3Q-_M2_-ymREtgFj2_xtkCgfFz0gKDOjXjXHEBjQfLUkZ3DwLaS-OfCwEEZQwh0WNZTnwc=w1920-h1080){:height="640px" width="960px" .center-image}
 
 ### Mesquite Flat Sand Dunes
-![](https://lh3.googleusercontent.com/zWMZ80p3EBXEM2J3htWAGrpb27kvkvwOzfM-18DvaA2aKz20b70UwGNBUgJG7yYYAcIplBQM3QpAU0SkQfJxDkoql8Q5W4i6WGzMrVD52YvjC7LPdviv-kO1uaspywcG7I9xbPgBojc=w1920-h1080){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/0xuTQdAwL4IUORi2euI4KpaIbqXl-GOKSwr8sju-gLpGwBDsryTMc3eU8ihfoyU2ofeAG9ASKkEZWEaYuPLE4GXU1wxatkK4Pw_FW-uVaumtRUNF7ZHXk9JjOoZ6ZbjpSYQgz0W3ZZI=w1920-h1080){:height="640px" width="960px" .center-image}
 
 ### Mesquite Flat Sand Dunes
-![](https://lh3.googleusercontent.com/WSpVHCYJLJV5vynH2rLOACq2VBYiwRcrWnrPQIexrzL6PLhSFb-FWXzuc-Yj8-Qv68JCcDtlTu4nG9kNjMWwCHvzMHM9Th6JqiL7hGGE1NDzyQLzWk7w_Tpb4OjvY3sWitQByoEO8Qo=w1920-h1080){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/bOEV1GV9lZKWfdA0Kx2MK2T-_n1MB70np6sxH7enpqsuaWpBIk7aoLLQlZbjI7vG2HOHZDil9-iI-jlO3lpIvgRcLv2iahdhJwprV29JmShUmqgHMbSdFsD7dxa3oBsZo0HaP9wAKA0=w1920-h1080){:height="640px" width="960px" .center-image}
 
 ### Mesquite Flat Sand Dunes
-![](https://lh3.googleusercontent.com/gEFEZ-IwN9PBHMxw-rd3nCs6hMKdyGqjATAwE1yc3Dgcg8EOhu85sX_0cfFt3qfMKnl7gZS3hJsjS3jkc4Okmx8Szcd_qYXcwgAfoYbwbrS7dXbubeYwasoEPlF4_e2kpl4B5dzrHyQ=w1920-h1080){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/E_PdLILjpZ-OMBmzePEG83Dm8ZXukhwvAFB0qETvS-D8XU_hUJxwTe4oCKU8oJuBkv6sFA2eA-6pjj4S02X0ZBcAkdrvAfB5ylFQLWs-ZeE84YIhJcy9ulo_6PVtebEt4kgGkbWXsMY=w1920-h1080){:height="640px" width="960px" .center-image}
 
 ### Mesquite Flat Sand Dunes
-![](https://lh3.googleusercontent.com/_yXGKn38cEifFNeAVwHHLGNmVrypW9kzQyjo2dxsUOlmNZ7w_oAsSA5FaCWG8Sfx2fZ-wJSg7CJZbwfMw-M0q0OzWspfCT8nFklrKyC3AFuvwALAazWRCQWk3hptSBdvDvyO6q5pRJU=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Mesquite Flat Sand Dunes
-![](https://lh3.googleusercontent.com/TUkZmbFu4StU7zq5oISNZhZmWipkkP7D02mpbYVZEaVk_eyEWhiYQzsVlPU4jH7s_FdAqN_2iv84iUX_x_aCgXXeL5YytRF5NqwJvW66o1o9_qb5eGOm6jktogTqqNnYCuLgiVIKivg=w1920-h1080){:height="640px" width="960px" .center-image}
-
+![](https://lh3.googleusercontent.com/zO4nZxslpPRQvVXUcmA_dDWFvS3LL7VtKdnZ15PyEcZ35tDtaXYeNRPYSKx4OxzI5tWJVonOABE70DP3YoRx7-8FXPUNuzYPv4BDl0mpi6rWiNK8g0oWIeEi40qhVD2f3kSkK-AazMc=w1920-h1080){:height="640px" width="960px" .center-image}
 
 ### Zabriskie Point
 ![](https://lh3.googleusercontent.com/VO1FckapUOBIAqdne17aPdYcrCZ_fead6LFJ3esNqY5_bqZMVBQlc4GIKx3kxgxxxNAKLpStA6_TkQVey4tue6g_FuVNRzHS87Xy7U0elHCZLVKbHbsOevrs4DbU4b7YJ5cTNWxWAPA=w2400){:height="640px" width="960px" .center-image}
