@@ -135,3 +135,15 @@ color: white
 
 ### [Wrangell-St. Elias National Park](https://earth.app.goo.gl/1qMbsQ), Alaska
 ![](https://lh3.googleusercontent.com/osZ21ZZRtgqsEPL4DdfVCETBaVX4qY66XqCZsEQPgPlyXa0pbeFLcaQwUoYSypl3bSwJoeXY_H_6NQrPh0_vGjv12K0YXArBFrg9IDOJZapj-w6xurZXD3bq41a2eGZZP9SilXiPtiw=w2400){:height="640px" width="960px" .center-image}
+
+### Maui, Hawaii
+![](https://lh3.googleusercontent.com/K4yo9dO3zakg06fe3e3FCmhZ8ujMQXYkTwrKww3zmfqTtN4loOYJgz7u2Jwk-5GiDAaeQ_bNHQKKcFskomC8kRsoib77SpItHI_wcr-nr6iZPP20ZV8FwhUVcWLSvCFa4sHo6_pcip0=w1920-h1080){:height="640px" width="960px" .center-image}
+
+### Haleakala National Park, Maui, Hawaii
+![](https://lh3.googleusercontent.com/9JzIUDhga42bX1mtpqegwdmHZBIdeQVFlzZsBeFj5kY4lsKK6jVyPR1UkE_F4YIzCDTKyK3RLrM8qrBCZW5ShmCS3JaevPQW7UdKTl-dk6dQonURGmGRNuueozTgQMKW0jI_HQvU8iw=w1920-h1080){:height="640px" width="960px" .center-image}
+
+### Kauai, Hawaii
+![](https://lh3.googleusercontent.com/2VN1Rv6mGvP4wZ7700HM7d7ZDbHdClk7Yr9yJrMuYxOCXax7Qg0RBOb8KopYLmTPYFWqYJHIn796s7VV0QCldSgiP3AXmAWp3LpIbMWkqBXAkzISNgbnrpJOacTrQcQKLj45gBLgw9Q=w1920-h1080){:height="640px" width="960px" .center-image}
+
+### Kauai, Hawaii
+![](https://lh3.googleusercontent.com/WkVtW8P-HcRG28axA5IJTWm-Rfl9D4XQ8hBXy0g1gRiyWxVZzaE-veYN0bDdFNC1Q6gckYvuP-H-agAYPSagbQNcXSNCYpb9ou9WBBBZyGJbA-vAsOY_d1sxHJD9yMu1wCS9Z5mS7R8=w1920-h1080){:height="640px" width="960px" .center-image}
