@@ -7,6 +7,15 @@ color: white
 
 <meta property="og:image" content="https://lh3.googleusercontent.com/c6658hFl9yvvi9pt7N9Fm1dnw9oCirCwR0qeobBAbRHFdIOHG4PmGPl1avz1BLf7Ku0ZtTmPxvTEq0SAO-RKG3_aeHbcT2QSs21gPlF_LzQVMYXKxDpzN_VFkAk8-8Py_gJ0BrU_uXs=w2400" />
 
+### Death Valley National Park, California
+![](https://lh3.googleusercontent.com/bC-x7QO79vv0niiMtC1DkaUp0fwwQB-w2tW98-cuPCh4P3BsM2eT1zjGmKrFTpyotBk1SN8mwHeDdo88JsM7iFrwTMif0P7pJWFebcRIiCTZovVjkOye5MUEH_x5ML5ZL7Yz5uRIYbM=w1920-h1080){:height="640px" width="960px" .center-image}
+
+### Death Valley National Park, California
+![](https://lh3.googleusercontent.com/6hpq94KxBT87iBf72-tVB2-G-c_IWqSfmQn-Lcmz54WFvb4vQ714EwaMlNpy8_AfzFWvG3Q-_M2_-ymREtgFj2_xtkCgfFz0gKDOjXjXHEBjQfLUkZ3DwLaS-OfCwEEZQwh0WNZTnwc=w1920-h1080){:height="640px" width="960px" .center-image}
+
+### Death Valley National Park, California
+![](https://lh3.googleusercontent.com/bOEV1GV9lZKWfdA0Kx2MK2T-_n1MB70np6sxH7enpqsuaWpBIk7aoLLQlZbjI7vG2HOHZDil9-iI-jlO3lpIvgRcLv2iahdhJwprV29JmShUmqgHMbSdFsD7dxa3oBsZo0HaP9wAKA0=w1920-h1080){:height="640px" width="960px" .center-image}
+
 ### Mitzpe Ramon, Israel
 ![](https://lh3.googleusercontent.com/fiCy5z3IzESWxkpcRYl777y5jqb7u06jlcQfbQNIru0EjLPjlEPj9FrM4RziPjXQvjL52fnSyQpIKqB7MR9LG7dCTTDFqVaV2f5uWnlkG0l0CUmHGZy84j7EapWqIJKT476ALrh13VI=w2400){:height="640px" width="960px" .center-image}
 
