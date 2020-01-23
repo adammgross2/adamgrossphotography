@@ -41,6 +41,7 @@ Some of my most prominent photography idols and influencers are:
 * Joe Braun
 * Alan Majchrowicz
 * Greg Lawson
+* Nolan Nitschke
 
 ### Reading
 
