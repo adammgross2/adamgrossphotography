@@ -9,6 +9,13 @@ color: white
 " />
 
 ### Alabama Hills
+![](https://lh3.googleusercontent.com/4n2ULMlAyN4j-RSBJPUPiKGIG3JrE90_riezGWbiwZ6zvYUt0Vq-1nQfzrDFLWz4x7qGlTubsCPmhBnQs6a2BThkB__b7IdRV2wYCFp7hh3MIiXQJk9D7aaWkRbRPkp7Nwuh2H16MHU=w2400
+){:height="640px" width="960px" .center-image}
+
+### Alabama Hills
+![](https://lh3.googleusercontent.com/BxXNW4Fs-cHaD8thWngpzyzi8QUSNDe0JHpVN6Hb6rRYVImrOsS5Z91ZJyRm1po12m67ZnNtWmdbAg_-p4xsy9nct_a8JfYxhQEI_Xt2VPlxfArZc1XrBrrpBFQDUNvk4gJO9RMc8BU=w2400){:height="640px" width="960px" .center-image}
+
+### Alabama Hills
 ![](https://lh3.googleusercontent.com/K0Z2c_EFRElNz-NjL8Qf08buNnl_OD2KN7MRujnrrGxHfy9fcjSkcVIMDzsalRdhUOdiQSZfAgEhSvwpqNJPLAWfNnz4bv2-YN0DdQvLIPG85zAcoKik5fLK-TtKj3WxXxqtz6Svs9I=w2400){:height="640px" width="960px" .center-image}
 
 ### Alabama Hills
