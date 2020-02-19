@@ -25,6 +25,8 @@ I have no formal training in photography and use the internet minimally for phot
 * [Urban](/urban)
 * [Full List by Location](/locations)
 
+<iframe src="https://drive.google.com/file/d/1wY9lJfLqp7VDuWZ3do7c4W9Ofnkc6kNB/preview" height="640" width="960"></iframe>
+
 ### Death Valley National Park, California
 ![](https://lh3.googleusercontent.com/bOEV1GV9lZKWfdA0Kx2MK2T-_n1MB70np6sxH7enpqsuaWpBIk7aoLLQlZbjI7vG2HOHZDil9-iI-jlO3lpIvgRcLv2iahdhJwprV29JmShUmqgHMbSdFsD7dxa3oBsZo0HaP9wAKA0=w1920-h1080){:height="640px" width="960px" .center-image}
 
