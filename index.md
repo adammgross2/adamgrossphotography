@@ -28,10 +28,10 @@ I have no formal training in photography and use the internet minimally for phot
 I recently published a book, dedicated to my grandfather, on the American West. It can be viewed page-by-page below. If interested in purchasing a copy, please reach out to me at amgross4@gmail.com.
 
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
-<div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
+<div class="pa-gallery-player-widget" style="width:100%; height:640px; display:none;"
   data-link="https://photos.app.goo.gl/Tom1FfMQ9zFb1n3X7"
   data-title="The American West Photos"
-  data-description="91 new photos added to shared album">
+  data-description="Photos of the American West">
   <object data="https://lh3.googleusercontent.com/0jA7DO9IATQ_Aa-5mtK2EOwrBoj8MUcxD--2jugJycaVIrSt0ZmPpHaUXCo1JJD3QN-xfv_LnSe9TT7Hxri9eebc2tjfSkcCeqLdLtTTq-vKZvW968MmYs33h9kLVlLrlDOEmIx9WpU=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/lyL00GbgaqFUGVxV4GpKkpvY9BGy-F_qYlM3Pgbca_OIYpaYNYpcCVTn4CyM3nGS-R80h3e8TK6Q-wYx2JldS2sP6sgd0p8vIqxqjSPT7bTNDPqIhHideQGbsBCn8RA3QbV8XNdkGI8=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/wx9NCZ4jUmionXNQcf6RU0tLghYO7BJLpN_13vsbw6eJlzORh3Te5coDE3Ghdag-TQvA21T8RJSHgVe2tSC0U6EONXlsfcY6c_qQ7pXDpGw7f6_YgrtJ5YOb_31cMXFDuuS95Gd0CLU=w1920-h1080"></object>
