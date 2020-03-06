@@ -207,7 +207,7 @@ I recently published a book, dedicated to my grandfather, on the American West. 
 ![](https://lh3.googleusercontent.com/ba8D03BjMg8JUbJ2vgRhT9korHiyC2cLJhWwrRG8Mh3CPFS2bVRjjIwRSgsqyY9soBzWlTHusXjnzUNIZBSQcNlAzDxwscnpuMfORDT6oaCK-Ln3i0Uns4R1wCR9Ytm8lIHNxOP---Y=w1920-h1080){:height="640px" width="960px" .center-image}
 
 ### Denali National Park, Alaska
-![](https://lh3.googleusercontent.com/kIEQhnZlEDDeFP9lopGCHJQ7pduadc2j3ETrsYAqIxbEtocIgnfo6Rq_F6XY75Xz2b8nT-iI3rthuIR0spfs9H9_1CKaQwvwox020HFOOsAYrNPp2JGO1qilULRIP3kk-_meAi_1PJw=w1920-h1080){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/kIEQhnZlEDDeFP9lopGCHJQ7pduadc2j3ETrsYAqIxbEtocIgnfo6Rq_F6XY75Xz2b8nT-iI3rthuIR0spfs9H9_1CKaQwvwox020HFOOsAYrNPp2JGO1qilULRIP3kk-_meAi_1PJw=w1920-h1080){:height="640px" width="640px" .center-image}
 
 ### Talkeetna Mountains, Alaska
 ![](https://lh3.googleusercontent.com/519xJdGcZzpWGGfDfNakpS3LT9omHCb6hNujTz450JRP_rMBIcfQ8IqzNp2rIMG6ndqlEF9WEEikXCj6NQ8PoUVbe1atlEUluksOmbMyTlgkeZd38H7-g5qthQJtUCmHkx0-KgtcV7I=w1920-h1080){:height="640px" width="960px" .center-image}
