@@ -251,6 +251,69 @@ I recently published a book, dedicated to my grandfather, on the American West. 
 ### Mizpe Ramon, Israel
 ![](https://lh3.googleusercontent.com/clL4dHiQEjzciqpkuER5SgSKTibjOHAJRjOC3kuCvbQYsN27YNJ8uBWf4z-2-avBTkwrPFzptUq3tk-Jt6tZe03uYa5eYfQZTLYSj_2UhL0YDblCWZ_coU0hOrP_4D9J5GfYcmwdgXI=w1920-h1080){:height="640px" width="960px" .center-image}
 
+### Joshua Tree National Park, California
+![](https://lh3.googleusercontent.com/5aHn_FsPDMMkx6_7K9W1vVvTZBCpSjCkhP-InNUu15UeR8Xgb38RStcFZIIB_BD8Rkff3fbSrh141jHRPxlDcukRUULnoMFKYmgVX80psqu5dXi-8Aul4zAbTm8U4OVXr6b7IX51SL4=w1920-h1080){:height="640px" width="960px" .center-image}
+
+### Joshua Tree National Park, California
+![](https://lh3.googleusercontent.com/LOkHT22mEjdfs3flBHFLDgFG59OHz89M06NNcC0IClLFz6udil_aoKSVdoa_6wskccTkz7T6v28ckxHhzv54_YgOlHDkauVCMylajoAPKIVLV0L5NSRBcss_8XNnmQooLc-xDkhMXcc=w1920-h1080){:height="640px" width="960px" .center-image}
+
+### Petra, Jordan
+![](https://lh3.googleusercontent.com/m1pJZi9px7C1GU2MJbl6tIO6o5KEl9BMMrWE-xDxsgjEhaFuOwUfSY_oyrKkSAQ57_4w3UcEoP3Lj0mq182pd5FzOLSy58MicR5Js7i3EVbvex1f0d7FxcHSQpi1Zug3_Wl9HteuOVI=w1920-h1080){:height="640px" width="960px" .center-image}
+
+### Tel Aviv, Israel
+![](https://lh3.googleusercontent.com/wxBu0-RKjMbtL0vqx7rp1Jox5KKuLb-8U7XzeAASzOrORF5j5M95g0stFcTnPC450hLhhZx68BKvj7Mc9BUM6BBKxL4WglC6Md6ZiB6TO8jzPLM8NA-jHLUFyl31NdeE1Df87Fo7PSw=w1920-h1080){:height="640px" width="960px" .center-image}
+
+### Malibu, California
+![](https://lh3.googleusercontent.com/SeVKcqs2gy3wPsUj_Al-SBCb5NdxOM5M8w3K_EHzbfPZXX03_VIB7gfaVa2Sr2giuT_p6BrAeXI7oFPvBQg_2j_uNtn2ADh7BH_31B5pglfVnVkm6zbpUxTCJWBItAffpesq_6itjYk=w1920-h1080){:height="640px" width="960px" .center-image}
+
+### Waimea Canyon, Kauai, Hawaii
+![](https://lh3.googleusercontent.com/vGslyg4_SSnV8rsRwhR5dUtDoTFs3hd2cCD3qeWvvgnWO7OQ-e0wgXx2IwShGrev1XAGRxm_2z0HYjCnD93NKlSi6KL4QTcgFOCvbT8HL0-7iSYcWXdoxD1wi_iR29n9uSL9-lTDEYU=w1920-h1080){:height="640px" width="960px" .center-image}
+
+### Waimea Canyon, Kauai, Hawaii
+![](https://lh3.googleusercontent.com/APgU0WXsHXRBZvSff5n1u7UOt09-Re1Uda86GlTLNP2yl-4DR1l7AdPNO7YwNTD7DX3UidLzSJZHpVTZp9Y11GpmwFdHQrvi1A15mSW8cNZLXoSoqmE7bqwCDDIN3R9184fzcNzp2TM=w1920-h1080){:height="640px" width="960px" .center-image}
+
+### Waimea, Kauai, Hawaii
+![](https://lh3.googleusercontent.com/Mz_ZMaa6SEW133chjDgXhHmEvoomDm-YoL4caiTjjzOjBu9-BWALNDTyVE0PtHNQZVM13WiYinhlay-O_RiTIujL4kFI8nIVLwkyi_g5P67eDr5BvyWR63aJlJtvQJznLa9WCY2mL6g=w1920-h1080){:height="640px" width="960px" .center-image}
+
+### Waimea Canyon, Kauai, Hawaii
+![](https://lh3.googleusercontent.com/U2yk0WmDo1fAz-V7AF1pmQvz3PlD0Kmqp-X5FBUK-h8lGbgUVHC11lpHyPExu1-TdpHbxqrfPybpeKz5E0tLQtup4A0ZzzpyGI53uYNTpp1FIJynLSm_IBRuxvBF9ZTGSVe0en_IF64=w1920-h1080){:height="640px" width="960px" .center-image}
+
+### Haleakala Crater, Maui Hawaii
+![](https://lh3.googleusercontent.com/ZFaVjf-PRDouu2xYjcDeXkmfUrzeGISt5yU_C9rcR-4mJ5IVxmUmuA-yE87p7Zgn_bWABJm-LGV3bvIvy7tiVSxOH8j7O0ChUcGZh_kYlzn70yIS4mFjyoyfcJoftyqs2T_6xa6vNhY=w1920-h1080){:height="640px" width="960px" .center-image}
+
+### Haleakala Crater, Maui Hawaii
+![](https://lh3.googleusercontent.com/SAHrO0GC7qRCKz0BCg4Zrmxi1yRTqgKS_pS2wVQ9muoF-PxHcJybM6GfrfuzyJ1F5OysBQ7S8cNFdBVnfiJTQqePbvfsFXA8_dIodwKn6kbZN47xzpt3E6JzjTtiZMAcIvCEWpjeCX8=w1920-h1080){:height="960px" width="640px" .center-image}
+
+### Maui, Hawaii
+![](https://lh3.googleusercontent.com/TQ04rAnsuaO0SVgZDz_x2h-hbnwmrhz3EPhN9BhmnGiy9HNBGnRHVjSqbgPU618t0TX9GCmnVVqL2vSbjg__7FxF-xybJOBT9gOozNB2OVSuWuQMZQ8JqZaS2PxjsrIPf5BOocs5PF4=w1920-h1080){:height="640px" width="960px" .center-image}
+
+### Death Valley National Park, California
+![](https://lh3.googleusercontent.com/hPdkHKQskEaqS30FKFdpEEKEUEONiaGNf7vWCyoVGTWS7NbHYSILuNPuqfilvQOqWAnl1n2pb0VI2XEPK5N3LZTn7zdBD12__8Fwoep-cR2MbrLkb0s-a4uGK9rTlQPJeffRe-SqqNc=w1920-h1080){:height="640px" width="960px" .center-image}
+
+### Death Valley National Park, California
+![](https://lh3.googleusercontent.com/GP59Lk8_rX828pzgOzO9jQkA249LdmZG5bjpFgdNhOA-gwuEwxCDbtUbdekNpNCse3M6fbhBwc59MB2CUSjpSFyuO8cCI4tihniHbKt0eW1s0yHsq-3H64dK_b6TedwzNyWF8ENUW_A=w1920-h1080){:height="640px" width="960px" .center-image}
+
+### Death Valley National Park, California
+![](https://lh3.googleusercontent.com/XwTTLjzLXs7z0i_zUWlsLXlcgPchYD431IbWEJPgX7xQ1YmonKvZlY9HACXtxbDOVIhqoMfHCtHbfX3vRq7Jhe22qrrvg8yLYS8vFWHJXbEzQO1iq7q3q0PaLq3AW8PPSNS-lKBiy8w=w1920-h1080){:height="640px" width="960px" .center-image}
+
+### Alabama Hills, California
+![](https://lh3.googleusercontent.com/xZVPRqnNG0ArScx5I55jRc5Ij4gmPzmLMqBoILmysIZ6fiNIDPNjwMjU8_pff_9LHTuFlG_1V6-pQtVKttVQg-EuOO-07yQ45P_gJpnSlIl8EJN5AKacJIzqlU8gUSCWRXx0Cu1t074=w1920-h1080){:height="640px" width="960px" .center-image}
+
+### Alabama Hills, California
+![](https://lh3.googleusercontent.com/z7xhqxZp_uNalMgbX5pocI-Peq4inzmjV5CfxkDYs-Wy1tTQiyZ8jMBitjIVeHBebk0bvcYIufFMo07NvOKr_uEOU3F24ANf9sJPAVvRHFdM8t3xUQBhME90T7oTTsrgQeKnTkp3G1o=w1920-h1080){:height="640px" width="960px" .center-image}
+
+### Mount Whitney from Alabama Hills, California
+![](https://lh3.googleusercontent.com/Lb3e7qosA1U3QckxrVqnxBU_6fnCKYgOZwn7H3OT6HKues8e2oBgeFbPUqYFCxQUvTlBUCUsD-qg27w5HF_F6CCv1H_W-Nit5yF78h0zqcEuARx36LhSCAj9x5w5I-F9LPCN-2np_00=w1920-h1080){:height="640px" width="960px" .center-image}
+
+### Alabama Hills, California
+![](https://lh3.googleusercontent.com/iBTeTZMkcW20vP5UgC42wpiJ4_-pVByLqCni2Fo_jcC9j4fZYsiHOavMO8XEDfk7ozK5dHeI6TXyl8oxZsGXpvcarSC2b9Xv95jFsEtQh0RvhYwPOQVlqtlv-5K59By-fC0H1V-NfGQ=w1920-h1080){:height="640px" width="960px" .center-image}
+
+### Red Rock Canyon, California
+![](https://lh3.googleusercontent.com/NR-8fYNwwd29d7jqRuIyVhhqUORekMKvpDHMVZxbVdPAWnfuidMizqRXhN4Ea8KADRPtWm3v_954jtAOnnDuuwOM__gNfwtAVhOF9ikJxRHkj6H-u6K85e406JbKcQeGxOCZRvCDHiw=w1920-h1080){:height="640px" width="960px" .center-image}
+
+### Red Rock Canyon, California
+![](https://lh3.googleusercontent.com/3HoCWTSjijRUPJdiL45145sQ_ZCcWUJ8LIzQoKBd-AniZHAf0QhnsO0BOQreyxZAGK-dOxVVD_psCl5j3qTQaTcmgjhlRwjvf_HHGQAfuik_YzJwg05kAlxCDPclNQMSe66hqbAYtCk=w1920-h1080){:height="640px" width="960px" .center-image}
+
 ### Malibu, California
 ![](https://lh3.googleusercontent.com/ccIcvg2AdpjvorKTh_pxl6ZPhHk31izd1Ht6KbFPQhy1ZDtgg5siFM7MdVuQPcLY3oG956A03VCbzp6GMRrKrutuwaaEJwLB5ClkcEbe1lyf4ih9yQL5M-ngRGn1BtAzQsWDpHFjwHs=w1920-h1080){:height="640px" width="960px" .center-image}
 
