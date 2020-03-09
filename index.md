@@ -13,7 +13,7 @@ I arrived at becoming a devoted nature photographer through a natural confluence
 
 In addition to clouds, I also love rocks and water. In rock formations and water features I find humility, as they instill in me a sense of the grand time scale that nature operates on. In wilderness solitude I find a peaceful tranquility and antidote to the toxins with which modern urban civilization threatens me. As a resident of Southern California, the opportunities to indulge in my passions are many, as I spend the majority of my free time in the Sierra Nevada or the Mojave Desert. They are my happy places.
 
-![](https://lh3.googleusercontent.com/_MHHLLrFgZNehOpdzab2xQZNUwArTyOMB_lInyG0mBHchrc7vEbzKt9QKqlEzqJeZPHIR-UaKaxHksfFtCE_lBSXpCff-r3CEx4m_OJMbz4EGuQlJfbAgs8S9L9g2mfqjM50rnnfRns=w1920-h1080){: height="240px" width="360px" style="float:right; padding:16px"}
+![](https://lh3.googleusercontent.com/7vw9nfO1K2ouD7UToSE3d1L4hqmQID6xMcyd7GyfYgfjufX3KjIigcy6qiqGISfymtdOezBuQeXhFhSsRQ_qnr6otCDqHIUPB2rxlMljCiGeBVIHprSvwIjADOmULB_QswETa5UJDuI=w1920-h1080){: height="240px" width="360px" style="float:right; padding:16px"}
 
 Ansel Adams, John Muir, Galen Rowell, and QT Luong are more than photography influences for me, they are spiritual guides on how to live a happy and meaningful life through engagement with nature's glory. I will forever be indebted to them for the inspiration and guidance, both directly and indirectly, that they have provided for me.
 
