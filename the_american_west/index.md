@@ -12,8 +12,8 @@ Lorem Ipsum
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/T4xLoRXJo3M4RL1w8"
-  data-title="TAW Screenshots for Slideshow"
-  data-description="89 new photos added to shared album">
+  data-title="The American West Landscape Photography Book"
+  data-description="Photos of the American West">
   <object data="https://lh3.googleusercontent.com/1s1efH_rUf8EYm0zM9lmTCQMAEy-KkvUKlQgJpcKFxB_JOG4oaB3FMtM7g8tgCZfOtKsr6oqXdcNOcskc1g0f1o5TftOlv4MBRpBcqUkVSuuI2qMscH_4BbJ7mABM_7_WUXpauefvIM=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/Eh0ELxbQbNv_1yGnQWI06PHL_A_UQl5en6pClssR_IFUuHIHX3O8NQqrcngMScLiyEsvUC93LLTiL_6j9UhAP3hSX90qy3PM0Ly4LqZc0Bj06iebjOHeXxmNp_xWAPTo2-T10q-IW4Y=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/10VwUx6Q4_AfD28EfKVNsj4SjyV3GAyShewpcy6x0B7i6wmCI-_4184CxtYI1o0hFQ6HcL5sZ_YRW0o8oiPy9nVg8eP3jEJZRlZRmuRjEfkSqEyCG0JRFUJVU_1nPpcLr7Xzs08eQpI=w1920-h1080"></object>
