@@ -9,11 +9,11 @@ color: white
 
 I arrived at becoming a devoted nature photographer through a natural confluence of many of my core personal passions: sunset chasing, cloud watching, hiking, wilderness solitude, math, engineering and technical precision, fractals, travel, memory, spirituality, and aesthetics. But most importantly, cloud watching. I think clouds are the coolest things ever. It is a wholly selfish pursuit, as chasing clouds and the sun through beautiful wilderness invigorates me with the highest sense of vitality and spirituality, and returning from such trips with great images of the experience is both a great personal party favor, and a more effective means of communicating and sharing my experience with others than any words could be.
 
-![](https://lh3.googleusercontent.com/xMTDwZYOHKXSKapfD2n-AbFBYnLyPAgYRlCFVnOK_yB8Wshi72nRcN9dAF0Y-faX5XSsyzeQ9mZL_QoUv5-iGbpdR2VXb67C3oGte08XEEnx-MWnfvj7bRNGpicenMZ9QRcfOmGgXZM=w1920-h1080){: height="240px" width="360px" style="float:left; padding:16px"}
+![](https://lh3.googleusercontent.com/1UabAabvjXmHeh-5406myMef3gql6lZBiUYk5AHm9Fc1L6P_WwzwsAvr1mUUnE3b8ECnWm2p3EokiUF4OcuYwUbMh4SmDTZfIFW7oe7OXASZm5zoBE1ng0bmMS2p2y1bGZ18mB00W6Y=w1920-h1080){: height="240px" width="360px" style="float:left; padding:16px"}
 
 In addition to clouds, I also love rocks and water. In rock formations and water features I find humility, as they instill in me a sense of the grand time scale that nature operates on. In wilderness solitude I find a peaceful tranquility and antidote to the toxins with which modern urban civilization threatens me. As a resident of Southern California, the opportunities to indulge in my passions are many, as I spend the majority of my free time in the Sierra Nevada or the Mojave Desert. They are my happy places.
 
-![](https://lh3.googleusercontent.com/8YfVSJ7Js56D1LnjgBX8-3Vw2CHt5L-uUEFqJCHWoU5OEB0jF1_tHwSP9F6Xw_mBnvwXZn5z5nLidGKkI3XToCpB05FiaZZKswmybf11syDfEbmSMBMxffrc5Ghyf8_zyFwgXqRX3B4=w2400){: height="240px" width="360px" style="float:right; padding:16px"}
+![](https://lh3.googleusercontent.com/_MHHLLrFgZNehOpdzab2xQZNUwArTyOMB_lInyG0mBHchrc7vEbzKt9QKqlEzqJeZPHIR-UaKaxHksfFtCE_lBSXpCff-r3CEx4m_OJMbz4EGuQlJfbAgs8S9L9g2mfqjM50rnnfRns=w1920-h1080){: height="240px" width="360px" style="float:right; padding:16px"}
 
 Ansel Adams, John Muir, Galen Rowell, and QT Luong are more than photography influences for me, they are spiritual guides on how to live a happy and meaningful life through engagement with nature's glory. I will forever be indebted to them for the inspiration and guidance, both directly and indirectly, that they have provided for me.
 
