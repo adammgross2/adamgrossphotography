@@ -9,7 +9,7 @@ color: white
 
 I arrived at becoming a devoted nature photographer through a natural confluence of many of my core personal passions: sunset chasing, cloud watching, hiking, wilderness solitude, math, engineering and technical precision, fractals, travel, memory, spirituality, and aesthetics. But most importantly, cloud watching. I think clouds are the coolest things ever. It is a wholly selfish pursuit, as chasing clouds and the sun through beautiful wilderness invigorates me with the highest sense of vitality and spirituality, and returning from such trips with great images of the experience is both a great personal party favor, and a more effective means of communicating and sharing my experience with others than any words could be.
 
-![](https://lh3.googleusercontent.com/_8CmGY_E0c5LZhn8r0dkuYqExJjUwnWPnYD00ZFBjDv_Ft0RD_sR2lurk9mwM59kd1ybfq0UIwtRMyBHdrvtUNWM6ziqzfyuKFZvUJxgILoGjN--iWQcMnQaQKEYli748-afHdBaKw=w2400){: height="240px" width="360px" style="float:left; padding:16px"}
+![](https://lh3.googleusercontent.com/xMTDwZYOHKXSKapfD2n-AbFBYnLyPAgYRlCFVnOK_yB8Wshi72nRcN9dAF0Y-faX5XSsyzeQ9mZL_QoUv5-iGbpdR2VXb67C3oGte08XEEnx-MWnfvj7bRNGpicenMZ9QRcfOmGgXZM=w1920-h1080){: height="240px" width="360px" style="float:left; padding:16px"}
 
 In addition to clouds, I also love rocks and water. In rock formations and water features I find humility, as they instill in me a sense of the grand time scale that nature operates on. In wilderness solitude I find a peaceful tranquility and antidote to the toxins with which modern urban civilization threatens me. As a resident of Southern California, the opportunities to indulge in my passions are many, as I spend the majority of my free time in the Sierra Nevada or the Mojave Desert. They are my happy places.
 
