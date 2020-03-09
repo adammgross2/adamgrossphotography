@@ -7,7 +7,13 @@ color: white
 
 <meta property="og:image" content="https://lh3.googleusercontent.com/QW5lsiIjzJVblPhUT644mUx-Bb2pCsp_fzShIdWtQgS30O4DTtWFMvQelzpG4c64XjmOz-3F1AX-ztXrbMhoTcm6IaV9ULP35kpVuhxcP2zMiK_qQsevsU8aPdfW2PmPtkGhnOMD28E=w1920-h1080" />
 
-Lorem Ipsum
+As a Southern California native, the American West holds a very special place in my heart. I identify as a native of this incredible and exciting land, but also a privileged visitor. In nature I continually rediscover my spiritual identity and revel in the awesome beauty that is abdundant here.
+
+Discovering new places is always exciting and fruitful, but familiar places never lose their luster as I foster deep bonds with the pristine wilderness around me. I am humbled by the vast scale of time that nature reveals to me in its rock formations, mountains, and water features, and I am endlessly entertained by the scientifically complex and aesthetically wonderful light shows it displays for me in its clouds, sunrises, sunsets, and stars.
+
+My photography is an inherently inadequate attempt to communicate my experiences hiking, camping, and driving around this natural wonderland, but it functions as a journal and a window into the superlative natural beauty ubiquitous in the American West, a place that I am blessed to call my home.
+
+This book is a compilation of my journeys around The American West from 2018 to 2020.
 
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
