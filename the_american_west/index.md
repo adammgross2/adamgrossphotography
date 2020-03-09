@@ -13,7 +13,7 @@ Discovering new places is always exciting and fruitful, but familiar places neve
 
 My photography is an inherently inadequate attempt to communicate my experiences hiking, camping, and driving around this natural wonderland, but it functions as a journal and a window into the superlative natural beauty ubiquitous in the American West, a place that I am blessed to call my home.
 
-This book is a compilation of my journeys around The American West from 2018 to 2020.
+This book is a compilation of my journeys around The American West from 2018 to 2020. If interested in purchasing a copy, please reach out to me at amgross4@gmail.com.
 
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
