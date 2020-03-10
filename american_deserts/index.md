@@ -7,7 +7,7 @@ color: white
 
 <meta property="og:image" content="https://lh3.googleusercontent.com/uX27MpZTnpk-ubqrhpVHelN-XWTrLsdYAspdRUQcm8gQwBV2dWOScHYxcLylQ9Abjg2nFQohzZLpbVM4a37sViD4oh9cf0TFN09asTrNUvmYKQg_wvdQGrnA-6ps_GAxk09Xj0JXfug=w2400" />
 
-![](https://lh3.googleusercontent.com/uX27MpZTnpk-ubqrhpVHelN-XWTrLsdYAspdRUQcm8gQwBV2dWOScHYxcLylQ9Abjg2nFQohzZLpbVM4a37sViD4oh9cf0TFN09asTrNUvmYKQg_wvdQGrnA-6ps_GAxk09Xj0JXfug=w2400){: height="360px" width="360px" style="float:left; padding:16px"}
+![](https://lh3.googleusercontent.com/uX27MpZTnpk-ubqrhpVHelN-XWTrLsdYAspdRUQcm8gQwBV2dWOScHYxcLylQ9Abjg2nFQohzZLpbVM4a37sViD4oh9cf0TFN09asTrNUvmYKQg_wvdQGrnA-6ps_GAxk09Xj0JXfug=w2400){: height="304px" width="360px" style="float:left; padding:16px"}
 
 I did not choose the desert, I was born into it. As a child, I spent my summers at dry, brush-covered camps, and road tripped around the Mojave more times than I can count. When I was young, I viewed it with disdain - it was hot, dusty, barren, and unfriendly. However, along with fond memories of youth comes involuntary love for its setting.
 
