@@ -65,7 +65,7 @@ The photos in this section are ordered south-to-north, as this is the perspectiv
 ![](https://lh3.googleusercontent.com/mAqCupv9zmBTKz9EtU8Q-nvgFhqBOPB-VAWzZ8iREkXWIlrx8iUOdq8jEF_dQXcbpFK0tr-5cbCfWyVWGG4nj31jxJ6mzukZfZt4VpEG54gsmJy9D5XKtjj1kcajdumsCHmW7rpnmqg=w2400){:height="640px" width="960px" .center-image}
 
 ### Garnet Lake, Ansel Adams Wilderness, California
-![](https://lh3.googleusercontent.com/V4J_yQY24YHRPEkMqWtIXK2qVkq5tMf6VZSbSRT7Fq-mf3u2rYBEyX0sZ0IKBwXPoSD_Im5DAp2lGX6GIWp_WCR1dLvgelqSctn7sZt7GDHEgjRD2xNnj-aq4xAQJFq3i09KvSLpZwg=w2400){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/V4J_yQY24YHRPEkMqWtIXK2qVkq5tMf6VZSbSRT7Fq-mf3u2rYBEyX0sZ0IKBwXPoSD_Im5DAp2lGX6GIWp_WCR1dLvgelqSctn7sZt7GDHEgjRD2xNnj-aq4xAQJFq3i09KvSLpZwg=w2400){:height="960px" width="640px" .center-image}
 
 ### Thousand Island Lake, Ansel Adams Wilderness, California
 ![](https://lh3.googleusercontent.com/IRSOBRBI5Min-zawrj7s8cpzoEM7R85r7clzkgMQe2L0QoATt-bLiO5wr-vRf0vDqVw_XWlXdsFdOSvD2rywfXGDSDSlb1kT04y3-M1ajVl-ylWj8XKugAsjpU-_aOaDMD63LEPxC-s=w2400){:height="640px" width="960px" .center-image}
