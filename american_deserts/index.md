@@ -15,5 +15,56 @@ The Mojave is the closest in distance to my home of all of the places featured i
 
 The Mojave is just one part of an incredible neighborhood of deserts of which I am blessed to be a resident. I have only explored the other areas on very time-constrained trips, but in my time there I have been awestruck by what I have witnessed. I am hell-bent on achieving a deeper engagement with these areas, the type of engagement that can only blossom by not being rushed. I am overwhelmed by the amount of beauty present in the five deserts here in the American West, and I am excited that I have the rest of my life to explore them.
 
-### Lake George, Alaska
+### Joshua Tree National Park, California
+![](){:height="640px" width="960px" .center-image}
+
+### Joshua Tree National Park, California
+![](){:height="640px" width="960px" .center-image}
+
+### Red Rock Canyon National Preserve, Nevada
+![](){:height="640px" width="960px" .center-image}
+
+### Red Rock Canyon National Preserve, Nevada
+![](){:height="640px" width="960px" .center-image}
+
+### Death Valley National Park, California
+![](){:height="640px" width="960px" .center-image}
+
+### Death Valley National Park, California
+![](){:height="640px" width="960px" .center-image}
+
+### Grand Canyon National Park, Arizona
+![](){:height="640px" width="960px" .center-image}
+
+### Grand Canyon National Park, Arizona
+![](){:height="640px" width="960px" .center-image}
+
+### Grand Canyon National Park, Arizona
+![](){:height="640px" width="960px" .center-image}
+
+### Grand Canyon National Park, Arizona
+![](){:height="640px" width="960px" .center-image}
+
+### Red Rock Canyon National Preserve, Nevada
+![](){:height="640px" width="960px" .center-image}
+
+### Zion National Park, Utah
+![](){:height="640px" width="960px" .center-image}
+
+### Death Valley National Park, California
+![](){:height="640px" width="960px" .center-image}
+
+### Death Valley National Park, California
+![](){:height="640px" width="960px" .center-image}
+
+### Bryce Canyon National Park, Utah
+![](){:height="640px" width="960px" .center-image}
+
+### Arches National Park, Utah
+![](){:height="640px" width="960px" .center-image}
+
+### Cabo, Mexico
+![](){:height="640px" width="960px" .center-image}
+
+### Cabo, Mexico
 ![](){:height="640px" width="960px" .center-image}
