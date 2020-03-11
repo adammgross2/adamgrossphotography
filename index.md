@@ -25,294 +25,212 @@ I have no formal training in photography and use the internet minimally for phot
 * [American Deserts](/american_deserts)
 * [Full List by Location](/locations)
 
-### Lake George, Alaska
-![](https://lh3.googleusercontent.com/QW5lsiIjzJVblPhUT644mUx-Bb2pCsp_fzShIdWtQgS30O4DTtWFMvQelzpG4c64XjmOz-3F1AX-ztXrbMhoTcm6IaV9ULP35kpVuhxcP2zMiK_qQsevsU8aPdfW2PmPtkGhnOMD28E=w1920-h1080){:height="640px" width="960px" .center-image}
+### [Lake George](https://earth.app.goo.gl/JXXJbu)
+![](https://lh3.googleusercontent.com/rf_dha7o0bQZaDrO-LlPsia_EApm_NEg4wA-dZrlnHg1e0_ZuE49gTeYBtGXT7khgX8KX0v-V74GnmKDKbIvGgb61xwPsxNgztN3_lVcRFo7RaZqWTQXPZfxuEVlR5l3ZaPKJCkSuHM=w2400){:height="640px" width="960px" .center-image}
 
-### Yosemite National Park, California
-![](https://lh3.googleusercontent.com/peyOAoTRlTFB62GsmD21Xe3P7NV87WVeLHw2pDkNSZydESlXmyTkWrA_U4ernEmZwDyUmBTUhHfEn2M5bTQbiP3zZKwhXtc4LyAC7DP1xhGI4sdTL-DWHD9ztzIexC0Ym7TRSFnF7s0=w1920-h1080){:height="640px" width="960px" .center-image}
+### [Chugach State Park](https://earth.app.goo.gl/DDDGan)
+![](https://lh3.googleusercontent.com/N0i3ATuaPYgWSinYCmnwJvNZHUstJFU-Nx9RbHmjfrIVuYbgVaJY8G2zqfX7cDHwnCXbL88w-3xfl7c2hajPDkYaJCu6wVbPtr4g7fz8voL8ByiPsRzgPytJ9a64wlXY2l_4rdsW6NY=w2400){:height="640px" width="960px" .center-image}
 
-### Yosemite National Park, California
-![](https://lh3.googleusercontent.com/jlU12N_OQEMgwzRKTK-M3BMBM9n1R8Z7hw65CLHhwMi4aMsHqOhn6liRJRUOH5gW9Jq9WTrsex5tVwgHJtuJqNmPb7z9kWjcGIiGHHUSORM0GUq5lagTXefRNPh02ByRG_V45szu__w=w1920-h1080){:height="640px" width="960px" .center-image}
+### [Whittier](https://earth.app.goo.gl/x9SJ8R)
+![](https://lh3.googleusercontent.com/nYYVLQv1YlTUdef5QuyeSFTqqhKkglCK1m2B_5zA5LD9GcrOiz8i1D-BGarzaWck6cD-c4UOg4CPTf_tAxn0arBXBByIiBfNrO0X1f5dnyQ2LBT34FAO6uDmuDbkJ21xvu9bb6SnD-I=w2400){:height="640px" width="960px" .center-image}
 
-### Whittier, Alaska
-![](https://lh3.googleusercontent.com/xd05H8RjG1bT3pDQG-wV31f5iMHcn5CaYGTqor_9EHhJecBknAW-28IUsTIRy_Sctms5SyQe_Rdbn1fIzgmvEuDG6PTYemR4FEWZRv4KABgCeg5ed6svgHec3ZzmD0SPpwfra0-kO0M=w1920-h1080){:height="640px" width="960px" .center-image}
+### [Whittier](https://earth.app.goo.gl/x9SJ8R)
+![](https://lh3.googleusercontent.com/9jCBD563ieWRu_jGtdVy6uwcGecuxPcXANEuF5uMFEqQKrThkLelY2842cZI-8feqEK6-Jm6gq1Z4i5nyO1roOErjN932yjQroPybcspKEdLRr2RP16RIme110icyAkTjnDxmBSadGk=w2400){:height="640px" width="960px" .center-image}
 
-### Whittier, Alaska
-![](https://lh3.googleusercontent.com/yiBGcjG-aeVKfeNSv5Ed0MekXTTV_14LEwVYQ3gnHHOC3fTnq22DWzcTQxvhk8nLi4CrJuTCLqEeyJdFtjtsMMTCad9foZaXoZWnmGNwAEHGxQOmNGzB-o_dHs0lnA0DCXO9JuO6RI4=w1920-h1080){:height="640px" width="960px" .center-image}
+### Olmsted Point, Yosemite National Park, California
+![](https://lh3.googleusercontent.com/OTo-fKX7KjwewxJ8S26kWXcLPwZoaGLXo22bKXcW14kjjIHXsD6uRQpk8JaBuMuzfMzcfVRIMdi2MNkeICclfCXFAaE4BjYr_FbwByqphh4J81Aqxsf4MCUEnIZEKldjhi-gGjWCZIY=w2400){:height="640px" width="960px" .center-image}
 
-### Kings Canyon National Park, California
-![](https://lh3.googleusercontent.com/QwH_e56Sk840k7u2AkhIBotNyCyMi0T8fxYv6YG-gr8kyAMckKHa0ToWTCApCrJXk7zKfLWxrqIahKZqysZK9paJhCQIXpzHRw7MMxe2UACCCTMLAPlYc-JCExmtQ2_FN5kD48228I4=w1920-h1080){:height="640px" width="960px" .center-image}
+### Glen Aulin, Yosemite National Park, California
+![](https://lh3.googleusercontent.com/6bASShU4GxGUIoHBrOfff5ndmstfJBfBRRGnJ_IYZmZydWNUX47yH4E_w4tlviU-ubkhIA1_zSl2jUKoq8sbnELrBQzyLjkuR7a5QgDqSyUwqg81PbKHcoscucmxU4AFkKxxWANbpUM=w2400){:height="640px" width="960px" .center-image}
 
-### Waimea, Kauai, Hawaii
-![](https://lh3.googleusercontent.com/cSEBp1Gt7Ywcv3uRaSsJ2gFBz7KojSwpCVn4sj9rt3YbBvPUMaPQ4AuK7yJdQDZgoS5P_LjiAdifgNu8Mpo1gw_bzEVdWkfjo0i1YU_mui9UqKkC2Vc13k8sSwIrODmt9Si3MS3c7RY=w1920-h1080){:height="640px" width="960px" .center-image}
+### Tuolumne Meadows, Yosemite National Park, California
+![](https://lh3.googleusercontent.com/ke5IcKAk3k6AkPbbQ3FWxqRkaOyyTTdR3fruzfBQkdt5ks0wptdmpezAlk7hVN2WTTQsuzWwP93loWRRj4d6V2yLeYy9asK7urQTloFFOLSSzyczpotPl7_ngTowG9ND9lGnGynS-Is=w2400){:height="640px" width="960px" .center-image}
 
-### Waimea, Kauai, Hawaii
-![](https://lh3.googleusercontent.com/lB4Fdwt7ZbF0bkGNzMidVDfTVxepqk-VxohNnyM2TsvWBzo0ra9Vq5LjRUyzz--yTcoSWK6uYBUBNuuIV39_OS0P_ftutPt-KeDskCG21F0LmZfLokmuYWXuY7Zo4kXZBAY7GImCbZg=w1920-h1080){:height="640px" width="960px" .center-image}
+### Mount Whitney
+![](https://lh3.googleusercontent.com/LwtF85QOKeoegSeKk1vxjOjwIqu9bkEQ4vlKmLYBrkUfwJcAywCx8vWJd77c4XbYwi4AAmQC48y9vGHc4E2iTBQrgib64-3UprgG1RgdUVwlcZiecHF2AGRgU3vPkf6LzcuMHv5PjY8=w2400){:height="640px" width="960px" .center-image}
 
-### Waimea Canyon, Kauai, Hawaii
-![](https://lh3.googleusercontent.com/4qV9QUUnjv-sQmMgSxrgqLCdVLs-H78y1D4EVQ-P3j-fLRBe7DC_KDtkt1NEccM3R1LpWmN4pAOR5OIvCs6UPSRJ9amBV5inhxSu2dJEN4pR9NPH98eeaGx20Q0yypTk53aGtP5j82k=w1920-h1080){:height="640px" width="960px" .center-image}
+### Woods Creek, Kings Canyon National Park
+![](https://lh3.googleusercontent.com/76lpHVjTnAQRpCMLQmFdRGC_YHIrh_bNCaqeVt9gdXJ1icjp3Hos-uiEPOJZvRfEVLq90mWimKaKJfM1QfoY_JlTp4W70nF_Ts4Ryo8obMKY5v0nY8ngtjm2tg20Kq6nRRZiY8bW5nE=w2400){:height="640px" width="960px" .center-image}
+
+### Zumwalt Meadows, Kings Canyon National Park
+![](https://lh3.googleusercontent.com/Xi5RMlTni_4dgMxzclc1gPj2M8weC4BhqerHExX5sNZ1a6YqMcC-31MJb4nHitwEsR5BCegv1cpGsCbuBh_QMO_Zd51W3zgs32eTMDPnY6woW-9wbizNcRFK4O-hrTV34DLOnk9otyM=w2400){:height="640px" width="960px" .center-image}
+
+### Bishop Pass and Long Lake, California
+![](https://lh3.googleusercontent.com/wcT7yQCwLwXv7aro-kfduwZFNokq8nRStygM3nUXaL0QEQFxiYNQww5huPNBuNkDnEs0_9WJK-hV32uvsPCKQbJMpoGZ3QuO6oTmwB8GTJ0xne2kc6IRGH3afxqJAnDOHm2akuDdRl8=w2400){:height="640px" width="960px" .center-image}
+
+### Thousand Island Lake, Ansel Adams Wilderness, California
+![](https://lh3.googleusercontent.com/mAqCupv9zmBTKz9EtU8Q-nvgFhqBOPB-VAWzZ8iREkXWIlrx8iUOdq8jEF_dQXcbpFK0tr-5cbCfWyVWGG4nj31jxJ6mzukZfZt4VpEG54gsmJy9D5XKtjj1kcajdumsCHmW7rpnmqg=w2400){:height="640px" width="960px" .center-image}
+
+### Ansel Adams Wilderness, California
+![](https://lh3.googleusercontent.com/ofQn51XZm3e0yIFmSEZAZXiuk10Q5ZJS-VuLX2xl5Z53IWMkcZ_597vzBc4YoH-oJeAiNEAe7p0f-M0m2rGmttnpCxAEiQEj2lYnS1PrnnYdJbUl4Uy12YgPi7zvvXt897jAn0EWAgU=w2400){:height="640px" width="960px" .center-image}
+
+### Tioga Pass, California
+![](https://lh3.googleusercontent.com/3Us-diT9neS9GGfEbreY3TZ7QnpWGrTBl2_72bXFq_4SF42IW9M1DbyPyEia71evYSpRITHHWBGgs5OSii5MvMcXSL5bWTa064dXMDo-Zyn1GmzqPNKNvLTa2-GgcX7EXpOYqds5ZFU=w2400){:height="640px" width="960px" .center-image}
+
+### Tuolumne Meadows, Yosemite National Park, California
+![](https://lh3.googleusercontent.com/ke5IcKAk3k6AkPbbQ3FWxqRkaOyyTTdR3fruzfBQkdt5ks0wptdmpezAlk7hVN2WTTQsuzWwP93loWRRj4d6V2yLeYy9asK7urQTloFFOLSSzyczpotPl7_ngTowG9ND9lGnGynS-Is=w2400){:height="640px" width="960px" .center-image}
+
+### Olmsted Point, Yosemite National Park, California
+![](https://lh3.googleusercontent.com/OTo-fKX7KjwewxJ8S26kWXcLPwZoaGLXo22bKXcW14kjjIHXsD6uRQpk8JaBuMuzfMzcfVRIMdi2MNkeICclfCXFAaE4BjYr_FbwByqphh4J81Aqxsf4MCUEnIZEKldjhi-gGjWCZIY=w2400){:height="640px" width="960px" .center-image}
+
+### Olmsted Point, Yosemite National Park, California
+![](https://lh3.googleusercontent.com/Zjin2IlzBwzeYrSkOdI2F-Zp8lovMsNvKhDDUXvr75gAhaD1L0YQzqnQvMIfIAHiqdMR-G1EgYQo8KxCZeG0x5B1ZGKWdPSvsTBZlHUIEqygTvSIfSIchwIvd2rNIuO6QoEBuS9Piqk=w2400){:height="640px" width="960px" .center-image}
+
+### Olmsted Point, Yosemite National Park, California
+![](https://lh3.googleusercontent.com/r1uyAHyfxTLRk4quv5NVGJZmclEgctvxuG6K1MDyadmzh1lH_-3aEs2rJaiHBU3EUNk_99l96bgs0kbvtARjSZJKxbuyiQV6rwCiHsGHTPe0yQhQxEbsu126-XNE8DCeskRJI2pI6cI=w2400){:height="640px" width="960px" .center-image}
+
+### Glen Aulin, Yosemite National Park, California
+![](https://lh3.googleusercontent.com/04Q9qiM2vS0VtcOoQRLG9trOxuiMaGV-3zZCqLRDhMkuFY3f_VRZGbwU0qZ2jRQ1mT06tk_DkGiadu8xbXx4cuvGMOzZDl5omma4WI7RHHlRVt2eoCJib7GBWF3LpE5gHd_tVpVqxmw=w2400){:height="640px" width="960px" .center-image}
+
+### [Prince William Sound](https://earth.app.goo.gl/APrMwk)
+![](https://lh3.googleusercontent.com/iuoZIIYfpN4cNEb-MMPoFbzFOFpkQ08QQh3HWDVPLxOpBWcki_WzkzZb7Mm_E-6z32UZSDBL_ymP6ZTMAhhuZYI43SOgtxB6m9wT_N2MQs85z77A__FtDKM6KkWVFwcYYQ-3fgF5x5U=w2400){:height="640px" width="960px" .center-image}
+
+### [Prince William Sound](https://earth.app.goo.gl/APrMwk)
+![](https://lh3.googleusercontent.com/42Mvl0_ggLkIOgiqSgkad_-W0i2SvhnYIRQHDHoP_5mBQqK_K3LjQAH9Ss6RyS-kL7ZMkq5axEJ1BHrG0bL0LIds8umk5laZUA5gTAom_2ZprYjE9Fyjay9wk5pRVWNz3oMPhyvTQ3Q=w2400){:height="640px" width="960px" .center-image}
+
+### [Prince William Sound](https://earth.app.goo.gl/APrMwk)
+![](https://lh3.googleusercontent.com/t3HIjro-YvXFAJ0m60mgGw_1D7tHoXg1AdIm036dJKBrN2EkZFvVLS8Yt7ASZxnbIeCIkmUImojocL7eKirjc_jjEXxrd98mFbgpKNApA83OA0oA9p5_pCEHixDQWTNfS1Ds4QbpTHg=w2400){:height="640px" width="960px" .center-image}
+
+### [Prince William Sound](https://earth.app.goo.gl/APrMwk)
+![](https://lh3.googleusercontent.com/pUjUkfPzvxPH5XNtgOuOwFiTIVIoU_fz5JN-bUoWeLy4ZFx3qI5khBHvSxCisaPreLBZMNcqaeJf9Qo3Delx8U7xnjxxrFvWy7ZjI2wWcy8f2WZTbfjlqL3uwjfcSs5jPM83Zr7ArSw=w2400){:height="640px" width="960px" .center-image}
+
+### [Chugach State Park](https://earth.app.goo.gl/DDDGan)
+![](https://lh3.googleusercontent.com/gbscbP3B7h0mTJ9vpdR-fCnYP_R2WS2BzZnXmlTMYgLa5KyE-8zcfgJA7Lo52rR5tieCgGqp92VBywDi06-FiC4ACAY6nZcEZjLa6Vc2w2pqfmB2U3daIw0p41Skjg5WFtRM-NFvBrY=w2400){:height="640px" width="960px" .center-image}
+
+### [Chugach State Park](https://earth.app.goo.gl/DDDGan)
+![](https://lh3.googleusercontent.com/sLsarNDeeZYKB6Kc7gWKyD3Nzll13G1m-Nrn6OQph8mzluOpSPIZ77EsZS1JINhCQuIbzxs3z2HQERO-Vdmg8veEz8s0o0I5l9N_TYm6qy6Q2-XqKg2MUQsw9KV1IOOSx-MmlY80-LU=w2400){:height="640px" width="960px" .center-image}
+
+### [Tordrillo Mountains](https://earth.app.goo.gl/oAazVY)
+![](https://lh3.googleusercontent.com/cY12s0v7yS16I7Lp-EtUvJGYXwIJfUkFTkXx07K9lYMjMRM2S9s-8ojukOx6e46Yo-X6w8mjJ33OEvBnx-t9k8s-2pm1mXGyKAdHc6tkH7wfR8Id83mq6d7Rm6tbsUgXU2Z6HfIZCrs=w2400){:height="640px" width="960px" .center-image}
+
+### [Tordrillo Mountains](https://earth.app.goo.gl/oAazVY)
+![](https://lh3.googleusercontent.com/p2RSN3vuFTtzIrlwLnonYzUZFqw6tqH_zXwbjQriMRRCIA8FvmRJ0j4Uge_Tz-DFOqEeK-22eVZNzjcIceES5Ts5ll0M1zjQCzFDd2raPutPflmngXFPOxAa45JLER-atu1mLXiZMPU=w2400){:height="640px" width="90px" .center-image}
+
+### [Wrangell-St. Elias National Park](https://earth.app.goo.gl/1qMbsQ)
+![](https://lh3.googleusercontent.com/WYXV1mKECaEXMSXRJa1hnfI_YFF3TfbQ703OtZBRGHz2FgA3KiE5q9iSGCuOS0DGA-BAoUvm4K9SNEg3sfhEk6AmldlZlTwpMz3m1fBIhHxJAXvA46T6NuWDr8JD_ZCgI_L9uBSvivo=w2400){:height="640px" width="960px" .center-image}
+
+### [Wrangell-St. Elias National Park](https://earth.app.goo.gl/1qMbsQ)
+![](https://lh3.googleusercontent.com/obnA8akixTsylWsZFd0B7vnRmU8d_ipD9tI2BkI-s-TJI0-tYHnFoxTSpTCSLJzIv7r-Dbgh3w8W_boMAHzkaSat0Y1LtBZ5ZNcdP2-ef7K9grrd3EABnbSn_ZR_Xhgz2RflzE3Bhm8=w2400){:height="640px" width="960px" .center-image}
+
+### [Old Denali Highway](https://earth.app.goo.gl/h6vJNu)
+![](https://lh3.googleusercontent.com/cODL4VXznBr-xkJqsiiJFMAtGjjV9O4xNqhXGGhcVLxKPgkCRGZw_PVVvKgW2g_Uqzrh9tSXhpp81cq4cz-mOqC7_EXgBDjTWxKa_DZUSav7YQmWpFGM4YpiY7LJwdYuoWoLH-R5kfU=w2400){:height="640px" width="960px" .center-image}
+
+### [Talkeetna Mountains](https://earth.app.goo.gl/U9RNpj)
+![](https://lh3.googleusercontent.com/NCNvNpJJ21PQE9eEPUMLPahqooFzDjRo3-szsBmv00HzYUJ5egtNNPwr01yr6MK2Eqx5E9AJuvpeRU58g47IoaGuVreq87hzbDtjMPYwj4D08lkYFRkKrFSYmwOwSXEAaiRhx7C6g1M=w2400){:height="640px" width="960px" .center-image}
+
+### [Denali View North Campground](https://earth.app.goo.gl/HRUCNv)
+![](https://lh3.googleusercontent.com/csQpPJUclSHPTsNYjHFE7gJe36pcQlfBCglSdqGL-NPaYx1zd7dGzukaFyiOqYcap2ZeWcVJKrzCgQJeARZqkg_JtjDapVy6a6x_93qUR8JOoCTzE9WpduObi-H7VwEJQMMJq4oUPRo=w2400){:height="640px" width="960px" .center-image}
+
+### Waimea, Kauai
+![](https://lh3.googleusercontent.com/5ksCeVRqK9X6_mSL6iAN35m18ZSh75wEQL5SOfuTUPbWgk-RqfYenFEy6cRIjgVDMqE4PWY6AhlOHdOv4DdiAy4lBBDw6oO5YNenNqTRGWzEL62STeaiv1C3Jj5dYI5jy6DQeFNhbbo=w2400){:height="640px" width="960px" .center-image}
+
+### Waimea, Kauai
+![](https://lh3.googleusercontent.com/QC8J7wssCzYUrH8Os0enDKzSBLp4uuyFzSGMTfWMag-JhObGry6sZNtZXQXnBYkncnTIuTbFYhm-efQ7p-bClcc9fkWCdj5CgY18ohiMoVv1tX56uewP4Uo0gGlGMcgSOdPqvhNAUgQ=w2400){:height="640px" width="960px" .center-image}
+
+### Waimea Canyon, Kauai
+![](https://lh3.googleusercontent.com/EQe6HJnohLsho-whTfEt4nerC6XJoRFKZmCmlZ0ET5r46UoV3izJ1Ej8qZx469JoU0Cu3mkZ7UTWx8pqbIA7bRQPnbSITUXgWySAGWfii_SR4xoD7U1qut6W5wvZHVz-qszvCMT24dY=w2400){:height="640px" width="960px" .center-image}
+
+### Waimea Canyon, Kauai
+![](https://lh3.googleusercontent.com/-qUflziZoxtb2iFow3skmbHQx_P2WbGiaNRJVLJprDLHztvS4WzFzw7llHdIX2lWI_mKrw7sF0lbhAAJPjTmDPqxLLsaibm8memQr1dePPgm1aT0CyBCFcQk8yvnTfEEqqsAj22K9CQ=w2400){:height="640px" width="960px" .center-image}
+
+### Waimea Canyon, Kauai
+![](https://lh3.googleusercontent.com/zdLSJkfHRo01iQ-U6b3eRmsz7ylSkezkmiQD3L3bp6-aBq_HAGE1sq6O7lEcdMkfwAEP2m395Nf0skOPuj8mrTDa_j9um48IY0jfRUeeF3K-goN9MeP7I-5SSI2J_iQ0-VN9jtGeIds=w2400){:height="640px" width="960px" .center-image}
+
+### Waipoo Falls, Waimea Canyon, Kauai
+![](https://lh3.googleusercontent.com/go6KV0cL8PciQBzLN-F3uL2WvOY5nOp0lJoTxZ7FlsHbgLHcbXeInIPIq4y5EsT7TI1LbcdzPGRmfCyDDm9XAM8nGbk5nY5EILM_RyUfc1BZjQ50zwOtAauIoDvEeT2jDSHdEduEgp0=w2400){:height="640px" width="960px" .center-image}
+
+### Waipoo Falls, Waimea Canyon, Kauai
+![](https://lh3.googleusercontent.com/AHBxy0C9wCs9OULT81eQ6xheACVmA7JtjL2zitqvovCJnEYnRG-qAwtSD0Pv068ApBenntU8k0oSCiL9ujGVazkt3p8ommuvNzdox4BzzDFyDQtrlgnqY374O73_5zFH6KsOMkUhFsE=w2400){:height="640px" width="960px" .center-image}
+
+### Waimea Coast, Kauai
+![](https://lh3.googleusercontent.com/g1sHPEQcd6M1HEcrUfwZfRX7wIZyjPUWIsn9oWoYnA0m1NNXLIWREwCe-38ded8o2u5M0SerJUzI51MvKV_5ggufqoH1sc0ueQ9aXKU1L5Ss40zgzsYjcsmR4Eh4VaVBBZDDcXBdR1o=w2400){:height="640px" width="960px" .center-image}
+
+### Na Pali Cliffs, Kauai
+![](https://lh3.googleusercontent.com/UAqEmbKdw0DaB_qovnANrP_8BtSlfOhSqqKoaIiPhZ8LSFmqpA-4QWQPtb8GfHHRIomvozFRHprykrOWhURlQjHueoZKU9JzKBp9sbMtC7UbS2jiauF8NQHYHtuNBvcALrniWXWWNBY=w2400){:height="640px" width="960px" .center-image}
+
+### Kalalau Lookout, Na Pali Cliffs, Kauai
+![](https://lh3.googleusercontent.com/XJ49eH1xS9MwWm8f-y3qF2n3ic2od1UaPgjVB9MSEaKoniCXI7_I5t6B-mmlwLBffpeQDLkJyB9UclaN4l-nnxTFz0vF7ij8MdaQxzWPOqxK21bMhKyp04Cg_rolwdUOKjumVZAa6_4=w2400){:height="640px" width="960px" .center-image}
+
+### Hanalei, Kauai
+![](https://lh3.googleusercontent.com/bR8MWGP2mtc-CrJVN0cB1-iVE96P-25sUOwXOMF0x21LQiKuOVFhE1JwZyx_aZtnYA2JhFqr5GZV0kWDJPd8HlGGSrPvWTtZWULG0Er2vr13C4-AFwvFk4RfIL96utpMBipSSf1s2os=w2400){:height="640px" width="960px" .center-image}
+
+### Princeville, Kauai
+![](https://lh3.googleusercontent.com/gck1QTZ8o0Ia73yRsu9weFU3ABPbFnIvR2m4kkArXySGLyqIGgTQaQ8O0Y_3gYVxgilhg4hexPLN7K5szPUErIE-dooHX1X5WanGhegox16ns4bUQmx5BfWEXzNZpMcPBDcs89pX0IY=w2400){:height="640px" width="960px" .center-image}
+
+### Haleakala Crater, Maui
+![](https://lh3.googleusercontent.com/5TyKkYrp0ixW9e1uXZxao5C8s9mccSagI4KbhHmeTIgQ8PmEuLE5Zlqs3pTcmQimEh-yPGglhF3KuwVTDxUOjPeLlH_bWs9AvtAw3eg-YX-xoZcaw6mWWv8h_QPVuBNNTB7JZCt8XX8=w2400){:height="640px" width="960px" .center-image}
+
+### Haleakala Crater, Maui
+![](https://lh3.googleusercontent.com/H5v6kIDzPXPQIMJsp66rC94NaGZ5uP7kKPXue7U6PBjmqsdDZiUUmN_SsEeJvIfjbm-15TdIieG6Ytq4fvcvXmy3UGeUbzH5JhdQL4-0vFbNkWAOdhCDfveBHSSwkZa9cypP1mo2pCA=w2400){:height="640px" width="960px" .center-image}
+
+### Haleakala Crater, Maui
+![](https://lh3.googleusercontent.com/TU0fTEK5uckRvn6ft-QbiYE3krx8cSsIQck4rDCer3Bdekv4SpbpdS3y0dgn4JtA0M91zAfC5xLySutpwly5Q68djIqqYygNEOCQpZjlkEmjCzef5Uj-1nSvRgFSbMTE684SPRpu2BU=w2400){:height="960px" width="640px" .center-image}
+
+### Haleakala Crater, Maui
+![](https://lh3.googleusercontent.com/brliil-Mzb_M5R6SF8zF-NJ29I14hmwzm4H4zYa1hHNzXkpS0FLeWc45yfDn-PyZD2WCMq9rff3uJxJi722hxMI0evW6bGczKMu-4ovKqrLcm1vVh7FBB9rYnkgopT_ycGbj52C7xFE=w2400){:height="640px" width="960px" .center-image}
+
+### Haleakala Uplands, Maui
+![](https://lh3.googleusercontent.com/DyLvCHUGeVUdYHNrzjTne_lWHHvweBy3zWHCGJ_SvRA9xC4G0mwXux_tqkKgmGVxkRRnu-66qCn7W-eK9rQieIJpZleme9nByMaM4XCCUFZhlhIkP3Q0RSuompjJpgUGJRyGl9RtkCg=w2400){:height="640px" width="960px" .center-image}
+
+### Maui
+![](https://lh3.googleusercontent.com/pD02_tEdkLrhE7JXa-O0DXZwbjWHZlQeHCc50Ve8-yClJpduaYaW7sXNY3wW_EvsFlZgizmevgv66qj-veYV367X6bse3n59TncPpvrHIbNESD8lR8mcXcHxSh5UfFf-FgG464evWvU=w2400){:height="640px" width="960px" .center-image}
+
+### O'heo Gulch, Maui
+![](https://lh3.googleusercontent.com/BUg3e1-DBMBEzhpmrrx9W7CfB6vXOhS57JKEGL9mv2hCNogoYvGuMUTvMb8ohSxcWS6DmrPztujICTZA1R68HhwdkryGMaIvf9olwVTsIEtzkyrWFXOBRJHunFSNVJM8o_2YKrawC2o=w2400){:height="960px" width="640px" .center-image}
+
+### Road to Hana, Maui
+![](https://lh3.googleusercontent.com/b38KKEM8GiuII2TzQsYHzDZ1e9ECGis9RG-iozZUIJEdvZexxwKRqIVz9KdyRKitmim9JJmrszndzCroGSMXC-eUHEzlTca0wUBeTUzP8O07Ot7N2GljoEnS9GvwVzjCAq-xgGzGjjw=w2400){:height="640px" width="960px" .center-image}
+
+### Joshua Tree National Park, California
+![](https://lh3.googleusercontent.com/JFNuuMrI9kmt2Idm1Rphxl1SpGj8FXrJaEOBp0-SKp3bXCiexahc0SqpNEK6Z7q2RpUSdgnKr728ct6XIZvv3NKCbS8uggFFq23QhUSVJvqYXTtzC59unp3JBXuxHAZZLkzzSsXllgM=w2400){:height="640px" width="960px" .center-image}
+
+### Joshua Tree National Park, California
+![](https://lh3.googleusercontent.com/3ZiY8lvnrGea9uOqJSpEgCtf33s7TF9Po9ezDsZ2M1GNa--qGxdPBoniQnrpBnn1n5tW0rDUtUr2DucHA8s6dMQepRaeR7eNWhtz85hGnDeaclcnADmmbZfdYYyJCP45JIizHnLlnl4=w2400){:height="640px" width="960px" .center-image}
+
+### Red Rock Canyon National Preserve, Nevada
+![](https://lh3.googleusercontent.com/IZvmB_fc10ah4jOA9lwBuiWwtktPWXKu9UIx--CTXcKZMYnzoPcWc5LXux4eEo90685yyll83Gu8lC_XRTpBnocATBqhDpi71mVhCp-qF6fRIsClYkQMkzMYLQg0HM1Rn4rhC1rHbpI=w2400){:height="640px" width="960px" .center-image}
+
+### Red Rock Canyon National Preserve, Nevada
+![](https://lh3.googleusercontent.com/cEHwt4l9XDC04kpC_2EzNL1QXK2gVljMPHHH4HurlFH6Wy7aX8iQXhhyOxPPeqws8A2qGRiPag1Y-4Elc68JEw6ojcA6Fgp_IRbyhJ0xGPivWsvmsGQHWIkU99bpsu6u6qL-gF8ZjD8=w2400){:height="640px" width="960px" .center-image}
+
+### Death Valley National Park, California
+![](https://lh3.googleusercontent.com/6x3wBdNTbRjY7XSJiOWOBj9tENFBVYuhyEoCnSeQnWaTnVGgvC8csguDYy4KiBJE3Rt1KLGeG4hJQDhH1hn_eMlDBCT7wZGmANzs3H_o03vtLB_BNRGfVLDnbDAAjlNolOrYZwO0lbQ=w2400){:height="640px" width="960px" .center-image}
+
+### Death Valley National Park, California
+![](https://lh3.googleusercontent.com/I9vfAFTnnr-E-Y0PtvpEHa4ts1uwIdM_VC-NeI1_TlVijiP-PKHz0dhv1DG7YpZQecv2WBYJFERUxdRkW2Tj1LBBsrRhEFzSshXDRKbTai-qwBwtLRf1xlLXrS83HQtqVglI4877Q4Y=w2400){:height="640px" width="960px" .center-image}
 
 ### Grand Canyon National Park, Arizona
-![](https://lh3.googleusercontent.com/-wOhYMww5vNSO_Zng5XBy2XUncB-zRCch-rRRpS5Qzk8qqnpiZ8FJ6qqH4eumGi7XDK5hi7EZY3ux0fYxfdikVRe1pHhOheGEkVd-jAy-geZXlm-g7ztF2n_tZmr6b-5fPCE6umhEV8=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Red Rock Canyon National Preserve, Nevada
-![](https://lh3.googleusercontent.com/9kBLrfxf3SyhpO-Lvi7ixkpVkEP8utJbxgnx_kd503DrKF77ls5pHorlIgvL3p7lDfHmGzojxfq1doaTRCt7DMUdrnkH3wwuBsiDU5PMc7zhDXJuv9DW4sEOexviDaFHSYlJIgbNdqU=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Red Rock Canyon National Preserve, Nevada
-![](https://lh3.googleusercontent.com/9E1iq-kUuI6IRporAj2u7x1KNUnWmYefvXPTSMMtZevpOT1csHaBxsJ2jkdgD8p_vl7I0xDMny_VK492BWR4kJpSpI0PTaLJuhYbhr_FpdPTzxcnUDTkNbYxkKyBykgALtxKBenmQf8=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Independence, California
-![](https://lh3.googleusercontent.com/P6jx3tJBL0KQ0FS2LVP8g_aiicCSwjT0d3yr-VGsbd8rX87NUhz3ASpd1IvW1PT_ws6L2YXUrPJs5TfPOS82wxB3oG5qEwBIiSMPP0-IeGAhhdTcpVH4EiRFpxpnzYSAWofwYw9GORw=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Cabo San Lucas, Mexico
-![](https://lh3.googleusercontent.com/6F0fPa8xcTX0O6dRPCo8QGI63y5hbcdn_kcdGmMRfrm7yqT1Pq5o016cmtCH0b8UNC6eQbm89-0rJymEOUREPGs31rCdwYuhMfP1a1WGqg0UxSdLAUCLTd0ofHwpIQpcpl5GsVq-0mE=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Cabo San Lucas, Mexico
-![](https://lh3.googleusercontent.com/7WkAbwi25tjVKRuXAZ030ah7tmlMYHUzk0YEvmewG9cN8ytLBpZ9xQM_UNmX_18XTsDpo897wTYwYTcZv0NLRsH-_9BJT7KmZ6KEvZB0yDiiZo94WMSUa-HPrgFV9IVS0nos37GRSI8=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Kings Canyon National Park, California
-![](https://lh3.googleusercontent.com/Jl_G2Aq1tnV8vsirCK1rhZeVYW4I1rhmNg8yQTo_NRrx-Zex7h3UYmkJUFQL0SgR4DA4i7gO5VzzIwZC5V8ZDd2eqlOGtqyFzXT65b_dDDQCjWnej5wXZgZDT9AzCUenCgX4hl-0Tdw=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Ansel Adams Wilderness, California
-![](https://lh3.googleusercontent.com/Hnek_ID8f3yWuYZANX0m2cWV1Ht-MeY6YOvv7c_FA-uPn85ZQTm9cEEiAWPZs6laSf1ly9vhzf3GhRRTAF4Nw8uHZ33Vbc_kt4c7Hqtf4Xrc_MS_sYRfaf0Jmh5QtP27VS4nJ2BZ1OI=w1920-h1080){:height="960px" width="640px" .center-image}
-
-### Ansel Adams Wilderness, California
-![](https://lh3.googleusercontent.com/FYdhpVPE3w9a-0Qo6eoQ0tIoSBcpKSddEqJOza-PiRor6Gb8YvBusSf437SPAn7RYGS_Dts5ckCAQayKXNfINKOIHKvpSk-bxV2Eo-WPd6cX0jCc2g5ZXSnk-zLn-GUjprai4tfaOJM=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Ansel Adams Wilderness, California
-![](https://lh3.googleusercontent.com/kT6Dp1SWd0cyURdTughVDP33pN5cpkOjoOSOMOfklBrvtRcXly3k6wneiZS5QLkyrKc9aFG-q_mN6AhW-NH-GJUy_iDZ7f-Y5iJOfhYSxth14ZqSuzZbQzMAcBp8gZMdH1nQlZLonz8=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Ansel Adams Wilderness, California
-![](https://lh3.googleusercontent.com/jKVIhY3Df5wh40NLynKA3At_N8fNI504MeZlv74HprjATYNiWTfgQhtLaTN5s8I6QTjakiPO8LRRoAc_UXVZEMrPUGperY9BdZ7STN-BD8eNQ6GjFK9WwYNrJ92P3-UsVhs4b2bKrNA=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Kings Canyon National Park, California
-![](https://lh3.googleusercontent.com/MPGtS-GejBrtD4TaFvY1iQEqv92jTDvL_KyqwtIm5dLQnCkeZP0Ab10zae27z3jtePKz1WUJ-uK7wlzYiy9BA9mlxcAR-8EOtKNlQgu94E3B22fY2r21Jg93t6C22PqJbUqXvpNIL_4=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Prince William Sound, Alaska
-![](https://lh3.googleusercontent.com/8XocRAYm5fGHegDNg782eeGhTmozLk7g_Yuys0X08qJ7iCNml9uKg-UuWz3JCVUZEy5-XHJ_HCf5iVjxJYQkxvmEK8ImXolA9xsiqf6SeXVyRive2TnaTV3vbR0BSCij0p2fCXqjGQ8=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Prince William Sound, Alaska
-![](https://lh3.googleusercontent.com/cXgjjdYb-3ENb1xZGlAvYe9qAJSY65Bki-CA5bF9C4PmXERTsLPYl60C2S96szJ1iEtpSzH4NltDF1ymsi9kn0E822JM8zwbTyEciIWKVkx0JBv5D_PQNtb7PrUM4fU0HjZ5f4QkTKU=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Chugach State Park, Alaska
-![](https://lh3.googleusercontent.com/38DoNb8auFtFK6ZJWeNrP472ucohCrEinSKaQK7Cp4LjtFEbo7e-OSYE5BICgRineXLH2q_EMVIMTQrcsfK8rgub3hoDR7ylJrRSx4IYGc7WomW5Qb-xQnUqg8C_oA1v_TAffFP3Pdw=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Tordrillo Mountains, Alaska
-![](https://lh3.googleusercontent.com/eXqjH-D1G2B4xso8FGNF73rgajR906Ca6c51jDCexuior-B7F5-j4OvUdQlTyrtSYjdb4Op1nSBhghLYtKBbmeb5fU-3KLzMM-lFWFoGODlq5DiG37gejDwKIzxSsn1ZVaNymgsnwMY=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Tordrillo Mountains, Alaska
-![](https://lh3.googleusercontent.com/1fDrP_U6qryu8iiDYZR9h9uYr4B9yD_p3Vyokpl-ZYrcPwmsQkuhCOJE4d6pj0vOwpD2jB4thhK1XHEH0prGtRTU1UGPGqRuVpj-yk0-63yCyfmTAccTVREqmfKku6kgAJgbMvJFpUg=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Old Denali Highway, Alaska
-![](https://lh3.googleusercontent.com/ba8D03BjMg8JUbJ2vgRhT9korHiyC2cLJhWwrRG8Mh3CPFS2bVRjjIwRSgsqyY9soBzWlTHusXjnzUNIZBSQcNlAzDxwscnpuMfORDT6oaCK-Ln3i0Uns4R1wCR9Ytm8lIHNxOP---Y=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Denali National Park, Alaska
-![](https://lh3.googleusercontent.com/kIEQhnZlEDDeFP9lopGCHJQ7pduadc2j3ETrsYAqIxbEtocIgnfo6Rq_F6XY75Xz2b8nT-iI3rthuIR0spfs9H9_1CKaQwvwox020HFOOsAYrNPp2JGO1qilULRIP3kk-_meAi_1PJw=w1920-h1080){:height="640px" width="640px" .center-image}
-
-### Talkeetna Mountains, Alaska
-![](https://lh3.googleusercontent.com/519xJdGcZzpWGGfDfNakpS3LT9omHCb6hNujTz450JRP_rMBIcfQ8IqzNp2rIMG6ndqlEF9WEEikXCj6NQ8PoUVbe1atlEUluksOmbMyTlgkeZd38H7-g5qthQJtUCmHkx0-KgtcV7I=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Yosemite National Park, California
-![](https://lh3.googleusercontent.com/sPOiCY10vxX_aW6Vtu2t2IMySgPKanJWBqiql5uUVVBiOvW5uRqM5_VqcvWT6RUDWwHzDWnvhjrN12xpfC3wAI9idqBqxvKnx_RLNsqGOIzb-sKA0CG6QDz1AL4D5wBh2K9OkGEb3TY=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Yosemite National Park, California
-![](https://lh3.googleusercontent.com/LHThVrmZTfLRAn2wxlMeu-asl76I5pfi3Dqe_0P86B00dQfsnlPFiE4f-Vf1W7JRXrp85wGcW4InNJJ0TgNT6RQP7UIpIpnF-FUvFftI6D3zrNMdiCMQqTU9cjMYTxpvdtE9AnnKeO4=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Yosemite National Park, California
-![](https://lh3.googleusercontent.com/5nKhrLiuEoqRee4Q9vzwQPyKEOCv0RqfWAM717nM86MKteQIaImFp4MFx4kTlGM5XecbIxb9MZp5iohSEXpqI6sowaXP196k6ghZtlsRBlnE7YZuKSk3x_wb5t6ijUA0ApgEtt35_9U=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Yosemite National Park, California
-![](https://lh3.googleusercontent.com/821Y46qRDfVcyZw1_n4UUVdvPelSB160_hFwXyYEvXhfK-7aU04xBjdgJF-ltrAInm8dRMo6nQ-PhNBQDdLIFfXsjRAv2pRzLQSds3rJ1GHfjD2N3lTp2VQyK4QdEhXMcoAbyxC4Nvc=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Yosemite National Park, California
-![](https://lh3.googleusercontent.com/hzlRv73aN7FpW07lUcdSLNMsUBceFUJoHXOyDL1EGjS6ejWv8gGzPtHMY9scFeYTr79xKjSE952Lg25sygtC5ZZKxhC4HJB9J4bcH2b-yLAeUJo4VJBJSr9CPPmaTPh98EePjCQMvkE=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Kings Canyon National Park, California
-![](https://lh3.googleusercontent.com/N22yPLSAd79ZgmF6OrSgteHpXoTCvt31EKakZJKK7RmhXhY52NIWjToRWPA67ihQNoKVfuglb7Qg6000tgetvHEfEWrSrzbb7q5nzHHUjgcoRJbM6x0guMtVmPjpznA4kk3jhtGhxVo=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Kings Canyon National Park, California
-![](https://lh3.googleusercontent.com/K-lD1T1H2VH2f4E2QGmkqodeSh2n65AOVYkqrJcOggVyxKbLn1-xzfx6D2zrdmwhc-X5amjX1V2HyKZXAiDjFPlGYRXsm_DBlRyLZB0pkNglJptH496gcgu3YRmWCuWqssib2KhuWps=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Kings Canyon National Park, California
-![](https://lh3.googleusercontent.com/IzCoWnY_oa5jgi5Hxc_JdQbAewZcIgViEJ5vlxmqDCotp-ZHLMwzvJzy4EkunV9bq45PUvAG_-Ahcv2DHut5TTj2C2NziY5lM5MXBbPtZHIKyAI2qkmi2ljNroTxMlnIN7USHSZtPY0=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Mount Whitney, California
-![](https://lh3.googleusercontent.com/Pq4AbN00wO762vWFFVkf-Qh-UL51KDekdnKrGjsI7sX_xkRbxPu_m2Fdsjo7QnSl7syBBTT9zYdPMEfC4hhTqLLpYu8G-Nx2un06SMO-C1LYew3ECsDdK1j06k51DpGVQdRecuWGWoQ=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Lone Pine Peak, California
-![](https://lh3.googleusercontent.com/1w_SKhTFyhc-y4rCt8Tk7zRp_LbK0AO5QCF-GGyeizPE2ycXQYJrkP3LlJJ7KjXv6epEN_ldx9OkgQWouC1IrL6r1Ybqkwpz2IaWq10ZsEIT1Sc_olTmKsKKQRaSAk4XAvmN_XULkdc=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Bishop Creek Canyon, California
-![](https://lh3.googleusercontent.com/PsuH7r3LCnHNKbAAGC4G79t9XTT_rUXiOX6O55fQQ7W_OqAqQHSkp93LmtaD2nPpsslM-RTxodlG0tXBpaEcsA5mBMKT5vwKe7KIpDMsOd_wo2Fh7YD0DXAGXlFMlBFDqDQUJAMvCwA=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### John Muir Wilderness, California
-![](https://lh3.googleusercontent.com/dbgUUvPAJC4xXb3hxM1hp6w69iakjC_HcQMvI7jwIMskKM0DjA9A7RctcJNmSFJuaX_6Zwv7ujgvSeeH1JWWfE5UDwKvjhk4xhiug7mjs_mi61fnM_-XXhV_WxHjX3LSQHNzQe5V31c=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Mizpe Ramon, Israel
-![](https://lh3.googleusercontent.com/clL4dHiQEjzciqpkuER5SgSKTibjOHAJRjOC3kuCvbQYsN27YNJ8uBWf4z-2-avBTkwrPFzptUq3tk-Jt6tZe03uYa5eYfQZTLYSj_2UhL0YDblCWZ_coU0hOrP_4D9J5GfYcmwdgXI=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Joshua Tree National Park, California
-![](https://lh3.googleusercontent.com/5aHn_FsPDMMkx6_7K9W1vVvTZBCpSjCkhP-InNUu15UeR8Xgb38RStcFZIIB_BD8Rkff3fbSrh141jHRPxlDcukRUULnoMFKYmgVX80psqu5dXi-8Aul4zAbTm8U4OVXr6b7IX51SL4=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Joshua Tree National Park, California
-![](https://lh3.googleusercontent.com/LOkHT22mEjdfs3flBHFLDgFG59OHz89M06NNcC0IClLFz6udil_aoKSVdoa_6wskccTkz7T6v28ckxHhzv54_YgOlHDkauVCMylajoAPKIVLV0L5NSRBcss_8XNnmQooLc-xDkhMXcc=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Petra, Jordan
-![](https://lh3.googleusercontent.com/m1pJZi9px7C1GU2MJbl6tIO6o5KEl9BMMrWE-xDxsgjEhaFuOwUfSY_oyrKkSAQ57_4w3UcEoP3Lj0mq182pd5FzOLSy58MicR5Js7i3EVbvex1f0d7FxcHSQpi1Zug3_Wl9HteuOVI=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Tel Aviv, Israel
-![](https://lh3.googleusercontent.com/wxBu0-RKjMbtL0vqx7rp1Jox5KKuLb-8U7XzeAASzOrORF5j5M95g0stFcTnPC450hLhhZx68BKvj7Mc9BUM6BBKxL4WglC6Md6ZiB6TO8jzPLM8NA-jHLUFyl31NdeE1Df87Fo7PSw=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Malibu, California
-![](https://lh3.googleusercontent.com/SeVKcqs2gy3wPsUj_Al-SBCb5NdxOM5M8w3K_EHzbfPZXX03_VIB7gfaVa2Sr2giuT_p6BrAeXI7oFPvBQg_2j_uNtn2ADh7BH_31B5pglfVnVkm6zbpUxTCJWBItAffpesq_6itjYk=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Waimea Canyon, Kauai, Hawaii
-![](https://lh3.googleusercontent.com/vGslyg4_SSnV8rsRwhR5dUtDoTFs3hd2cCD3qeWvvgnWO7OQ-e0wgXx2IwShGrev1XAGRxm_2z0HYjCnD93NKlSi6KL4QTcgFOCvbT8HL0-7iSYcWXdoxD1wi_iR29n9uSL9-lTDEYU=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Waimea Canyon, Kauai, Hawaii
-![](https://lh3.googleusercontent.com/APgU0WXsHXRBZvSff5n1u7UOt09-Re1Uda86GlTLNP2yl-4DR1l7AdPNO7YwNTD7DX3UidLzSJZHpVTZp9Y11GpmwFdHQrvi1A15mSW8cNZLXoSoqmE7bqwCDDIN3R9184fzcNzp2TM=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Waimea, Kauai, Hawaii
-![](https://lh3.googleusercontent.com/Mz_ZMaa6SEW133chjDgXhHmEvoomDm-YoL4caiTjjzOjBu9-BWALNDTyVE0PtHNQZVM13WiYinhlay-O_RiTIujL4kFI8nIVLwkyi_g5P67eDr5BvyWR63aJlJtvQJznLa9WCY2mL6g=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Waimea Canyon, Kauai, Hawaii
-![](https://lh3.googleusercontent.com/U2yk0WmDo1fAz-V7AF1pmQvz3PlD0Kmqp-X5FBUK-h8lGbgUVHC11lpHyPExu1-TdpHbxqrfPybpeKz5E0tLQtup4A0ZzzpyGI53uYNTpp1FIJynLSm_IBRuxvBF9ZTGSVe0en_IF64=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Haleakala Crater, Maui Hawaii
-![](https://lh3.googleusercontent.com/ZFaVjf-PRDouu2xYjcDeXkmfUrzeGISt5yU_C9rcR-4mJ5IVxmUmuA-yE87p7Zgn_bWABJm-LGV3bvIvy7tiVSxOH8j7O0ChUcGZh_kYlzn70yIS4mFjyoyfcJoftyqs2T_6xa6vNhY=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Haleakala Crater, Maui Hawaii
-![](https://lh3.googleusercontent.com/SAHrO0GC7qRCKz0BCg4Zrmxi1yRTqgKS_pS2wVQ9muoF-PxHcJybM6GfrfuzyJ1F5OysBQ7S8cNFdBVnfiJTQqePbvfsFXA8_dIodwKn6kbZN47xzpt3E6JzjTtiZMAcIvCEWpjeCX8=w1920-h1080){:height="960px" width="640px" .center-image}
-
-### Maui, Hawaii
-![](https://lh3.googleusercontent.com/TQ04rAnsuaO0SVgZDz_x2h-hbnwmrhz3EPhN9BhmnGiy9HNBGnRHVjSqbgPU618t0TX9GCmnVVqL2vSbjg__7FxF-xybJOBT9gOozNB2OVSuWuQMZQ8JqZaS2PxjsrIPf5BOocs5PF4=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Death Valley National Park, California
-![](https://lh3.googleusercontent.com/hPdkHKQskEaqS30FKFdpEEKEUEONiaGNf7vWCyoVGTWS7NbHYSILuNPuqfilvQOqWAnl1n2pb0VI2XEPK5N3LZTn7zdBD12__8Fwoep-cR2MbrLkb0s-a4uGK9rTlQPJeffRe-SqqNc=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Death Valley National Park, California
-![](https://lh3.googleusercontent.com/GP59Lk8_rX828pzgOzO9jQkA249LdmZG5bjpFgdNhOA-gwuEwxCDbtUbdekNpNCse3M6fbhBwc59MB2CUSjpSFyuO8cCI4tihniHbKt0eW1s0yHsq-3H64dK_b6TedwzNyWF8ENUW_A=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Death Valley National Park, California
-![](https://lh3.googleusercontent.com/XwTTLjzLXs7z0i_zUWlsLXlcgPchYD431IbWEJPgX7xQ1YmonKvZlY9HACXtxbDOVIhqoMfHCtHbfX3vRq7Jhe22qrrvg8yLYS8vFWHJXbEzQO1iq7q3q0PaLq3AW8PPSNS-lKBiy8w=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Alabama Hills, California
-![](https://lh3.googleusercontent.com/xZVPRqnNG0ArScx5I55jRc5Ij4gmPzmLMqBoILmysIZ6fiNIDPNjwMjU8_pff_9LHTuFlG_1V6-pQtVKttVQg-EuOO-07yQ45P_gJpnSlIl8EJN5AKacJIzqlU8gUSCWRXx0Cu1t074=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Alabama Hills, California
-![](https://lh3.googleusercontent.com/z7xhqxZp_uNalMgbX5pocI-Peq4inzmjV5CfxkDYs-Wy1tTQiyZ8jMBitjIVeHBebk0bvcYIufFMo07NvOKr_uEOU3F24ANf9sJPAVvRHFdM8t3xUQBhME90T7oTTsrgQeKnTkp3G1o=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Mount Whitney from Alabama Hills, California
-![](https://lh3.googleusercontent.com/Lb3e7qosA1U3QckxrVqnxBU_6fnCKYgOZwn7H3OT6HKues8e2oBgeFbPUqYFCxQUvTlBUCUsD-qg27w5HF_F6CCv1H_W-Nit5yF78h0zqcEuARx36LhSCAj9x5w5I-F9LPCN-2np_00=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Alabama Hills, California
-![](https://lh3.googleusercontent.com/iBTeTZMkcW20vP5UgC42wpiJ4_-pVByLqCni2Fo_jcC9j4fZYsiHOavMO8XEDfk7ozK5dHeI6TXyl8oxZsGXpvcarSC2b9Xv95jFsEtQh0RvhYwPOQVlqtlv-5K59By-fC0H1V-NfGQ=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Red Rock Canyon, California
-![](https://lh3.googleusercontent.com/NR-8fYNwwd29d7jqRuIyVhhqUORekMKvpDHMVZxbVdPAWnfuidMizqRXhN4Ea8KADRPtWm3v_954jtAOnnDuuwOM__gNfwtAVhOF9ikJxRHkj6H-u6K85e406JbKcQeGxOCZRvCDHiw=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Red Rock Canyon, California
-![](https://lh3.googleusercontent.com/3HoCWTSjijRUPJdiL45145sQ_ZCcWUJ8LIzQoKBd-AniZHAf0QhnsO0BOQreyxZAGK-dOxVVD_psCl5j3qTQaTcmgjhlRwjvf_HHGQAfuik_YzJwg05kAlxCDPclNQMSe66hqbAYtCk=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Malibu, California
-![](https://lh3.googleusercontent.com/ccIcvg2AdpjvorKTh_pxl6ZPhHk31izd1Ht6KbFPQhy1ZDtgg5siFM7MdVuQPcLY3oG956A03VCbzp6GMRrKrutuwaaEJwLB5ClkcEbe1lyf4ih9yQL5M-ngRGn1BtAzQsWDpHFjwHs=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Malibu, California
-![](https://lh3.googleusercontent.com/T5x6ymXtrekINY3LhZzdTgqJH_XLAPJuTr7EjPg7Z-vnXLxVWSOmnPZusyt5onDulshnGgwJ01NO5fhqBdMgw552njhCWpw4Ie10yJ5Rtzdq7vSRuTLYR9XYx6B2IwLZMttkUKKSJvg=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Red Rock Canyon National Preserve, Nevada
-![](https://lh3.googleusercontent.com/huDwEtXo6bxDScLL--vpKuUPcNa5YP0Pyjuu_esEsUEgDdx_mtFS1cLNxCiBMklODTUHCmG9GbaXHvAAs0F3eYCkjM1nwqhWM1WaK2Q3HD-bgT-PQrGucA9ABEFwojPMzAR2QX8jy8w=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Mojave National Preserve, California
-![](https://lh3.googleusercontent.com/a_aRBFzFvVDiBzRi83XXSTNNLpl2MmaVLsGdC0QgCfDzqsoCHvjwjE16UsfSauk2Tg2ljIuVlmCvfis9IobRBq5ICWo_1WFbSd_PfmZvk4xTGjS6m5jOtI0j44pghZlGZkNirB5vSdI=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Joshua Tree National Park, California
-![](https://lh3.googleusercontent.com/7-KzrywXgfYjyiEhi9GLQgiDyVqtrE76aM2w6v9QLyBgoO1AAPQHy_iWXkmPzeQKEF0FQ9VqnNnWpyglPPhNhpu63_TpmHVPGJtkXXcBBc8plXhoEZseOTtm3lESi24JPrj9E_A4d4A=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Hanalei, Kauai, Hawaii
-![](https://lh3.googleusercontent.com/msKjCzqsyTVWyS4teG2-nvgK4lhTxthSaX919NFUHoWXRN_rjXRM1ogxiru0m-XoTW_O9WjIZU6tMD0NLpXu3ESudpau_Of5b5DdWLBYxbrymXNz3ZUsWc0qP48mh0B_v4CTZ3SeWlI=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Waimea Canyon, Kauai, Hawaii
-![](https://lh3.googleusercontent.com/A6H4A3nDo_uv6p3lB-2Lj67OvkLn5NTyYODHq3Nh34Q2sFoWOycofX6XXqU4s9xlgz3GdQAPGMCoCByTlIoYbR1RmAOsRpOVouyGIqmYwQCulZSt1P8lPw9ETpDNXGFvT5Nza7Ai9DI=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Waimea Canyon, Kauai, Hawaii
-![](https://lh3.googleusercontent.com/094Fqe2AL-PZ_Wh-hyTrOtcw6XC4SiMwOmO11LfFmfrVsvLumd6P8gj5AUMOp96aQrGvrLCpLTfqbbksf41ykoWen6Au5mntiWMtPvSxEk1mT9riVx_tspabCoIOgLPgkicMewOdrZk=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Na Pali Cliffs, Kauai, Hawaii
-![](https://lh3.googleusercontent.com/mA3JoA2_MqdnlUlzvOf7ywKJ4sPXY6vWiB3ot9ZkOBYFDD5XHlbbQKb_O59jB3CZ9jN61DjsyLM8MQ9CXWtjPOWYGTqYntR8ynG2m10ZE13Tsh_VmbLWWS0d8L9XHY8DsJ5P0fIXnO8=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Haleakala Crater, Maui, Hawaii
-![](https://lh3.googleusercontent.com/V9_duSGp-nxyvsrTtNnFavQ26eXZ_5QBMk9sWFVO0N60j4DwQZh05w7NBN8nrVj2I2EfIezk4I0plCzAikNU_9mxdLm6NSWhOc-3gT2T5Nzrtp-_mP6c-oT75hocZCf6y8rI77TcGgE=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Haleakala Uplands, Maui, Hawaii
-![](https://lh3.googleusercontent.com/fT9ZdQqR5PTWwXc4iSq8s4jI-lMTghrJ9mIhmCV39z-EeXVM730_cEz6Gadhsq5JQjzoiobl2je2QlOIUqZiARttzkOakUlA4BIhCIYALUIkAbjGzLt7zr151xrcaOdrhwWk4WYhvAw=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Haleakala Crater, Maui, Hawaii
-![](https://lh3.googleusercontent.com/EumYpfXfBHB2wUyz-N8qO7wflfaH_JSSvP7sN7ofJW2btizcNlTb71t4zNhHVuwgiJnGyD-pU6vM510n6klutibAcwEup29ofYQ_zSUyHHPWmdTbh_tk96zff1bWKLu67gj-Npmn5uY=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### O'heo Gulch, Maui, Hawaii
-![](https://lh3.googleusercontent.com/f4UV_Ohpl1iF8vPT_3S1VCIQ1MHiZ-Q5Ob6BclhCYnEVVe_Se1SA5mM9pd0UFYQHn8NuB4_W5GDC7KtN6eG4-NfPt5RGkn6ApBrnC3mDu9luB6KHJU6heHv-zviVKuKkVq86nSjYt3Q=w1920-h1080){:height="960px" width="640px" .center-image}
-
-### Road to Hana, Maui, Hawaii
-![](https://lh3.googleusercontent.com/SSm6UBQ-64TM5872D3qv4Ur-Pz3QI1NQJUcGlXRGedQhnM3wRLXX2suls7I2Bxe3-SG3l3eX0l7Pv1NbVcUt5f69iDhAjeS8iNqz7RYWZ-ci9Ji7F49bVybiP7JkPot7qGidwAQkHIc=w1920-h1080){:height="640px" width="960px" .center-image}
-
-
-### Haleakala Crater, Maui, Hawaii
-![](https://lh3.googleusercontent.com/IzKyhmmzn4zUJHqGskMnw8KNxZbT4wjIbAeXhwlUcZhmqyUPE8-1QHdxblwcZBMX2s6SnWRnSBvmn2GwawcwQiZ-hWXe07wA_Yw7N-VuGTjXyB6pM7Aqv7vUUBv7fIpDxkepVv3u3vU=w1920-h1080){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/AFfI_IYT2ZyFx8ma5bIfRM_vezjSkaQBXYnQhHGtgypHPtkAulHQY8sKf2V7haO1gTm0ez0sLspsCIGvB-Xea8OydkNb_YmQ8cf6GDJFfEBjl4yL9nwO6lhja80Ka4lJ7bZiJm02ds8=w2400){:height="640px" width="960px" .center-image}
 
 ### Grand Canyon National Park, Arizona
-![](https://lh3.googleusercontent.com/lEAIc59cVKwv_BmBMsdVCFVHSTGAnfItuIdgaE3wTRhsHWIKMmK4-H186cIk8VHYUpQBqkdRtPWZ8Ss5QYap8WzpF2o70qTiRrkGQZcxgAMepmLSGky_DJVVWSAeaOYtG3LUVtteYRQ=w1920-h1080){:height="960px" width="640px" .center-image}
+![](https://lh3.googleusercontent.com/WLs66p6vJ5pZIchuRpYBI16t6UyWpxw9FWk10lJkvbcHt_6LARwtLX1Y4qGZWXMkcEW397KkARVLplDvVpL5tVE6QGYc7mSltFep8SPycS-pcJMIuDZb65W0pE5_Apqi26kDDS3dyms=w2400){:height="640px" width="960px" .center-image}
 
-### Death Valley National Park, California
-![](https://lh3.googleusercontent.com/GU7wWAAzL1qXZQPUk6SerBMz7gERVhH7IMEBdyEWjpBvQWfLjp36UuN3sYtodOgcm6sv1wQtk6tYMIUVtpGRfakiNuiW5PS7iJ6wspXMvgAqD6l2xmcbVlFJg7FUdDBKJ2WGfskJswo=w1920-h1080){:height="640px" width="960px" .center-image}
+### Grand Canyon National Park, Arizona
+![](https://lh3.googleusercontent.com/IVgUKl8GImE-OqMh9QQvjpgNmwbWzOXEJIsZWM26GW8RYAKVW65q7UXJL8-_DPyPvbdYHzGIlIfjLsRY0c6cfwF_eG2nE5ZLvz3kmPmvhwnoz2UKIFWvxfQl8VPERs05UjUVukL9LDI=w2400){:height="640px" width="960px" .center-image}
 
-### Death Valley National Park, California
-![](https://lh3.googleusercontent.com/z3n2kRzgxBnS34byUHEUpvOP1RyBwo2Otw-PexueyQvb5yRy5WRHhKWlTAoNtuWhDr8qbC_OKMndm0NaR2kzZZ0CbQpJhNBDBwCNIdpWt-b1Ez28rRMl08sdCB1FKjF6J1T_yBKYJW8=w1920-h1080){:height="640px" width="960px" .center-image}
+### Grand Canyon National Park, Arizona
+![](https://lh3.googleusercontent.com/9ExLKNGm1dkG0X3JgJowz2VzDTRhCSWhPBnqiB6pgCGjokNF5MjmT066dy8IZbRQI_UWRS3CTPCwfqhQLMnCMBGYd_zbpDnyI61xtYUTPRuuJDhZq5TU2IuEI3_z58DS_pa62h4w7Ow=w2400){:height="960px" width="640px" .center-image}
 
-### Death Valley National Park, California
-![](https://lh3.googleusercontent.com/480MIBLbc0OrfxjwUk6QXkSjO9xfF6Xp-WP4JYpn5gWBQ0VpERzCgyDNEXV23tJYAArrxFxF3m6ZwNro9sCZN3L_uBPN_BZsD3_7ZVs9aLVSMMrqg6U8GCKY27TXj9UVR6Y4Q-7xlWs=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Mount Whitney, California
-![](https://lh3.googleusercontent.com/byHqeFUh90bJPK5C-xe9yVxazLShs7q3NP8K9isEIzzkqNOSvf2r3tHdkwpZdJEheBWVZ4GI-z_QI4VzvyJXPP-pSUSNirdARriOGprLpOFlqC8av2lZDDJY7x-IBajYZ1M8FFlrHS8=w1920-h1080){:height="640px" width="640px" .center-image}
-
-### El Capitan, Yosemite National Park, California
-![](https://lh3.googleusercontent.com/qda6dkVKIRxifAY5ofJQtKiZSrggHYVtik7VLmd7LZH5PKwDoLLM4X4t1Z49AT4tIl83qMWfWAkAtofL2U3JPPLlQ5ZE5WJ-VsdYLnfEXos96vQr6_R-8zwIYEVkObwh7l9F52PSUb0=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Arches National Park, Utah
-![](https://lh3.googleusercontent.com/OTgNlwHecFEdLLJkhbrNgYM5-04cgi8iv_NpKaZx4hWBJM9QDtOGa_UtotbY17N03bb_fwZB4xfhPFfmIJ_A7u9IaUz8ypwBwuKghoD2eXaokIWEEFxVuXHdge03eTOfPmLRlavaiGA=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Bryce Canyon National Park, Utah
-![](https://lh3.googleusercontent.com/XUg5WWMuEBuXYccl_z96sTEGaREqJicrRaGZkCzFuqRHIIoWXXJcsi_oIm_a2p7pQsLni_9DIdaqLS1ZMHjGd9RYTGxOcs9szi2y7uEKwezswUN3ZD8RI0uxQQS5XL81kO3d7vbXzeo=w1920-h1080){:height="640px" width="960px" .center-image}
+### Red Rock Canyon National Preserve, Nevada
+![](https://lh3.googleusercontent.com/n4iI8B2lcT4VfCnRae2vtfEaWXbOrgTK2z005T4286o4P7jbSIGhnN6HHq4ounu7wYucL2RktY0Hc-9j4SMEyx7Ob_OeZ0u-IdNg2hGHZz4sBQLfYp195i-6vOjr6sA3Plq1lHNzstc=w2400){:height="640px" width="960px" .center-image}
 
 ### Zion National Park, Utah
-![](https://lh3.googleusercontent.com/hvrNWIiCRqiRatFvD6FktIVY08NfVnSgRvi77uoAC0ospRdgSyYExW7gtWHTRLmVtJvq_-2Z3HQmMJZFKwR2aiAsKwDw7vqo2VJqITlcag6ieGGuFUPR80LvP43RATXv9nMt3Y9UmqA=w1920-h1080){:height="640px" width="960px" .center-image}
-
-### Malibu, California
-![](https://lh3.googleusercontent.com/c4TZz1avfHp1EIOH4lXM2qhf08dz7Qdke2LVC4IJpZCUs4Yv6pntda6E-YXZ3oILz7YdhJTz6fg4Skw-MbMmiqYeebD8fdMtRNEuIt4qcEWg-iMHE46cKqparxydyn0Trofpib2bH_s=w1920-h1080){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/6-c94mSxEtDWhSFTqb2fnAJBpVIbguVT-K1uRv0E2wxQ4HstDiQH7rOZY53BvIZZyfoAk9ZLkD01vJxdQgoPruq7q-hY1Wm6-skLWNoz-eOV6i1Pkiwph9ePOVZ4Z5xWaN7ZJ7LuGpA=w2400){:height="640px" width="960px" .center-image}
 
 ### Death Valley National Park, California
-![](https://lh3.googleusercontent.com/2E5nKmrB24e6SOIgRs6zy25u1SsS3b1-Nr2ekKcfQC7os1rpEuNDqqK-S7huo9GawDZg_2NBf-3J9beRUUZ-1e7p-MhHrSB0kS3P3NssQXIYobUAGa0YfwSxBl7cMSHtuh3IDHExB8c=w1920-h1080){:height="640px" width="960px" .center-image}
+![](https://lh3.googleusercontent.com/gRC68TFaefaDiOl7wbAP-_Ug28QlEWO6tIb-lzgFgAFqLI-bqeHj-f5JhgDsknDLPxvhUjGPHHwxWgx0RzE6u4cuX1i0rSaxP6pHSZfas7VAUFXv5cdYTGnOd3ZB4-2RKuQBdbMnrUY=w2400){:height="640px" width="960px" .center-image}
 
-### Kings Canyon National Park, California
-![](https://lh3.googleusercontent.com/UvIzF5fxeFVgT4FqXseXbqstXo6WHGmM7fBqX-zdqS6-mHfPoGuhJ-kQElJ8m7L5E9aWut2VIc2sAWOwfCVutAbLK6yWMGnl8x1F7kdeZnw_nxKsHjrhjIlFkRfbC6_67GiGpsf9SK4=w1920-h1080){:height="640px" width="960px" .center-image}
+### Death Valley National Park, California
+![](https://lh3.googleusercontent.com/E5UEd_H_fwTWQRuIXLxxWymWRBjPMzyhevJ5uZMLASVFdbfK-3m_vB_kVrw3MFtvQkQFt2CrxA1zpfn3B_QKRI0Ztky70rnGKvby8OS3rrfa0wl7amPIdlLnTjiUc8BIuVYjRTj7frI=w2400){:height="640px" width="960px" .center-image}
 
-### Kings Canyon National Park, California
-![](https://lh3.googleusercontent.com/UdHCaK5EX73Q8UVPVIxGFTaBg37DIPD_J0sLVamsYG6xRspghobGWl35cLIIEg5Yjy3TEMrWuknkkmA01Ytij4cJQoGH23zapVZK5AizaamRGXGn_LbB1-CA3Z1ANHWZ3CWyRonM2TI=w1920-h1080){:height="640px" width="960px" .center-image}
+### Bryce Canyon National Park, Utah
+![](https://lh3.googleusercontent.com/2rImP99M-qUplDFMOl9LEvOmrtl4ObMzykUByNbW-TWrptcrRgKuTiWXsuwNpM6GIp6Q-cdlGJGbFr1rAo9Gug-GdF3Z65FzGwPQup6v1wBXVOj4keB17RskhCUb-j66zc_XZKAbInU=w2400){:height="640px" width="960px" .center-image}
 
-### Hong Kong, China
-![](https://lh3.googleusercontent.com/b79xZj-C2n7f7hUHuXEKeoAVvH3D-kiMbk640SKXW-bwySGkAnw1IjV7CpEULvjjMPKVQmBqsH-CMm-Y-D28QlrFRZOA-5p-smylyqpppJdWV3owpUqDOFnyel7jr5puFZpNtuWtPwQ=w2400){:height="640px" width="960px" .center-image}
+### Arches National Park, Utah
+![](https://lh3.googleusercontent.com/P4imcGAAdfbsNYLpCojvOOrxEe9jja00CmL32HFclvGdIaTK5EL9oxZNx_XQKlsf9Tb7hepnVBR4X1gpIscXPXTWC4U2N2plIEKA1Iui_1aYQn6LLoeSAC1SKg7bLp56HjmSt6ecJpM=w2400){:height="640px" width="960px" .center-image}
 
-### Seville, Spain
-![](https://lh3.googleusercontent.com/RJ-I8bUYEO-hpEfPLXiFxLxKs88km-AeiQWogNPDaqyyYZFlBLc5iKGssaXeVtVKBgKorW9zjyftXwv6iHLF9h1OHl_zzlPkMgzj62VvH89asWlu_Vm-KEyptqZDSL1zDmJdXDC-NqQ=w2400){:height="640px" width="960px" .center-image}
+### Cabo, Mexico
+![](https://lh3.googleusercontent.com/IuKgK2xOEBW5cbK5-p6GRBHpRDQtA8-w9zBpKCmQhAUThkaPZ6Tk3BrhX8YaW_PC3S5mAWEaXW6937_tkaTaQhZgSXOFJ095z_88OoAZ_Rvpvo71dcQCj6volm802qE44I1zbmKJ_Iw=w2400){:height="640px" width="960px" .center-image}
 
-### Copenhagen, Denmark
-![](https://lh3.googleusercontent.com/oydQ3WpRxYM0lX-F_lAwIs2Y0_Y85LMnePwMfSiP8EoZgBhajtLdjSAlBLinSLLvhf6zoxCMXlpucA31Yhcj4HsCTRhwv51PolvaV-nbyaC42kwyLBeS9Al7Rj3kEVmxw9veeoAHGi4=w2400){:height="640px" width="960px" .center-image}
-
-### Prague, Czech Republic
-![](https://lh3.googleusercontent.com/xERXWZNIfR6TdI-zH9HkORKxPSOHBVqxXFLQuMfQPSdtTrTmxrZqhCOgy6ifLPhBwneC23Bt-Pdl7wP8D5q9JCo1e7ZuT3EZY0uoSecZHA78Et1F3IuR3GCxh3eia4SPXfBDJhDqXik=w2400){:height="640px" width="960px" .center-image}
-
-### Tangier, Morocco
-![](https://lh3.googleusercontent.com/Egx9asESg6Q-55mAg_CgpoAouw7qjCZFIqgUjESZpdLOuLisS_N095pT3XDx3_Q0OvsmdcxzJDUVAM4L1Xhl7vuBIUFUuCXNk6-d6QsIV3-HGdteJasXcKHt9zmJEp5m4da1r4jHmRc=w2400){:height="640px" width="960px" .center-image}
-
-### Kyoto, Japan
-![](https://lh3.googleusercontent.com/Q1xyomg9PD90HYBIgR2m48c0qb_bEs2yLvJPdfUuvS0Y16MExQEAUrz8HTeIS1U0vPJQL1ch0Oq73P2GjLpt8czlJJ06MSdsDdfUnqeC-uEVO48wVBPU3LkhGnp47w8QzNm1FmTgM8w=w2400){:height="640px" width="960px" .center-image}
+### Cabo, Mexico
+![](https://lh3.googleusercontent.com/IytD7GPd2ktY3EQ7tqPBS4vTjjSwUXZQeDmBJbBpF5FcDx3uhvAGsJk4O9pImfxnTDh2eF67LNnUgr7xdBuC5ze010tg7dxfklHmL-fCE_Z7ihVUX1vrhs9CSJMXz_OCPyu3zgHvALU=w2400){:height="640px" width="960px" .center-image}
