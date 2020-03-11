@@ -45,7 +45,7 @@ I visited Alaska twice as a kid, but upon returning as an adult I was struck wit
 ![](https://lh3.googleusercontent.com/cY12s0v7yS16I7Lp-EtUvJGYXwIJfUkFTkXx07K9lYMjMRM2S9s-8ojukOx6e46Yo-X6w8mjJ33OEvBnx-t9k8s-2pm1mXGyKAdHc6tkH7wfR8Id83mq6d7Rm6tbsUgXU2Z6HfIZCrs=w2400){:height="640px" width="960px" .center-image}
 
 ### [Tordrillo Mountains](https://earth.app.goo.gl/oAazVY)
-![](https://lh3.googleusercontent.com/p2RSN3vuFTtzIrlwLnonYzUZFqw6tqH_zXwbjQriMRRCIA8FvmRJ0j4Uge_Tz-DFOqEeK-22eVZNzjcIceES5Ts5ll0M1zjQCzFDd2raPutPflmngXFPOxAa45JLER-atu1mLXiZMPU=w2400){:height="640px" width="90px" .center-image}
+![](https://lh3.googleusercontent.com/p2RSN3vuFTtzIrlwLnonYzUZFqw6tqH_zXwbjQriMRRCIA8FvmRJ0j4Uge_Tz-DFOqEeK-22eVZNzjcIceES5Ts5ll0M1zjQCzFDd2raPutPflmngXFPOxAa45JLER-atu1mLXiZMPU=w2400){:height="640px" width="960px" .center-image}
 
 ### [Wrangell-St. Elias National Park](https://earth.app.goo.gl/1qMbsQ)
 ![](https://lh3.googleusercontent.com/WYXV1mKECaEXMSXRJa1hnfI_YFF3TfbQ703OtZBRGHz2FgA3KiE5q9iSGCuOS0DGA-BAoUvm4K9SNEg3sfhEk6AmldlZlTwpMz3m1fBIhHxJAXvA46T6NuWDr8JD_ZCgI_L9uBSvivo=w2400){:height="640px" width="960px" .center-image}
