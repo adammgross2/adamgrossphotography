@@ -5,7 +5,7 @@ bg: black
 color: white
 ---
 
-<meta property="og:image" content="https://lh3.googleusercontent.com/8YfVSJ7Js56D1LnjgBX8-3Vw2CHt5L-uUEFqJCHWoU5OEB0jF1_tHwSP9F6Xw_mBnvwXZn5z5nLidGKkI3XToCpB05FiaZZKswmybf11syDfEbmSMBMxffrc5Ghyf8_zyFwgXqRX3B4=w2400" />
+<meta property="og:image" content="https://lh3.googleusercontent.com/fQIRRKKsHwNAX6AaCCrXyxq70FmNJ-xgMFtjZhqePPIFc7xOQ6hqf8fRPhmdgJVozykjOhJpR6uGC0yrUEXlIiiEATUwEfdB_WRtTH-RiEPLO7IDeHJtFKKwGviR7tGyMhD_2hl9i-k=w1920-h1080"/>
 
 I arrived at becoming a devoted nature photographer through a natural confluence of many of my core personal passions: sunset chasing, cloud watching, hiking, wilderness solitude, math, engineering and technical precision, fractals, travel, memory, spirituality, and aesthetics. But most importantly, cloud watching. I think clouds are the coolest things ever. It is a wholly selfish pursuit, as chasing clouds and the sun through beautiful wilderness invigorates me with the highest sense of vitality and spirituality, and returning from such trips with great images of the experience is both a great personal party favor, and a more effective means of communicating and sharing my experience with others than any words could be.
 
