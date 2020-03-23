@@ -42,6 +42,7 @@ Some of my most prominent photography idols and influencers are:
 * Alan Majchrowicz
 * Greg Lawson
 * Nolan Nitschke
+* [Jack Brauer](https://www.mountainphotography.com/gallery/)
 
 ### Reading
 
