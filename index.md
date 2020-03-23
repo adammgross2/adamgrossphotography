@@ -14,6 +14,9 @@ color: white
 * [American Deserts](/american_deserts)
 * [Full List by Location](/locations)
 
+### [tmp]
+![](/DSCF1577.jpg){:height="640px" width="960px" .center-image}
+
 ### [Lake George](https://earth.app.goo.gl/JXXJbu)
 ![](https://lh3.googleusercontent.com/rf_dha7o0bQZaDrO-LlPsia_EApm_NEg4wA-dZrlnHg1e0_ZuE49gTeYBtGXT7khgX8KX0v-V74GnmKDKbIvGgb61xwPsxNgztN3_lVcRFo7RaZqWTQXPZfxuEVlR5l3ZaPKJCkSuHM=w2400){:height="640px" width="960px" .center-image}
 
