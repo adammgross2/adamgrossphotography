@@ -38,6 +38,7 @@ My most prominent photography idols and influencers are:
 * [Adam Schallau](https://adamschallau.com/)
 * [Max Foster](https://www.maxfosterphotography.com/)
 * [Aaron Reed](https://www.aaronreedphotography.com/)
+* [Joshua Cripps](https://www.joshuacripps.com/)
 
 ### Reading
 
