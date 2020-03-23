@@ -26,23 +26,23 @@ For me, *"interesting"* **does not** mean *"agreeable"*. I am a strong independe
 ### Influences
 
 Some of my most prominent photography idols and influencers are:
-* Ansel Adams
-* QT Luong
-* Galen Rowell
-* Bob Kaufman
-* Vern Clevenger
-* Erin Babnik
-* Tom Till
-* Sarah Marino
-* Patricia Davidson
-* Colleen Miniuk
-* Sean Bagshaw
-* Michael Frye
-* Joe Braun
-* Alan Majchrowicz
-* Greg Lawson
-* Nolan Nitschke
+* [Ansel Adams](https://www.anseladams.com/gallery/welcome/about-ansel-adams/)
+* [William Neil](http://portfolios.williamneill.com/)
+* [QT Luong](https://terragalleria.com/)
+* [Galen Rowell](http://www.mountainlight.com/)
+* [Bob Kaufman(https://bobkaufman.com/gallery/)
+* [Alan Majchrowicz](http://alanmajchrowicz.com/)
+* [Greg Lawson](https://greglawsongalleries.com/)
+* [Nolan Nitschke](https://www.thesierralight.com/)
+* [Bernhard Edmaier](https://www.bernhard-edmaier.de/en/)
+* [Joe Braun](https://www.citrusmilo.com/)
 * [Jack Brauer](https://www.mountainphotography.com/gallery/)
+* [Vern Clevenger](https://vernclevenger.com/)
+* [Erin Babnik](https://erinbabnik.com/)
+* [Tom Till](https://tomtill.com/)
+* [Sarah Marino](https://photos.naturephotoguides.com/Sarah)
+* [Sean Bagshaw](https://www.outdoorexposurephoto.com/)
+* [Michael Frye](https://www.michaelfrye.com/)
 
 ### Reading
 
@@ -65,3 +65,18 @@ My reading for photography interest has included:
 * [Utah, the Light Fantastic by Tom Till](https://www.amazon.com/gp/product/0971255547/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 * [Utah, Magnificent Wilderness by Tom Till](https://www.amazon.com/gp/product/0942394607/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 * [Canyons of Utah by Tom Till](https://www.amazon.com/gp/product/0971255555/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+* [Yosemite Once Removed: Portraits of the Backcountry by Claude Fiddler](https://www.amazon.com/gp/product/1930238053/)
+* [The Nature of Yosemite: A Visual Journety by Robb Hirsch](https://www.amazon.com/gp/product/1930238916)
+* [Spectacular Yosemite by QT Luong](https://www.amazon.com/gp/product/0789327147)
+* [Alone in the Wilderness the Dick Proenneke Photo Book](https://www.amazon.com/gp/product/0692188398/)
+* [Earthsong by Bernhard Edmaier](https://www.amazon.com/gp/product/0714844519)
+* [Edge of the Earth, Corner of the Sky by Art Wolfe](https://www.amazon.com/gp/product/0967591821)
+* [Landscapes of the Spirit by William Neil](https://www.amazon.com/gp/product/0821223380)
+* [Stone Canyons of the Colorado Plateau by Jack Dykinga](https://www.amazon.com/gp/product/0810944685)
+* [Yosemite: The Promise of Wildness by William Neil](https://www.amazon.com/gp/product/0939666774)
+* [Great Days in the Rockies: The Photographs of Byron Harmon, 1906-1934](https://www.amazon.com/gp/product/019540288X/)
+* [Bruno Engler Photography: Sixty Years of Mountain Photography in the Canadian Rockies](https://www.amazon.com/gp/product/0921102852)
+* [Ansel Adams' Autobiography](https://www.amazon.com/gp/product/0821215965/)
+* [Summits and Starlight: The Canadian Rockies by Paul Zizka](https://www.amazon.com/gp/product/1927330920/)
+* [Ansel Adams in the Canadian Rockies](https://www.amazon.com/gp/product/0316243418)
+* [Assembling California by John McPhee](https://www.amazon.com/Assembling-California-Annals-Former-World/dp/0374523932)
