@@ -30,7 +30,7 @@ Some of my most prominent photography idols and influencers are:
 * [William Neil](http://portfolios.williamneill.com/)
 * [QT Luong](https://terragalleria.com/)
 * [Galen Rowell](http://www.mountainlight.com/)
-* [Bob Kaufman(https://bobkaufman.com/gallery/)
+* [Bob Kaufman](https://bobkaufman.com/gallery/)
 * [Alan Majchrowicz](http://alanmajchrowicz.com/)
 * [Greg Lawson](https://greglawsongalleries.com/)
 * [Nolan Nitschke](https://www.thesierralight.com/)
