@@ -7,18 +7,7 @@ color: white
 
 <meta property="og:image" content="https://lh3.googleusercontent.com/fQIRRKKsHwNAX6AaCCrXyxq70FmNJ-xgMFtjZhqePPIFc7xOQ6hqf8fRPhmdgJVozykjOhJpR6uGC0yrUEXlIiiEATUwEfdB_WRtTH-RiEPLO7IDeHJtFKKwGviR7tGyMhD_2hl9i-k=w1920-h1080"/>
 
-I arrived at becoming a devoted nature photographer through a natural confluence of many of my core personal passions: sunset chasing, cloud watching, hiking, wilderness solitude, math, engineering and technical precision, fractals, travel, memory, spirituality, and aesthetics. But most importantly, cloud watching. I think clouds are the coolest things ever. It is a wholly selfish pursuit, as chasing clouds and the sun through beautiful wilderness invigorates me with the highest sense of vitality and spirituality, and returning from such trips with great images of the experience is both a great personal party favor, and a more effective means of communicating and sharing my experience with others than any words could be.
-
-![](https://lh3.googleusercontent.com/_BBSN5Mzhb1U7mU5veoAp4dMEe1VFdfg48l8U-zGd9cA-EYjoHAwuRn4zfHjsNa_EujKLTIgurxz-XXPXFhCR-CNsyh40skQuPWYXdMBqiVRmhtqf4MM-1ZL4GhEG3JZd_g8JZsn3J0=w1920-h1080){: height="240px" width="360px" style="float:left; padding:16px"}
-
-In addition to clouds, I also love rocks and water. In rock formations and water features I find humility, as they instill in me a sense of the grand time scale that nature operates on. In wilderness solitude I find a peaceful tranquility and antidote to the toxins with which modern urban civilization threatens me. As a resident of Southern California, the opportunities to indulge in my passions are many, as I spend the majority of my free time in the Sierra Nevada or the Mojave Desert. They are my happy places.
-
-![](https://lh3.googleusercontent.com/7vw9nfO1K2ouD7UToSE3d1L4hqmQID6xMcyd7GyfYgfjufX3KjIigcy6qiqGISfymtdOezBuQeXhFhSsRQ_qnr6otCDqHIUPB2rxlMljCiGeBVIHprSvwIjADOmULB_QswETa5UJDuI=w1920-h1080){: height="240px" width="360px" style="float:right; padding:16px"}
-
-Ansel Adams, John Muir, Galen Rowell, and QT Luong are more than photography influences for me, they are spiritual guides on how to live a happy and meaningful life through engagement with nature's glory. I will forever be indebted to them for the inspiration and guidance, both directly and indirectly, that they have provided for me.
-
-I have no formal training in photography and use the internet minimally for photography education. I believe that intuitive training through iterative trial and error is the best approach for me (see [Antifragile by Nassim Taleb](https://en.wikipedia.org/wiki/Antifragile)). For my photos, I use a digital mirrorless camera and a drone. So far, I have four main regions that I've explored photographically, each of which comprises of a section of [my recently published book, dedicated to my grandfather, on the American West](/the_american_west).
-
+* [Recently published book, dedicated to my grandfather, on the American West](/the_american_west)
 * [Sierra Nevada](/sierra_nevada)
 * [Alaska](/alaska)
 * [Hawaii](/hawaii)
