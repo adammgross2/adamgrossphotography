@@ -7,14 +7,15 @@ color: white
 
 <meta property="og:image" content="https://lh3.googleusercontent.com/fQIRRKKsHwNAX6AaCCrXyxq70FmNJ-xgMFtjZhqePPIFc7xOQ6hqf8fRPhmdgJVozykjOhJpR6uGC0yrUEXlIiiEATUwEfdB_WRtTH-RiEPLO7IDeHJtFKKwGviR7tGyMhD_2hl9i-k=w1920-h1080"/>
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/albums/72157713615722073" title="Adam&#x27;s Landscape Photography"><img src="https://live.staticflickr.com/65535/49695882191_330ed6d751_o.jpg" width="6240" height="4160" alt="Adam&#x27;s Landscape Photography"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
 * [Recently published book, dedicated to my grandfather, on the American West](/the_american_west)
 * [Sierra Nevada](/sierra_nevada)
 * [Alaska](/alaska)
 * [Hawaii](/hawaii)
 * [American Deserts](/american_deserts)
 * [Full List by Location](/locations)
+
+### [Lake George](https://earth.app.goo.gl/JXXJbu)
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49695338903/in/album-72157713615722073/" title="Lake George, Alaska"><img src="https://live.staticflickr.com/65535/49695338903_3e38e68a35_c.jpg" width="800" height="533" alt="Lake George, Alaska"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### [Lake George](https://earth.app.goo.gl/JXXJbu)
 ![](https://lh3.googleusercontent.com/rf_dha7o0bQZaDrO-LlPsia_EApm_NEg4wA-dZrlnHg1e0_ZuE49gTeYBtGXT7khgX8KX0v-V74GnmKDKbIvGgb61xwPsxNgztN3_lVcRFo7RaZqWTQXPZfxuEVlR5l3ZaPKJCkSuHM=w2400){:height="640px" width="960px" .center-image}
