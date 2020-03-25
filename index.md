@@ -33,7 +33,7 @@ color: white
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49696495882/in/album-72157713615722073/" title="Tuolumne River at Glen Aulin, Yosemite National Park"><img src="https://live.staticflickr.com/65535/49696495882_f03e3f4352_b.jpg" width="1024" height="683" alt="Tuolumne River at Glen Aulin, Yosemite National Park"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### Tuolumne Meadows, Yosemite National Park, California
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49695655168/in/album-72157713615722073/" title="AMG_0727"><img src="https://live.staticflickr.com/65535/49695655168_0dbd1813bd_b.jpg" width="1024" height="683" alt="AMG_0727"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49695655168/in/album-72157713615722073/" title="View of Tuolumne Meadows from Cloud's Rest, Yosemite National Park"><img src="https://live.staticflickr.com/65535/49695655168_0dbd1813bd_b.jpg" width="1024" height="683" alt="View of Tuolumne Meadows from Cloud's Rest, Yosemite National Park"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### Mount Whitney
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49696492027/in/album-72157713615722073/" title="Alpenglow on Mount Whitney"><img src="https://live.staticflickr.com/65535/49696492027_8a38b998aa_b.jpg" width="1024" height="683" alt="Alpenglow on Mount Whitney"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -45,7 +45,7 @@ color: white
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49696187841/in/album-72157713615722073/" title="Zumwalt Meadows, Kings Canyon National Park"><img src="https://live.staticflickr.com/65535/49696187841_3f5df88bac_b.jpg" width="1024" height="683" alt="Zumwalt Meadows, Kings Canyon National Park"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### Bishop Pass and Long Lake, California
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49696490727/in/album-72157713615722073/" title="AMG_1374"><img src="https://live.staticflickr.com/65535/49696490727_81942c62f4_b.jpg" width="1024" height="683" alt="AMG_1374"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49696490727/in/album-72157713615722073/" title="Bishop Pass, Eastern Sierra Nevada"><img src="https://live.staticflickr.com/65535/49696490727_81942c62f4_b.jpg" width="1024" height="683" alt="Bishop Pass, Eastern Sierra Nevada"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### Thousand Island Lake, Ansel Adams Wilderness, California
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49696186602/in/album-72157713615722073/" title="Sunrise on Thousand Island Lake, Ansel Adams Wilderness"><img src="https://live.staticflickr.com/65535/49696186602_6dedd18f21_b.jpg" width="1024" height="683" alt="Sunrise on Thousand Island Lake, Ansel Adams Wilderness"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -63,7 +63,7 @@ color: white
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49696155697/in/album-72157713615722073/" title="Sunset at Olmsted Point, Yosemite National Park"><img src="https://live.staticflickr.com/65535/49696155697_3179b7efaa_b.jpg" width="1024" height="683" alt="Sunset at Olmsted Point, Yosemite National Park"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### Glen Aulin, Yosemite National Park, California
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49696190791/in/album-72157713615722073/" title="AMG_0837"><img src="https://live.staticflickr.com/65535/49696190791_ea49cc0201_b.jpg" width="1024" height="683" alt="AMG_0837"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49696190791/in/album-72157713615722073/" title="Tuolumne River Cascading Through Glen Aulin, Yosemite National Park"><img src="https://live.staticflickr.com/65535/49696190791_ea49cc0201_b.jpg" width="1024" height="683" alt="Tuolumne River Cascading Through Glen Aulin, Yosemite National Park"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### [Prince William Sound](https://earth.app.goo.gl/APrMwk)
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49695877166/in/album-72157713615722073/" title="Prince William Sound, Alaska"><img src="https://live.staticflickr.com/65535/49695877166_6a454dc9bf_b.jpg" width="1024" height="683" alt="Prince William Sound, Alaska"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -84,22 +84,22 @@ color: white
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49695866556/in/album-72157713615722073/" title="View of the Alaska Range from Old Denali Highway"><img src="https://live.staticflickr.com/65535/49695866556_f776085a78_b.jpg" width="1024" height="683" alt="View of the Alaska Range from Old Denali Highway"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### Waimea, Kauai
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49695639748/in/album-72157713615722073/" title="AMG_6025"><img src="https://live.staticflickr.com/65535/49695639748_e43978dfc3_b.jpg" width="1024" height="683" alt="AMG_6025"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49695639748/in/album-72157713615722073/" title="Clouds Clearing over Waimea, Kauai"><img src="https://live.staticflickr.com/65535/49695639748_e43978dfc3_b.jpg" width="1024" height="683" alt="Clouds Clearing over Waimea, Kauai"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### Waimea, Kauai
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49696480837/in/album-72157713615722073/" title="AMG_6162"><img src="https://live.staticflickr.com/65535/49696480837_0afca0c412_b.jpg" width="1024" height="683" alt="AMG_6162"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49696480837/in/album-72157713615722073/" title="Sunset on the coast of Kauai"><img src="https://live.staticflickr.com/65535/49696480837_0afca0c412_b.jpg" width="1024" height="683" alt="Sunset on the coast of Kauai"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### Waimea, Kauai
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49695637308/in/album-72157713615722073/" title="Waimea, Kauai"><img src="https://live.staticflickr.com/65535/49695637308_c2f60beee4_b.jpg" width="1024" height="683" alt="Waimea, Kauai"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### Waimea Canyon, Kauai
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49696478782/in/album-72157713615722073/" title="AMG_6360"><img src="https://live.staticflickr.com/65535/49696478782_af59cb3613_b.jpg" width="1024" height="683" alt="AMG_6360"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49696478782/in/album-72157713615722073/" title="The Entrance to Waimea Canyon, Kauai"><img src="https://live.staticflickr.com/65535/49696478782_af59cb3613_b.jpg" width="1024" height="683" alt="The Entrance to Waimea Canyon, Kauai"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### Waimea Canyon, Kauai
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49696172106/in/album-72157713615722073/" title="AMG_6374"><img src="https://live.staticflickr.com/65535/49696172106_af3f54dd05_b.jpg" width="1024" height="683" alt="AMG_6374"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49696172106/in/album-72157713615722073/" title="Walls of Waimea Canyon, Kauai"><img src="https://live.staticflickr.com/65535/49696172106_af3f54dd05_b.jpg" width="1024" height="683" alt="Walls of Waimea Canyon, Kauai"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### Waipoo Falls, Waimea Canyon, Kauai
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49696482847/in/album-72157713615722073/" title="AMG_5942"><img src="https://live.staticflickr.com/65535/49696482847_1aa4122842_b.jpg" width="1024" height="683" alt="AMG_5942"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49696482847/in/album-72157713615722073/" title="Waipoo Falls, Waimea Canyon, Kauai"><img src="https://live.staticflickr.com/65535/49696482847_1aa4122842_b.jpg" width="1024" height="683" alt="Waipoo Falls, Waimea Canyon, Kauai"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### Na Pali Cliffs, Kauai
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49696476767/in/album-72157713615722073/" title="Sunrise from the Na Pali Cliffs, Kauai"><img src="https://live.staticflickr.com/65535/49696476767_03a45f42b3_b.jpg" width="1024" height="683" alt="Sunrise from the Na Pali Cliffs, Kauai"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
