@@ -15,7 +15,7 @@ color: white
 * [Full List by Location](/locations)
 
 ### [Lake George](https://earth.app.goo.gl/JXXJbu)
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49695338903/in/album-72157713615722073/" title="Lake George, Alaska"><img src="https://live.staticflickr.com/65535/49695338903_3e38e68a35_c.jpg" width="800" height="533" alt="Lake George, Alaska"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49695338903/in/album-72157713615722073/" title="Lake George, Alaska"><img src="https://live.staticflickr.com/65535/49695338903_3e38e68a35_b.jpg" width="1024" height="683" alt="Lake George, Alaska"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### [Lake George](https://earth.app.goo.gl/JXXJbu)
 ![](https://lh3.googleusercontent.com/rf_dha7o0bQZaDrO-LlPsia_EApm_NEg4wA-dZrlnHg1e0_ZuE49gTeYBtGXT7khgX8KX0v-V74GnmKDKbIvGgb61xwPsxNgztN3_lVcRFo7RaZqWTQXPZfxuEVlR5l3ZaPKJCkSuHM=w2400){:height="640px" width="960px" .center-image}
