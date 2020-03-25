@@ -17,6 +17,21 @@ color: white
 ### [Lake George](https://earth.app.goo.gl/JXXJbu)
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49695338903/in/album-72157713615722073/" title="Lake George, Alaska"><img src="https://live.staticflickr.com/65535/49695338903_3e38e68a35_b.jpg" width="1024" height="683" alt="Lake George, Alaska"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+### Olmsted Point, Yosemite National Park, California
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49696152817/in/album-72157713615722073/" title="Sunset at Olmsted Point, Yosemite National Park"><img src="https://live.staticflickr.com/65535/49696152817_c32366744d_b.jpg" width="1024" height="683" alt="Sunset at Olmsted Point, Yosemite National Park"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+### Princeville, Kauai
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49696484532/in/album-72157713615722073/" title="Princeville, Kauai"><img src="https://live.staticflickr.com/65535/49696484532_e71965ceb6_b.jpg" width="1024" height="683" alt="Princeville, Kauai"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+### Grand Canyon National Park, Arizona
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49695625063/in/album-72157713615722073/" title="Hopi Point, Grand Canyon National Park"><img src="https://live.staticflickr.com/65535/49695625063_2071b0b9f4_b.jpg" width="1024" height="683" alt="Hopi Point, Grand Canyon National Park"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+### Death Valley National Park, California
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49696464407/in/album-72157713615722073/" title="Mesquite Flat Sand Dunes, Death Valley National Park"><img src="https://live.staticflickr.com/65535/49696464407_f24c4aca93_b.jpg" width="1024" height="683" alt="Mesquite Flat Sand Dunes, Death Valley National Park"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+### Red Rock Canyon National Preserve, Nevada
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49697272438/in/dateposted-public/" title="Sunrise over Calico Basin, Red Rock Canyon National Preserve"><img src="https://live.staticflickr.com/65535/49697272438_76005639dc_b.jpg" width="1024" height="683" alt="Sunrise over Calico Basin, Red Rock Canyon National Preserve"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 ### [Chugach State Park](https://earth.app.goo.gl/DDDGan)
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49695340183/in/album-72157713615722073/" title="Chugach Mountains, Alaska"><img src="https://live.staticflickr.com/65535/49695340183_5c7f7102c3_b.jpg" width="1024" height="683" alt="Chugach Mountains, Alaska"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -25,9 +40,6 @@ color: white
 
 ### [Whittier](https://earth.app.goo.gl/x9SJ8R)
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49695862346/in/album-72157713615722073/" title="Afternoon Wildfire Haze over Whittier, Alaska"><img src="https://live.staticflickr.com/65535/49695862346_3a25cb2f7b_b.jpg" width="1024" height="683" alt="Afternoon Wildfire Haze over Whittier, Alaska"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-### Olmsted Point, Yosemite National Park, California
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49696152817/in/album-72157713615722073/" title="Sunset at Olmsted Point, Yosemite National Park"><img src="https://live.staticflickr.com/65535/49696152817_c32366744d_b.jpg" width="1024" height="683" alt="Sunset at Olmsted Point, Yosemite National Park"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### Glen Aulin, Yosemite National Park, California
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49696495882/in/album-72157713615722073/" title="Tuolumne River at Glen Aulin, Yosemite National Park"><img src="https://live.staticflickr.com/65535/49696495882_f03e3f4352_b.jpg" width="1024" height="683" alt="Tuolumne River at Glen Aulin, Yosemite National Park"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -55,9 +67,6 @@ color: white
 
 ### Tioga Pass, California
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49696161832/in/album-72157713615722073/" title="Tioga Pass, Yosemite National Park"><img src="https://live.staticflickr.com/65535/49696161832_b806e8a68c_b.jpg" width="1024" height="683" alt="Tioga Pass, Yosemite National Park"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-### Olmsted Point, Yosemite National Park, California
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49696155697/in/album-72157713615722073/" title="Sunset at Olmsted Point, Yosemite National Park"><img src="https://live.staticflickr.com/65535/49696155697_3179b7efaa_b.jpg" width="1024" height="683" alt="Sunset at Olmsted Point, Yosemite National Park"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### Olmsted Point, Yosemite National Park, California
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49696155697/in/album-72157713615722073/" title="Sunset at Olmsted Point, Yosemite National Park"><img src="https://live.staticflickr.com/65535/49696155697_3179b7efaa_b.jpg" width="1024" height="683" alt="Sunset at Olmsted Point, Yosemite National Park"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -104,9 +113,6 @@ color: white
 ### Na Pali Cliffs, Kauai
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49696476767/in/album-72157713615722073/" title="Sunrise from the Na Pali Cliffs, Kauai"><img src="https://live.staticflickr.com/65535/49696476767_03a45f42b3_b.jpg" width="1024" height="683" alt="Sunrise from the Na Pali Cliffs, Kauai"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-### Princeville, Kauai
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49696484532/in/album-72157713615722073/" title="Princeville, Kauai"><img src="https://live.staticflickr.com/65535/49696484532_e71965ceb6_b.jpg" width="1024" height="683" alt="Princeville, Kauai"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
 ### Haleakala Crater, Maui
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49695633273/in/album-72157713615722073/" title="Sunrise over Haleakala Crater, Maui"><img src="https://live.staticflickr.com/65535/49695633273_de7533968c_b.jpg" width="1024" height="683" alt="Sunrise over Haleakala Crater, Maui"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -131,14 +137,8 @@ color: white
 ### Joshua Tree National Park, California
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49698111892/in/dateposted-public/" title="Sunrise near Jumbo Rocks Campground, Joshua Tree National Park"><img src="https://live.staticflickr.com/65535/49698111892_9b22fcca42_b.jpg" width="1024" height="683" alt="Sunrise near Jumbo Rocks Campground, Joshua Tree National Park"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-### Red Rock Canyon National Preserve, Nevada
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49697272438/in/dateposted-public/" title="Sunrise over Calico Basin, Red Rock Canyon National Preserve"><img src="https://live.staticflickr.com/65535/49697272438_76005639dc_b.jpg" width="1024" height="683" alt="Sunrise over Calico Basin, Red Rock Canyon National Preserve"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
 ### Grand Canyon National Park, Arizona
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49695625963/in/album-72157713615722073/" title="Hopi Point, Grand Canyon National Park"><img src="https://live.staticflickr.com/65535/49695625963_fcc66375fa_b.jpg" width="1024" height="683" alt="Hopi Point, Grand Canyon National Park"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-### Grand Canyon National Park, Arizona
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49695625063/in/album-72157713615722073/" title="Hopi Point, Grand Canyon National Park"><img src="https://live.staticflickr.com/65535/49695625063_2071b0b9f4_b.jpg" width="1024" height="683" alt="Hopi Point, Grand Canyon National Park"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### Grand Canyon National Park, Arizona
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49696160586/in/album-72157713615722073/" title="Hopi Point, Grand Canyon National Park"><img src="https://live.staticflickr.com/65535/49696160586_49e78315f6_b.jpg" width="683" height="1024" alt="Hopi Point, Grand Canyon National Park"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -148,6 +148,3 @@ color: white
 
 ### Red Rock Canyon National Preserve, Nevada
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49697275298/in/dateposted-public/" title="Sunrise on the Wilson Cliffs, Red Rock Canyon National Preserve"><img src="https://live.staticflickr.com/65535/49697275298_604317e4cd_b.jpg" width="1024" height="683" alt="Sunrise on the Wilson Cliffs, Red Rock Canyon National Preserve"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-### Death Valley National Park, California
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49696464407/in/album-72157713615722073/" title="Mesquite Flat Sand Dunes, Death Valley National Park"><img src="https://live.staticflickr.com/65535/49696464407_f24c4aca93_b.jpg" width="1024" height="683" alt="Mesquite Flat Sand Dunes, Death Valley National Park"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
