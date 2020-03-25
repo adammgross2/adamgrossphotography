@@ -12,7 +12,7 @@ In addition to clouds, I also love rocks and water. In rock formations and water
 
 Ansel Adams, John Muir, Galen Rowell, and QT Luong are more than photography influences for me, they are spiritual guides on how to live a happy and meaningful life through engagement with nature's glory. I will forever be indebted to them for the inspiration and guidance, both directly and indirectly, that they have provided for me.
 
-I have no formal training in photography and use the internet minimally for photography education. I believe that intuitive training through iterative trial and error is the best approach for me (see [Antifragile by Nassim Taleb](https://en.wikipedia.org/wiki/Antifragile)). For my photos, I use a digital mirrorless camera and a drone. So far, I have four main regions that I've explored photographically, each of which comprises of a section of [my recently published book, dedicated to my grandfather, on the American West](/the_american_west).
+I have no formal training in photography and use the internet minimally for photography education. I believe that intuitive training through iterative trial and error is the best approach for me (see [Antifragile by Nassim Taleb](https://en.wikipedia.org/wiki/Antifragile)). For my photos, I use a digital mirrorless camera and a drone. So far, I have four main regions that I've explored photographically, each of which comprises of a section of [my recently published book, dedicated to my grandfather, on the American West](/the_american_west). See [my Flickr profile here](https://flickr.com/people/153383938@N03/).
 
 ### Influences
 
