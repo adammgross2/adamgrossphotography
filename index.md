@@ -134,9 +134,6 @@ color: white
 ### Red Rock Canyon National Preserve, Nevada
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49697272438/in/dateposted-public/" title="Sunrise over Calico Basin, Red Rock Canyon National Preserve"><img src="https://live.staticflickr.com/65535/49697272438_76005639dc_b.jpg" width="1024" height="683" alt="Sunrise over Calico Basin, Red Rock Canyon National Preserve"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-### Death Valley National Park, California
-![](https://lh3.googleusercontent.com/I9vfAFTnnr-E-Y0PtvpEHa4ts1uwIdM_VC-NeI1_TlVijiP-PKHz0dhv1DG7YpZQecv2WBYJFERUxdRkW2Tj1LBBsrRhEFzSshXDRKbTai-qwBwtLRf1xlLXrS83HQtqVglI4877Q4Y=w2400){:height="640px" width="960px" .center-image}
-
 ### Grand Canyon National Park, Arizona
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49695625963/in/album-72157713615722073/" title="Hopi Point, Grand Canyon National Park"><img src="https://live.staticflickr.com/65535/49695625963_fcc66375fa_b.jpg" width="1024" height="683" alt="Hopi Point, Grand Canyon National Park"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -146,7 +143,7 @@ color: white
 ### Grand Canyon National Park, Arizona
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49696160586/in/album-72157713615722073/" title="Hopi Point, Grand Canyon National Park"><img src="https://live.staticflickr.com/65535/49696160586_49e78315f6_b.jpg" width="683" height="1024" alt="Hopi Point, Grand Canyon National Park"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-### Grand Canyon National Park, Arizona
+### Death Valley National Park, California
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49696159726/in/album-72157713615722073/" title="Mesquite Flat Sand Dunes, Death Valley National Park"><img src="https://live.staticflickr.com/65535/49696159726_49a41b0e5c_b.jpg" width="1024" height="683" alt="Mesquite Flat Sand Dunes, Death Valley National Park"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### Red Rock Canyon National Preserve, Nevada
