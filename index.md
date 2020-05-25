@@ -12,6 +12,7 @@ color: white
 * [Alaska](/alaska)
 * [Hawaii](/hawaii)
 * [American Deserts](/american_deserts)
+* [Colorado](/colorado)
 * [Full List by Location](/locations)
 * [Flickr Profile](https://flickr.com/people/153383938@N03/)
 
@@ -62,6 +63,30 @@ color: white
 
 ### Bishop Pass and Long Lake, California
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49696490727/in/album-72157713615722073/" title="Bishop Pass, Eastern Sierra Nevada"><img src="https://live.staticflickr.com/65535/49696490727_81942c62f4_b.jpg" width="1024" height="683" alt="Bishop Pass, Eastern Sierra Nevada"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+### Sangre De Cristo Wilderness, Colorado
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49935667178/in/dateposted-public/" title="Sunrise Lighting on Crestone Needle, Sangre De Cristo Wilderness, Colorado"><img src="https://live.staticflickr.com/65535/49935667178_725ec3038e_b.jpg" width="1024" height="683" alt="Sunrise Lighting on Crestone Needle, Sangre De Cristo Wilderness, Colorado"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+### Courthouse Mountain, Uncompahgre National Forest - San Juan Mountains, Colorado
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49936186996/in/dateposted-public/" title="Courthouse Mountain, San Juan Mountains, Colorado6"><img src="https://live.staticflickr.com/65535/49936186996_8fc8493fb5_b.jpg" width="1024" height="683" alt="Courthouse Mountain, San Juan Mountains, Colorado6"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+### Sneffels Range - San Juan Mountains, Colorado
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49936491682/in/dateposted-public/" title="Sneffels Range, San Juan Mountains, Colorado"><img src="https://live.staticflickr.com/65535/49936491682_c0cfee4130_b.jpg" width="1024" height="683" alt="Sneffels Range, San Juan Mountains, Colorado"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+### Uncompahgre National Forest, Colorado
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49936193476/in/dateposted-public/" title="Aspens in Early Summer, San Juan Mountains, Colorado"><img src="https://live.staticflickr.com/65535/49936193476_f780003170_b.jpg" width="1024" height="683" alt="Aspens in Early Summer, San Juan Mountains, Colorado"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+### Uncompahgre National Forest, Colorado
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49935683393/in/dateposted-public/" title="Uncompahgre National Forest, Colorado"><img src="https://live.staticflickr.com/65535/49935683393_ce34a2bdb2_b.jpg" width="1024" height="683" alt="Uncompahgre National Forest, Colorado"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+### Sneffels Range - San Juan Mountains, Colorado
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49936200381/in/dateposted-public/" title="Sneffels Range, San Juan Mountains, Colorado"><img src="https://live.staticflickr.com/65535/49936200381_4e7a016bd4_b.jpg" width="1024" height="683" alt="Sneffels Range, San Juan Mountains, Colorado"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+### Black Canyon of the Gunnison National Park, Colorado
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49935693458/in/dateposted-public/" title="Black Canyon of the Gunnison National Park, Colorado"><img src="https://live.staticflickr.com/65535/49935693458_aa044da24a_b.jpg" width="1024" height="683" alt="Black Canyon of the Gunnison National Park, Colorado"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+### Black Canyon of the Gunnison National Park, Colorado
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49936511107/in/dateposted-public/" title="Black Canyon of the Gunnison National Park, Colorado"><img src="https://live.staticflickr.com/65535/49936511107_5a487789cb_b.jpg" width="1024" height="683" alt="Black Canyon of the Gunnison National Park, Colorado"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### Thousand Island Lake, Ansel Adams Wilderness, California
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/153383938@N03/49696186602/in/album-72157713615722073/" title="Sunrise on Thousand Island Lake, Ansel Adams Wilderness"><img src="https://live.staticflickr.com/65535/49696186602_6dedd18f21_b.jpg" width="1024" height="683" alt="Sunrise on Thousand Island Lake, Ansel Adams Wilderness"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
