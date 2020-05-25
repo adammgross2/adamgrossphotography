@@ -18,3 +18,4 @@ color: white
 * [Arches, Canyonlands, Bryce, Zion, and the Grand Canyon](/colorado_plateau)
 * [Israel and Jordan](/israel_jordan)
 * [Red Rock Canyon](/red_rock)
+* [Colorado](/colorado)
