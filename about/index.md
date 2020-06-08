@@ -40,6 +40,7 @@ My most prominent photography idols and influencers are:
 * [Aaron Reed](https://www.aaronreedphotography.com/)
 * [Joshua Cripps](https://www.joshuacripps.com/)
 * [Colby Brown](https://colbybrown.smugmug.com/)
+* [Carl Johnson](https://www.arcticlight-ak.com/)
 
 ### Reading
 
